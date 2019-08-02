@@ -52,7 +52,6 @@ export default {
     },
     created() {
         Api.mgjApi('./mogujieData/shouye/index.json').then(res=>{
-            console.log(res.data.cainixihuan.likeList)
             this.quickly=res.data.shouye_herder.list
             this.classify=res.data.category.list
             this.commodity=res.data.cainixihuan.likeList

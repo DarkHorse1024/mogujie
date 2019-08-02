@@ -4,8 +4,7 @@
             <MGtop></MGtop>
         </div>
 
-        <MGmain></MGmain>  
-        <!-- main区域 -->
+        <MGmain></MGmain><!-- main区域 -->
     </div>
 </template>
 

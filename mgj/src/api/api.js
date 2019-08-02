@@ -5,7 +5,7 @@ let api={
         return axios.get(str)
     },
     mgjApiId(str,id){
-        return axios.get(str+id)
+        return axios.get(str+id+'.json')
     }
 }
 

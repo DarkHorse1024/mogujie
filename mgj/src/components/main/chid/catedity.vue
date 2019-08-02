@@ -1,13 +1,12 @@
 <template>
-    <div class="commoditybox">
-        <img :src="commodityList.img" alt="">
-        <p>{{commodityList.title}}</p>
+    <div class="cateditybox">
+        <img :src="catedityList.img" alt="">
+        <p>{{catedityList.title}}</p>
         <div class="left-right">
-            <span>￥{{commodityList.price}}</span>
-            <em>{{commodityList.cfav}}</em>
+            <span>￥{{catedityList.price}}</span>
+            <em>{{catedityList.cfav}}</em>
             <van-icon name="star-o" size="3vw"/>
         </div>
-        <div class="commodityBut">立即购买</div>
     </div>
 </template>
 
@@ -19,15 +18,18 @@ export default {
         }
     },
     props:{
-        commodityList:Object|Array,
-    }
+        catedityList:Object|Array,    
+    },
+    created() {
+        console.log(this.catedityList)
+    },
 }
 </script>
 
 <style lang="less" scoped>
-.commoditybox{
+.cateditybox{
     width: 46vw;
-    height: 84vw;
+    height: 75vw;
     margin-bottom:3vw; 
     display: flex;
     flex-direction: column;
@@ -56,7 +58,7 @@ export default {
         }
         em{
             font-style: normal;
-            font-size: 3vw;
+            font-size:4vw;
             position: absolute;
             right: 6vw;
             top: 1vw;
@@ -68,15 +70,5 @@ export default {
             top: 2vw;
         }
     }
-    .commodityBut{
-        color: rgb(255, 255, 255);
-        background-color: rgb(255, 87, 119);
-        text-align: center;
-        width: 42vw;
-        margin: 0 2vw;
-        font-size: 4vw;
-        line-height: 7vw;
-    }
 }
 </style>
-
