@@ -4,7 +4,8 @@
             <MGtop></MGtop>
         </div>
 
-        <MGmain></MGmain>  <!-- main区域 -->
+        <MGmain></MGmain>  
+        <!-- main区域 -->
     </div>
 </template>
 
@@ -12,7 +13,6 @@
 <script>
 import MGtop from './header/top'
 import MGmain from './main/main'
-import Api from '../api/api'
 export default {
     data() {
         return {
@@ -22,12 +22,7 @@ export default {
     components:{
         MGtop,
         MGmain,
-    },
-    created() {
-        Api.mgjApi('./mogujieData/shouye/index.json').then(res=>{
-            console.log(res)
-        })
-    },
+    }
 }
 </script>
 

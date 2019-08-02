@@ -13,7 +13,14 @@ export default {
 </script>
 
 <style lang="less">
+#app{
+  overflow-x: hidden;
+}
 
+*{
+  margin: 0 ;
+  padding: 0;
+}
 </style>
 
 
