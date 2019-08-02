@@ -1,0 +1,1903 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "1wzl1e",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "14gyq",
+                "sellerId": "1wzl1e"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "歲***0",
+                            "avatar": "https://s11.mogucdn.com/p1/160105/idid_ifrwenjuhfsggntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190724_3ak20ck9fi0c214k87jc4jhh9hif1_947x1550.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190724_4d38dd6b8cfe6e51bjaa2204df88l_935x907.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190724_38ci0a66515eildgcjf46ie8jgih8_900x934.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190724_39g7beccge5eh5cf01679jj85k2ek_1002x1038.png"
+                        ],
+                        "rateId": "118mmm78",
+                        "content": "真心不错，聚拢效果很好，摸起来手感也不错，需要的亲们下单可不要手软哦！",
+                        "created": 1563969916,
+                        "isAnonymous": 1,
+                        "style": "颜色:灰蓝（套装） 尺码:36=80AB通用 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    },
+                    {
+                        "user": {
+                            "uname": "生***情",
+                            "avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrtmoddmnsggntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "rateId": "117lh8bq",
+                        "content": "内衣套装刚刚收到，没想到这价位买的质量却如此好，包装也好高大上五星好评",
+                        "created": 1551048865,
+                        "isAnonymous": 1,
+                        "style": "颜色:抹茶绿（套装） 尺码:34=75AB通用 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    }
+                ],
+                "cRate": 2834,
+                "imgTotal": 932,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 932,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 381,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 261,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 254,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 144,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "包装",
+                        "value": "包装很赞",
+                        "num": 139,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 3725
+            },
+            "itemInfo": {
+                "desc": "A.B杯建议按照平时码数拍，C杯拍大一个码数。选对码数效果棒棒哒！模特是70小B杯滴，也可询问客服码数选合适自己的码数哦！舒适无钢圈调整型，加高提耳收副乳，肩带可以拆卸调节，内裤中腰包臀弹力足。7色可选！",
+                "title": "歌帕性感蕾丝少女内衣套装小胸聚拢无钢圈中厚调整型收副乳文胸",
+                "itemId": "1lpu5r6",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 17630,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "歌帕性感蕾丝少女内衣套装小胸聚拢无钢圈中厚调整型收副乳文胸",
+                    "wap_url": "//m.mogujie.com/x6/detail/1lpu5r6",
+                    "description": "来自蘑菇街优店文胸套装_女士内衣/家居服_服饰鞋包家A.B杯建议按照平时码数拍，C杯拍大一个码数。选对码数效果棒棒哒！模特是70小B杯滴，也可询问客服码数选合适自己的码数哦！舒适无钢圈调整型，加高提耳收副乳，肩带可以拆卸调节，内裤中腰包臀弹力足。7色可选！的歌帕性感蕾丝少女内衣套装小胸聚拢无钢圈中厚调整型收副乳文胸，发现当季女士内衣和歌帕内衣搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1lpu5r6",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1lpu5r6",
+                    "seo_noindex": "0",
+                    "title": "【歌帕性感蕾丝少女内衣套装小胸聚拢无钢圈中厚调整型收副乳文胸】-女士内衣-文胸套装_女士内衣/家居服_服饰鞋包-歌帕内衣-蘑菇街优店"
+                },
+                "type": 8,
+                "video": {
+                    "cover": "https://s5.mogucdn.com/mlcdn/c45406/190720_1ffd3i95lfa195ba0jkl48bhhg0ge_640x960.jpg",
+                    "videoId": 603009,
+                    "width": 960,
+                    "height": 1280
+                },
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 3725,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "address": "广东揭阳",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "59.00",
+                "highPrice": "59.00",
+                "lowNowPrice": "59.00",
+                "highNowPrice": "59.00",
+                "nowTime": 1564642095,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "59.00",
+                "oldPrice": "",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "59.00",
+                "normalPrice": "59.00",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564642095,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.83,
+                        "isBetter": true
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.85,
+                        "isBetter": true
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "调整型文胸",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=39515"
+                    },
+                    {
+                        "name": "无钢圈內衣",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=39517"
+                    },
+                    {
+                        "name": "文胸套装",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=41423"
+                    },
+                    {
+                        "name": "性感蕾丝内衣",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=66912"
+                    },
+                    {
+                        "name": "店铺推荐",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=96512"
+                    },
+                    {
+                        "name": "无痕内衣",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=99444"
+                    },
+                    {
+                        "name": "厚模杯 小胸聚拢",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=260847"
+                    },
+                    {
+                        "name": "中模杯 灵活集中",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=260855"
+                    },
+                    {
+                        "name": "薄模杯 轻盈舒适",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=260858"
+                    },
+                    {
+                        "name": "美背内衣",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=260869"
+                    },
+                    {
+                        "name": "家居服/保暖内衣",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=20140661"
+                    },
+                    {
+                        "name": "舒适内裤专区",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=20144137"
+                    },
+                    {
+                        "name": "断码福利2件58元",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=20216985"
+                    },
+                    {
+                        "name": "C杯文胸",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=20218328"
+                    },
+                    {
+                        "name": "无肩带 轻松搭配",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=20281210"
+                    },
+                    {
+                        "name": "2019年夏季新品",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=20357250"
+                    },
+                    {
+                        "name": "86元2件",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=20362073"
+                    },
+                    {
+                        "name": "2件减20元",
+                        "link": "http://shop.mogu.com/14gyq/list/index?categoryId=20365362"
+                    }
+                ],
+                "cFans": "17.2万",
+                "cSells": "81.4万",
+                "isMarked": false,
+                "cGoods": 319,
+                "userId": "1wzl1e",
+                "shopLogo": "https://s11.mogucdn.com/mlcdn/c45406/180519_4lba0bjig23k2j72j03l9c374152d_200x200.jpg",
+                "name": "歌帕内衣",
+                "shopId": "14gyq",
+                "type": 1,
+                "level": 5,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=14gyq",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "collcationSet": {
+                "itemId": "1lpu5r6",
+                "sellerId": "1wzl1e",
+                "collcationSetList": [
+                    {
+                        "name": "套餐一",
+                        "promotionMark": "collocationSet_700009897847",
+                        "campaignId": 700009897847,
+                        "collocationSetItemGroupDTOs": [
+                            {
+                                "img": "https://s5.mogucdn.com/mlcdn/c45406/180811_423c5a3algj3f3jl16gd7bk825b41_640x960.jpg",
+                                "title": "歌帕半杯性感蕾丝少女内衣套装厚小胸聚拢软钢圈调整型收副乳文胸",
+                                "itemId": 671114260,
+                                "iid": "1m74m74",
+                                "proPrice": 4950,
+                                "originalPrice": 9143,
+                                "defaultPrice": "¥49.5",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1282533997,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282533992,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282534100,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282533991,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282533990,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282533996,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282533989,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282533995,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282533999,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282533994,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282533998,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282533993,
+                                        "proPrice": 4950
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/c45406/180811_2e5l0da5jjihefgc616iceg1lh1fe_640x960.jpg",
+                                "title": "歌帕夏季性感蕾丝加厚小胸聚拢少女内衣套装软钢圈调整型收副乳防下垂文胸",
+                                "itemId": 671114582,
+                                "iid": "1m74mp0",
+                                "proPrice": 4950,
+                                "originalPrice": 9143,
+                                "defaultPrice": "¥49.5",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1282540032,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540033,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540034,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540040,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540035,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540041,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540030,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540031,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540045,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540036,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540042,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540037,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540043,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540038,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540044,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 1282540039,
+                                        "proPrice": 4950
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s5.mogucdn.com/mlcdn/c45406/180114_553g92e8j020kc90e588h36hi5hd2_640x960.jpg",
+                                "title": "歌帕性感蕾丝少女内衣套装小胸聚拢无钢圈中厚调整型收副乳文胸",
+                                "itemId": 656593589,
+                                "iid": "1lpu5r6",
+                                "proPrice": 4900,
+                                "originalPrice": 5900,
+                                "defaultPrice": "¥49",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1059984930,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984938,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984936,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984935,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984932,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984931,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984923,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984929,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984922,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984928,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984925,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984924,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984919,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984937,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984921,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984927,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984920,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984926,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984934,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984933,
+                                        "proPrice": 4900
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/c45406/170728_5aikf8kfil6if3249if74ch3k66bk_640x960.jpg",
+                                "title": "歌帕夏季薄款蕾丝舒适少女内衣套装上托聚拢无钢圈小性感半杯文胸",
+                                "itemId": 618505894,
+                                "iid": "1kghgg4",
+                                "proPrice": 4950,
+                                "originalPrice": 8500,
+                                "defaultPrice": "¥49.5",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 875570558,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 875570553,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 875570559,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 875570548,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 875570554,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 875570549,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 875570555,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 875570550,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 875570556,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 875570551,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 875570557,
+                                        "proPrice": 4950
+                                    },
+                                    {
+                                        "stockId": 875570552,
+                                        "proPrice": 4950
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "套餐二",
+                        "promotionMark": "collocationSet_700010252568",
+                        "campaignId": 700010252568,
+                        "collocationSetItemGroupDTOs": [
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/c45406/180201_17f0ei0922692blle8e8l8dgkkddf_640x960.jpg",
+                                "title": "歌帕性感蕾丝少女内衣套装小胸聚拢无钢圈调整型收副乳防下垂文胸",
+                                "itemId": 655686928,
+                                "iid": "1loral4",
+                                "proPrice": 4900,
+                                "originalPrice": 8558,
+                                "defaultPrice": "¥49",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1045775557,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1045775558,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1045775559,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1045775560,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1045775566,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1045775555,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1045775556,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1045775569,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1045775570,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1045775561,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1045775562,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1045775568,
+                                        "proPrice": 4900
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s5.mogucdn.com/mlcdn/c45406/180114_553g92e8j020kc90e588h36hi5hd2_640x960.jpg",
+                                "title": "歌帕性感蕾丝少女内衣套装小胸聚拢无钢圈中厚调整型收副乳文胸",
+                                "itemId": 656593589,
+                                "iid": "1lpu5r6",
+                                "proPrice": 4900,
+                                "originalPrice": 5900,
+                                "defaultPrice": "¥49",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1059984932,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984931,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984923,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984929,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984922,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984928,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984925,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984924,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984930,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984938,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984919,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984937,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984921,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984927,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984920,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984926,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984934,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984933,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984936,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984935,
+                                        "proPrice": 4900
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/c45406/181017_43i92ldice8j1835d8adejb3fjgf7_640x960.jpg",
+                                "title": "歌帕性感蕾丝刺绣少女内衣套装小胸聚拢无钢圈调整型收副乳文胸",
+                                "itemId": 672255432,
+                                "iid": "1m8hj9k",
+                                "proPrice": 5850,
+                                "originalPrice": 9143,
+                                "defaultPrice": "¥58.5",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1297649389,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649390,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649376,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649377,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649375,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649380,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649386,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649381,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649387,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649378,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649384,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649379,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649385,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649382,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649388,
+                                        "proPrice": 5850
+                                    },
+                                    {
+                                        "stockId": 1297649383,
+                                        "proPrice": 5850
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s5.mogucdn.com/mlcdn/c45406/171107_7jjf468eigg21ba458904iad9eb28_640x960.jpg",
+                                "title": "2套58元 性感蕾丝马甲式半杯女内衣套装聚拢无钢圈调整型文胸",
+                                "itemId": 626293113,
+                                "iid": "1kpr9re",
+                                "proPrice": 4600,
+                                "originalPrice": 6858,
+                                "defaultPrice": "¥46",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 992223547,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 992223540,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 992223545,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 992223546,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 992223543,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 992223544,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 992223541,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 992223542,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 992223548,
+                                        "proPrice": 4600
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "套餐三",
+                        "promotionMark": "collocationSet_700014835126",
+                        "campaignId": 700014835126,
+                        "collocationSetItemGroupDTOs": [
+                            {
+                                "img": "https://s5.mogucdn.com/mlcdn/c45406/180114_553g92e8j020kc90e588h36hi5hd2_640x960.jpg",
+                                "title": "歌帕性感蕾丝少女内衣套装小胸聚拢无钢圈中厚调整型收副乳文胸",
+                                "itemId": 656593589,
+                                "iid": "1lpu5r6",
+                                "proPrice": 4900,
+                                "originalPrice": 5900,
+                                "defaultPrice": "¥49",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1059984932,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984931,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1100495681,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984923,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984922,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1100495683,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984925,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1100495682,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984924,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984919,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984921,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984920,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984929,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984928,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984930,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984938,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1100495685,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984937,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1100495684,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1100495687,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984927,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1100495686,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984926,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984934,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984933,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1100495688,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984936,
+                                        "proPrice": 4900
+                                    },
+                                    {
+                                        "stockId": 1059984935,
+                                        "proPrice": 4900
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s5.mogucdn.com/mlcdn/c45406/181022_2djh8cl6h1dkkch8h37i1f4ad1kkk_640x960.jpg",
+                                "title": "歌帕夏季蕾丝性感少女美背内衣套装小胸聚拢无钢圈收副乳文胸罩",
+                                "itemId": 672549112,
+                                "iid": "1m8u4h4",
+                                "proPrice": 4990,
+                                "originalPrice": 9143,
+                                "defaultPrice": "¥49.9",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1301697797,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301697798,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301697799,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301698003,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301698004,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301697789,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301697790,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301697791,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301697792,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301697793,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301697794,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301697795,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301697796,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301698001,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301698002,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301697788,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301698005,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301698006,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301698007,
+                                        "proPrice": 4990
+                                    },
+                                    {
+                                        "stockId": 1301698000,
+                                        "proPrice": 4990
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "detailInfo": {
+                "splitDetailImage": false,
+                "desc": "A.B杯建议按照平时码数拍，C杯拍大一个码数。选对码数效果棒棒哒！模特是70小B杯滴，也可询问客服码数选合适自己的码数哦！舒适无钢圈调整型，加高提耳收副乳，肩带可以拆卸调节，内裤中腰包臀弹力足。7色可选！",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "整体款式",
+                        "anchor": "baipai_img2",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_4dl6ilh8694134kkd3bgh13a63ihe_750x924.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_3ld2he5de02c92hkk7jlba0i58542_750x675.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_0il80abb5a8jhjdal109fhdcdb901_750x887.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_4ehfjj1jh1kd19h910aig4419i1bf_750x661.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_0c0b77k076jj1hf728g8hhjh373ab_750x674.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_08e6d86j11505gb04fk6h89gg8a1l_750x734.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_7gdi0752k5h8l42d761lkfc6j2k24_750x475.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180314_7e4cia3ig7c7j33e7ie1f76a00le1_750x831.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_15ahh4734d5edff95i62ghkc0ibbd_750x965.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_1l1614bgglg8395f4fl14j5d02cki_750x774.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_0008k3i31hice51l3i6laah9e3fe6_750x821.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_2hfb4102d84c7bhihiikc82je4i3l_750x1511.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_1bf29dj677gkf6j24bi32l2lc8ghb_750x804.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_63c6kde2e9hcg246ec2ldk31ilelc_750x719.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_17lefl95024a3h81g1g7c92iec102_750x840.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_7e8e8370j7k6fcglljacdb8k5ij84_750x887.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180206_319li8ebhe1g06a57j32d9i192b5f_750x1496.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180206_72geldg4hi9cgi44ck51l7i23b1lg_750x819.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180206_2f0fdldbe5k55bc752f0167ceej3b_750x719.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180206_36a0ahbggja4h21jji45gfg6fldea_750x840.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180206_38l85j7b8ef32bgdl7486jddaajl0_750x887.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180421_42hld91cfff39k74dl807fiiab018_750x813.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180528_729ikelkcb3l2eifg7797hkl6i7jj_750x774.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180528_56gf22l237fbj2dhf5b75hgkh1f5b_750x821.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180528_2fi6c72h2h1c978746ll7cia1jjl3_750x1496.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180528_23446901gggcgkc2g2k8il1j8fc86_750x819.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180528_699b3ck3d2dfg8kcdgh7g12i8l1lh_750x829.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180528_39648ig026bi60fj2j879774i6ke0_750x774.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180528_6cbd3caf32di5j5b6fg6jf9h82igd_750x821.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180528_3fd568l93c9bl5aa7ca5djhbi7llj_750x1496.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180528_857kc46le4e4e50i1kg7k4j96ekk8_750x819.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180528_7dd78hic2hf6kb39hca3bl4f6heb0_750x719.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180528_0945hebi8gj8i93f81h6514bj8d59_750x840.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180421_6e372836g8aibaiei8e921k2g19l6_750x813.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180421_62gg8g8329dgjdb533e3hkk63ajc8_750x785.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180421_640c9i8k0c63f93d4be2ca49f0l27_750x837.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180421_1480ej7i2i4l4g8aja7e88f03h2h3_750x1476.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180421_5beljk7607i0ijc98j70bldd5aebd_750x744.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180421_435h7733fh7lff88iafg0ld06b1kd_750x770.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180421_81764f05afld58eb9id0fae2jb2i2_750x868.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180421_0d31hlgh6hea2bdg7535jd89d5l7e_750x887.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "细节做工",
+                        "anchor": "detail_img",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_8eeb1i436f775kki03169fj4fd844_750x749.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_3f9j08dh0gah903kaa39bg0f4di4e_750x558.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_45ghab17fcg379kdbkb6lkech7cgb_750x564.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_1a4e0g5gl0fe7e80dl16e91k31hl1_750x690.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_74j438d9bgjej88hk497e266jha28_750x604.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_4die063blek4dg418eif113hgfl7h_750x503.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_3geiiia1057fgh2468e2hh58d95fg_750x564.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_1heh682h08j73be2dl4a2k77gg5lf_750x636.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_26cica1j6c8da4ldab3ij4a85babh_750x547.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180111_7ff3259ff64gb81cla22ig4a4gee4_750x634.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_7ab6d3g05j5902l38250jhb4ha4hc_750x597.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_2d1bbi606c43d3ad1i88142995b00_750x490.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180111_0ae8cd3e176klg8iagdkehj1a6642_750x595.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180120_761236bjj0hjje28h7efg95ijk799_750x538.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180120_10g3c06blh41kcb62ei7hc204ff3h_750x762.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180314_456766420l8d55kab61fjiei1jllh_750x533.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180314_6ekk2jb041i2glkf0bk1b0ib94jc2_750x589.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564642095,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s5.mogucdn.com/mlcdn/c45406/180114_553g92e8j020kc90e588h36hi5hd2_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180112_4508j43ee47030hhlbjb79d38dc8g_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180111_4a9ii2cl24hbl8339e06df9k2c4ce_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190409_2kgi3jfbl4i1ch40hagljcg5ifjd7_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180515_4h2hjl35fe0278ba0160k4k8l0i7j_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180524_6g11f4c9j4f71i8489lc9l539f3fa_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180512_6a5132b1kcghh39he1k0ek83k2k21_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180421_8alkbheeiaeek94j77g7il1be706b_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180421_61fiiif473cfblac79fc7f53g9475_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180313_513364855k349jb3gd36cjdk31iig_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180313_6e45k90c762943chb6ljc5748dk7a_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180418_813db9k6dj9g9b96f9j8dkj2k84cj_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "歌帕性感蕾丝少女内衣套装小胸聚拢无钢圈中厚调整型收副乳文胸",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1lpu5r6&from=share",
+                "imageUrl": "https://s5.mogucdn.com/mlcdn/c45406/180114_553g92e8j020kc90e588h36hi5hd2_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "印花/花卉,纯色",
+                        "侧翼面料": "锦纶",
+                        "颜色": "奶油棕（套装）,红色（套装）,黑色（套装）,香芋粉（套装）,灰蓝（套装）,抹茶绿（套装）,肤色（套装）",
+                        "腰型": "中腰",
+                        "罩杯厚度": "上薄下厚模杯",
+                        "消费群体": "青年女性",
+                        "尺码": "36=80AB通用,34=75AB通用,32=70AB通用,38=85AB通用",
+                        "罩杯型": "四分之三",
+                        "内裤款型": "三角裤",
+                        "罩杯里料": "锦纶",
+                        "肩带": "可拆卸双肩带",
+                        "钢圈": "无钢圈",
+                        "元素装饰样式": "蕾丝",
+                        "功能": "聚拢",
+                        "季节": "夏季",
+                        "外形设计": "V型",
+                        "插片": "无插片",
+                        "元素视觉效果": "纯色",
+                        "搭扣": "后三排搭扣",
+                        "风格": "性感,日系",
+                        "罩杯面料": "锦纶"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "上胸围",
+                                "下胸围",
+                                "罩杯"
+                            ],
+                            [
+                                "32=70AB通用",
+                                "80~83",
+                                "70",
+                                "AB通用"
+                            ],
+                            [
+                                "34=75AB通用",
+                                "85~88",
+                                "75",
+                                "AB通用"
+                            ],
+                            [
+                                "38=85AB通用",
+                                "95~98",
+                                "85",
+                                "AB通用"
+                            ],
+                            [
+                                "36=80AB通用",
+                                "90~93",
+                                "80",
+                                "AB通用"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "59.00",
+                "oldPrice": "",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 3725",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "address",
+                        "desc": "广东揭阳",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1lpu5r6",
+                "img": "https://s5.mogucdn.com/mlcdn/c45406/180114_553g92e8j020kc90e588h36hi5hd2_640x960.jpg",
+                "isJdItem": false,
+                "title": "歌帕性感蕾丝少女内衣套装小胸聚拢无钢圈中厚调整型收副乳文胸",
+                "skus": [
+                    {
+                        "stockId": "1z26b8m",
+                        "xdSkuId": "1z26b8m",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_52eg3ej2gbi5l7cf0kj83kef7ge71_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 694,
+                        "style": "灰蓝（套装）",
+                        "color": "",
+                        "size": "32=70AB通用",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1z26b8o",
+                        "xdSkuId": "1z26b8o",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_52eg3ej2gbi5l7cf0kj83kef7ge71_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 491,
+                        "style": "灰蓝（套装）",
+                        "color": "",
+                        "size": "34=75AB通用",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1z26b8q",
+                        "xdSkuId": "1z26b8q",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_52eg3ej2gbi5l7cf0kj83kef7ge71_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 297,
+                        "style": "灰蓝（套装）",
+                        "color": "",
+                        "size": "38=85AB通用",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1z26b8s",
+                        "xdSkuId": "1z26b8s",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_52eg3ej2gbi5l7cf0kj83kef7ge71_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 286,
+                        "style": "灰蓝（套装）",
+                        "color": "",
+                        "size": "36=80AB通用",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1z26b8u",
+                        "xdSkuId": "1z26b8u",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180111_06gf60e4j2c6i85jh16llc1ihij35_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 294,
+                        "style": "黑色（套装）",
+                        "color": "",
+                        "size": "32=70AB通用",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1z26b8w",
+                        "xdSkuId": "1z26b8w",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180111_06gf60e4j2c6i85jh16llc1ihij35_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 285,
+                        "style": "黑色（套装）",
+                        "color": "",
+                        "size": "34=75AB通用",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1z26b90",
+                        "xdSkuId": "1z26b90",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180111_06gf60e4j2c6i85jh16llc1ihij35_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 199,
+                        "style": "黑色（套装）",
+                        "color": "",
+                        "size": "38=85AB通用",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1z26b8y",
+                        "xdSkuId": "1z26b8y",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180111_06gf60e4j2c6i85jh16llc1ihij35_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 293,
+                        "style": "黑色（套装）",
+                        "color": "",
+                        "size": "36=80AB通用",
+                        "styleId": 2,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1z26b92",
+                        "xdSkuId": "1z26b92",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_5jk882h5803696c14b49a53di32a0_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 199,
+                        "style": "奶油棕（套装）",
+                        "color": "",
+                        "size": "32=70AB通用",
+                        "styleId": 3,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1z26b94",
+                        "xdSkuId": "1z26b94",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_5jk882h5803696c14b49a53di32a0_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 199,
+                        "style": "奶油棕（套装）",
+                        "color": "",
+                        "size": "34=75AB通用",
+                        "styleId": 3,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1z26b98",
+                        "xdSkuId": "1z26b98",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_5jk882h5803696c14b49a53di32a0_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 199,
+                        "style": "奶油棕（套装）",
+                        "color": "",
+                        "size": "38=85AB通用",
+                        "styleId": 3,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1z26b96",
+                        "xdSkuId": "1z26b96",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_5jk882h5803696c14b49a53di32a0_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 196,
+                        "style": "奶油棕（套装）",
+                        "color": "",
+                        "size": "36=80AB通用",
+                        "styleId": 3,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1z26b9a",
+                        "xdSkuId": "1z26b9a",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_3g5d818fhgc472135hbadikj62d58_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 200,
+                        "style": "红色（套装）",
+                        "color": "",
+                        "size": "32=70AB通用",
+                        "styleId": 4,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1z26b9c",
+                        "xdSkuId": "1z26b9c",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_3g5d818fhgc472135hbadikj62d58_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 196,
+                        "style": "红色（套装）",
+                        "color": "",
+                        "size": "34=75AB通用",
+                        "styleId": 4,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1z26b9g",
+                        "xdSkuId": "1z26b9g",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_3g5d818fhgc472135hbadikj62d58_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 200,
+                        "style": "红色（套装）",
+                        "color": "",
+                        "size": "38=85AB通用",
+                        "styleId": 4,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1z26b9e",
+                        "xdSkuId": "1z26b9e",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_3g5d818fhgc472135hbadikj62d58_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 198,
+                        "style": "红色（套装）",
+                        "color": "",
+                        "size": "36=80AB通用",
+                        "styleId": 4,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1z26b9i",
+                        "xdSkuId": "1z26b9i",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_5cf73507gali834j1k5aal1cf2k52_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 297,
+                        "style": "肤色（套装）",
+                        "color": "",
+                        "size": "32=70AB通用",
+                        "styleId": 5,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1z26b9k",
+                        "xdSkuId": "1z26b9k",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_5cf73507gali834j1k5aal1cf2k52_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 275,
+                        "style": "肤色（套装）",
+                        "color": "",
+                        "size": "34=75AB通用",
+                        "styleId": 5,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1z26b9o",
+                        "xdSkuId": "1z26b9o",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_5cf73507gali834j1k5aal1cf2k52_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 195,
+                        "style": "肤色（套装）",
+                        "color": "",
+                        "size": "38=85AB通用",
+                        "styleId": 5,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1z26b9m",
+                        "xdSkuId": "1z26b9m",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180111_5cf73507gali834j1k5aal1cf2k52_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 292,
+                        "style": "肤色（套装）",
+                        "color": "",
+                        "size": "36=80AB通用",
+                        "styleId": 5,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "110eevui",
+                        "xdSkuId": "110eevui",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180313_2jeefcd7k1k69bjlkh1adbl4bg3el_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 292,
+                        "style": "香芋粉（套装）",
+                        "color": "",
+                        "size": "32=70AB通用",
+                        "styleId": 6,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "110eevuk",
+                        "xdSkuId": "110eevuk",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180313_2jeefcd7k1k69bjlkh1adbl4bg3el_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 290,
+                        "style": "香芋粉（套装）",
+                        "color": "",
+                        "size": "34=75AB通用",
+                        "styleId": 6,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "110eevuo",
+                        "xdSkuId": "110eevuo",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180313_2jeefcd7k1k69bjlkh1adbl4bg3el_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 197,
+                        "style": "香芋粉（套装）",
+                        "color": "",
+                        "size": "38=85AB通用",
+                        "styleId": 6,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "110eevum",
+                        "xdSkuId": "110eevum",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180313_2jeefcd7k1k69bjlkh1adbl4bg3el_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 290,
+                        "style": "香芋粉（套装）",
+                        "color": "",
+                        "size": "36=80AB通用",
+                        "styleId": 6,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "110eevuq",
+                        "xdSkuId": "110eevuq",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180313_64j8l4ae4a156096dac3f02ek583f_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 296,
+                        "style": "抹茶绿（套装）",
+                        "color": "",
+                        "size": "32=70AB通用",
+                        "styleId": 7,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "110eevus",
+                        "xdSkuId": "110eevus",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180313_64j8l4ae4a156096dac3f02ek583f_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 286,
+                        "style": "抹茶绿（套装）",
+                        "color": "",
+                        "size": "34=75AB通用",
+                        "styleId": 7,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "110eevuw",
+                        "xdSkuId": "110eevuw",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180313_64j8l4ae4a156096dac3f02ek583f_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 189,
+                        "style": "抹茶绿（套装）",
+                        "color": "",
+                        "size": "38=85AB通用",
+                        "styleId": 7,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "110eevuu",
+                        "xdSkuId": "110eevuu",
+                        "price": 5900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180313_64j8l4ae4a156096dac3f02ek583f_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 289,
+                        "style": "抹茶绿（套装）",
+                        "color": "",
+                        "size": "36=80AB通用",
+                        "styleId": 7,
+                        "sizeId": 103
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "灰蓝（套装）",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "黑色（套装）",
+                                "index": 2,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 3,
+                                "name": "奶油棕（套装）",
+                                "index": 3,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 4,
+                                "name": "红色（套装）",
+                                "index": 4,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 5,
+                                "name": "肤色（套装）",
+                                "index": 5,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 6,
+                                "name": "香芋粉（套装）",
+                                "index": 6,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 7,
+                                "name": "抹茶绿（套装）",
+                                "index": 7,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "32=70AB通用",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "34=75AB通用",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "38=85AB通用",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "36=80AB通用",
+                                "index": 103,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥59.00",
+                "defaultPrice": "¥59.00",
+                "totalStock": 7614,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

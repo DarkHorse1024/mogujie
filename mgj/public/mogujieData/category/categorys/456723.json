@@ -1,0 +1,105 @@
+{
+    "cid": "456723",
+    "name": "睡裙",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mfdfum",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190409_5i5c5b3h3k5d87be2c47a0b2kk021_640x960.jpg",
+            "originalPrice": 78.58,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mfdfum&acm=3.ms.1_4_1mfdfum.16.36598-68998.cYXWarxShoBVk.sd_117-swt_16-imt_6-t_cYXWarxShoBVk-lc_16-fcid_50051-pid_19-pit_1-dit_171",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mfdfum&acm=3.ms.1_4_1mfdfum.16.36598-68998.cYXWarxShoBVk.sd_117-swt_16-imt_6-t_cYXWarxShoBVk-lc_16-fcid_50051-pid_19-pit_1-dit_171",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mfdfum.16.36598-68998.cYXWarxShoBVk.sd_117-swt_16-imt_6-t_cYXWarxShoBVk-lc_16-fcid_50051-pid_19-pit_1-dit_171",
+            "price_taglist": [],
+            "title": "性感甜美吊带睡裙女夏季薄款性感睡衣纯棉韩版学生可爱家居服",
+            "orgPrice": 78.58,
+            "props": [
+                "吊带睡裙",
+                "纯棉",
+                "性感",
+                "甜美",
+                "薄款",
+                "韩版",
+                "夏季"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 2796,
+            "price": 55,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.61",
+                "descDsr": "4.63",
+                "tagDescDsr": "4.77",
+                "tagQualityDsr": "4.76",
+                "tagServiceDsr": "4.91",
+                "serviceDsr": "4.82"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mfdfum&acm=3.ms.1_4_1mfdfum.16.36598-68998.cYXWarxShoBVk.sd_117-swt_16-imt_6-t_cYXWarxShoBVk-lc_16-fcid_50051-pid_19-pit_1-dit_171&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "乔伊睡衣生活馆"
+        },
+        {
+            "tradeItemId": "1mefcq0",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190310_2b2ae6hl98k3fji9c78ij8lbf3j18_640x960.jpg",
+            "originalPrice": 71.29,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mefcq0&acm=3.ms.1_4_1mefcq0.16.36598-68998.cYXWarxShoBVk.sd_117-swt_16-imt_6-t_cYXWarxShoBVk-lc_16-fcid_50051-pid_19-pit_1-dit_171",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mefcq0&acm=3.ms.1_4_1mefcq0.16.36598-68998.cYXWarxShoBVk.sd_117-swt_16-imt_6-t_cYXWarxShoBVk-lc_16-fcid_50051-pid_19-pit_1-dit_171",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mefcq0.16.36598-68998.cYXWarxShoBVk.sd_117-swt_16-imt_6-t_cYXWarxShoBVk-lc_16-fcid_50051-pid_19-pit_1-dit_171",
+            "price_taglist": [],
+            "title": "超性感维密字母睡衣女夏季七分袖睡袍冰丝性感浴袍夏天家居服",
+            "orgPrice": 71.29,
+            "props": [
+                "浴袍",
+                "维密",
+                "性感",
+                "冰丝",
+                "七分袖",
+                "夏季"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 563,
+            "price": 49.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.61",
+                "descDsr": "4.63",
+                "tagDescDsr": "4.77",
+                "tagQualityDsr": "4.76",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.82"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mefcq0&acm=3.ms.1_4_1mefcq0.16.36598-68998.cYXWarxShoBVk.sd_117-swt_16-imt_6-t_cYXWarxShoBVk-lc_16-fcid_50051-pid_19-pit_1-dit_171&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "乔伊睡衣生活馆"
+        }
+    ]
+}

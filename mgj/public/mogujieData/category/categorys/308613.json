@@ -1,0 +1,106 @@
+{
+    "cid": "308613",
+    "name": "帆布鞋",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1m6r0e2",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/180817_8a94jaea9jl4hg8h0k2kl98h9a2fb_640x960.jpg",
+            "originalPrice": 138,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1m6r0e2&acm=3.ms.1_4_1m6r0e2.16.36598-68998.A6HA4rxSkOjiV.sd_117-swt_16-imt_6-t_A6HA4rxSkOjiV-lc_16-fcid_51269-pid_5-pit_1-dit_171",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1m6r0e2&acm=3.ms.1_4_1m6r0e2.16.36598-68998.A6HA4rxSkOjiV.sd_117-swt_16-imt_6-t_A6HA4rxSkOjiV-lc_16-fcid_51269-pid_5-pit_1-dit_171",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1m6r0e2.16.36598-68998.A6HA4rxSkOjiV.sd_117-swt_16-imt_6-t_A6HA4rxSkOjiV-lc_16-fcid_51269-pid_5-pit_1-dit_171",
+            "price_taglist": [],
+            "title": "网红帆布鞋女2019春季新款学生板鞋女街拍韩版百搭夏小黑布鞋",
+            "orgPrice": 138,
+            "props": [
+                "QUICKYSTEP/快亿步",
+                "帆布鞋",
+                "百搭",
+                "新款",
+                "街拍",
+                "春季",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 12579,
+            "price": 49.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.73",
+                "descDsr": "4.74",
+                "tagDescDsr": "4.69",
+                "tagQualityDsr": "4.69",
+                "tagServiceDsr": "4.89",
+                "serviceDsr": "4.92"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1m6r0e2&acm=3.ms.1_4_1m6r0e2.16.36598-68998.A6HA4rxSkOjiV.sd_117-swt_16-imt_6-t_A6HA4rxSkOjiV-lc_16-fcid_51269-pid_5-pit_1-dit_171&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "欣儿鞋铺"
+        },
+        {
+            "tradeItemId": "1md9c8g",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190107_12ah989edlacllcd0h6dfcgk4iid6_800x1200.jpg",
+            "originalPrice": 136,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1md9c8g&acm=3.ms.1_4_1md9c8g.16.36598-68998.A6HA4rxSkOjiV.sd_117-swt_16-imt_6-t_A6HA4rxSkOjiV-lc_16-fcid_51269-pid_5-pit_1-dit_171",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1md9c8g&acm=3.ms.1_4_1md9c8g.16.36598-68998.A6HA4rxSkOjiV.sd_117-swt_16-imt_6-t_A6HA4rxSkOjiV-lc_16-fcid_51269-pid_5-pit_1-dit_171",
+            "itemMarks": "1525 188 1127",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1md9c8g.16.36598-68998.A6HA4rxSkOjiV.sd_117-swt_16-imt_6-t_A6HA4rxSkOjiV-lc_16-fcid_51269-pid_5-pit_1-dit_171",
+            "price_taglist": [],
+            "title": "帆布鞋子女2019新款韩版经典复古学院风学生百搭基础小白鞋",
+            "orgPrice": 136,
+            "props": [
+                "帆布鞋",
+                "经典",
+                "学院风",
+                "新款",
+                "复古",
+                "基础",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 7679,
+            "price": 39,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.76",
+                "descDsr": "4.76",
+                "tagDescDsr": "4.69",
+                "tagQualityDsr": "4.67",
+                "tagServiceDsr": "4.89",
+                "serviceDsr": "4.94"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1md9c8g&acm=3.ms.1_4_1md9c8g.16.36598-68998.A6HA4rxSkOjiV.sd_117-swt_16-imt_6-t_A6HA4rxSkOjiV-lc_16-fcid_51269-pid_5-pit_1-dit_171&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "米苏诺"
+        }
+    ]
+}

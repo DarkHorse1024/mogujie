@@ -1,0 +1,104 @@
+{
+    "cid": "491873",
+    "name": "衬衫",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mimo90",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190624_7d5fgj1fi5gkj94b268h9ef88i6l1_640x960.jpg",
+            "originalPrice": 168,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mimo90&acm=3.ms.1_4_1mimo90.16.36598-68998.8EAprrxRZ2pt5.sd_117-swt_16-imt_6-t_8EAprrxRZ2pt5-lc_16-fcid_20004464-pid_180-pit_1-dit_175",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mimo90&acm=3.ms.1_4_1mimo90.16.36598-68998.8EAprrxRZ2pt5.sd_117-swt_16-imt_6-t_8EAprrxRZ2pt5-lc_16-fcid_20004464-pid_180-pit_1-dit_175",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mimo90.16.36598-68998.8EAprrxRZ2pt5.sd_117-swt_16-imt_6-t_8EAprrxRZ2pt5-lc_16-fcid_20004464-pid_180-pit_1-dit_175",
+            "price_taglist": [],
+            "title": "夏锁骨心机显瘦上衣衬衣超仙女小众泡泡袖设计感短袖V领白衬衫女",
+            "orgPrice": 168,
+            "props": [
+                "白衬衫",
+                "泡泡袖",
+                "心机",
+                "设计感",
+                "v领",
+                "短袖"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 762,
+            "price": 59,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.67",
+                "descDsr": "4.68",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.89"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mimo90&acm=3.ms.1_4_1mimo90.16.36598-68998.8EAprrxRZ2pt5.sd_117-swt_16-imt_6-t_8EAprrxRZ2pt5-lc_16-fcid_20004464-pid_180-pit_1-dit_175&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "芒果屋Wu"
+        },
+        {
+            "tradeItemId": "1mghhkw",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190505_4a9j3hb1gl5kf8d8id2i0l8842602_640x960.jpg",
+            "originalPrice": 112.86,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mghhkw&acm=3.ms.1_4_1mghhkw.16.36598-68998.8EAprrxRZ2pt5.sd_117-swt_16-imt_6-t_8EAprrxRZ2pt5-lc_16-fcid_20004464-pid_180-pit_1-dit_175",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mghhkw&acm=3.ms.1_4_1mghhkw.16.36598-68998.8EAprrxRZ2pt5.sd_117-swt_16-imt_6-t_8EAprrxRZ2pt5-lc_16-fcid_20004464-pid_180-pit_1-dit_175",
+            "itemMarks": "1525 188 1127",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mghhkw.16.36598-68998.8EAprrxRZ2pt5.sd_117-swt_16-imt_6-t_8EAprrxRZ2pt5-lc_16-fcid_20004464-pid_180-pit_1-dit_175",
+            "price_taglist": [],
+            "title": "大码女装夏装新款胖妹妹mm韩版气质优雅显瘦衬衫上衣遮肚小衫女",
+            "orgPrice": 112.86,
+            "props": [
+                "显瘦衬衫",
+                "气质",
+                "优雅",
+                "遮肚",
+                "新款",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 531,
+            "price": 79,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.63",
+                "descDsr": "4.64",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.87"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mghhkw&acm=3.ms.1_4_1mghhkw.16.36598-68998.8EAprrxRZ2pt5.sd_117-swt_16-imt_6-t_8EAprrxRZ2pt5-lc_16-fcid_20004464-pid_180-pit_1-dit_175&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "胖家小妹"
+        }
+    ]
+}

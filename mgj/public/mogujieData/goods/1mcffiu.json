@@ -1,0 +1,940 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "14vw0nk",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "116zzewy",
+                "sellerId": "14vw0nk"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "谁***氓",
+                            "avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrtgyjxmjrwgntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190727_53bd2l08c3194f0f8h4d725iefef7_1080x932.jpg"
+                        ],
+                        "rateId": "118kuuky",
+                        "content": "尺码不准的，我专门晒单就是为了提醒一下各位朋友们，我100斤穿着都勒，质量还行吧",
+                        "created": 1563463221,
+                        "isAnonymous": 1,
+                        "style": "颜色:浅灰+肤色+绿色+烟紫 尺码:M（建议80-110斤） ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    },
+                    {
+                        "user": {
+                            "uname": "梦***拉",
+                            "avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrtgyjxmjrwgntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190717_09d18a3h9ja8056g3380lbklf201h_1080x1440.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190717_041f971f3d16i4aaa28623l9h07f7_1080x1440.jpg"
+                        ],
+                        "rateId": "118kd2o6",
+                        "content": "裤子收到，颜色好看质量都不错，喜欢",
+                        "created": 1563344705,
+                        "isAnonymous": 1,
+                        "style": "颜色:浅粉+浅灰+肤色+烟紫 尺码:L（建议110-130斤） ",
+                        "isEmpty": 1,
+                        "explain": "[商家回复]:感谢亲对我们的钟爱与支持~我们会更加努力注重产品品质以及性价比~推出更好的产品回馈给每个消费者，慕慕祝您身体健康，万事顺遂~感谢亲对我们的钟爱与支持~我们会更加努力注重产品品质以及性价比~推出更好的产品回馈给每个消费者，慕慕祝您身体健康，万事顺遂~感谢亲对我们的钟爱与支持~我们会更加努力注重产品品质以及性价比~推出更好的产品回馈给每个消费者，慕慕祝您身体健康，万事顺遂~感谢亲对我们的钟爱与支持~我们会更加努力注重产品品质以及性价比~推出更好的产品回馈给每个消费者，慕慕祝您身体健康，万事顺遂~",
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    }
+                ],
+                "cRate": 436,
+                "imgTotal": 190,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 190,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 118,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 104,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "包装",
+                        "value": "包装很赞",
+                        "num": 56,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 28,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 22,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 3830
+            },
+            "itemInfo": {
+                "desc": "新品抗菌内裤：“你们喜爱的中腰款”。满足每天舒适的穿着需要，这款底裤采用60支纯棉面料，棉花日晒超过120天，棉纤维长度38~40mm，舒适度高到爆表！强力回弹的特性得以妥帖包覆肌肤，字母设计清新显档次，银离子抗菌底裆给私处深度呵护，质感轻柔透气带来舒爽的亲肤体感。",
+                "title": "4条装中腰内裤女纯棉100%全棉抗菌底裆少女学生底裤性感蕾丝边女士无痕三角裤头",
+                "itemId": "1mcffiu",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 3321,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "4条装中腰内裤女纯棉100%全棉抗菌底裆少女学生底裤性感蕾丝边女士无痕三角裤头",
+                    "wap_url": "//m.mogujie.com/x6/detail/1mcffiu",
+                    "description": "来自蘑菇街优店内裤_女士内衣/家居服_服饰鞋包家新品抗菌内裤：“你们喜爱的中腰款”。满足每天舒适的穿着需要，这款底裤采用60支纯棉面料，棉花日晒超过120天，棉纤维长度38~40mm，舒适度高到爆表！强力回弹的特性得以妥帖包覆肌肤，字母设计清新显档次，银离子抗菌底裆给私处深度呵护，质感轻柔透气带来舒爽的亲肤体感。的4条装中腰内裤女纯棉100%全棉抗菌底裆少女学生底裤性感蕾丝边女士无痕三角裤头，发现当季女士内衣和泡沫树内衣店搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1mcffiu",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1mcffiu",
+                    "seo_noindex": "0",
+                    "title": "【4条装中腰内裤女纯棉100%全棉抗菌底裆少女学生底裤性感蕾丝边女士无痕三角裤头】-女士内衣-内裤_女士内衣/家居服_服饰鞋包-泡沫树内衣店-蘑菇街优店"
+                },
+                "type": 8,
+                "video": {
+                    "cover": "https://s11.mogucdn.com/mlcdn/c45406/181210_4bji66l07aljacbed7j7ajg95j8hb_640x960.jpg",
+                    "videoId": 1015711,
+                    "width": 960,
+                    "height": 1280
+                },
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 3830,
+                    "isFreePost": true,
+                    "express": "默认快递",
+                    "address": "江苏苏州",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "99.00",
+                "highPrice": "99.00",
+                "lowNowPrice": "39.90",
+                "highNowPrice": "39.90",
+                "nowTime": 1564640426,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "39.90",
+                "oldPrice": "99.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "抢购价",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "39.90",
+                "normalPrice": "39.90",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564640426,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.78,
+                        "isBetter": true
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.77,
+                        "isBetter": true
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "女士内裤",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20019534"
+                    },
+                    {
+                        "name": "文胸&套装",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20019535"
+                    },
+                    {
+                        "name": "无痕聚拢文胸",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20151920"
+                    },
+                    {
+                        "name": "无钢圈聚拢文胸",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20151921"
+                    },
+                    {
+                        "name": "性感蕾丝文胸",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20151922"
+                    },
+                    {
+                        "name": "舒适薄款文胸",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20151923"
+                    },
+                    {
+                        "name": "清仓特价",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20151924"
+                    },
+                    {
+                        "name": "新品尝鲜价",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20155476"
+                    },
+                    {
+                        "name": "大家都在买",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20155477"
+                    },
+                    {
+                        "name": "性感蕾丝内裤",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20304849"
+                    },
+                    {
+                        "name": "亲肤无痕内裤",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20304850"
+                    },
+                    {
+                        "name": "舒适棉质内裤",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20304851"
+                    },
+                    {
+                        "name": "单件文胸-无内裤",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20304858"
+                    },
+                    {
+                        "name": "防走光安全裤",
+                        "link": "http://shop.mogu.com/116zzewy/list/index?categoryId=20363670"
+                    }
+                ],
+                "cFans": "43035",
+                "cSells": "43.3万",
+                "isMarked": false,
+                "cGoods": 141,
+                "userId": "14vw0nk",
+                "shopLogo": "https://s5.mogucdn.com/mlcdn/c45406/181221_53f86kadgik7ek7f0ejh23cf2j114_200x200.jpg",
+                "name": "泡沫树内衣店",
+                "shopId": "116zzewy",
+                "type": 1,
+                "level": 4,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=116zzewy",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "新品抗菌内裤：“你们喜爱的中腰款”。满足每天舒适的穿着需要，这款底裤采用60支纯棉面料，棉花日晒超过120天，棉纤维长度38~40mm，舒适度高到爆表！强力回弹的特性得以妥帖包覆肌肤，字母设计清新显档次，银离子抗菌底裆给私处深度呵护，质感轻柔透气带来舒爽的亲肤体感。",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_3ck4g6k7fj3c0g1cfk48g1054che5_750x1008.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181210_5dg8g32bdllai948jd7afd1gk5lij_750x718.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_509c8e969dae33af41kacd431f1ak_750x804.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181210_6i21bbjhig6h83173bk1i2k0l3dgd_750x1076.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181210_292h0l2jkb0818ch3jdack276cc1g_790x1024.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181210_1lglgj274k4dik3b7d10beag7i8jj_750x1008.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_28418b92e95986jhlfkb1chc3h0e0_750x996.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181210_71629eeb05h4eb998agf28113a6i6_750x1008.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_2a192eh1g8kl0774a4i08e98j8110_750x796.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_4c61d2h1lf2edi1993baaiial48be_750x568.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_4ba8ia13c02hhfgegf5i511d7ahhi_750x958.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "整体款式",
+                        "anchor": "baipai_img2",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_533d6i49dajbk0eh4k63af7716l11_750x858.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_40egf11clf9l1gddea83fk7b72950_750x518.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_71bbjl5cg2l9bffg5l1ke3e44e0la_750x518.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181210_89ehdhc1j3h0a816i9jj00g47jalg_750x513.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_639h5gg97lhk09el49ejal4990f3k_750x514.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_4dkig75b28jb8f4i65bg5i1432aic_750x516.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_7hh7dgkee9d7j762ia52cc2e5clkf_750x516.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181210_07dhjb29b52a73h478b4j0f54894g_750x525.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "细节做工",
+                        "anchor": "detail_img",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/181210_1ceii84efb07c85b76kj1ejcihh54_750x569.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_4f2icaa6g6dake37f3j8a328h52ej_750x558.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_718k1hg7117dcki0ae4lie2gi3j34_750x550.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181210_601ae7ed705b7hgach9ig9a86c688_750x549.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181210_49icaabcfcecja0141cbie379jf3e_750x606.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181210_4ljg0alkhh7ld23a5568fciagii4l_750x732.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "资质证明",
+                        "anchor": "qualification_info",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/181212_26ldf559f3dhlh61kh1e0eg81be75_925x1301.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181212_3ib8a404gc64j5fb4kh3bgia4fjf2_924x1300.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181212_0k3f0dbhc5ff40ijbikl3g9c44jbc_924x1310.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181212_67a7j7h8d5el51859jaie075h20i0_925x1304.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564640426,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s5.mogucdn.com/mlcdn/c45406/181210_2h6d66a1e3eeg5idfclfdk3874gh8_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/181212_3i62df56gdil1f7fj972cg6h1jh1a_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/181212_7hd80hbb3759g5e710fbl54l0b681_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/181212_0a3llah7k5a41k767h21i7i0a667h_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/181212_1lbaej9dl67835c5lh7h57l9768ef_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/181212_032kigg872f4g0e8ab7f084191db8_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/181212_2edh364j1ia5886d5c93i8lfh5bed_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/181212_3jgal4jeaiij4lfbe301f716dli7a_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/181212_0i13550jelgllb983g5fedg25b44c_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/181212_547abi22a6fj994i9h26hg406g307_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/181212_83d73g1kc3clj8ci6l07g0b2f95h7_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/181212_56c62857abe23l6ahe0k792jcg931_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/181212_1ie8c17l71fla2c9hkbcgb1l0f7h9_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/181212_1b89ek7agb3ja962h0h8103b22cfl_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "4条装中腰内裤女纯棉100%全棉抗菌底裆少女学生底裤性感蕾丝边女士无痕三角裤头",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1mcffiu&from=share",
+                "imageUrl": "https://s5.mogucdn.com/mlcdn/c45406/181210_2h6d66a1e3eeg5idfclfdk3874gh8_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "内衣组合规格": "4条装",
+                        "图案": "字母/文字/数字",
+                        "颜色": "黑色+浅灰+肤色+烟紫,黑色+浅粉+浅灰+烟紫,黑色+浅粉+肤色+绿色,浅灰+肤色+绿色+烟紫,黑色+浅灰+绿色+烟紫,浅粉+浅灰+绿色+烟紫,浅粉+浅灰+肤色+烟紫,黑色+浅灰+肤色+绿色,黑色+浅粉+绿色+烟紫,黑色+浅粉+浅灰+肤色",
+                        "内裤功能": "无痕,抗菌",
+                        "内裤材质": "纯棉",
+                        "腰型": "中腰",
+                        "尺码": "M（建议80-110斤）,L（建议110-130斤）",
+                        "内裤款型": "三角裤",
+                        "季节": "春季",
+                        "风格": "简约,甜美"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "腰围"
+                            ],
+                            [
+                                "L（建议110-130斤）",
+                                "2.1-2.3尺"
+                            ],
+                            [
+                                "M（建议80-110斤）",
+                                "1.8-2.0尺"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "39.90",
+                "oldPrice": "99.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "抢购价",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 3830",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1mcffiu",
+                "img": "https://s5.mogucdn.com/mlcdn/c45406/181210_2h6d66a1e3eeg5idfclfdk3874gh8_640x960.jpg",
+                "isJdItem": false,
+                "title": "4条装中腰内裤女纯棉100%全棉抗菌底裆少女学生底裤性感蕾丝边女士无痕三角裤头",
+                "skus": [
+                    {
+                        "stockId": "118lr8fe",
+                        "xdSkuId": "118lr8fe",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181210_7ijede8ldlha20j82g1g41jicbgfe_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 9036,
+                        "style": "黑色+浅灰+绿色+烟紫",
+                        "color": "",
+                        "size": "L（建议110-130斤）",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118lr8fg",
+                        "xdSkuId": "118lr8fg",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181210_7ijede8ldlha20j82g1g41jicbgfe_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 9006,
+                        "style": "黑色+浅灰+绿色+烟紫",
+                        "color": "",
+                        "size": "M（建议80-110斤）",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118lr8fk",
+                        "xdSkuId": "118lr8fk",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181210_439acfld2a966i56igllik2b3ei8j_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 8944,
+                        "style": "浅粉+浅灰+绿色+烟紫",
+                        "color": "",
+                        "size": "L（建议110-130斤）",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118lr8fi",
+                        "xdSkuId": "118lr8fi",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181210_439acfld2a966i56igllik2b3ei8j_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 8764,
+                        "style": "浅粉+浅灰+绿色+烟紫",
+                        "color": "",
+                        "size": "M（建议80-110斤）",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118lr8fo",
+                        "xdSkuId": "118lr8fo",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181210_7d2ld052d89479h82aece6347j13c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 9265,
+                        "style": "黑色+浅灰+肤色+烟紫",
+                        "color": "",
+                        "size": "L（建议110-130斤）",
+                        "styleId": 3,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118lr8fm",
+                        "xdSkuId": "118lr8fm",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181210_7d2ld052d89479h82aece6347j13c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 9157,
+                        "style": "黑色+浅灰+肤色+烟紫",
+                        "color": "",
+                        "size": "M（建议80-110斤）",
+                        "styleId": 3,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118lr8fs",
+                        "xdSkuId": "118lr8fs",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181210_8493aj51ccfi82774g09949l14jal_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 9268,
+                        "style": "黑色+浅粉+浅灰+烟紫",
+                        "color": "",
+                        "size": "L（建议110-130斤）",
+                        "styleId": 4,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118lr8fq",
+                        "xdSkuId": "118lr8fq",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181210_8493aj51ccfi82774g09949l14jal_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 9151,
+                        "style": "黑色+浅粉+浅灰+烟紫",
+                        "color": "",
+                        "size": "M（建议80-110斤）",
+                        "styleId": 4,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118lr8fw",
+                        "xdSkuId": "118lr8fw",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181210_7gij04k3ecb47hkc1e3g8j381g10e_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 8759,
+                        "style": "浅粉+浅灰+肤色+烟紫",
+                        "color": "",
+                        "size": "L（建议110-130斤）",
+                        "styleId": 5,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118lr8fu",
+                        "xdSkuId": "118lr8fu",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181210_7gij04k3ecb47hkc1e3g8j381g10e_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 8425,
+                        "style": "浅粉+浅灰+肤色+烟紫",
+                        "color": "",
+                        "size": "M（建议80-110斤）",
+                        "styleId": 5,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118lr8g0",
+                        "xdSkuId": "118lr8g0",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181210_71f9809038bf50a7jh36c8dhb9if5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 9157,
+                        "style": "浅灰+肤色+绿色+烟紫",
+                        "color": "",
+                        "size": "L（建议110-130斤）",
+                        "styleId": 6,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118lr8fy",
+                        "xdSkuId": "118lr8fy",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181210_71f9809038bf50a7jh36c8dhb9if5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 9056,
+                        "style": "浅灰+肤色+绿色+烟紫",
+                        "color": "",
+                        "size": "M（建议80-110斤）",
+                        "styleId": 6,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118lr8g4",
+                        "xdSkuId": "118lr8g4",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181210_52hi4c6ig2b4ik3eege6l2a54ji0i_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 9339,
+                        "style": "黑色+浅灰+肤色+绿色",
+                        "color": "",
+                        "size": "L（建议110-130斤）",
+                        "styleId": 7,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118lr8g2",
+                        "xdSkuId": "118lr8g2",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181210_52hi4c6ig2b4ik3eege6l2a54ji0i_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 9269,
+                        "style": "黑色+浅灰+肤色+绿色",
+                        "color": "",
+                        "size": "M（建议80-110斤）",
+                        "styleId": 7,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118lr8g8",
+                        "xdSkuId": "118lr8g8",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181210_8d6c5hag06l76k9876b322jg23bdb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 8995,
+                        "style": "黑色+浅粉+浅灰+肤色",
+                        "color": "",
+                        "size": "L（建议110-130斤）",
+                        "styleId": 8,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118lr8g6",
+                        "xdSkuId": "118lr8g6",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181210_8d6c5hag06l76k9876b322jg23bdb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 8736,
+                        "style": "黑色+浅粉+浅灰+肤色",
+                        "color": "",
+                        "size": "M（建议80-110斤）",
+                        "styleId": 8,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118lr8gc",
+                        "xdSkuId": "118lr8gc",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181210_5ik4kd0bli3l6919cdckg6k0354c8_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 9342,
+                        "style": "黑色+浅粉+肤色+绿色",
+                        "color": "",
+                        "size": "L（建议110-130斤）",
+                        "styleId": 9,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118lr8ga",
+                        "xdSkuId": "118lr8ga",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181210_5ik4kd0bli3l6919cdckg6k0354c8_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 9247,
+                        "style": "黑色+浅粉+肤色+绿色",
+                        "color": "",
+                        "size": "M（建议80-110斤）",
+                        "styleId": 9,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118lr8gg",
+                        "xdSkuId": "118lr8gg",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181210_1741f0l4i9ljde152fag16bci80b4_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 9026,
+                        "style": "黑色+浅粉+绿色+烟紫",
+                        "color": "",
+                        "size": "L（建议110-130斤）",
+                        "styleId": 10,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118lr8ge",
+                        "xdSkuId": "118lr8ge",
+                        "price": 9900,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181210_1741f0l4i9ljde152fag16bci80b4_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 8890,
+                        "style": "黑色+浅粉+绿色+烟紫",
+                        "color": "",
+                        "size": "M（建议80-110斤）",
+                        "styleId": 10,
+                        "sizeId": 101
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "黑色+浅灰+绿色+烟紫",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "浅粉+浅灰+绿色+烟紫",
+                                "index": 2,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 3,
+                                "name": "黑色+浅灰+肤色+烟紫",
+                                "index": 3,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 4,
+                                "name": "黑色+浅粉+浅灰+烟紫",
+                                "index": 4,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 5,
+                                "name": "浅粉+浅灰+肤色+烟紫",
+                                "index": 5,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 6,
+                                "name": "浅灰+肤色+绿色+烟紫",
+                                "index": 6,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 7,
+                                "name": "黑色+浅灰+肤色+绿色",
+                                "index": 7,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 8,
+                                "name": "黑色+浅粉+浅灰+肤色",
+                                "index": 8,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 9,
+                                "name": "黑色+浅粉+肤色+绿色",
+                                "index": 9,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 10,
+                                "name": "黑色+浅粉+绿色+烟紫",
+                                "index": 10,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "L（建议110-130斤）",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "M（建议80-110斤）",
+                                "index": 101,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥39.90",
+                "defaultPrice": "¥39.90",
+                "totalStock": 180832,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

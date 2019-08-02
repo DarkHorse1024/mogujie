@@ -1,0 +1,106 @@
+{
+    "cid": "459105",
+    "name": "雪纺衫",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1m52912",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/180627_339l6da3jagl07177e1cc8icdhkk4_640x960.jpg",
+            "originalPrice": 78.58,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1m52912&acm=3.ms.1_4_1m52912.16.36598-69000.2iMZxrxRYFMs6.sd_117-swt_16-imt_6-t_2iMZxrxRYFMs6-lc_16-fcid_20004461-pid_180-pit_1-dit_154",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1m52912&acm=3.ms.1_4_1m52912.16.36598-69000.2iMZxrxRYFMs6.sd_117-swt_16-imt_6-t_2iMZxrxRYFMs6-lc_16-fcid_20004461-pid_180-pit_1-dit_154",
+            "itemMarks": "1525 188 82",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1m52912.16.36598-69000.2iMZxrxRYFMs6.sd_117-swt_16-imt_6-t_2iMZxrxRYFMs6-lc_16-fcid_20004461-pid_180-pit_1-dit_154",
+            "price_taglist": [],
+            "title": "白色蕾丝上衣女夏装19新款韩版漏锁骨V领镂空洋气雪纺短袖小衫",
+            "orgPrice": 78.58,
+            "props": [
+                "短袖小衫",
+                "雪纺",
+                "镂空",
+                "v领",
+                "白色",
+                "洋气",
+                "韩版",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 1545,
+            "price": 55,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.61",
+                "descDsr": "4.62",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.84"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1m52912&acm=3.ms.1_4_1m52912.16.36598-69000.2iMZxrxRYFMs6.sd_117-swt_16-imt_6-t_2iMZxrxRYFMs6-lc_16-fcid_20004461-pid_180-pit_1-dit_154&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "小超人定制"
+        },
+        {
+            "tradeItemId": "1mill1y",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190623_5e8g62c00k00ac7i750id6809f1gi_640x960.jpg",
+            "originalPrice": 99,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mill1y&acm=3.ms.1_4_1mill1y.16.36598-69000.2iMZxrxRYFMs6.sd_117-swt_16-imt_6-t_2iMZxrxRYFMs6-lc_16-fcid_20004461-pid_180-pit_1-dit_154",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mill1y&acm=3.ms.1_4_1mill1y.16.36598-69000.2iMZxrxRYFMs6.sd_117-swt_16-imt_6-t_2iMZxrxRYFMs6-lc_16-fcid_20004461-pid_180-pit_1-dit_154",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mill1y.16.36598-69000.2iMZxrxRYFMs6.sd_117-swt_16-imt_6-t_2iMZxrxRYFMs6-lc_16-fcid_20004461-pid_180-pit_1-dit_154",
+            "price_taglist": [],
+            "title": "仙气十足夏季新款韩范娃娃领减龄宽松雪纺衫星星荷叶边短袖衬衫女",
+            "orgPrice": 99,
+            "props": [
+                "宽松雪纺衫",
+                "娃娃领",
+                "荷叶边",
+                "韩范",
+                "减龄",
+                "星星"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 1379,
+            "price": 69,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.67",
+                "descDsr": "4.67",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.87"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mill1y&acm=3.ms.1_4_1mill1y.16.36598-69000.2iMZxrxRYFMs6.sd_117-swt_16-imt_6-t_2iMZxrxRYFMs6-lc_16-fcid_20004461-pid_180-pit_1-dit_154&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "小茉莉fashion之家"
+        }
+    ]
+}

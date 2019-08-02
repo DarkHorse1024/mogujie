@@ -1,0 +1,1985 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "179k3ga",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1172uqnq",
+                "sellerId": "179k3ga"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "曹***9",
+                            "avatar": "https://s11.mogucdn.com/p1/160105/idid_ifrwenjuhfsggntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "rateId": "117k0il8",
+                        "content": "年前买的东西到现在没有见，不知道去哪里了，还不给退款，在也不会在买你们家东西了",
+                        "created": 1550495997,
+                        "isAnonymous": 1,
+                        "style": "颜色:黑色+肤色 尺码:38/85 BC可穿【薄杯】 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    },
+                    {
+                        "user": {
+                            "uname": "薄***心",
+                            "avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrwem3ggvswgntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190227_396a232e686dfh9gl349cfkcl30i7_1080x1440.jpg"
+                        ],
+                        "rateId": "117ma0zi",
+                        "content": "快递收到了，和图片一模一样，挺好的，第一次买这样的价钱，给好评，祝老板生意兴隆",
+                        "created": 1551263066,
+                        "isAnonymous": 1,
+                        "style": "颜色:红色+红色 尺码:38/85 AB通用【厚杯】 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    }
+                ],
+                "cRate": 166,
+                "imgTotal": 24,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 24,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 21,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 17,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 10,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "服务",
+                        "value": "卖家服务很好",
+                        "num": 8,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "物流",
+                        "value": "物流快",
+                        "num": 7,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 726
+            },
+            "itemInfo": {
+                "desc": "【复古蕾丝】精美的性感镂空织花复古设计，半掩心机深V露乳沟 质感柔软的透气衬里，镂空别致吊角杯设计，聚拢效果更佳。轻巧的【立体】镂空花边罩沿温柔的包裹住双乳，饱含挑逗意味 缎带蝴蝶结珍珠点缀在中心位，设计感十足。【U型美背】减压舒适提供稳固的支撑",
+                "title": "【买一件送同款一件】无钢圈调整型蕾丝背心收副乳内衣聚拢小胸罩厚薄款大码文胸",
+                "itemId": "1m7h2cu",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 1529,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "【买一件送同款一件】无钢圈调整型蕾丝背心收副乳内衣聚拢小胸罩厚薄款大码文胸",
+                    "wap_url": "//m.mogujie.com/x6/detail/1m7h2cu",
+                    "description": "来自蘑菇街优店女士内衣/家居服_文胸_服饰鞋包家【复古蕾丝】精美的性感镂空织花复古设计，半掩心机深V露乳沟 质感柔软的透气衬里，镂空别致吊角杯设计，聚拢效果更佳。轻巧的【立体】镂空花边罩沿温柔的包裹住双乳，饱含挑逗意味 缎带蝴蝶结珍珠点缀在中心位，设计感十足。【U型美背】减压舒适提供稳固的支撑的【买一件送同款一件】无钢圈调整型蕾丝背心收副乳内衣聚拢小胸罩厚薄款大码文胸，发现当季女士内衣和魅蝶恋人旗舰店搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1m7h2cu",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1m7h2cu",
+                    "seo_noindex": "0",
+                    "title": "【【买一件送同款一件】无钢圈调整型蕾丝背心收副乳内衣聚拢小胸罩厚薄款大码文胸】-女士内衣-女士内衣/家居服_文胸_服饰鞋包-魅蝶恋人旗舰店-蘑菇街优店"
+                },
+                "type": 100,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 726,
+                    "isFreePost": true,
+                    "express": "默认快递",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "70.00",
+                "highPrice": "70.00",
+                "lowNowPrice": "49.00",
+                "highNowPrice": "49.00",
+                "brandName": "魅蝶恋人",
+                "nowTime": 1564640396,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "49.00",
+                "oldPrice": "70.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "抢购价",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "49.00",
+                "normalPrice": "49.00",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564640396,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.74,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.76,
+                        "isBetter": true
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "买一送一专区",
+                        "link": "http://shop.mogu.com/1172uqnq/list/index?categoryId=20301779"
+                    },
+                    {
+                        "name": "调整型专区",
+                        "link": "http://shop.mogu.com/1172uqnq/list/index?categoryId=20301780"
+                    },
+                    {
+                        "name": "薄款专区",
+                        "link": "http://shop.mogu.com/1172uqnq/list/index?categoryId=20301782"
+                    },
+                    {
+                        "name": "超聚拢专区",
+                        "link": "http://shop.mogu.com/1172uqnq/list/index?categoryId=20301783"
+                    },
+                    {
+                        "name": "美背专区",
+                        "link": "http://shop.mogu.com/1172uqnq/list/index?categoryId=20363557"
+                    }
+                ],
+                "cFans": "6966",
+                "cSells": "49.5万",
+                "isMarked": false,
+                "cGoods": 124,
+                "userId": "179k3ga",
+                "shopLogo": "https://s11.mogucdn.com/mlcdn/c45406/171021_3g8eh9l19hbg75f0a9hbdj26e26b1_200x200.jpg",
+                "name": "魅蝶恋人旗舰店",
+                "shopId": "1172uqnq",
+                "type": 2,
+                "level": 4,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1172uqnq",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "collcationSet": {
+                "itemId": "1m7h2cu",
+                "sellerId": "179k3ga",
+                "collcationSetList": [
+                    {
+                        "name": "套餐一",
+                        "promotionMark": "collocationSet_700014321838",
+                        "campaignId": 700014321838,
+                        "collocationSetItemGroupDTOs": [
+                            {
+                                "img": "https://s5.mogucdn.com/mlcdn/c45406/180119_2db5b3459gfd0gee916bl8b6g305c_640x960.jpg",
+                                "title": "【两条装】（买二送一发6条）基础款纯色简约低腰少女内裤舒适透气性感棉学生裤头女",
+                                "itemId": 657055201,
+                                "iid": "1lqdy4a",
+                                "proPrice": 990,
+                                "originalPrice": 2400,
+                                "defaultPrice": "¥9.9",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1067093928,
+                                        "proPrice": 990
+                                    },
+                                    {
+                                        "stockId": 1067093927,
+                                        "proPrice": 990
+                                    },
+                                    {
+                                        "stockId": 1067093930,
+                                        "proPrice": 990
+                                    },
+                                    {
+                                        "stockId": 1067093929,
+                                        "proPrice": 990
+                                    },
+                                    {
+                                        "stockId": 1067093931,
+                                        "proPrice": 990
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_190h8jj3jk0l1i46g8050fg62c344_640x960.jpg",
+                                "title": "【买一件送同款一件】无钢圈调整型蕾丝背心收副乳内衣聚拢小胸罩厚薄款大码文胸",
+                                "itemId": 671404667,
+                                "iid": "1m7h2cu",
+                                "proPrice": 4600,
+                                "originalPrice": 7000,
+                                "defaultPrice": "¥46",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1286336250,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336249,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336276,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336252,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336251,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336248,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336317,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336309,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336260,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336308,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336259,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336311,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336262,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336310,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336261,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336268,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336267,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336270,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336295,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336269,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336294,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336264,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336263,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336266,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336265,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336257,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336278,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336254,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336277,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336253,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336280,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336256,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336279,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336255,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336287,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336286,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336313,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336289,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336312,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336288,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336283,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336282,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336285,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336284,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336275,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336281,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336272,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336297,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336271,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336296,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336274,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336273,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336298,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336305,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336304,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336307,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336258,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336306,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336301,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336300,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336303,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336302,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336299,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336315,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336291,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336314,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336290,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336293,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336316,
+                                        "proPrice": 4600
+                                    },
+                                    {
+                                        "stockId": 1286336292,
+                                        "proPrice": 4600
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "【复古蕾丝】精美的性感镂空织花复古设计，半掩心机深V露乳沟 质感柔软的透气衬里，镂空别致吊角杯设计，聚拢效果更佳。轻巧的【立体】镂空花边罩沿温柔的包裹住双乳，饱含挑逗意味 缎带蝴蝶结珍珠点缀在中心位，设计感十足。【U型美背】减压舒适提供稳固的支撑",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_3ce1hlj5la8keee23h9l7ak3370g1_750x948.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_47fg3ffe0g86gcf8h6g7c71blc7dd_750x820.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_5708hgi005dj2937l0d6kb0d8f3g7_750x575.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180820_1bke439fhkf6f5hgh7eef4e735c63_750x688.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180820_52fhb32jk61f6i995hbf4ifcf33eh_750x645.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_3bj0cjdbkghc22k75de2c72b3acc7_750x693.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180820_41ll39lfcl0718illhecba070ib30_750x622.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_31ie6h8j72eihci75cbc64ka6g10f_750x665.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_691hbe1696a36lcd05ejd8gik4647_750x534.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "整体款式",
+                        "anchor": "baipai_img2",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_37hhg3lcfg5614d7kk4lijgb6b505_750x693.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_0eh564gbk10g6ic0j7cgiki0h055l_750x674.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180820_26731kcafjh3agdg16hd4g55jhlji_750x767.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180820_562f7c291558hlkh38h2k3fgjedb6_750x789.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180820_8c5id1f94ld5fh0k01k5582h8agc2_750x723.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_7439i8dil26g09ggffia2038lgh3d_750x782.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180820_4cke5e49396cef9jl96i4cck4hbb0_750x726.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_7aa5ja4c3b3dk5je31edlkkec5k14_750x765.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "细节做工",
+                        "anchor": "detail_img",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_78c120859jldc946jk0ic7adl5al2_750x804.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_535j98ljk0k746d7ek76d5lg66ckl_750x623.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_24f3d7hl8bc7l1ck6db611hikk87c_750x624.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_1e6g1bfba9l72gbehd9ae813gil3j_750x596.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180820_6ikg6al2k8d98dgc1h4fdga47lfcb_750x462.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_1kc5dfi8a1j8c43f1cfib464dj698_750x500.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180820_8h77k76ch4ld1ll6ae865g721i2i6_750x900.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180820_2gd0gfb5a3e491d61jibj0l5hf385_750x717.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564640396,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s5.mogucdn.com/mlcdn/c45406/180820_190h8jj3jk0l1i46g8050fg62c344_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180820_2c2ei25kd3lgb624d1lc57edcahk2_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180820_57e0g8i1130jg9268fcdckf7k8447_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180820_329j9llj5kh9diigb23j7f453kfkl_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "【买一件送同款一件】无钢圈调整型蕾丝背心收副乳内衣聚拢小胸罩厚薄款大码文胸",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1m7h2cu&from=share",
+                "imageUrl": "https://s5.mogucdn.com/mlcdn/c45406/180820_190h8jj3jk0l1i46g8050fg62c344_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "纯色",
+                        "侧翼面料": "锦纶",
+                        "颜色": "粉色+粉色,红色+红色,黑色+红色,肤色+粉色,黑色+肤色,黑色+黑色,肤色+红色,粉色+红色,黑色+粉色,肤色+肤色",
+                        "罩杯厚度": "上薄下厚模杯",
+                        "消费群体": "青年女性",
+                        "尺码": "34/75 BC可穿【薄杯】,34/75 AB通用【厚杯】,36/80 BC可穿【薄杯】,32/70  AB通用【厚杯】,38/85 AB通用【厚杯】,38/85 BC可穿【薄杯】,36/80 AB通用【厚杯】",
+                        "罩杯型": "全罩杯",
+                        "罩杯里料": "棉",
+                        "肩带": "固定后卸式肩带",
+                        "钢圈": "无钢圈",
+                        "功能": "聚拢",
+                        "季节": "秋冬",
+                        "外形设计": "背心式",
+                        "插片": "无插片",
+                        "搭扣": "后四排搭扣",
+                        "风格": "性感,复古",
+                        "罩杯面料": "锦纶"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "上胸围",
+                                "下胸围",
+                                "罩杯"
+                            ],
+                            [
+                                "32/70  AB通用【厚杯】",
+                                "80—85",
+                                "68—72",
+                                "AB通用【厚杯】"
+                            ],
+                            [
+                                "34/75 AB通用【厚杯】",
+                                "85—88",
+                                "73—77",
+                                "AB通用【厚杯】"
+                            ],
+                            [
+                                "36/80 AB通用【厚杯】",
+                                "90—93",
+                                "78—82",
+                                "AB通用【厚杯】"
+                            ],
+                            [
+                                "38/85 AB通用【厚杯】",
+                                "95—98",
+                                "83—87",
+                                "AB通用【厚杯】"
+                            ],
+                            [
+                                "34/75 BC可穿【薄杯】",
+                                "88—90",
+                                "73—77",
+                                "BC可穿【薄杯】"
+                            ],
+                            [
+                                "36/80 BC可穿【薄杯】",
+                                "93—95",
+                                "78—82",
+                                "BC可穿【薄杯】"
+                            ],
+                            [
+                                "38/85 BC可穿【薄杯】",
+                                "98—100",
+                                "83—87",
+                                "BC可穿【薄杯】"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "49.00",
+                "oldPrice": "70.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "抢购价",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 726",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1m7h2cu",
+                "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_190h8jj3jk0l1i46g8050fg62c344_640x960.jpg",
+                "isJdItem": false,
+                "title": "【买一件送同款一件】无钢圈调整型蕾丝背心收副乳内衣聚拢小胸罩厚薄款大码文胸",
+                "skus": [
+                    {
+                        "stockId": "116jpaug",
+                        "xdSkuId": "116jpaug",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_20kh3ll4ekk73lb7k3692bha4h4gk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 766,
+                        "style": "黑色+黑色",
+                        "color": "",
+                        "size": "32/70  AB通用【厚杯】",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "116jpaui",
+                        "xdSkuId": "116jpaui",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_20kh3ll4ekk73lb7k3692bha4h4gk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 756,
+                        "style": "黑色+黑色",
+                        "color": "",
+                        "size": "34/75 AB通用【厚杯】",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "116jpauk",
+                        "xdSkuId": "116jpauk",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_20kh3ll4ekk73lb7k3692bha4h4gk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 866,
+                        "style": "黑色+黑色",
+                        "color": "",
+                        "size": "36/80 AB通用【厚杯】",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "116jpaum",
+                        "xdSkuId": "116jpaum",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_20kh3ll4ekk73lb7k3692bha4h4gk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 824,
+                        "style": "黑色+黑色",
+                        "color": "",
+                        "size": "38/85 AB通用【厚杯】",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "116jpauo",
+                        "xdSkuId": "116jpauo",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_20kh3ll4ekk73lb7k3692bha4h4gk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 867,
+                        "style": "黑色+黑色",
+                        "color": "",
+                        "size": "34/75 BC可穿【薄杯】",
+                        "styleId": 1,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "116jpauq",
+                        "xdSkuId": "116jpauq",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_20kh3ll4ekk73lb7k3692bha4h4gk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 918,
+                        "style": "黑色+黑色",
+                        "color": "",
+                        "size": "36/80 BC可穿【薄杯】",
+                        "styleId": 1,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "116jpaus",
+                        "xdSkuId": "116jpaus",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_20kh3ll4ekk73lb7k3692bha4h4gk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 860,
+                        "style": "黑色+黑色",
+                        "color": "",
+                        "size": "38/85 BC可穿【薄杯】",
+                        "styleId": 1,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "116jpauu",
+                        "xdSkuId": "116jpauu",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_8h0e800hcg9j94fe6i264lb443b70_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 739,
+                        "style": "黑色+肤色",
+                        "color": "",
+                        "size": "32/70  AB通用【厚杯】",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "116jpauw",
+                        "xdSkuId": "116jpauw",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_8h0e800hcg9j94fe6i264lb443b70_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 675,
+                        "style": "黑色+肤色",
+                        "color": "",
+                        "size": "34/75 AB通用【厚杯】",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "116jpav0",
+                        "xdSkuId": "116jpav0",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_8h0e800hcg9j94fe6i264lb443b70_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 682,
+                        "style": "黑色+肤色",
+                        "color": "",
+                        "size": "36/80 AB通用【厚杯】",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "116jpauy",
+                        "xdSkuId": "116jpauy",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_8h0e800hcg9j94fe6i264lb443b70_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 753,
+                        "style": "黑色+肤色",
+                        "color": "",
+                        "size": "38/85 AB通用【厚杯】",
+                        "styleId": 2,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "116jpav2",
+                        "xdSkuId": "116jpav2",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_8h0e800hcg9j94fe6i264lb443b70_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 699,
+                        "style": "黑色+肤色",
+                        "color": "",
+                        "size": "34/75 BC可穿【薄杯】",
+                        "styleId": 2,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "116jpav4",
+                        "xdSkuId": "116jpav4",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_8h0e800hcg9j94fe6i264lb443b70_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 838,
+                        "style": "黑色+肤色",
+                        "color": "",
+                        "size": "36/80 BC可穿【薄杯】",
+                        "styleId": 2,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "116jpav6",
+                        "xdSkuId": "116jpav6",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_8h0e800hcg9j94fe6i264lb443b70_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 780,
+                        "style": "黑色+肤色",
+                        "color": "",
+                        "size": "38/85 BC可穿【薄杯】",
+                        "styleId": 2,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "116jpav8",
+                        "xdSkuId": "116jpav8",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_28865g1496i6j606ajh038h979kjk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 706,
+                        "style": "黑色+粉色",
+                        "color": "",
+                        "size": "32/70  AB通用【厚杯】",
+                        "styleId": 3,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "116jpava",
+                        "xdSkuId": "116jpava",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_28865g1496i6j606ajh038h979kjk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 653,
+                        "style": "黑色+粉色",
+                        "color": "",
+                        "size": "34/75 AB通用【厚杯】",
+                        "styleId": 3,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "116jpavi",
+                        "xdSkuId": "116jpavi",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_28865g1496i6j606ajh038h979kjk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 770,
+                        "style": "黑色+粉色",
+                        "color": "",
+                        "size": "36/80 AB通用【厚杯】",
+                        "styleId": 3,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "116jpavc",
+                        "xdSkuId": "116jpavc",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_28865g1496i6j606ajh038h979kjk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 693,
+                        "style": "黑色+粉色",
+                        "color": "",
+                        "size": "38/85 AB通用【厚杯】",
+                        "styleId": 3,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "116jpave",
+                        "xdSkuId": "116jpave",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_28865g1496i6j606ajh038h979kjk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 687,
+                        "style": "黑色+粉色",
+                        "color": "",
+                        "size": "34/75 BC可穿【薄杯】",
+                        "styleId": 3,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "116jpavg",
+                        "xdSkuId": "116jpavg",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_28865g1496i6j606ajh038h979kjk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 661,
+                        "style": "黑色+粉色",
+                        "color": "",
+                        "size": "36/80 BC可穿【薄杯】",
+                        "styleId": 3,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "116jpavk",
+                        "xdSkuId": "116jpavk",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_28865g1496i6j606ajh038h979kjk_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 641,
+                        "style": "黑色+粉色",
+                        "color": "",
+                        "size": "38/85 BC可穿【薄杯】",
+                        "styleId": 3,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "116jpavm",
+                        "xdSkuId": "116jpavm",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_0d5e8dgk424hfdk0h5ae9kff5bjge_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 792,
+                        "style": "黑色+红色",
+                        "color": "",
+                        "size": "32/70  AB通用【厚杯】",
+                        "styleId": 4,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "116jpavo",
+                        "xdSkuId": "116jpavo",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_0d5e8dgk424hfdk0h5ae9kff5bjge_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 768,
+                        "style": "黑色+红色",
+                        "color": "",
+                        "size": "34/75 AB通用【厚杯】",
+                        "styleId": 4,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "116jpavq",
+                        "xdSkuId": "116jpavq",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_0d5e8dgk424hfdk0h5ae9kff5bjge_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 736,
+                        "style": "黑色+红色",
+                        "color": "",
+                        "size": "36/80 AB通用【厚杯】",
+                        "styleId": 4,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "116jpavs",
+                        "xdSkuId": "116jpavs",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_0d5e8dgk424hfdk0h5ae9kff5bjge_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 768,
+                        "style": "黑色+红色",
+                        "color": "",
+                        "size": "38/85 AB通用【厚杯】",
+                        "styleId": 4,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "116jpavu",
+                        "xdSkuId": "116jpavu",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_0d5e8dgk424hfdk0h5ae9kff5bjge_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 792,
+                        "style": "黑色+红色",
+                        "color": "",
+                        "size": "34/75 BC可穿【薄杯】",
+                        "styleId": 4,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "116jpavw",
+                        "xdSkuId": "116jpavw",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_0d5e8dgk424hfdk0h5ae9kff5bjge_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 736,
+                        "style": "黑色+红色",
+                        "color": "",
+                        "size": "36/80 BC可穿【薄杯】",
+                        "styleId": 4,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "116jpavy",
+                        "xdSkuId": "116jpavy",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_0d5e8dgk424hfdk0h5ae9kff5bjge_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 740,
+                        "style": "黑色+红色",
+                        "color": "",
+                        "size": "38/85 BC可穿【薄杯】",
+                        "styleId": 4,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "116jpaw0",
+                        "xdSkuId": "116jpaw0",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_87lfdl13jkh7481f8f5869gdl2aik_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 775,
+                        "style": "肤色+肤色",
+                        "color": "",
+                        "size": "32/70  AB通用【厚杯】",
+                        "styleId": 5,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "116jpaw2",
+                        "xdSkuId": "116jpaw2",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_87lfdl13jkh7481f8f5869gdl2aik_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 766,
+                        "style": "肤色+肤色",
+                        "color": "",
+                        "size": "34/75 AB通用【厚杯】",
+                        "styleId": 5,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "116jpaw4",
+                        "xdSkuId": "116jpaw4",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_87lfdl13jkh7481f8f5869gdl2aik_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 776,
+                        "style": "肤色+肤色",
+                        "color": "",
+                        "size": "36/80 AB通用【厚杯】",
+                        "styleId": 5,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "116jpaw6",
+                        "xdSkuId": "116jpaw6",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_87lfdl13jkh7481f8f5869gdl2aik_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 804,
+                        "style": "肤色+肤色",
+                        "color": "",
+                        "size": "38/85 AB通用【厚杯】",
+                        "styleId": 5,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "116jpaw8",
+                        "xdSkuId": "116jpaw8",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_87lfdl13jkh7481f8f5869gdl2aik_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 743,
+                        "style": "肤色+肤色",
+                        "color": "",
+                        "size": "34/75 BC可穿【薄杯】",
+                        "styleId": 5,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "116jpawa",
+                        "xdSkuId": "116jpawa",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_87lfdl13jkh7481f8f5869gdl2aik_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 828,
+                        "style": "肤色+肤色",
+                        "color": "",
+                        "size": "36/80 BC可穿【薄杯】",
+                        "styleId": 5,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "116jpawc",
+                        "xdSkuId": "116jpawc",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_87lfdl13jkh7481f8f5869gdl2aik_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 842,
+                        "style": "肤色+肤色",
+                        "color": "",
+                        "size": "38/85 BC可穿【薄杯】",
+                        "styleId": 5,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "116jpawe",
+                        "xdSkuId": "116jpawe",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_056086bkfck02db7095316bc9gab5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 726,
+                        "style": "肤色+粉色",
+                        "color": "",
+                        "size": "32/70  AB通用【厚杯】",
+                        "styleId": 6,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "116jpawi",
+                        "xdSkuId": "116jpawi",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_056086bkfck02db7095316bc9gab5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 691,
+                        "style": "肤色+粉色",
+                        "color": "",
+                        "size": "34/75 AB通用【厚杯】",
+                        "styleId": 6,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "116jpawg",
+                        "xdSkuId": "116jpawg",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_056086bkfck02db7095316bc9gab5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 644,
+                        "style": "肤色+粉色",
+                        "color": "",
+                        "size": "36/80 AB通用【厚杯】",
+                        "styleId": 6,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "116jpawk",
+                        "xdSkuId": "116jpawk",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_056086bkfck02db7095316bc9gab5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 638,
+                        "style": "肤色+粉色",
+                        "color": "",
+                        "size": "38/85 AB通用【厚杯】",
+                        "styleId": 6,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "116jpawm",
+                        "xdSkuId": "116jpawm",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_056086bkfck02db7095316bc9gab5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 679,
+                        "style": "肤色+粉色",
+                        "color": "",
+                        "size": "34/75 BC可穿【薄杯】",
+                        "styleId": 6,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "116jpawo",
+                        "xdSkuId": "116jpawo",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_056086bkfck02db7095316bc9gab5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 577,
+                        "style": "肤色+粉色",
+                        "color": "",
+                        "size": "36/80 BC可穿【薄杯】",
+                        "styleId": 6,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "116jpawq",
+                        "xdSkuId": "116jpawq",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_056086bkfck02db7095316bc9gab5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 659,
+                        "style": "肤色+粉色",
+                        "color": "",
+                        "size": "38/85 BC可穿【薄杯】",
+                        "styleId": 6,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "116jpaws",
+                        "xdSkuId": "116jpaws",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_103299djc4haihi79l82d9fh0eahb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 684,
+                        "style": "肤色+红色",
+                        "color": "",
+                        "size": "32/70  AB通用【厚杯】",
+                        "styleId": 7,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "116jpawu",
+                        "xdSkuId": "116jpawu",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_103299djc4haihi79l82d9fh0eahb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 749,
+                        "style": "肤色+红色",
+                        "color": "",
+                        "size": "34/75 AB通用【厚杯】",
+                        "styleId": 7,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "116jpaww",
+                        "xdSkuId": "116jpaww",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_103299djc4haihi79l82d9fh0eahb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 571,
+                        "style": "肤色+红色",
+                        "color": "",
+                        "size": "36/80 AB通用【厚杯】",
+                        "styleId": 7,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "116jpawy",
+                        "xdSkuId": "116jpawy",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_103299djc4haihi79l82d9fh0eahb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 724,
+                        "style": "肤色+红色",
+                        "color": "",
+                        "size": "38/85 AB通用【厚杯】",
+                        "styleId": 7,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "116jpax0",
+                        "xdSkuId": "116jpax0",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_103299djc4haihi79l82d9fh0eahb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 724,
+                        "style": "肤色+红色",
+                        "color": "",
+                        "size": "34/75 BC可穿【薄杯】",
+                        "styleId": 7,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "116jpax2",
+                        "xdSkuId": "116jpax2",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_103299djc4haihi79l82d9fh0eahb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 699,
+                        "style": "肤色+红色",
+                        "color": "",
+                        "size": "36/80 BC可穿【薄杯】",
+                        "styleId": 7,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "116jpax4",
+                        "xdSkuId": "116jpax4",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_103299djc4haihi79l82d9fh0eahb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 631,
+                        "style": "肤色+红色",
+                        "color": "",
+                        "size": "38/85 BC可穿【薄杯】",
+                        "styleId": 7,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "116jpax6",
+                        "xdSkuId": "116jpax6",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_21149g288lebi81eh0dcdblagk661_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 717,
+                        "style": "粉色+粉色",
+                        "color": "",
+                        "size": "32/70  AB通用【厚杯】",
+                        "styleId": 8,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "116jpax8",
+                        "xdSkuId": "116jpax8",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_21149g288lebi81eh0dcdblagk661_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 718,
+                        "style": "粉色+粉色",
+                        "color": "",
+                        "size": "34/75 AB通用【厚杯】",
+                        "styleId": 8,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "116jpaxg",
+                        "xdSkuId": "116jpaxg",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_21149g288lebi81eh0dcdblagk661_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 669,
+                        "style": "粉色+粉色",
+                        "color": "",
+                        "size": "36/80 AB通用【厚杯】",
+                        "styleId": 8,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "116jpaxa",
+                        "xdSkuId": "116jpaxa",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_21149g288lebi81eh0dcdblagk661_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 667,
+                        "style": "粉色+粉色",
+                        "color": "",
+                        "size": "38/85 AB通用【厚杯】",
+                        "styleId": 8,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "116jpaxc",
+                        "xdSkuId": "116jpaxc",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_21149g288lebi81eh0dcdblagk661_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 681,
+                        "style": "粉色+粉色",
+                        "color": "",
+                        "size": "34/75 BC可穿【薄杯】",
+                        "styleId": 8,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "116jpaxe",
+                        "xdSkuId": "116jpaxe",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_21149g288lebi81eh0dcdblagk661_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 690,
+                        "style": "粉色+粉色",
+                        "color": "",
+                        "size": "36/80 BC可穿【薄杯】",
+                        "styleId": 8,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "116jpaxi",
+                        "xdSkuId": "116jpaxi",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180820_21149g288lebi81eh0dcdblagk661_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 729,
+                        "style": "粉色+粉色",
+                        "color": "",
+                        "size": "38/85 BC可穿【薄杯】",
+                        "styleId": 8,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "116jpaxk",
+                        "xdSkuId": "116jpaxk",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_33clii4dg1f32dfe5f5327d310589_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 627,
+                        "style": "粉色+红色",
+                        "color": "",
+                        "size": "32/70  AB通用【厚杯】",
+                        "styleId": 9,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "116jpaxm",
+                        "xdSkuId": "116jpaxm",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_33clii4dg1f32dfe5f5327d310589_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 625,
+                        "style": "粉色+红色",
+                        "color": "",
+                        "size": "34/75 AB通用【厚杯】",
+                        "styleId": 9,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "116jpaxo",
+                        "xdSkuId": "116jpaxo",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_33clii4dg1f32dfe5f5327d310589_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 649,
+                        "style": "粉色+红色",
+                        "color": "",
+                        "size": "36/80 AB通用【厚杯】",
+                        "styleId": 9,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "116jpaxq",
+                        "xdSkuId": "116jpaxq",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_33clii4dg1f32dfe5f5327d310589_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 620,
+                        "style": "粉色+红色",
+                        "color": "",
+                        "size": "38/85 AB通用【厚杯】",
+                        "styleId": 9,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "116jpaxs",
+                        "xdSkuId": "116jpaxs",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_33clii4dg1f32dfe5f5327d310589_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 609,
+                        "style": "粉色+红色",
+                        "color": "",
+                        "size": "34/75 BC可穿【薄杯】",
+                        "styleId": 9,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "116jpaxw",
+                        "xdSkuId": "116jpaxw",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_33clii4dg1f32dfe5f5327d310589_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 568,
+                        "style": "粉色+红色",
+                        "color": "",
+                        "size": "36/80 BC可穿【薄杯】",
+                        "styleId": 9,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "116jpaxu",
+                        "xdSkuId": "116jpaxu",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_33clii4dg1f32dfe5f5327d310589_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 576,
+                        "style": "粉色+红色",
+                        "color": "",
+                        "size": "38/85 BC可穿【薄杯】",
+                        "styleId": 9,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "116jpaxy",
+                        "xdSkuId": "116jpaxy",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_83i54a21hg472d46jkcflca9chk40_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 813,
+                        "style": "红色+红色",
+                        "color": "",
+                        "size": "32/70  AB通用【厚杯】",
+                        "styleId": 10,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "116jpay0",
+                        "xdSkuId": "116jpay0",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_83i54a21hg472d46jkcflca9chk40_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 797,
+                        "style": "红色+红色",
+                        "color": "",
+                        "size": "34/75 AB通用【厚杯】",
+                        "styleId": 10,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "116jpay4",
+                        "xdSkuId": "116jpay4",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_83i54a21hg472d46jkcflca9chk40_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 685,
+                        "style": "红色+红色",
+                        "color": "",
+                        "size": "36/80 AB通用【厚杯】",
+                        "styleId": 10,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "116jpay2",
+                        "xdSkuId": "116jpay2",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_83i54a21hg472d46jkcflca9chk40_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 890,
+                        "style": "红色+红色",
+                        "color": "",
+                        "size": "38/85 AB通用【厚杯】",
+                        "styleId": 10,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "116jpay6",
+                        "xdSkuId": "116jpay6",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_83i54a21hg472d46jkcflca9chk40_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 867,
+                        "style": "红色+红色",
+                        "color": "",
+                        "size": "34/75 BC可穿【薄杯】",
+                        "styleId": 10,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "116jpay8",
+                        "xdSkuId": "116jpay8",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_83i54a21hg472d46jkcflca9chk40_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 977,
+                        "style": "红色+红色",
+                        "color": "",
+                        "size": "36/80 BC可穿【薄杯】",
+                        "styleId": 10,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "116jpaya",
+                        "xdSkuId": "116jpaya",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180820_83i54a21hg472d46jkcflca9chk40_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 974,
+                        "style": "红色+红色",
+                        "color": "",
+                        "size": "38/85 BC可穿【薄杯】",
+                        "styleId": 10,
+                        "sizeId": 106
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "黑色+黑色",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "黑色+肤色",
+                                "index": 2,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 3,
+                                "name": "黑色+粉色",
+                                "index": 3,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 4,
+                                "name": "黑色+红色",
+                                "index": 4,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 5,
+                                "name": "肤色+肤色",
+                                "index": 5,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 6,
+                                "name": "肤色+粉色",
+                                "index": 6,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 7,
+                                "name": "肤色+红色",
+                                "index": 7,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 8,
+                                "name": "粉色+粉色",
+                                "index": 8,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 9,
+                                "name": "粉色+红色",
+                                "index": 9,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 10,
+                                "name": "红色+红色",
+                                "index": 10,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "32/70  AB通用【厚杯】",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "34/75 AB通用【厚杯】",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "36/80 AB通用【厚杯】",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "38/85 AB通用【厚杯】",
+                                "index": 103,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 104,
+                                "default": false,
+                                "name": "34/75 BC可穿【薄杯】",
+                                "index": 104,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 105,
+                                "default": false,
+                                "name": "36/80 BC可穿【薄杯】",
+                                "index": 105,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 106,
+                                "default": false,
+                                "name": "38/85 BC可穿【薄杯】",
+                                "index": 106,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥49.00",
+                "defaultPrice": "¥49.00",
+                "totalStock": 51244,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

@@ -1,0 +1,722 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "132yslk",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1c3ojc",
+                "sellerId": "132yslk"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "C***q",
+                            "avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrtmoddmnsggntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190719_0bgh0h3749c43jb35950e61jbfi73_1080x1540.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190719_44gc7jj21l5dc2f72kk4099lc5a42_1080x1156.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190719_35gge8k2e5g1k92297k634e7lhikf_1080x1480.jpg"
+                        ],
+                        "rateId": "118kw1gy",
+                        "content": "裤子超级喜欢，上身效果特别好！显得自己又瘦又高！穿件露脐装，完全就是开了长腿特效啊！裤子面料也很好，比我在别家买的要厚，但是透气性很好！很凉快！",
+                        "created": 1563514269,
+                        "isAnonymous": 1,
+                        "style": "颜色:银灰色 尺码:L(适合106-120斤） ",
+                        "isEmpty": 1,
+                        "explain": "[商家回复]:感谢您对我们的支持，在亲的鼓励与支持下我们会做得更加努力！欢迎亲的下次光临~~",
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    },
+                    {
+                        "user": {
+                            "uname": "ytzy2008",
+                            "avatar": "https://s5.mogucdn.com/mlcdn/5abf39/171219_0eek40kc6b66352c7j27g3i188ijl_640x640.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190710_7jbjck38l9aacj0e83f757a439191_720x904.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190710_64731fh5cl8ccke9ll5acic2elch3_720x900.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190710_70f6dcd7hia2fi5hi5lcfc8d57jcl_720x994.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190710_2abj597kcc6h7ic44aj546eea57i5_720x720.jpg"
+                        ],
+                        "rateId": "118iqt1a",
+                        "content": "裤子非常不错啊！特别喜欢，没想到这个价格有这么好的质量，太喜欢了大爱！穿着特别显瘦",
+                        "created": 1562721713,
+                        "isAnonymous": 0,
+                        "style": "颜色:气质黑 尺码:M(适合91-105斤） ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    }
+                ],
+                "cRate": 133,
+                "imgTotal": 8,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 8,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 24,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 15,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 9,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "做工",
+                        "value": "做工不错",
+                        "num": 6,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 6,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 2289
+            },
+            "itemInfo": {
+                "desc": "你和大长腿只差一条拖地裤",
+                "title": "阔腿裤女夏季宽松泫雅风垂感高腰显瘦百褶坠感直筒休闲拖地长裤",
+                "itemId": "1minnqg",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 2992,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "阔腿裤女夏季宽松泫雅风垂感高腰显瘦百褶坠感直筒休闲拖地长裤",
+                    "wap_url": "//m.mogujie.com/x6/detail/1minnqg",
+                    "description": "来自蘑菇街优店休闲裤_裤子_女装_服饰鞋包家你和大长腿只差一条拖地裤的阔腿裤女夏季宽松泫雅风垂感高腰显瘦百褶坠感直筒休闲拖地长裤，发现当季女装和雅羊人爱美丽搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1minnqg",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1minnqg",
+                    "seo_noindex": "0",
+                    "title": "【阔腿裤女夏季宽松泫雅风垂感高腰显瘦百褶坠感直筒休闲拖地长裤】-女装-休闲裤_裤子_女装_服饰鞋包-雅羊人爱美丽-蘑菇街优店"
+                },
+                "type": 8,
+                "video": {
+                    "cover": "https://s11.mogucdn.com/mlcdn/c45406/190627_056fed501c00l6b67lckhi28biija_800x1200.jpg",
+                    "videoId": 1531226,
+                    "width": 960,
+                    "height": 1280
+                },
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 2289,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "address": "浙江金华",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "70.00",
+                "highPrice": "70.00",
+                "lowNowPrice": "49.00",
+                "highNowPrice": "49.00",
+                "brandName": "雅羊人爱美丽",
+                "nowTime": 1564638796,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "49.00",
+                "oldPrice": "70.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "特惠中",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "49.00",
+                "normalPrice": "49.00",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564638796,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.7,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.7,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "48小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "夏季热卖",
+                        "link": "http://shop.mogu.com/1c3ojc/list/index?categoryId=20350128"
+                    },
+                    {
+                        "name": "修身打底裤",
+                        "link": "http://shop.mogu.com/1c3ojc/list/index?categoryId=20350129"
+                    },
+                    {
+                        "name": "时尚牛仔裤",
+                        "link": "http://shop.mogu.com/1c3ojc/list/index?categoryId=20350132"
+                    },
+                    {
+                        "name": "热裤/短裤",
+                        "link": "http://shop.mogu.com/1c3ojc/list/index?categoryId=20350133"
+                    },
+                    {
+                        "name": "性感半身裙",
+                        "link": "http://shop.mogu.com/1c3ojc/list/index?categoryId=20350134"
+                    },
+                    {
+                        "name": "2019夏季新款",
+                        "link": "http://shop.mogu.com/1c3ojc/list/index?categoryId=20356940"
+                    },
+                    {
+                        "name": "简约雪纺裤",
+                        "link": "http://shop.mogu.com/1c3ojc/list/index?categoryId=20362974"
+                    },
+                    {
+                        "name": "简约运动裤",
+                        "link": "http://shop.mogu.com/1c3ojc/list/index?categoryId=20362975"
+                    },
+                    {
+                        "name": "潮流工装裤",
+                        "link": "http://shop.mogu.com/1c3ojc/list/index?categoryId=20364870"
+                    }
+                ],
+                "cFans": "78137",
+                "cSells": "158.0万",
+                "isMarked": false,
+                "cGoods": 96,
+                "userId": "132yslk",
+                "shopLogo": "https://s11.mogucdn.com/mlcdn/c45406/180121_5b25e4cf10b9cab8374f0lc3ckh0i_200x200.jpg",
+                "name": "雅羊人爱美丽",
+                "shopId": "1c3ojc",
+                "type": 1,
+                "level": 4,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1c3ojc",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "你和大长腿只差一条拖地裤",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_41j6gdf81hd17631djik8ajg0c747_750x872.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190625_05b43eeegl8faklghacldd44eidl3_790x1191.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_203cl4ka3i79h0h35c55l0cd0al41_790x1082.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190625_8giig3e9fbbk169fa425febhbcf4h_790x967.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_393jiid6bkk54hkk00573b81k23ch_790x1132.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190625_3d76368kbkjhkc2040kc2d8g9j84k_790x1030.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_8gdi174l87fah90if00h8k6491hlb_790x1231.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190625_6d5gl7ck308a4c95fk9ecba5ac6e6_790x1365.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190625_51f33k9je2h0jcg53l03ga82d781i_790x1106.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190625_8503ckf0e6e6d9d70ijg39dh17ci4_790x916.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_2ff4ee4b3hcai0hh4h04lj8772cdf_790x1015.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_7ea1ihebg04gdg5ee8iibailkg57c_790x986.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_58a326ffi7li0ihjecj1e666b32j7_750x793.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_8f8jfc0g8g028d45h764ibhc80ahd_790x1420.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190625_18kg7dj20bi5cg27lf81jikc6g3d3_790x788.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_6h71llgd2fgk62i0800egad1cefac_790x751.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_2b0hb27788g8b5kik26hglhe0g4ej_790x1165.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_4b2dgg96a9dk59cj81e9k1e7ck73k_790x904.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_48762jcff6a1598g52f8a7gdih408_790x840.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_1dlkk77ckce3f4180gf8fdac2iaji_790x1068.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190625_5kbl2d2lfb6a7g45dg5ckjhl8b6la_790x920.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190625_830i7gd23c209jifcgj4k4aeal315_790x1093.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_46j83b1kke6gkcd97c3j3a59gl656_790x1034.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_3la3bc79j2fl70j1aiee4eefkk2e9_790x924.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190625_4c9af31e0j0kk27hci565c256j689_790x956.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564638796,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s5.mogucdn.com/mlcdn/c45406/190625_053b26e4clk60f4897h056i9hjelk_750x1000.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190625_0ale38elagf7hidb8f3gceb818a07_750x1000.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190625_5782e43g0g0h85ad9df9gd65ljaa3_750x1000.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190625_067b47bh6h3fbl7bdaf1l043e2062_750x1000.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190625_77cf6g471cg2aifia4j654egjala5_750x1000.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "阔腿裤女夏季宽松泫雅风垂感高腰显瘦百褶坠感直筒休闲拖地长裤",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1minnqg&from=share",
+                "imageUrl": "https://s5.mogucdn.com/mlcdn/c45406/190625_053b26e4clk60f4897h056i9hjelk_750x1000.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "厚薄": "薄款",
+                        "颜色": "银灰色,气质黑",
+                        "裤长": "长裤",
+                        "腰型": "高腰",
+                        "尺码": "M(适合91-105斤）,S(适合80-90斤）,L(适合106-120斤）,XL(适合121-140斤）",
+                        "季节": "夏季",
+                        "材质": "其他",
+                        "裤型": "阔腿裤",
+                        "风格": "通勤（OL）",
+                        "闭合方式": "皮筋腰带"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "desc": "所以数据均随机抽样平铺测量，请允许误差1-3CM",
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "腰围",
+                                "臀围",
+                                "裤长"
+                            ],
+                            [
+                                "S(适合80-90斤）",
+                                "56-100",
+                                "110",
+                                "98"
+                            ],
+                            [
+                                "M(适合91-105斤）",
+                                "58-106",
+                                "113",
+                                "100"
+                            ],
+                            [
+                                "L(适合106-120斤）",
+                                "63-112",
+                                "117",
+                                "102"
+                            ],
+                            [
+                                "XL(适合121-140斤）",
+                                "65-120",
+                                "124",
+                                "104"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "49.00",
+                "oldPrice": "70.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "特惠中",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "品牌认证",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "严格审核，正规品牌授权链；精挑细选，国内外知名品牌合作。引领潮流趋势，时尚品质保证。"
+                    },
+                    {
+                        "name": "48小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 2289",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "address",
+                        "desc": "浙江金华",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1minnqg",
+                "img": "https://s5.mogucdn.com/mlcdn/c45406/190625_053b26e4clk60f4897h056i9hjelk_750x1000.jpg",
+                "isJdItem": false,
+                "title": "阔腿裤女夏季宽松泫雅风垂感高腰显瘦百褶坠感直筒休闲拖地长裤",
+                "skus": [
+                    {
+                        "stockId": "11ahgdne",
+                        "xdSkuId": "11ahgdne",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190625_0ccibafei7hiec88f20g18h61dc4k_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 1673,
+                        "style": "气质黑",
+                        "color": "",
+                        "size": "S(适合80-90斤）",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11ahgdng",
+                        "xdSkuId": "11ahgdng",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190625_0ccibafei7hiec88f20g18h61dc4k_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 1965,
+                        "style": "气质黑",
+                        "color": "",
+                        "size": "M(适合91-105斤）",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11ahgdni",
+                        "xdSkuId": "11ahgdni",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190625_0ccibafei7hiec88f20g18h61dc4k_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 1722,
+                        "style": "气质黑",
+                        "color": "",
+                        "size": "L(适合106-120斤）",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11ahgdnk",
+                        "xdSkuId": "11ahgdnk",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190625_0ccibafei7hiec88f20g18h61dc4k_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 1661,
+                        "style": "气质黑",
+                        "color": "",
+                        "size": "XL(适合121-140斤）",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11ahgdnm",
+                        "xdSkuId": "11ahgdnm",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190625_2g5alc2l301ad20eek11h635h84e4_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 482,
+                        "style": "银灰色",
+                        "color": "",
+                        "size": "S(适合80-90斤）",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11ahgdno",
+                        "xdSkuId": "11ahgdno",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190625_2g5alc2l301ad20eek11h635h84e4_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 1309,
+                        "style": "银灰色",
+                        "color": "",
+                        "size": "M(适合91-105斤）",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11ahgdnq",
+                        "xdSkuId": "11ahgdnq",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190625_2g5alc2l301ad20eek11h635h84e4_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 1144,
+                        "style": "银灰色",
+                        "color": "",
+                        "size": "L(适合106-120斤）",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11ahgdns",
+                        "xdSkuId": "11ahgdns",
+                        "price": 7000,
+                        "nowprice": 4900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190625_2g5alc2l301ad20eek11h635h84e4_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 996,
+                        "style": "银灰色",
+                        "color": "",
+                        "size": "XL(适合121-140斤）",
+                        "styleId": 2,
+                        "sizeId": 103
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "气质黑",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "银灰色",
+                                "index": 2,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "S(适合80-90斤）",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "M(适合91-105斤）",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "L(适合106-120斤）",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "XL(适合121-140斤）",
+                                "index": 103,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥49.00",
+                "defaultPrice": "¥49.00",
+                "totalStock": 10952,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

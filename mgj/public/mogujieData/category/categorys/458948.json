@@ -1,0 +1,103 @@
+{
+    "cid": "458948",
+    "name": "白衬衫",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mimo90",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190624_7d5fgj1fi5gkj94b268h9ef88i6l1_640x960.jpg",
+            "originalPrice": 168,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mimo90&acm=3.ms.1_4_1mimo90.16.36598-69000.bXHsmrxS5juQs.sd_117-swt_16-imt_6-t_bXHsmrxS5juQs-lc_16-fcid_10055075-pid_180-pit_1-dit_154",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mimo90&acm=3.ms.1_4_1mimo90.16.36598-69000.bXHsmrxS5juQs.sd_117-swt_16-imt_6-t_bXHsmrxS5juQs-lc_16-fcid_10055075-pid_180-pit_1-dit_154",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mimo90.16.36598-69000.bXHsmrxS5juQs.sd_117-swt_16-imt_6-t_bXHsmrxS5juQs-lc_16-fcid_10055075-pid_180-pit_1-dit_154",
+            "price_taglist": [],
+            "title": "夏锁骨心机显瘦上衣衬衣超仙女小众泡泡袖设计感短袖V领白衬衫女",
+            "orgPrice": 168,
+            "props": [
+                "白衬衫",
+                "泡泡袖",
+                "心机",
+                "设计感",
+                "v领",
+                "短袖"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 762,
+            "price": 59,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.67",
+                "descDsr": "4.68",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.89"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mimo90&acm=3.ms.1_4_1mimo90.16.36598-69000.bXHsmrxS5juQs.sd_117-swt_16-imt_6-t_bXHsmrxS5juQs-lc_16-fcid_10055075-pid_180-pit_1-dit_154&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "芒果屋Wu"
+        },
+        {
+            "tradeItemId": "1miachw",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190613_8bhii4482caf34e06c2i2aj2a02ld_640x960.jpg",
+            "originalPrice": 70,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1miachw&acm=3.ms.1_4_1miachw.16.36598-69000.bXHsmrxS5juQs.sd_117-swt_16-imt_6-t_bXHsmrxS5juQs-lc_16-fcid_10055075-pid_180-pit_1-dit_154",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1miachw&acm=3.ms.1_4_1miachw.16.36598-69000.bXHsmrxS5juQs.sd_117-swt_16-imt_6-t_bXHsmrxS5juQs-lc_16-fcid_10055075-pid_180-pit_1-dit_154",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1miachw.16.36598-69000.bXHsmrxS5juQs.sd_117-swt_16-imt_6-t_bXHsmrxS5juQs-lc_16-fcid_10055075-pid_180-pit_1-dit_154",
+            "price_taglist": [],
+            "title": "短袖雪纺衬衫女夏2019新款韩范小清新上衣宽松显瘦娃娃领衬衣",
+            "orgPrice": 70,
+            "props": [
+                "娃娃领衬衣",
+                "韩范",
+                "宽松显瘦",
+                "短袖",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 1702,
+            "price": 49,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.65",
+                "descDsr": "4.66",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.89"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1miachw&acm=3.ms.1_4_1miachw.16.36598-69000.bXHsmrxS5juQs.sd_117-swt_16-imt_6-t_bXHsmrxS5juQs-lc_16-fcid_10055075-pid_180-pit_1-dit_154&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "不一样美衣"
+        }
+    ]
+}

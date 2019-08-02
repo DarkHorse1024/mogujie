@@ -1,0 +1,112 @@
+{
+    "cid": "456725",
+    "name": "睡衣套装",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1lwor76",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/180409_1l707fflch7571098e3f13251bggd_640x960.jpg",
+            "originalPrice": 85.58,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1lwor76&acm=3.ms.1_4_1lwor76.16.36598-68998.fJZKwrxShc7Yc.sd_117-swt_16-imt_6-t_fJZKwrxShc7Yc-lc_16-fcid_50042-pid_19-pit_1-dit_175",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1lwor76&acm=3.ms.1_4_1lwor76.16.36598-68998.fJZKwrxShc7Yc.sd_117-swt_16-imt_6-t_fJZKwrxShc7Yc-lc_16-fcid_50042-pid_19-pit_1-dit_175",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1lwor76.16.36598-68998.fJZKwrxShc7Yc.sd_117-swt_16-imt_6-t_fJZKwrxShc7Yc-lc_16-fcid_50042-pid_19-pit_1-dit_175",
+            "price_taglist": [],
+            "title": "短袖纯棉睡衣女夏季时尚韩版纯色蝴蝶结简约清新甜美薄款休闲少女学生套装家居服",
+            "orgPrice": 85.58,
+            "props": [
+                "套装家居服",
+                "短袖",
+                "甜美",
+                "薄款",
+                "休闲",
+                "清新",
+                "蝴蝶结",
+                "时尚",
+                "简约",
+                "纯色",
+                "夏季",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 3207,
+            "price": 59.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.66",
+                "descDsr": "4.65",
+                "tagDescDsr": "4.77",
+                "tagQualityDsr": "4.76",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.82"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1lwor76&acm=3.ms.1_4_1lwor76.16.36598-68998.fJZKwrxShc7Yc.sd_117-swt_16-imt_6-t_fJZKwrxShc7Yc-lc_16-fcid_50042-pid_19-pit_1-dit_175&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "乔馨衣尚馆"
+        },
+        {
+            "tradeItemId": "1mhzu0c",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190604_7364k1g2bi2j40bj8659eg9lli2df_640x960.jpg",
+            "originalPrice": 78.58,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhzu0c&acm=3.ms.1_4_1mhzu0c.16.36598-68998.fJZKwrxShc7Yc.sd_117-swt_16-imt_6-t_fJZKwrxShc7Yc-lc_16-fcid_50042-pid_19-pit_1-dit_175",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhzu0c&acm=3.ms.1_4_1mhzu0c.16.36598-68998.fJZKwrxShc7Yc.sd_117-swt_16-imt_6-t_fJZKwrxShc7Yc-lc_16-fcid_50042-pid_19-pit_1-dit_175",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mhzu0c.16.36598-68998.fJZKwrxShc7Yc.sd_117-swt_16-imt_6-t_fJZKwrxShc7Yc-lc_16-fcid_50042-pid_19-pit_1-dit_175",
+            "price_taglist": [],
+            "title": "睡衣女夏季冰丝薄款短袖仿真丝绸两件套装可爱学生春秋大码家居服",
+            "orgPrice": 78.58,
+            "props": [
+                "家居服",
+                "可爱",
+                "短袖",
+                "冰丝",
+                "薄款",
+                "大码",
+                "春秋",
+                "夏季"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 149,
+            "price": 55,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.61",
+                "descDsr": "4.63",
+                "tagDescDsr": "4.77",
+                "tagQualityDsr": "4.76",
+                "tagServiceDsr": "4.91",
+                "serviceDsr": "4.82"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mhzu0c&acm=3.ms.1_4_1mhzu0c.16.36598-68998.fJZKwrxShc7Yc.sd_117-swt_16-imt_6-t_fJZKwrxShc7Yc-lc_16-fcid_50042-pid_19-pit_1-dit_175&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "乔伊睡衣生活馆"
+        }
+    ]
+}

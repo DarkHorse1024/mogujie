@@ -1,0 +1,1382 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "16p6aq0",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1172s7t0",
+                "sellerId": "16p6aq0"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "w***e",
+                            "avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrtmoddmnsggntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190712_1b4iaa841fc86lcaalkb1hgh45c5l_480x640.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190712_85i07d5j9k07cleeck0fc1a5l5k27_480x640.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190712_0dbdgcbc7eka6gl1ekhhh47bh8743_480x640.jpg"
+                        ],
+                        "rateId": "118j49xy",
+                        "content": "裤裤很漂亮，质量也不错，没有异味！",
+                        "created": 1562927580,
+                        "isAnonymous": 1,
+                        "style": "颜色:19.【彩蝶花系列】 尺码:均码 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    },
+                    {
+                        "user": {
+                            "uname": "姐***4",
+                            "avatar": "https://s11.mogucdn.com/p1/160105/idid_ifrtcnbzgbswgntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "rateId": "118835pc",
+                        "content": "这个价钱买回来的宝贝质量很好，第一次在蘑菇街买东西消费感觉很不错，还会再来的",
+                        "created": 1558361090,
+                        "isAnonymous": 1,
+                        "style": "颜色:34.水仙混交叉带 尺码:均码 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    }
+                ],
+                "cRate": 301,
+                "imgTotal": 56,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 56,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 55,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 41,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 19,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "包装",
+                        "value": "包装很赞",
+                        "num": 17,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 13,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 1447
+            },
+            "itemInfo": {
+                "desc": "精致刺绣花朵，带出几分古典优雅的味道。轻盈柔纱包臀臀部，轻松穿出轻快感。透感质地隐约透出肌肤，半透视觉诱惑无法抵挡。棉质裆部，排汗吸湿，温柔呵护私处健康~",
+                "title": "四条装刺绣透明内裤女性感火辣超薄网纱冰丝镂空少女蕾丝三角底裤",
+                "itemId": "1m6drc8",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 6864,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "四条装刺绣透明内裤女性感火辣超薄网纱冰丝镂空少女蕾丝三角底裤",
+                    "wap_url": "//m.mogujie.com/x6/detail/1m6drc8",
+                    "description": "来自蘑菇街优店内裤_女士内衣/家居服_服饰鞋包家精致刺绣花朵，带出几分古典优雅的味道。轻盈柔纱包臀臀部，轻松穿出轻快感。透感质地隐约透出肌肤，半透视觉诱惑无法抵挡。棉质裆部，排汗吸湿，温柔呵护私处健康~的四条装刺绣透明内裤女性感火辣超薄网纱冰丝镂空少女蕾丝三角底裤，发现当季女士内衣和莎琪儿私藏旗舰店搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1m6drc8",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1m6drc8",
+                    "seo_noindex": "0",
+                    "title": "【四条装刺绣透明内裤女性感火辣超薄网纱冰丝镂空少女蕾丝三角底裤】-女士内衣-内裤_女士内衣/家居服_服饰鞋包-莎琪儿私藏旗舰店-蘑菇街优店"
+                },
+                "type": 8,
+                "video": {
+                    "cover": "https://s5.mogucdn.com/mlcdn/c45406/180725_6g1179hk207k2l49h4ggb5b928k76_640x960.jpg",
+                    "videoId": 738077,
+                    "width": 960,
+                    "height": 1280
+                },
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 1447,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "66.50",
+                "highPrice": "66.50",
+                "lowNowPrice": "39.90",
+                "highNowPrice": "39.90",
+                "brandName": "莎琪儿私藏",
+                "nowTime": 1564641909,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "39.90",
+                "oldPrice": "66.50",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "夏季新款",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "39.90",
+                "normalPrice": "39.90",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564641909,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.81,
+                        "isBetter": true
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.81,
+                        "isBetter": true
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "店主推荐",
+                        "link": "http://shop.mogu.com/1172s7t0/list/index?categoryId=20193380"
+                    },
+                    {
+                        "name": "小胸聚拢",
+                        "link": "http://shop.mogu.com/1172s7t0/list/index?categoryId=20215096"
+                    },
+                    {
+                        "name": "性感浪漫",
+                        "link": "http://shop.mogu.com/1172s7t0/list/index?categoryId=20240205"
+                    },
+                    {
+                        "name": "隐形无痕",
+                        "link": "http://shop.mogu.com/1172s7t0/list/index?categoryId=20240207"
+                    },
+                    {
+                        "name": "三角杯",
+                        "link": "http://shop.mogu.com/1172s7t0/list/index?categoryId=20240215"
+                    },
+                    {
+                        "name": "亲肤内裤",
+                        "link": "http://shop.mogu.com/1172s7t0/list/index?categoryId=20263934"
+                    },
+                    {
+                        "name": "露背美背",
+                        "link": "http://shop.mogu.com/1172s7t0/list/index?categoryId=20327786"
+                    },
+                    {
+                        "name": "抹胸无肩带",
+                        "link": "http://shop.mogu.com/1172s7t0/list/index?categoryId=20327788"
+                    },
+                    {
+                        "name": "设计师原创",
+                        "link": "http://shop.mogu.com/1172s7t0/list/index?categoryId=20334408"
+                    },
+                    {
+                        "name": "59元选2件",
+                        "link": "http://shop.mogu.com/1172s7t0/list/index?categoryId=20341690"
+                    },
+                    {
+                        "name": "每周新品",
+                        "link": "http://shop.mogu.com/1172s7t0/list/index?categoryId=20360063"
+                    },
+                    {
+                        "name": "春夏新品",
+                        "link": "http://shop.mogu.com/1172s7t0/list/index?categoryId=20360396"
+                    }
+                ],
+                "cFans": "42746",
+                "cSells": "13.6万",
+                "isMarked": false,
+                "cGoods": 231,
+                "userId": "16p6aq0",
+                "shopLogo": "https://s11.mogucdn.com/mlcdn/c45406/180717_7229bbcb8i11l0bjl476k160jf824_80x80.jpg",
+                "name": "莎琪儿私藏旗舰店",
+                "shopId": "1172s7t0",
+                "type": 1,
+                "level": 5,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1172s7t0",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "精致刺绣花朵，带出几分古典优雅的味道。轻盈柔纱包臀臀部，轻松穿出轻快感。透感质地隐约透出肌肤，半透视觉诱惑无法抵挡。棉质裆部，排汗吸湿，温柔呵护私处健康~",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "整体款式",
+                        "anchor": "baipai_img2",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_5ie4545223gc1ij7fdhgf4ig4514c_750x872.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180725_0535idijk1f1bgl9adi76edl6b60h_750x447.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_5416gk0be5e9ce8fijdc76g88jgl2_750x659.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_13a61egbbjl77j9k5ack17bfl8de1_750x802.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190215_3j9idlcbd87ll7g959e8ilh95h1kc_750x656.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190215_48ck7el301a63bid6lj2lckf800k2_750x656.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190215_0hffdaae8148jbh63g3ekck5ie4fg_750x653.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180725_1hi3h7861fg3kc914j8lee08a204b_750x653.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_66b2e621g2g0kh2dgdk5fidi1kefk_750x656.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180725_560844d03i4aigdgg0aa664jd5a15_750x649.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_57j96jcd9i5hejgk3fgd23hlie12l_750x650.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180725_7k4hb928d546il6a5ca67972h7e31_750x652.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_79d50lk74c8b06i8cbibcalk9flh0_750x604.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_01624253ebdb1cib6jj6iga2gg85h_750x694.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180725_60jc05a6gfd29ikf6bh7jlbc4cjg8_750x650.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_1jcbcj0c821lja9f1h52heghdff0j_750x652.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180725_3d78fhiddf6a2ef6l2l19f5661087_750x767.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_6385jchf6hcjcl99i96l9557a0ga0_750x650.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180725_0glae286b9hb4j56gkaha305fiheh_750x659.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_4jkg3jb2elcgdhg6d9b57g0c058ai_750x792.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180725_10688e5a3lkjhbhflbl4bed2akdbd_750x944.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180725_4al7ihc68gf17k62fa020fl7cbai4_750x850.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180725_3chk8k520e3jhhdheg2236l6j6gf5_750x765.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_068h6h01b8kj5k0b3d34f7d4k6hhd_750x838.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180725_054lhj551d0i3g8531bbji0ib1j91_750x765.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180725_56837a389904k9ah7fhhhc8li7f5g_750x595.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_7d6cdb0c598d3c7e3f0l832dk9kd8_750x623.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_195l2ded2k84ldf7jldc98h0k2c13_750x735.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_1gfja6i76675b2hiffb6le7dbg8ca_750x649.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_5j9b5ack4ajf7jagj33cledhc4gf5_750x647.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_3e80lgej7fk66gie2cia9h13lb59j_750x728.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180725_35ec9ckbleh2f043ih8cfl39cbe69_750x512.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180725_0ld4eg031b35cgedb30i060jbhlc4_750x680.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564641909,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s11.mogucdn.com/mlcdn/c45406/180804_40e256hg42329jj6ee2j1jhgg07l3_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180725_40l3b40838k28c95gc110aah3f9bb_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180804_4368381fgjhahl0gd1l7ihij4i05f_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180804_7fb5ak0acbkhec1fl8fdl7k88ci85_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180725_45g70476a13972ek6dj5ad756bfgl_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180804_364dk2dl37b8d58ch4lbgli51h9lg_750x1000.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180725_4c08he3e4jed3i965g1j09d0e0kgj_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180804_33eij359hee1ldf79f7d2014b7aeg_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "四条装刺绣透明内裤女性感火辣超薄网纱冰丝镂空少女蕾丝三角底裤",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1m6drc8&from=share",
+                "imageUrl": "https://s11.mogucdn.com/mlcdn/c45406/180804_40e256hg42329jj6ee2j1jhgg07l3_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "内衣组合规格": "4条装",
+                        "图案": "碎花",
+                        "颜色": "组合29：百花争艳,组合31：水月镜花,组合4：百花齐放,组合11：枯木生花,组合15：柳暗花明,组合20：闭花羞月,23.【浪漫粉系列】,38.粉蓝系列,28.性感交叉系列,组合6：雾里看花,组合27：花信年华,组合25：遍地开花,6.【热销系列】,组合12：水出芙蓉,2【杜鹃花系列】,组合5：柳绿花红,5.【玫瑰花系列】,组合26：杏花春雨,组合32：春华秋实,组合38：風裏楊花,组合9：雪花飞舞,27.本命红系列,组合30：花晨月夕,组合10：繁花似锦,组合16：花好月圆,22.【玫瑰粉系列】,组合35：团花簇锦,热卖混搭1,7.【水仙花系列】,组合13：如花似玉,组合14：六出冰花,4.【经典系列】,1.【车厘子系列】,25.优雅黑系列,组合24：花红柳绿,组合28：桃花流水,34.水仙混交叉带,组合36：雨打梨花,组合37：落地生花",
+                        "内裤功能": "提臀",
+                        "内裤材质": "蕾丝",
+                        "腰型": "低腰",
+                        "尺码": "均码",
+                        "内裤款型": "三角裤",
+                        "季节": "四季",
+                        "风格": "性感"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "desc": "建议体重80-110斤",
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "腰围"
+                            ],
+                            [
+                                "均码",
+                                "1.8-2.2"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "39.90",
+                "oldPrice": "66.50",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "夏季新款",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "品牌认证",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "严格审核，正规品牌授权链；精挑细选，国内外知名品牌合作。引领潮流趋势，时尚品质保证。"
+                    },
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 1447",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1m6drc8",
+                "img": "https://s11.mogucdn.com/mlcdn/c45406/180804_40e256hg42329jj6ee2j1jhgg07l3_640x960.jpg",
+                "isJdItem": false,
+                "title": "四条装刺绣透明内裤女性感火辣超薄网纱冰丝镂空少女蕾丝三角底裤",
+                "skus": [
+                    {
+                        "stockId": "1165tsoi",
+                        "xdSkuId": "1165tsoi",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180725_3cbdkdh58a1cc91eg4eblk12fc04a_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 76,
+                        "style": "1.【车厘子系列】",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1165tsok",
+                        "xdSkuId": "1165tsok",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180725_84dkgi3b6a16cae48jc0kkkdf20di_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 72,
+                        "style": "4.【经典系列】",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1165tsom",
+                        "xdSkuId": "1165tsom",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180725_37j8hkgbjgi1h7hd6j0glihg731c5_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 22,
+                        "style": "5.【玫瑰花系列】",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 3,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1165tsoo",
+                        "xdSkuId": "1165tsoo",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180725_82501e1955kkh9650gkgj2ke82jg4_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 51,
+                        "style": "7.【水仙花系列】",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 4,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1165tsoq",
+                        "xdSkuId": "1165tsoq",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180725_26bkg6bal28jckd9495bagikckdl8_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 42,
+                        "style": "2【杜鹃花系列】",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 5,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1165tsp4",
+                        "xdSkuId": "1165tsp4",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180725_1h0ak544jh3kiefb8h432fk55f9bc_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 83,
+                        "style": "22.【玫瑰粉系列】",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 6,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1165tsp6",
+                        "xdSkuId": "1165tsp6",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180725_5jk0c19819c87b891b838867ejkgd_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 83,
+                        "style": "25.优雅黑系列",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 7,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1165tsp8",
+                        "xdSkuId": "1165tsp8",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180725_60dlikaib5adfahefj7fjgig0fc7g_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 39,
+                        "style": "27.本命红系列",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 8,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1165tspa",
+                        "xdSkuId": "1165tspa",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180725_2529ic3j59jkc1dbd66j5a3fleckh_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 80,
+                        "style": "28.性感交叉系列",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 9,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1165tspc",
+                        "xdSkuId": "1165tspc",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180725_20bb5ldekji8aj66cl2lhd1g3f38e_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 75,
+                        "style": "23.【浪漫粉系列】",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 10,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1165tspm",
+                        "xdSkuId": "1165tspm",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180725_4166l6b5db58976k01aj5a4beh9cl_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 7,
+                        "style": "34.水仙混交叉带",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 11,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1165v0pc",
+                        "xdSkuId": "1165v0pc",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180725_4eaf2hi07j47c0f1bld2di71cfef9_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 82,
+                        "style": "6.【热销系列】",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 12,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1190m4ii",
+                        "xdSkuId": "1190m4ii",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190215_56babi3ceh6i8ac48465i6ah6jefh_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 73,
+                        "style": "热卖混搭1",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 13,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11an3mk2",
+                        "xdSkuId": "11an3mk2",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190706_6hi0ifgah1h18g6hcb7a9e2152la0_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 978,
+                        "style": "38.粉蓝系列",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 14,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftjw",
+                        "xdSkuId": "11avftjw",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190731_7bgh27ff4ihll37a2hi1g43j4jdi3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 977,
+                        "style": "组合4：百花齐放",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 15,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftjy",
+                        "xdSkuId": "11avftjy",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_62d7g904a07i9k37h2f8if77dh1ai_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 977,
+                        "style": "组合5：柳绿花红",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 16,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftk0",
+                        "xdSkuId": "11avftk0",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_533fh9cjji03777a4hhkkb9k0ee59_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 977,
+                        "style": "组合6：雾里看花",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 17,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftk2",
+                        "xdSkuId": "11avftk2",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190731_269ecel6jlaieg737djakd80bk0je_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1035,
+                        "style": "组合9：雪花飞舞",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 18,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftk4",
+                        "xdSkuId": "11avftk4",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_6i86a81kfcf349e6di7lieibj2500_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 992,
+                        "style": "组合10：繁花似锦",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 19,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftk6",
+                        "xdSkuId": "11avftk6",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190731_2e7d7775d8936g70149lj3e25jl5l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 992,
+                        "style": "组合11：枯木生花",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 20,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftk8",
+                        "xdSkuId": "11avftk8",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190731_79fje4a8ak0e2d2le4fd421bb21gj_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 996,
+                        "style": "组合12：水出芙蓉",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 21,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftka",
+                        "xdSkuId": "11avftka",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_23jeh25ke347gae18cgad2clg83ha_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1003,
+                        "style": "组合13：如花似玉",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 22,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftkc",
+                        "xdSkuId": "11avftkc",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190731_5g0k0el15kkf2a4ihlj20e283kd87_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1015,
+                        "style": "组合14：六出冰花",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 23,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftke",
+                        "xdSkuId": "11avftke",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_572lg61cb79a8hg44baa1c599g0k1_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 977,
+                        "style": "组合16：花好月圆",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 24,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftkg",
+                        "xdSkuId": "11avftkg",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_72j7h8a3g4lh93hh9j9k91a48j1lg_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 977,
+                        "style": "组合15：柳暗花明",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 25,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftki",
+                        "xdSkuId": "11avftki",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_268lc6e153iifb56ibigf5e3bb08b_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 992,
+                        "style": "组合20：闭花羞月",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 26,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftkk",
+                        "xdSkuId": "11avftkk",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_0a83g4jkd133kh6hk71b6ickie93k_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 978,
+                        "style": "组合24：花红柳绿",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 27,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftkm",
+                        "xdSkuId": "11avftkm",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_030062hk7i1chl91g13ek4i459f9j_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1005,
+                        "style": "组合26：杏花春雨",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 28,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftko",
+                        "xdSkuId": "11avftko",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_6lb2a77407jk4gfijb296gehfc3l7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1001,
+                        "style": "组合25：遍地开花",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 29,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftkq",
+                        "xdSkuId": "11avftkq",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_5j1d0890gg07haj4fga1i5ddbe3i5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 996,
+                        "style": "组合27：花信年华",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 30,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftks",
+                        "xdSkuId": "11avftks",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_43l0kcc1371ide956d81b26kf0f9a_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1017,
+                        "style": "组合28：桃花流水",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 31,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftku",
+                        "xdSkuId": "11avftku",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190731_02b8d1h87cgj9ge79cf29c5kgj88b_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 997,
+                        "style": "组合29：百花争艳",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 32,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftkw",
+                        "xdSkuId": "11avftkw",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_12k97cd1iijlg72j8ccahia495jfl_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1029,
+                        "style": "组合30：花晨月夕",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 33,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftky",
+                        "xdSkuId": "11avftky",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190731_0k2cafb0i84ggk1ab2dc2b974ll17_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1005,
+                        "style": "组合31：水月镜花",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 34,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftl0",
+                        "xdSkuId": "11avftl0",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190731_18fbbb4ic7ijiac5a15h2dd58difh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 996,
+                        "style": "组合32：春华秋实",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 35,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftl2",
+                        "xdSkuId": "11avftl2",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190731_5a5c6966619jik92ik032lf46dge3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 977,
+                        "style": "组合35：团花簇锦",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 36,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftl4",
+                        "xdSkuId": "11avftl4",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_4ldcaigcecad5h19ej9j0d0badi7a_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 977,
+                        "style": "组合36：雨打梨花",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 37,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftl6",
+                        "xdSkuId": "11avftl6",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190731_255e6g0ia3365b8dc6c8fa8gkbdf9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1001,
+                        "style": "组合37：落地生花",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 38,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11avftl8",
+                        "xdSkuId": "11avftl8",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190731_64aid688628423dd3093bkl229k8i_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 997,
+                        "style": "组合38：風裏楊花",
+                        "color": "",
+                        "size": "均码",
+                        "styleId": 39,
+                        "sizeId": 100
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "1.【车厘子系列】",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "4.【经典系列】",
+                                "index": 2,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 3,
+                                "name": "5.【玫瑰花系列】",
+                                "index": 3,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 4,
+                                "name": "7.【水仙花系列】",
+                                "index": 4,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 5,
+                                "name": "2【杜鹃花系列】",
+                                "index": 5,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 6,
+                                "name": "22.【玫瑰粉系列】",
+                                "index": 6,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 7,
+                                "name": "25.优雅黑系列",
+                                "index": 7,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 8,
+                                "name": "27.本命红系列",
+                                "index": 8,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 9,
+                                "name": "28.性感交叉系列",
+                                "index": 9,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 10,
+                                "name": "23.【浪漫粉系列】",
+                                "index": 10,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 11,
+                                "name": "34.水仙混交叉带",
+                                "index": 11,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 12,
+                                "name": "6.【热销系列】",
+                                "index": 12,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 13,
+                                "name": "热卖混搭1",
+                                "index": 13,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 14,
+                                "name": "38.粉蓝系列",
+                                "index": 14,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 15,
+                                "name": "组合4：百花齐放",
+                                "index": 15,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 16,
+                                "name": "组合5：柳绿花红",
+                                "index": 16,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 17,
+                                "name": "组合6：雾里看花",
+                                "index": 17,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 18,
+                                "name": "组合9：雪花飞舞",
+                                "index": 18,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 19,
+                                "name": "组合10：繁花似锦",
+                                "index": 19,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 20,
+                                "name": "组合11：枯木生花",
+                                "index": 20,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 21,
+                                "name": "组合12：水出芙蓉",
+                                "index": 21,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 22,
+                                "name": "组合13：如花似玉",
+                                "index": 22,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 23,
+                                "name": "组合14：六出冰花",
+                                "index": 23,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 24,
+                                "name": "组合16：花好月圆",
+                                "index": 24,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 25,
+                                "name": "组合15：柳暗花明",
+                                "index": 25,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 26,
+                                "name": "组合20：闭花羞月",
+                                "index": 26,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 27,
+                                "name": "组合24：花红柳绿",
+                                "index": 27,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 28,
+                                "name": "组合26：杏花春雨",
+                                "index": 28,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 29,
+                                "name": "组合25：遍地开花",
+                                "index": 29,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 30,
+                                "name": "组合27：花信年华",
+                                "index": 30,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 31,
+                                "name": "组合28：桃花流水",
+                                "index": 31,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 32,
+                                "name": "组合29：百花争艳",
+                                "index": 32,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 33,
+                                "name": "组合30：花晨月夕",
+                                "index": 33,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 34,
+                                "name": "组合31：水月镜花",
+                                "index": 34,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 35,
+                                "name": "组合32：春华秋实",
+                                "index": 35,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 36,
+                                "name": "组合35：团花簇锦",
+                                "index": 36,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 37,
+                                "name": "组合36：雨打梨花",
+                                "index": 37,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 38,
+                                "name": "组合37：落地生花",
+                                "index": 38,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 39,
+                                "name": "组合38：風裏楊花",
+                                "index": 39,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "均码",
+                                "index": 100,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥39.90",
+                "defaultPrice": "¥39.90",
+                "totalStock": 26649,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

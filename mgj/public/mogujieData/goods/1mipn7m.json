@@ -1,0 +1,675 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "13h1xvg",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1o9uhm",
+                "sellerId": "13h1xvg"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "q***z",
+                            "avatar": "https://s11.mogucdn.com/p2/170415/upload_84e6ge406if240eh7d0bclggib85g_100x100.png",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190704_088h7aj0e67eck7i7297ifd6127lg_300x400.jpg"
+                        ],
+                        "rateId": "118hii44",
+                        "content": "非常好，这个价格买到这种质量很好了",
+                        "created": 1562208342,
+                        "isAnonymous": 0,
+                        "style": "颜色:图片色 尺码:S ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    },
+                    {
+                        "user": {
+                            "uname": "繁华落幕9rv2vh",
+                            "avatar": "https://s5.mogucdn.com/mlcdn/5abf39/190706_7hbajg64g46ei716ikc81582ce1ke_132x132.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190709_72ikj5e8lab31734l53j57i60k680_1080x1080.jpg"
+                        ],
+                        "rateId": "118iqkiq",
+                        "content": "衣服今天收到了，上身效果特别好，没想到这个价钱可以买到这么漂亮质量又好的衣服，衣服有弹力特别显腰身，我快120斤了但是穿上立马显瘦好多，衣服的款式非常显瘦，V领特别适合稍胖的美眉穿，是我比较喜欢的款式，还有就是泡泡袖可以提升肩部的美感，适合肖肩的人穿，谢谢卖家的热情服务，祝卖家生意兴隆财源广进！",
+                        "created": 1562683978,
+                        "isAnonymous": 0,
+                        "style": "颜色:图片色 尺码:XL ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "身高: 158 cm",
+                            "体重: 58 kg",
+                            "是否合身: 合身 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "weight": "58kg",
+                            "height": "158cm",
+                            "desc": "合身 "
+                        }
+                    }
+                ],
+                "cRate": 20,
+                "imgTotal": 5,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 5,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 7,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 4,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 3,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 3,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "服务",
+                        "value": "卖家服务很好",
+                        "num": 3,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 332
+            },
+            "itemInfo": {
+                "desc": "时尚V领设计，性感迷人，尽显女性脖颈美。\n时尚褶皱弧形下摆设计，时尚而又不失优雅。\n收腰设计 彰显女性魅力。",
+                "title": "2019夏季新款赫本小黑裙低胸女人味气质性感收腰显瘦连衣裙女",
+                "itemId": "1mipn7m",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 857,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "2019夏季新款赫本小黑裙低胸女人味气质性感收腰显瘦连衣裙女",
+                    "wap_url": "//m.mogujie.com/x6/detail/1mipn7m",
+                    "description": "来自蘑菇街优店女装_服饰鞋包_连衣裙_裙子家时尚V领设计，性感迷人，尽显女性脖颈美。\n时尚褶皱弧形下摆设计，时尚而又不失优雅。\n收腰设计 彰显女性魅力。的2019夏季新款赫本小黑裙低胸女人味气质性感收腰显瘦连衣裙女，发现当季女装和胖家小妹搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1mipn7m",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1mipn7m",
+                    "seo_noindex": "0",
+                    "title": "【2019夏季新款赫本小黑裙低胸女人味气质性感收腰显瘦连衣裙女】-女装-女装_服饰鞋包_连衣裙_裙子-胖家小妹-蘑菇街优店"
+                },
+                "type": 8,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 332,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "108.58",
+                "highPrice": "108.58",
+                "lowNowPrice": "76.00",
+                "highNowPrice": "76.00",
+                "nowTime": 1564642948,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "76.00",
+                "oldPrice": "108.58",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "7折",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "76.00",
+                "normalPrice": "76.00",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564642948,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.64,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.63,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "连衣裙",
+                        "link": "http://shop.mogu.com/1o9uhm/list/index?categoryId=1477698"
+                    },
+                    {
+                        "name": "半身裙",
+                        "link": "http://shop.mogu.com/1o9uhm/list/index?categoryId=1477700"
+                    },
+                    {
+                        "name": "上衣",
+                        "link": "http://shop.mogu.com/1o9uhm/list/index?categoryId=1477701"
+                    },
+                    {
+                        "name": "外套",
+                        "link": "http://shop.mogu.com/1o9uhm/list/index?categoryId=1477703"
+                    },
+                    {
+                        "name": "99选2",
+                        "link": "http://shop.mogu.com/1o9uhm/list/index?categoryId=1503551"
+                    },
+                    {
+                        "name": "显瘦裤子",
+                        "link": "http://shop.mogu.com/1o9uhm/list/index?categoryId=1521871"
+                    },
+                    {
+                        "name": "时尚套装",
+                        "link": "http://shop.mogu.com/1o9uhm/list/index?categoryId=1521872"
+                    },
+                    {
+                        "name": "短裤",
+                        "link": "http://shop.mogu.com/1o9uhm/list/index?categoryId=1521906"
+                    },
+                    {
+                        "name": "夏抢新",
+                        "link": "http://shop.mogu.com/1o9uhm/list/index?categoryId=20363819"
+                    }
+                ],
+                "cFans": "78210",
+                "cSells": "43.2万",
+                "isMarked": false,
+                "cGoods": 487,
+                "userId": "13h1xvg",
+                "shopLogo": "https://s11.mogucdn.com/p1/150901/1qiywy_iezdqzdfhe3ggzrvgmzdambqmmyde_200x200.jpg",
+                "name": "胖家小妹",
+                "shopId": "1o9uhm",
+                "type": 1,
+                "level": 4,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1o9uhm",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "时尚V领设计，性感迷人，尽显女性脖颈美。\n时尚褶皱弧形下摆设计，时尚而又不失优雅。\n收腰设计 彰显女性魅力。",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190627_29ffi14id8ll52lj905gic3ifcg4c_800x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190627_776ij2fb44ai104f6hh43faj2eb2l_800x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190627_6h28c85dk2544g3l8665j64kb6429_800x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190627_3j69gg0180cfd8gbl4el1bi57b1jb_800x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190627_4ddafkf3c290bi02d3jgc8532938g_800x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564642948,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s11.mogucdn.com/mlcdn/c45406/190627_32ab21d2bj4fgccd322hj38l81j63_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190627_67dkij5j882lebbj2kg235ie0hjea_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190627_0ff0dc640gchb7ce7233bfd2dl520_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190627_7c7fgbh2b5735f6ee48d2g3kad62b_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190627_503jfj5jebl997hi0fkj13f5421jj_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "2019夏季新款赫本小黑裙低胸女人味气质性感收腰显瘦连衣裙女",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1mipn7m&from=share",
+                "imageUrl": "https://s11.mogucdn.com/mlcdn/c45406/190627_32ab21d2bj4fgccd322hj38l81j63_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "纯色",
+                        "裙型": "大摆型",
+                        "颜色": "图片色",
+                        "腰型": "高腰",
+                        "尺码": "S,XL,2XL,3XL,L,M",
+                        "季节": "夏季",
+                        "材质": "其他",
+                        "组合形式": "单件",
+                        "领型": "V领",
+                        "裙长": "短裙（76-90cm）",
+                        "袖长": "短袖",
+                        "风格": "简约"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "裙长",
+                                "肩宽",
+                                "腰围",
+                                "胸围"
+                            ],
+                            [
+                                "S",
+                                "83",
+                                "35",
+                                "62",
+                                "80"
+                            ],
+                            [
+                                "M",
+                                "84",
+                                "36",
+                                "66",
+                                "84"
+                            ],
+                            [
+                                "L",
+                                "85",
+                                "37",
+                                "70",
+                                "88"
+                            ],
+                            [
+                                "XL",
+                                "86",
+                                "38",
+                                "74",
+                                "92"
+                            ],
+                            [
+                                "3XL",
+                                "88",
+                                "40",
+                                "82",
+                                "100"
+                            ],
+                            [
+                                "2XL",
+                                "87",
+                                "39",
+                                "78",
+                                "96"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "76.00",
+                "oldPrice": "108.58",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "7折",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 332",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1mipn7m",
+                "img": "https://s11.mogucdn.com/mlcdn/c45406/190627_32ab21d2bj4fgccd322hj38l81j63_640x960.jpg",
+                "isJdItem": false,
+                "title": "2019夏季新款赫本小黑裙低胸女人味气质性感收腰显瘦连衣裙女",
+                "skus": [
+                    {
+                        "stockId": "11ai2bro",
+                        "xdSkuId": "11ai2bro",
+                        "price": 10858,
+                        "nowprice": 7600,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190627_3ej0e07ce0cgbgace15a659eh3ld3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 4959,
+                        "style": "图片色",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11ai2brm",
+                        "xdSkuId": "11ai2brm",
+                        "price": 10858,
+                        "nowprice": 7600,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190627_3ej0e07ce0cgbgace15a659eh3ld3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 4923,
+                        "style": "图片色",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11ai2brq",
+                        "xdSkuId": "11ai2brq",
+                        "price": 10858,
+                        "nowprice": 7600,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190627_3ej0e07ce0cgbgace15a659eh3ld3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 4927,
+                        "style": "图片色",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11ai2brs",
+                        "xdSkuId": "11ai2brs",
+                        "price": 10858,
+                        "nowprice": 7600,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190627_3ej0e07ce0cgbgace15a659eh3ld3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 4931,
+                        "style": "图片色",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11ai2bru",
+                        "xdSkuId": "11ai2bru",
+                        "price": 10858,
+                        "nowprice": 7600,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190627_3ej0e07ce0cgbgace15a659eh3ld3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 4976,
+                        "style": "图片色",
+                        "color": "",
+                        "size": "3XL",
+                        "styleId": 1,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "11ai2brw",
+                        "xdSkuId": "11ai2brw",
+                        "price": 10858,
+                        "nowprice": 7600,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190627_3ej0e07ce0cgbgace15a659eh3ld3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 4964,
+                        "style": "图片色",
+                        "color": "",
+                        "size": "2XL",
+                        "styleId": 1,
+                        "sizeId": 105
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "图片色",
+                                "index": 1,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "S",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "M",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "L",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "XL",
+                                "index": 103,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 104,
+                                "default": false,
+                                "name": "3XL",
+                                "index": 104,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 105,
+                                "default": false,
+                                "name": "2XL",
+                                "index": 105,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥76.00",
+                "defaultPrice": "¥76.00",
+                "totalStock": 29680,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

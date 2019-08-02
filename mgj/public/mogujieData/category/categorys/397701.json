@@ -1,0 +1,106 @@
+{
+    "cid": "397701",
+    "name": "牛仔裤",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mhb8mo",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190601_7h50ed71lkeff5ke4j36cl4ieee6b_800x1200.jpg",
+            "originalPrice": 140,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhb8mo&acm=3.ms.1_4_1mhb8mo.16.36598-68998.7Er9MrxS0atu8.sd_117-swt_16-imt_6-t_7Er9MrxS0atu8-lc_16-fcid_50206-pid_180-pit_1-dit_168",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhb8mo&acm=3.ms.1_4_1mhb8mo.16.36598-68998.7Er9MrxS0atu8.sd_117-swt_16-imt_6-t_7Er9MrxS0atu8-lc_16-fcid_50206-pid_180-pit_1-dit_168",
+            "itemMarks": "1525 188 1106 602",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mhb8mo.16.36598-68998.7Er9MrxS0atu8.sd_117-swt_16-imt_6-t_7Er9MrxS0atu8-lc_16-fcid_50206-pid_180-pit_1-dit_168",
+            "price_taglist": [],
+            "title": "薄款牛仔裤女2019夏季韩版高腰宽松显瘦九分裤直筒裤阔腿裤女",
+            "orgPrice": 140,
+            "props": [
+                "沐诗薇",
+                "显瘦九分裤",
+                "高腰",
+                "宽松",
+                "夏季",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 4843,
+            "price": 89,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.74",
+                "descDsr": "4.73",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.89"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mhb8mo&acm=3.ms.1_4_1mhb8mo.16.36598-68998.7Er9MrxS0atu8.sd_117-swt_16-imt_6-t_7Er9MrxS0atu8-lc_16-fcid_50206-pid_180-pit_1-dit_168&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "沐诗薇旗舰店"
+        },
+        {
+            "tradeItemId": "1m2250k",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/180521_22hfhf0d7je0g9cl8878g8bifl67c_640x960.jpg",
+            "originalPrice": 98,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1m2250k&acm=3.ms.1_4_1m2250k.16.36598-68998.7Er9MrxS0atu8.sd_117-swt_16-imt_6-t_7Er9MrxS0atu8-lc_16-fcid_50206-pid_180-pit_1-dit_168",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1m2250k&acm=3.ms.1_4_1m2250k.16.36598-68998.7Er9MrxS0atu8.sd_117-swt_16-imt_6-t_7Er9MrxS0atu8-lc_16-fcid_50206-pid_180-pit_1-dit_168",
+            "itemMarks": "188 602 82",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1m2250k.16.36598-68998.7Er9MrxS0atu8.sd_117-swt_16-imt_6-t_7Er9MrxS0atu8-lc_16-fcid_50206-pid_180-pit_1-dit_168",
+            "price_taglist": [],
+            "title": "2019新款韩版九分牛仔裤女高腰显瘦学生宽松直筒老爹裤子长裤",
+            "orgPrice": 98,
+            "props": [
+                "贝迪谷",
+                "九分牛仔裤",
+                "高腰",
+                "直筒",
+                "显瘦",
+                "宽松",
+                "韩版",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 18676,
+            "price": 68.6,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.72",
+                "descDsr": "4.69",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.89"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1m2250k&acm=3.ms.1_4_1m2250k.16.36598-68998.7Er9MrxS0atu8.sd_117-swt_16-imt_6-t_7Er9MrxS0atu8-lc_16-fcid_50206-pid_180-pit_1-dit_168&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "贝迪谷旗舰店"
+        }
+    ]
+}

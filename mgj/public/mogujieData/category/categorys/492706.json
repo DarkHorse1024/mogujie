@@ -1,0 +1,109 @@
+{
+    "cid": "492706",
+    "name": "短裤",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1lt1g5m",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_0896j6h7difddfk5dl163h61l7jia_640x960.jpg",
+            "originalPrice": 66.5,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1lt1g5m&acm=3.ms.1_4_1lt1g5m.16.36598-68998.tSE98rxS009fm.sd_117-swt_16-imt_6-t_tSE98rxS009fm-lc_16-fcid_20004475-pid_182-pit_1-dit_177",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1lt1g5m&acm=3.ms.1_4_1lt1g5m.16.36598-68998.tSE98rxS009fm.sd_117-swt_16-imt_6-t_tSE98rxS009fm-lc_16-fcid_20004475-pid_182-pit_1-dit_177",
+            "itemMarks": "1525 188 602",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1lt1g5m.16.36598-68998.tSE98rxS009fm.sd_117-swt_16-imt_6-t_tSE98rxS009fm-lc_16-fcid_20004475-pid_182-pit_1-dit_177",
+            "price_taglist": [],
+            "title": "短裤女高腰韩版宽松显瘦学生热裤潮毛边破洞白色牛仔裤百搭阔腿裤",
+            "orgPrice": 66.5,
+            "props": [
+                "旗维斯",
+                "学生热裤",
+                "毛边",
+                "高腰",
+                "破洞",
+                "白色",
+                "宽松显瘦",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 3888,
+            "price": 39.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.66",
+                "descDsr": "4.64",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.86"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1lt1g5m&acm=3.ms.1_4_1lt1g5m.16.36598-68998.tSE98rxS009fm.sd_117-swt_16-imt_6-t_tSE98rxS009fm-lc_16-fcid_20004475-pid_182-pit_1-dit_177&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "旗维斯旗舰店"
+        },
+        {
+            "tradeItemId": "1ls6ebw",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/180329_1428fk84ig1kbd73hec3fj76ccb7k_640x960.jpg",
+            "originalPrice": 66.5,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1ls6ebw&acm=3.ms.1_4_1ls6ebw.16.36598-68998.tSE98rxS009fm.sd_117-swt_16-imt_6-t_tSE98rxS009fm-lc_16-fcid_20004475-pid_182-pit_1-dit_177",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1ls6ebw&acm=3.ms.1_4_1ls6ebw.16.36598-68998.tSE98rxS009fm.sd_117-swt_16-imt_6-t_tSE98rxS009fm-lc_16-fcid_20004475-pid_182-pit_1-dit_177",
+            "itemMarks": "1525 188 602",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1ls6ebw.16.36598-68998.tSE98rxS009fm.sd_117-swt_16-imt_6-t_tSE98rxS009fm-lc_16-fcid_20004475-pid_182-pit_1-dit_177",
+            "price_taglist": [],
+            "title": "卷边牛仔短裤女夏季韩版显瘦高腰外穿宽松破洞学生阔腿裤子女热裤",
+            "orgPrice": 66.5,
+            "props": [
+                "旗维斯",
+                "热裤",
+                "卷边",
+                "高腰",
+                "破洞",
+                "显瘦",
+                "宽松",
+                "夏季",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 4401,
+            "price": 39.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.66",
+                "descDsr": "4.64",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.86"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1ls6ebw&acm=3.ms.1_4_1ls6ebw.16.36598-68998.tSE98rxS009fm.sd_117-swt_16-imt_6-t_tSE98rxS009fm-lc_16-fcid_20004475-pid_182-pit_1-dit_177&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "旗维斯旗舰店"
+        }
+    ]
+}

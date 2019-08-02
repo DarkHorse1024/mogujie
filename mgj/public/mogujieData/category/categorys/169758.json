@@ -1,0 +1,104 @@
+{
+    "cid": "169758",
+    "name": "初夏新款",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mfxvvq",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190427_6gc7934825l5iclhilaj3b00i19jl_800x1200.jpg",
+            "originalPrice": 129,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mfxvvq&acm=3.ms.1_4_1mfxvvq.16.36598-69000.bXHsmrxS6TKYz.sd_117-swt_16-imt_6-t_bXHsmrxS6TKYz-lc_16-fcid_20004182-pid_180-pit_1-dit_152",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mfxvvq&acm=3.ms.1_4_1mfxvvq.16.36598-69000.bXHsmrxS6TKYz.sd_117-swt_16-imt_6-t_bXHsmrxS6TKYz-lc_16-fcid_20004182-pid_180-pit_1-dit_152",
+            "itemMarks": "188 1127 602 82",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mfxvvq.16.36598-69000.bXHsmrxS6TKYz.sd_117-swt_16-imt_6-t_bXHsmrxS6TKYz-lc_16-fcid_20004182-pid_180-pit_1-dit_152",
+            "price_taglist": [],
+            "title": "2019夏新阔腿高腰牛仔短裤女宽松A字学生毛边泫雅同款热裤",
+            "orgPrice": 129,
+            "props": [
+                "瞩目",
+                "热裤",
+                "阔腿",
+                "毛边",
+                "高腰",
+                "宽松",
+                "同款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 4057,
+            "price": 129,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.71",
+                "descDsr": "4.71",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.88"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mfxvvq&acm=3.ms.1_4_1mfxvvq.16.36598-69000.bXHsmrxS6TKYz.sd_117-swt_16-imt_6-t_bXHsmrxS6TKYz-lc_16-fcid_20004182-pid_180-pit_1-dit_152&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "瞩目旗舰店"
+        },
+        {
+            "tradeItemId": "1mivq00",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190702_13d5bg337f055haikbl0381cig83a_640x960.jpg",
+            "originalPrice": 71.29,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mivq00&acm=3.ms.1_4_1mivq00.16.36598-69000.bXHsmrxS6TKYz.sd_117-swt_16-imt_6-t_bXHsmrxS6TKYz-lc_16-fcid_20004182-pid_180-pit_1-dit_152",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mivq00&acm=3.ms.1_4_1mivq00.16.36598-69000.bXHsmrxS6TKYz.sd_117-swt_16-imt_6-t_bXHsmrxS6TKYz-lc_16-fcid_20004182-pid_180-pit_1-dit_152",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mivq00.16.36598-69000.bXHsmrxS6TKYz.sd_117-swt_16-imt_6-t_bXHsmrxS6TKYz-lc_16-fcid_20004182-pid_180-pit_1-dit_152",
+            "price_taglist": [],
+            "title": "【瘦腿网红款】2019夏季新品垂感百褶休闲裤女高腰直筒阔腿裤",
+            "orgPrice": 71.29,
+            "props": [
+                "直筒阔腿裤",
+                "高腰",
+                "网红款",
+                "瘦腿",
+                "夏季"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 554,
+            "price": 49.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.63",
+                "descDsr": "4.61",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.89"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mivq00&acm=3.ms.1_4_1mivq00.16.36598-69000.bXHsmrxS6TKYz.sd_117-swt_16-imt_6-t_bXHsmrxS6TKYz-lc_16-fcid_20004182-pid_180-pit_1-dit_152&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "潮咖S年代秀"
+        }
+    ]
+}

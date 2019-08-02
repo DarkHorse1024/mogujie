@@ -1,0 +1,105 @@
+{
+    "cid": "168236",
+    "name": "星款小白鞋",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mim03c",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190623_1779fb6l1lhfakgkfk29gdcbfghdc_640x960.jpg",
+            "originalPrice": 127.15,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mim03c&acm=3.ms.1_4_1mim03c.16.36598-69000.2iMZxrxSki4Sm.sd_117-swt_16-imt_6-t_2iMZxrxSki4Sm-lc_16-fcid_51249-pid_5-pit_1-dit_158",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mim03c&acm=3.ms.1_4_1mim03c.16.36598-69000.2iMZxrxSki4Sm.sd_117-swt_16-imt_6-t_2iMZxrxSki4Sm-lc_16-fcid_51249-pid_5-pit_1-dit_158",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mim03c.16.36598-69000.2iMZxrxSki4Sm.sd_117-swt_16-imt_6-t_2iMZxrxSki4Sm-lc_16-fcid_51249-pid_5-pit_1-dit_158",
+            "price_taglist": [],
+            "title": "网红ins学生韩版女运动鞋跑步休闲女小白鞋新款百搭夏季女鞋子",
+            "orgPrice": 127.15,
+            "props": [
+                "杺鱼蜜",
+                "女运动鞋",
+                "跑步",
+                "休闲",
+                "百搭",
+                "韩版",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 1274,
+            "price": 89,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.63",
+                "descDsr": "4.65",
+                "tagDescDsr": "4.69",
+                "tagQualityDsr": "4.67",
+                "tagServiceDsr": "4.89",
+                "serviceDsr": "4.85"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mim03c&acm=3.ms.1_4_1mim03c.16.36598-69000.2iMZxrxSki4Sm.sd_117-swt_16-imt_6-t_2iMZxrxSki4Sm-lc_16-fcid_51249-pid_5-pit_1-dit_158&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "澄子美鞋铺"
+        },
+        {
+            "tradeItemId": "1mhzaz6",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190603_8c8fff8dlckhjc30lccl3l9e5j51g_640x960.jpg",
+            "originalPrice": 127.15,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhzaz6&acm=3.ms.1_4_1mhzaz6.16.36598-69000.2iMZxrxSki4Sm.sd_117-swt_16-imt_6-t_2iMZxrxSki4Sm-lc_16-fcid_51249-pid_5-pit_1-dit_158",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhzaz6&acm=3.ms.1_4_1mhzaz6.16.36598-69000.2iMZxrxSki4Sm.sd_117-swt_16-imt_6-t_2iMZxrxSki4Sm-lc_16-fcid_51249-pid_5-pit_1-dit_158",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mhzaz6.16.36598-69000.2iMZxrxSki4Sm.sd_117-swt_16-imt_6-t_2iMZxrxSki4Sm-lc_16-fcid_51249-pid_5-pit_1-dit_158",
+            "price_taglist": [],
+            "title": "杨颖baby同款网红女鞋子学生透气网面女小白鞋新款百搭休闲鞋",
+            "orgPrice": 127.15,
+            "props": [
+                "杺鱼蜜",
+                "百搭休闲鞋",
+                "透气",
+                "网面",
+                "同款",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 1845,
+            "price": 89,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.63",
+                "descDsr": "4.65",
+                "tagDescDsr": "4.69",
+                "tagQualityDsr": "4.67",
+                "tagServiceDsr": "4.89",
+                "serviceDsr": "4.85"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mhzaz6&acm=3.ms.1_4_1mhzaz6.16.36598-69000.2iMZxrxSki4Sm.sd_117-swt_16-imt_6-t_2iMZxrxSki4Sm-lc_16-fcid_51249-pid_5-pit_1-dit_158&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "澄子美鞋铺"
+        }
+    ]
+}

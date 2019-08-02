@@ -1,0 +1,705 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "131t65w",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1o8fa2",
+                "sellerId": "131t65w"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "LIKES1990",
+                            "avatar": "https://s5.mogucdn.com/mlcdn/5abf39/180909_0a6ifh4fkc41ld36hk2f2j6jafeh7_132x132.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190610_764a4e3h77g55fc21k1h9e437h1b1_540x720.jpg"
+                        ],
+                        "rateId": "118cruku",
+                        "content": "裙子很合适，而且有好几种穿法呢，百搭的很，穿着也舒服",
+                        "created": 1560141170,
+                        "isAnonymous": 0,
+                        "style": "颜色:白色 尺码:M ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    },
+                    {
+                        "user": {
+                            "uname": "曦月O1998",
+                            "avatar": "https://s11.mogucdn.com/mlcdn/5abf39/190611_1fke59lb943e26a8512341hj79ckf_132x132.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190630_1cd0457h4hi6hdh4jh4d96l0fk47i_1080x1440.jpg"
+                        ],
+                        "rateId": "118eo6fu",
+                        "content": "很好看，新买的衣服、裙子、包包",
+                        "created": 1561031559,
+                        "isAnonymous": 0,
+                        "style": "颜色:白色 尺码:M ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    }
+                ],
+                "cRate": 43,
+                "imgTotal": 15,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 15,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 9,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 7,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 4,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "整体",
+                        "value": "整体感觉不错",
+                        "num": 3,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 798
+            },
+            "itemInfo": {
+                "desc": "夏季新款韩版百搭淑女中长款雪纺半身裙子开叉碎花一片式沙滩裙女",
+                "title": "夏季新款韩版百搭淑女中长款雪纺半身裙子开叉碎花一片式沙滩裙女",
+                "itemId": "1mhtgji",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 3551,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "夏季新款韩版百搭淑女中长款雪纺半身裙子开叉碎花一片式沙滩裙女",
+                    "wap_url": "//m.mogujie.com/x6/detail/1mhtgji",
+                    "description": "来自蘑菇街优店女装_半身裙_服饰鞋包_裙子家夏季新款韩版百搭淑女中长款雪纺半身裙子开叉碎花一片式沙滩裙女的夏季新款韩版百搭淑女中长款雪纺半身裙子开叉碎花一片式沙滩裙女，发现当季女装和潮衫的店搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1mhtgji",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1mhtgji",
+                    "seo_noindex": "0",
+                    "title": "【夏季新款韩版百搭淑女中长款雪纺半身裙子开叉碎花一片式沙滩裙女】-女装-女装_半身裙_服饰鞋包_裙子-潮衫的店-蘑菇街优店"
+                },
+                "type": 8,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 798,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "address": "广东广州",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "98.58",
+                "highPrice": "98.58",
+                "lowNowPrice": "69.00",
+                "highNowPrice": "69.00",
+                "nowTime": 1564642658,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "69.00",
+                "oldPrice": "98.58",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "7折",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "69.00",
+                "normalPrice": "69.00",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564642658,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.63,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.63,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "外套/大衣",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=182412"
+                    },
+                    {
+                        "name": "裤子",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20046547"
+                    },
+                    {
+                        "name": "衬衫",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20056717"
+                    },
+                    {
+                        "name": "短裤",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20346349"
+                    },
+                    {
+                        "name": "长裤",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20346350"
+                    },
+                    {
+                        "name": "裙子",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20346351"
+                    },
+                    {
+                        "name": "连衣裙",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20346352"
+                    },
+                    {
+                        "name": "半身裙",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20346353"
+                    },
+                    {
+                        "name": "T恤",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20346354"
+                    },
+                    {
+                        "name": "套装",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20346355"
+                    },
+                    {
+                        "name": "针织衫/毛衣",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20346358"
+                    },
+                    {
+                        "name": "雪纺衫/蕾丝衫",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20346359"
+                    },
+                    {
+                        "name": "特价清仓",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20346360"
+                    },
+                    {
+                        "name": "背心/吊带",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20346361"
+                    },
+                    {
+                        "name": "卫衣",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20346363"
+                    },
+                    {
+                        "name": "棉衣/羽绒服",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20352120"
+                    },
+                    {
+                        "name": "100元3件专区",
+                        "link": "http://shop.mogu.com/1o8fa2/list/index?categoryId=20358825"
+                    }
+                ],
+                "cFans": "30229",
+                "cSells": "11.3万",
+                "isMarked": false,
+                "cGoods": 393,
+                "userId": "131t65w",
+                "shopLogo": "https://s5.mogucdn.com/mlcdn/c45406/180930_0c44blb0671l64ibfehh7a3h716b2_200x200.jpg",
+                "name": "潮衫的店",
+                "shopId": "1o8fa2",
+                "type": 1,
+                "level": 3,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1o8fa2",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": false,
+                "desc": "夏季新款韩版百搭淑女中长款雪纺半身裙子开叉碎花一片式沙滩裙女",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_04gjb1fh8k4ef2gaae2eg37a6eh26_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_255k78a663bdal4l3a1i3230di71f_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_56a6j6icfj2baedc04c8ck77ld2hf_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_11b435h14gdd02b75cg7h8jg0dl9k_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_6477j242cckd31g9e11lllh67e27a_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_0f1dcbhhcgbg956dhh38k7gj2aa15_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_08b3lj033292kkj1b53h0jjbf291l_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_77b59c7ke41ge1d6igba94je41045_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_3c5b9cab0565ab7lg4704ibd1d7jf_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_8cjhla6f2e1jf8kicdaj47k7d97a9_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_2dckj10c59e430lee4528ca3g91b8_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_78a36ekghb18j0f9fdb76kic81g9f_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_7j8jh8ai6dj2dedagjlgd6b7385fa_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_0d5ihc461g6ll7klcg4k3hhjhgcg1_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_893827bc794ghh970g8b8e66d0hid_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_2d9akjlli3g10eckgf256lh1akjj1_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_6g6jb3khd59hc3b8630cegba3hk54_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_22h8d422ea48hihk8ja3832lc70i6_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_679gifhh2gei5272aehl8cc46bc30_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_3a166adfdfe928kji32j2dj57ahac_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_5kgb4k6a9gb19gc3l02660geh2hj7_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_1a4dhi96g5gajkb2hd9gfi63celj8_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_2i2412k83545d25jh0807kjfea11g_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_3fbfjcf08b4cj5e1497gi0flj691i_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_48a1i3h31cf2ab8ckdkjfja8egk00_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_4137a9hkk9959a212kb5hid6edgb2_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_3dl1ke937h3c65g8683a6fdjj5hj7_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_6g4c7h5ll70h3e02a1jhf4gg6gccc_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_7gid879k63gb03105cf4d0f5ac4kc_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_1gj2204c4je503kedea9ffbd3ccck_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_78ja3f2f7le549f9c0861chcba6l2_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_84185f21cb96kj76kl1560hk83003_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_6hkklk65bf3ljc4b56f6hh503dg99_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_07j177i2fc3g92bffcl5jl85ak00j_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_78cdd8iek9dih37hic2l1gd5g889i_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_4fa1gkkh20jd4f5jk1aj488bkbabc_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_3i4a8f21df2l0f3bk1hb0d3lge327_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_3bc2i99jl60k09ag0hc825c398h8d_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_8d8d9l3ad47816ei5gh1d60a8hbfh_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_1cadk27kiiil1a28e00flf9ffc883_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_7jfejai479ie7332j3g166eah28k2_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_69c13b9h521d2bda47aajaegka55a_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_03lk98ggcl0kj25a6f492dlcllilf_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_211b384k94k0i8g4a1f0601j9eaea_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_3157flkb77k754i0ckl7kh9c53bk0_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_86fele0054gjj4056j0b84jhjhf07_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_11bah5hgg9hga1aljhhakb2e5bei0_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_60akk002kdhdak0d52cadae5llhj1_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_2c2gh6l8ke748j617ib2h0059l914_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_1f050acf4ccii57ef3d7dki802c5e_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_76hfa71j9471e37h072ckgfgdjh9f_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_079i5378kblbdf9aajedfe53789bj_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_6la12l27g4a287a7allc40a0jifai_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_42d962iah5d05ckk12610c4a22548_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_0kkbl31kjgebd0gb2394j46biah94_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_0c93g536d228g5ge0cj4egchlifie_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_375c3be365kec0dah9cbce265db22_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_558i96dhe3dhice09j1e1eb7l9i9b_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_6eg2bke214cl2466ge0gkflca1f8c_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_88d27jlb4fedl279jd3akki0k076e_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_36dlj3ceaija90h1bga1feddbjbei_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_2d3a10f06b1ddbgc5634gkkk6k2j4_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_05aif121i362k6j7c9j2hl7l3ikj2_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_6kaa19a938971i61ae9i46igc1k2e_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_322kl5a82l307l0e97ej31e9g2dc9_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_1df49kfhea0kcj0kjb90hf0d19ejf_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_09ai659k7486db52jeaig2g0f60kl_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_1k546b63kl4cd817881j5h572j0jd_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_77k5f4e7dij4i36bkad9497ljghki_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_1agi6ik43i468if428d83fhb1b52k_750x200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190529_43c7jg5j9dgacda4e85h8hc587hce_750x200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190529_4cf3i5j7lik03h4lielg50jl2k078_750x164.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564642658,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s5.mogucdn.com/mlcdn/c45406/190529_55ada71geh6ljghib8l0i57893haj_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "夏季新款韩版百搭淑女中长款雪纺半身裙子开叉碎花一片式沙滩裙女",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1mhtgji&from=share",
+                "imageUrl": "https://s5.mogucdn.com/mlcdn/c45406/190529_55ada71geh6ljghib8l0i57893haj_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "花色",
+                        "裙型": "不规则裙",
+                        "颜色": "白色",
+                        "开衩": "无开衩",
+                        "尺码": "S,XL,L,M",
+                        "季节": "夏季",
+                        "材质": "雪纺",
+                        "裙子厚度": "适中",
+                        "裙长": "中长裙（46-65cm）",
+                        "腰线高度": "高腰",
+                        "风格": "甜美",
+                        "潮流": "韩系"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "腰围",
+                                "裙长"
+                            ],
+                            [
+                                "S",
+                                "66",
+                                "78"
+                            ],
+                            [
+                                "M",
+                                "70",
+                                "79"
+                            ],
+                            [
+                                "L",
+                                "74",
+                                "80"
+                            ],
+                            [
+                                "XL",
+                                "78",
+                                "81"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "69.00",
+                "oldPrice": "98.58",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "7折",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 798",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "address",
+                        "desc": "广东广州",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1mhtgji",
+                "img": "https://s5.mogucdn.com/mlcdn/c45406/190529_55ada71geh6ljghib8l0i57893haj_640x960.jpg",
+                "isJdItem": false,
+                "title": "夏季新款韩版百搭淑女中长款雪纺半身裙子开叉碎花一片式沙滩裙女",
+                "skus": [
+                    {
+                        "stockId": "11a5czuq",
+                        "xdSkuId": "11a5czuq",
+                        "price": 9858,
+                        "nowprice": 6900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190529_135lc56b38haaha3kfflj8aib2ec7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 325,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "S",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11a5czus",
+                        "xdSkuId": "11a5czus",
+                        "price": 9858,
+                        "nowprice": 6900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190529_135lc56b38haaha3kfflj8aib2ec7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 210,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "M",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11a5czuu",
+                        "xdSkuId": "11a5czuu",
+                        "price": 9858,
+                        "nowprice": 6900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190529_135lc56b38haaha3kfflj8aib2ec7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 310,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "L",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11a5czuw",
+                        "xdSkuId": "11a5czuw",
+                        "price": 9858,
+                        "nowprice": 6900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190529_135lc56b38haaha3kfflj8aib2ec7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 384,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "XL",
+                        "styleId": 1,
+                        "sizeId": 103
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "白色",
+                                "index": 1,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "S",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "M",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "L",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "XL",
+                                "index": 103,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥69.00",
+                "defaultPrice": "¥69.00",
+                "totalStock": 1229,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

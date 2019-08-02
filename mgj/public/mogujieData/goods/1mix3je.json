@@ -1,0 +1,1646 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "12gtuq0",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "14r1o",
+                "sellerId": "12gtuq0"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "曳***1",
+                            "avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrtgyjxmjrwgntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190725_659ke0b8if9a0fi4ahilg47a17734_1414x1414.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190725_150aah48a171c2fh5c3533lb33l1a_866x1155.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190725_0bfceg490cclh374fii0i2j80ia65_1414x1414.jpg"
+                        ],
+                        "rateId": "118msc80",
+                        "content": "“图片描述一致”“没有气味”裤子收到，快递小哥很给力，很凉爽的布料，好评。",
+                        "created": 1564041509,
+                        "isAnonymous": 1,
+                        "style": "颜色:杏色 尺码:S ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    },
+                    {
+                        "user": {
+                            "uname": "漆黑萤火虫",
+                            "avatar": "https://s5.mogucdn.com/mlcdn/5abf39/180929_6d14cgkgd4b1c7a2g75dcd2191i06_400x400.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190722_3e2fkb91jijgf81e1343d7244bgf5_300x400.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190722_4dle2f6hj5d6e0j4j8d7771ajlfi1_300x400.jpg"
+                        ],
+                        "rateId": "118ltp2m",
+                        "content": "很喜欢啊！崔顺又不热！穿上超级舒服超级舒服真心的！！版型也是我喜欢的版型很显瘦的！",
+                        "created": 1563788138,
+                        "isAnonymous": 0,
+                        "style": "颜色:黑色 尺码:M ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "身高: 162cm",
+                            "体重: 50kg",
+                            "是否合身: 合身"
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "weight": "50kg",
+                            "height": "162cm",
+                            "desc": "合身"
+                        }
+                    }
+                ],
+                "cRate": 23,
+                "imgTotal": 8,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 8
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 9
+                    }
+                ],
+                "sales": 345
+            },
+            "itemInfo": {
+                "desc": "一款薄款的九分雪纺系带阔腿裤，柔软坠感好的雪纺面料，舒适垂顺，透气好。松紧腰，弹力舒适  穿脱方便。推荐的一款休闲裤哦！！！我们家还有同面料的其他款式的休闲裤在出售哦，喜欢的美眉可以进入我们的店铺看一下的哦",
+                "title": "雪纺阔腿裤女夏坠感薄款冰丝松紧高腰九分宽松显瘦垂感休闲直筒裤",
+                "itemId": "1mix3je",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 1168,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "雪纺阔腿裤女夏坠感薄款冰丝松紧高腰九分宽松显瘦垂感休闲直筒裤",
+                    "wap_url": "//m.mogujie.com/x6/detail/1mix3je",
+                    "description": "来自蘑菇街优店休闲裤_裤子_女装_服饰鞋包家一款薄款的九分雪纺系带阔腿裤，柔软坠感好的雪纺面料，舒适垂顺，透气好。松紧腰，弹力舒适  穿脱方便。推荐的一款休闲裤哦！！！我们家还有同面料的其他款式的休闲裤在出售哦，喜欢的美眉可以进入我们的店铺看一下的哦的雪纺阔腿裤女夏坠感薄款冰丝松紧高腰九分宽松显瘦垂感休闲直筒裤，发现当季女装和米籣良品搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1mix3je",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1mix3je",
+                    "seo_noindex": "0",
+                    "title": "【雪纺阔腿裤女夏坠感薄款冰丝松紧高腰九分宽松显瘦垂感休闲直筒裤】-女装-休闲裤_裤子_女装_服饰鞋包-米籣良品-蘑菇街优店"
+                },
+                "type": 8,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 345,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "99.00",
+                "highPrice": "99.00",
+                "lowNowPrice": "59.00",
+                "highNowPrice": "59.00",
+                "nowTime": 1564633625,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "59.00",
+                "oldPrice": "99.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "限量专场",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "59.00",
+                "normalPrice": "59.00",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564633625,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.58,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.57,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "防晒衫",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=134519"
+                    },
+                    {
+                        "name": "休闲裤",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=134520"
+                    },
+                    {
+                        "name": "半身裙",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=134521"
+                    },
+                    {
+                        "name": "衬衫",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=1429199"
+                    },
+                    {
+                        "name": "牛仔短裤",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=1489531"
+                    },
+                    {
+                        "name": "t恤",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=1489672"
+                    },
+                    {
+                        "name": "毛衣/针织衫",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=20045324"
+                    },
+                    {
+                        "name": "连衣裙",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=20070988"
+                    },
+                    {
+                        "name": "时尚套装",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=20363122"
+                    },
+                    {
+                        "name": "吊带背心",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=20364854"
+                    },
+                    {
+                        "name": "牛仔长裤",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=20367142"
+                    },
+                    {
+                        "name": "卫衣",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=20367205"
+                    },
+                    {
+                        "name": "牛仔外套",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=20367413"
+                    },
+                    {
+                        "name": "西装外套",
+                        "link": "http://shop.mogu.com/14r1o/list/index?categoryId=20367865"
+                    }
+                ],
+                "cFans": "22091",
+                "cSells": "23.6万",
+                "isMarked": false,
+                "cGoods": 338,
+                "userId": "12gtuq0",
+                "shopLogo": "https://s11.mogucdn.com/mlcdn/c45406/190215_89l3clibjki6llb1kd7ddcl62j1k5_500x500.jpg",
+                "name": "米籣良品",
+                "shopId": "14r1o",
+                "type": 1,
+                "level": 3,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=14r1o",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "collcationSet": {
+                "itemId": "1mix3je",
+                "sellerId": "12gtuq0",
+                "collcationSetList": [
+                    {
+                        "name": "套餐一",
+                        "promotionMark": "collocationSet_700017168188",
+                        "campaignId": 700017168188,
+                        "collocationSetItemGroupDTOs": [
+                            {
+                                "img": "https://s5.mogucdn.com/mlcdn/c45406/190711_8553706gbk0idb2bcj2j900b12l58_640x960.jpg",
+                                "title": "2019韩版宽松显瘦纯棉吸汗透气插肩袖中袖纯色百搭短袖t恤女",
+                                "itemId": 681258189,
+                                "iid": "1mj7geq",
+                                "proPrice": 2900,
+                                "originalPrice": 7500,
+                                "defaultPrice": "¥29",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1412016237,
+                                        "proPrice": 2900
+                                    },
+                                    {
+                                        "stockId": 1412016236,
+                                        "proPrice": 2900
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s5.mogucdn.com/mlcdn/c45406/190529_5gfahal51ce9hbj62f40kc2k0hcdh_640x960.jpg",
+                                "title": "夏季新品学生丧系上衣百搭韩版显瘦宽松胡萝卜印花短袖t恤女",
+                                "itemId": 680039536,
+                                "iid": "1mhr7rs",
+                                "proPrice": 2900,
+                                "originalPrice": 7000,
+                                "defaultPrice": "¥29",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1394969776,
+                                        "proPrice": 2900
+                                    },
+                                    {
+                                        "stockId": 1394969778,
+                                        "proPrice": 2900
+                                    },
+                                    {
+                                        "stockId": 1394969777,
+                                        "proPrice": 2900
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_3130jh0gkk8cjl9b992ag3ag9hb4b_640x960.jpg",
+                                "title": "雪纺阔腿裤女夏坠感薄款冰丝松紧高腰九分宽松显瘦垂感休闲直筒裤",
+                                "itemId": 681016569,
+                                "iid": "1mix3je",
+                                "proPrice": 5900,
+                                "originalPrice": 9900,
+                                "defaultPrice": "¥59",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1408263084,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263085,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263082,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263083,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263080,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263081,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263079,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263077,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263078,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263075,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263076,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263086,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263074,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263087,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263065,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263066,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263063,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263064,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263061,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263062,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263073,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263071,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263059,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263072,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263060,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263069,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263070,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263058,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263067,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263068,
+                                        "proPrice": 5900
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "套餐二",
+                        "promotionMark": "collocationSet_700017168556",
+                        "campaignId": 700017168556,
+                        "collocationSetItemGroupDTOs": [
+                            {
+                                "img": "https://s5.mogucdn.com/mlcdn/c45406/190717_3k1c9k04i7jjg7gjdcblb2aacgeh1_720x960.jpg",
+                                "title": "高腰哈伦裤女夏季薄款宽松九分显瘦小脚萝卜裤雪纺休闲裤子烟管裤",
+                                "itemId": 681395453,
+                                "iid": "1mjdc8i",
+                                "proPrice": 5900,
+                                "originalPrice": 9900,
+                                "defaultPrice": "¥59",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1413795047,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413795046,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413795045,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413795044,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413795050,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413795043,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413795042,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413795049,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413795048,
+                                        "proPrice": 5900
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s5.mogucdn.com/mlcdn/c45406/190703_87j4d3bkg87612184cbl42j174i87_640x960.jpg",
+                                "title": "雪纺九分垂感直筒花苞裤子高腰冰丝宽松显瘦夏季洋气坠感阔腿裤女",
+                                "itemId": 681017805,
+                                "iid": "1mix5g2",
+                                "proPrice": 5900,
+                                "originalPrice": 9900,
+                                "defaultPrice": "¥59",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1408270328,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270306,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270330,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270305,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270329,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270316,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270315,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270308,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270332,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270307,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270331,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270309,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270310,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270322,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270321,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270312,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270324,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270311,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270323,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270318,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270317,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270320,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270319,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270333,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270334,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270314,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270326,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270313,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270325,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408270327,
+                                        "proPrice": 5900
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_3130jh0gkk8cjl9b992ag3ag9hb4b_640x960.jpg",
+                                "title": "雪纺阔腿裤女夏坠感薄款冰丝松紧高腰九分宽松显瘦垂感休闲直筒裤",
+                                "itemId": 681016569,
+                                "iid": "1mix3je",
+                                "proPrice": 5900,
+                                "originalPrice": 9900,
+                                "defaultPrice": "¥59",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1408263084,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263085,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263082,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263083,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263080,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263081,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263079,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263077,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263078,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263075,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263076,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263086,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263074,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263087,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263065,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263066,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263063,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263064,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263061,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263062,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263073,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263071,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263059,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263072,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263060,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263069,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263070,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263058,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263067,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1408263068,
+                                        "proPrice": 5900
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/c45406/190717_866h4b5h45jd5eg07lhe8a5g7kb32_720x960.jpg",
+                                "title": "坠感阔腿裤女夏长裤2019新款休闲雪纺松紧高腰宽松显瘦直筒裤",
+                                "itemId": 681396371,
+                                "iid": "1mjddni",
+                                "proPrice": 5900,
+                                "originalPrice": 9900,
+                                "defaultPrice": "¥59",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1413804721,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804722,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804723,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804719,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804732,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804720,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804733,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804728,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804734,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804716,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804729,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804735,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804717,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804730,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804718,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804731,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804724,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804725,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804726,
+                                        "proPrice": 5900
+                                    },
+                                    {
+                                        "stockId": 1413804727,
+                                        "proPrice": 5900
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "一款薄款的九分雪纺系带阔腿裤，柔软坠感好的雪纺面料，舒适垂顺，透气好。松紧腰，弹力舒适  穿脱方便。推荐的一款休闲裤哦！！！我们家还有同面料的其他款式的休闲裤在出售哦，喜欢的美眉可以进入我们的店铺看一下的哦",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190703_50gkfe5438g7jej9k7alh9f8eld9g_790x790.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190703_2k7jd8b309lb75g2gfd50ecb17kec_790x970.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190703_7l2c16505gfek3iig431g1j505d3a_790x713.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190703_88267kbbcaik0a287ij9g5573l32i_790x745.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190703_5je4ff7hf1hj07jd1478g8lg461ah_790x1141.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190703_7ab5cf8d8h09g4cdhakia7bgl5lh3_790x1176.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190703_6g134hba01d29027521l57h0ke4b9_790x1376.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190703_43k268e722hek0jhgj5k89cchcile_779x900.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190703_0735gflh6f6lh3fc3740df41d1da9_720x631.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190703_2e23c30le015j83c2kei3ee9k5g20_790x474.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190703_2b875idfeea6602kjhjj56b2lh8jb_790x909.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190703_7e2igj41iedf1h6a8k9g9649gefl9_790x1171.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190703_4jg10b3i5f6jjeeg133l7d960h197_790x835.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190703_531b1j8hbj575c52981blf45i73gk_790x807.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190703_604gf1k6e5l5lf7c245agk5ca4dif_790x908.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190703_71g32i50i05085772d0k7c4330l92_790x1233.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190703_6dd7bfei084a88kja664cebhb5d3e_790x805.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190703_12hej907d0hcd81i9831k7bddb20d_790x1366.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190703_5kh0ib9i2ea9dhfk98ebjilkfgaje_790x1269.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190703_806lje2642jhkfgckc99d0kcci4ek_790x1102.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190703_5j1c0019k0907i5h6d8fg2ceb6hh1_790x585.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564633625,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s11.mogucdn.com/mlcdn/c45406/190703_3130jh0gkk8cjl9b992ag3ag9hb4b_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190703_3lja638fj7kj4cj09hhf2lk622kd1_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190703_2328ja84jed8ia0f3jjhke17c5bf7_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190703_7b2636hdjlhablg09g714j9cc4d3k_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190703_42e3985g406f43cc0lb02k6i4206k_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "雪纺阔腿裤女夏坠感薄款冰丝松紧高腰九分宽松显瘦垂感休闲直筒裤",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1mix3je&from=share",
+                "imageUrl": "https://s11.mogucdn.com/mlcdn/c45406/190703_3130jh0gkk8cjl9b992ag3ag9hb4b_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "纯色",
+                        "厚薄": "薄款",
+                        "颜色": "黑色,蓝色,粉色,白色,绿色,杏色",
+                        "裤长": "九分裤",
+                        "腰型": "高腰",
+                        "尺码": "S,XL,L,M,XXL",
+                        "季节": "夏季",
+                        "材质": "雪纺",
+                        "裤型": "阔腿裤",
+                        "风格": "简约",
+                        "闭合方式": "系绳腰带",
+                        "潮流": "韩系"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "腰围",
+                                "臀围",
+                                "裤长",
+                                "裤口"
+                            ],
+                            [
+                                "S",
+                                "62",
+                                "98",
+                                "90",
+                                "58"
+                            ],
+                            [
+                                "M",
+                                "68",
+                                "100",
+                                "90",
+                                "60"
+                            ],
+                            [
+                                "L",
+                                "72",
+                                "102",
+                                "91",
+                                "62"
+                            ],
+                            [
+                                "XL",
+                                "76",
+                                "104",
+                                "91",
+                                "64"
+                            ],
+                            [
+                                "XXL",
+                                "82",
+                                "106",
+                                "92",
+                                "66"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "59.00",
+                "oldPrice": "99.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "限量专场",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 345",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1mix3je",
+                "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_3130jh0gkk8cjl9b992ag3ag9hb4b_640x960.jpg",
+                "isJdItem": false,
+                "title": "雪纺阔腿裤女夏坠感薄款冰丝松紧高腰九分宽松显瘦垂感休闲直筒裤",
+                "skus": [
+                    {
+                        "stockId": "11akvxio",
+                        "xdSkuId": "11akvxio",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_7g9ihd0j463795fedhf216lkjgi4f_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 996,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "S",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11akvxiq",
+                        "xdSkuId": "11akvxiq",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_7g9ihd0j463795fedhf216lkjgi4f_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 994,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "M",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11akvxis",
+                        "xdSkuId": "11akvxis",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_7g9ihd0j463795fedhf216lkjgi4f_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 995,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "L",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11akvxiu",
+                        "xdSkuId": "11akvxiu",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_7g9ihd0j463795fedhf216lkjgi4f_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 998,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "XL",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11akvxiw",
+                        "xdSkuId": "11akvxiw",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_7g9ihd0j463795fedhf216lkjgi4f_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 997,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "XXL",
+                        "styleId": 1,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "11akvxiy",
+                        "xdSkuId": "11akvxiy",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190703_0674939a8l8ibcadbj6cdg1al7ejh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 971,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "S",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11akvxj0",
+                        "xdSkuId": "11akvxj0",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190703_0674939a8l8ibcadbj6cdg1al7ejh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 958,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "M",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11akvxj2",
+                        "xdSkuId": "11akvxj2",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190703_0674939a8l8ibcadbj6cdg1al7ejh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 975,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "L",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11akvxj4",
+                        "xdSkuId": "11akvxj4",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190703_0674939a8l8ibcadbj6cdg1al7ejh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 988,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "XL",
+                        "styleId": 2,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11akvxj6",
+                        "xdSkuId": "11akvxj6",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190703_0674939a8l8ibcadbj6cdg1al7ejh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 990,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "XXL",
+                        "styleId": 2,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "11akvxia",
+                        "xdSkuId": "11akvxia",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_0e9f818ciic87lh47ed2d53bbj38e_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 985,
+                        "style": "杏色",
+                        "color": "#ffa631",
+                        "size": "S",
+                        "styleId": 3,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11akvxi6",
+                        "xdSkuId": "11akvxi6",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_0e9f818ciic87lh47ed2d53bbj38e_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 988,
+                        "style": "杏色",
+                        "color": "#ffa631",
+                        "size": "M",
+                        "styleId": 3,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11akvxi8",
+                        "xdSkuId": "11akvxi8",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_0e9f818ciic87lh47ed2d53bbj38e_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 993,
+                        "style": "杏色",
+                        "color": "#ffa631",
+                        "size": "L",
+                        "styleId": 3,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11akvxi4",
+                        "xdSkuId": "11akvxi4",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_0e9f818ciic87lh47ed2d53bbj38e_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 995,
+                        "style": "杏色",
+                        "color": "#ffa631",
+                        "size": "XL",
+                        "styleId": 3,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11akvxic",
+                        "xdSkuId": "11akvxic",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_0e9f818ciic87lh47ed2d53bbj38e_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 997,
+                        "style": "杏色",
+                        "color": "#ffa631",
+                        "size": "XXL",
+                        "styleId": 3,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "11akvxj8",
+                        "xdSkuId": "11akvxj8",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_824d166gl783ijid5djj29kh020jl_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 972,
+                        "style": "绿色",
+                        "color": "#008000",
+                        "size": "S",
+                        "styleId": 4,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11akvxja",
+                        "xdSkuId": "11akvxja",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_824d166gl783ijid5djj29kh020jl_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 970,
+                        "style": "绿色",
+                        "color": "#008000",
+                        "size": "M",
+                        "styleId": 4,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11akvxjc",
+                        "xdSkuId": "11akvxjc",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_824d166gl783ijid5djj29kh020jl_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 985,
+                        "style": "绿色",
+                        "color": "#008000",
+                        "size": "L",
+                        "styleId": 4,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11akvxje",
+                        "xdSkuId": "11akvxje",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_824d166gl783ijid5djj29kh020jl_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 987,
+                        "style": "绿色",
+                        "color": "#008000",
+                        "size": "XL",
+                        "styleId": 4,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11akvxjg",
+                        "xdSkuId": "11akvxjg",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_824d166gl783ijid5djj29kh020jl_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 987,
+                        "style": "绿色",
+                        "color": "#008000",
+                        "size": "XXL",
+                        "styleId": 4,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "11akvxie",
+                        "xdSkuId": "11akvxie",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_0bf2i157bkk297eajlac82ek8l745_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 995,
+                        "style": "蓝色",
+                        "color": "#71adfa",
+                        "size": "S",
+                        "styleId": 5,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11akvxig",
+                        "xdSkuId": "11akvxig",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_0bf2i157bkk297eajlac82ek8l745_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 998,
+                        "style": "蓝色",
+                        "color": "#71adfa",
+                        "size": "M",
+                        "styleId": 5,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11akvxii",
+                        "xdSkuId": "11akvxii",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_0bf2i157bkk297eajlac82ek8l745_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 993,
+                        "style": "蓝色",
+                        "color": "#71adfa",
+                        "size": "L",
+                        "styleId": 5,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11akvxik",
+                        "xdSkuId": "11akvxik",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_0bf2i157bkk297eajlac82ek8l745_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 992,
+                        "style": "蓝色",
+                        "color": "#71adfa",
+                        "size": "XL",
+                        "styleId": 5,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11akvxim",
+                        "xdSkuId": "11akvxim",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_0bf2i157bkk297eajlac82ek8l745_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 997,
+                        "style": "蓝色",
+                        "color": "#71adfa",
+                        "size": "XXL",
+                        "styleId": 5,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "11akvxji",
+                        "xdSkuId": "11akvxji",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190703_85lb8c9bgg43jfi19ag286ef1ijf1_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 998,
+                        "style": "粉色",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 6,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11akvxjk",
+                        "xdSkuId": "11akvxjk",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190703_85lb8c9bgg43jfi19ag286ef1ijf1_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 995,
+                        "style": "粉色",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 6,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11akvxjm",
+                        "xdSkuId": "11akvxjm",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190703_85lb8c9bgg43jfi19ag286ef1ijf1_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 996,
+                        "style": "粉色",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 6,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11akvxjo",
+                        "xdSkuId": "11akvxjo",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190703_85lb8c9bgg43jfi19ag286ef1ijf1_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 998,
+                        "style": "粉色",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 6,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11akvxjq",
+                        "xdSkuId": "11akvxjq",
+                        "price": 9900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190703_85lb8c9bgg43jfi19ag286ef1ijf1_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1000,
+                        "style": "粉色",
+                        "color": "",
+                        "size": "XXL",
+                        "styleId": 6,
+                        "sizeId": 104
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "白色",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "黑色",
+                                "index": 2,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 3,
+                                "name": "杏色",
+                                "index": 3,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 4,
+                                "name": "绿色",
+                                "index": 4,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 5,
+                                "name": "蓝色",
+                                "index": 5,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 6,
+                                "name": "粉色",
+                                "index": 6,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "S",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "M",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "L",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "XL",
+                                "index": 103,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 104,
+                                "default": false,
+                                "name": "XXL",
+                                "index": 104,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥59.00",
+                "defaultPrice": "¥59.00",
+                "totalStock": 29683,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

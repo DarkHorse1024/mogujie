@@ -1,0 +1,104 @@
+{
+    "cid": "491870",
+    "name": "新品速递",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mirk2w",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_2k2bl73dd88bjagdflj9g966dke8l_640x900.jpg",
+            "originalPrice": 71.29,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mirk2w&acm=3.ms.1_4_1mirk2w.16.36598-68998.e6MRRrxRSQUBV.sd_117-swt_16-imt_6-t_e6MRRrxRSQUBV-lc_16-fcid_20004428-pid_180-pit_1-dit_163",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mirk2w&acm=3.ms.1_4_1mirk2w.16.36598-68998.e6MRRrxRSQUBV.sd_117-swt_16-imt_6-t_e6MRRrxRSQUBV-lc_16-fcid_20004428-pid_180-pit_1-dit_163",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mirk2w.16.36598-68998.e6MRRrxRSQUBV.sd_117-swt_16-imt_6-t_e6MRRrxRSQUBV-lc_16-fcid_20004428-pid_180-pit_1-dit_163",
+            "price_taglist": [],
+            "title": "2019夏季新品网红短袖针织T恤女+超酷个性运动休闲裤两件套",
+            "orgPrice": 71.29,
+            "props": [
+                "短袖针织t恤",
+                "超酷",
+                "个性",
+                "夏季"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 1722,
+            "price": 49.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.56",
+                "descDsr": "4.57",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.75",
+                "tagServiceDsr": "4.91",
+                "serviceDsr": "4.82"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mirk2w&acm=3.ms.1_4_1mirk2w.16.36598-68998.e6MRRrxRSQUBV.sd_117-swt_16-imt_6-t_e6MRRrxRSQUBV-lc_16-fcid_20004428-pid_180-pit_1-dit_163&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "0春色撩人0"
+        },
+        {
+            "tradeItemId": "1menf36",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190316_7bbee73if7k2a529k4l2fek4949d9_640x960.jpg",
+            "originalPrice": 112.86,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1menf36&acm=3.ms.1_4_1menf36.16.36598-68998.e6MRRrxRSQUBV.sd_117-swt_16-imt_6-t_e6MRRrxRSQUBV-lc_16-fcid_20004428-pid_180-pit_1-dit_163",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1menf36&acm=3.ms.1_4_1menf36.16.36598-68998.e6MRRrxRSQUBV.sd_117-swt_16-imt_6-t_e6MRRrxRSQUBV-lc_16-fcid_20004428-pid_180-pit_1-dit_163",
+            "itemMarks": "1525 188 1127",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1menf36.16.36598-68998.e6MRRrxRSQUBV.sd_117-swt_16-imt_6-t_e6MRRrxRSQUBV-lc_16-fcid_20004428-pid_180-pit_1-dit_163",
+            "price_taglist": [],
+            "title": "2019春季新品韩范气质宽松甜美白色衬衫+高腰休闲裤小脚裤学生中长款时尚百搭显瘦上衣",
+            "orgPrice": 112.86,
+            "props": [
+                "白色衬衫",
+                "气质",
+                "时尚",
+                "甜美",
+                "韩范",
+                "百搭",
+                "春季",
+                "宽松"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 9066,
+            "price": 79,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.64",
+                "descDsr": "4.65",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.75",
+                "tagServiceDsr": "4.91",
+                "serviceDsr": "4.82"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1menf36&acm=3.ms.1_4_1menf36.16.36598-68998.e6MRRrxRSQUBV.sd_117-swt_16-imt_6-t_e6MRRrxRSQUBV-lc_16-fcid_20004428-pid_180-pit_1-dit_163&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "新伊家"
+        }
+    ]
+}

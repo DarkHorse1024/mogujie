@@ -1,0 +1,101 @@
+{
+    "cid": "492704",
+    "name": "流行T恤",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mi60pq",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_6lc1k7b4i8af3g5b8khb4a8051cl2_640x960.jpg",
+            "originalPrice": 57,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mi60pq&acm=3.ms.1_4_1mi60pq.16.36598-69000.wzP0MrxRXWDZI.sd_117-swt_16-imt_6-t_wzP0MrxRXWDZI-lc_16-fcid_20004455-pid_180-pit_1-dit_151",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mi60pq&acm=3.ms.1_4_1mi60pq.16.36598-69000.wzP0MrxRXWDZI.sd_117-swt_16-imt_6-t_wzP0MrxRXWDZI-lc_16-fcid_20004455-pid_180-pit_1-dit_151",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mi60pq.16.36598-69000.wzP0MrxRXWDZI.sd_117-swt_16-imt_6-t_wzP0MrxRXWDZI-lc_16-fcid_20004455-pid_180-pit_1-dit_151",
+            "price_taglist": [],
+            "title": "牛油果绿V领短袖女T恤上衣夏季新款ins宽松体恤打底衫半袖潮",
+            "orgPrice": 57,
+            "props": [
+                "短袖女t恤",
+                "半袖",
+                "v领",
+                "宽松"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 3530,
+            "price": 39.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.65",
+                "descDsr": "4.66",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.87"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mi60pq&acm=3.ms.1_4_1mi60pq.16.36598-69000.wzP0MrxRXWDZI.sd_117-swt_16-imt_6-t_wzP0MrxRXWDZI-lc_16-fcid_20004455-pid_180-pit_1-dit_151&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "ALICE名媛馆"
+        },
+        {
+            "tradeItemId": "1mijoxi",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190621_56dkhiai09hkfea2k5ki03hl4j30b_640x960.jpg",
+            "originalPrice": 57,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mijoxi&acm=3.ms.1_4_1mijoxi.16.36598-69000.wzP0MrxRXWDZI.sd_117-swt_16-imt_6-t_wzP0MrxRXWDZI-lc_16-fcid_20004455-pid_180-pit_1-dit_151",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mijoxi&acm=3.ms.1_4_1mijoxi.16.36598-69000.wzP0MrxRXWDZI.sd_117-swt_16-imt_6-t_wzP0MrxRXWDZI-lc_16-fcid_20004455-pid_180-pit_1-dit_151",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mijoxi.16.36598-69000.wzP0MrxRXWDZI.sd_117-swt_16-imt_6-t_wzP0MrxRXWDZI-lc_16-fcid_20004455-pid_180-pit_1-dit_151",
+            "price_taglist": [],
+            "title": "【2件69元】2019新款纯棉宽松潮牛油果抹茶绿短袖t恤女",
+            "orgPrice": 57,
+            "props": [
+                "翰代维",
+                "短袖t恤",
+                "纯棉",
+                "宽松",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 1500,
+            "price": 39.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.78",
+                "descDsr": "4.76",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.75",
+                "tagServiceDsr": "4.91",
+                "serviceDsr": "4.88"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mijoxi&acm=3.ms.1_4_1mijoxi.16.36598-69000.wzP0MrxRXWDZI.sd_117-swt_16-imt_6-t_wzP0MrxRXWDZI-lc_16-fcid_20004455-pid_180-pit_1-dit_151&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "翰代维旗舰店"
+        }
+    ]
+}

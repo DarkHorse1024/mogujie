@@ -1,0 +1,103 @@
+{
+    "cid": "459097",
+    "name": "半身裙",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mj9gzk",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190713_471g53af8fgh7lldd6l91hd8bd816_640x960.jpg",
+            "originalPrice": 57,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mj9gzk&acm=3.ms.1_4_1mj9gzk.16.36598-69000.wzP0MrxRZMIZT.sd_117-swt_16-imt_6-t_wzP0MrxRZMIZT-lc_16-fcid_20004474-pid_181-pit_1-dit_157",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mj9gzk&acm=3.ms.1_4_1mj9gzk.16.36598-69000.wzP0MrxRZMIZT.sd_117-swt_16-imt_6-t_wzP0MrxRZMIZT-lc_16-fcid_20004474-pid_181-pit_1-dit_157",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mj9gzk.16.36598-69000.wzP0MrxRZMIZT.sd_117-swt_16-imt_6-t_wzP0MrxRZMIZT-lc_16-fcid_20004474-pid_181-pit_1-dit_157",
+            "price_taglist": [],
+            "title": "夏季新款黑色T恤套装字母格子半身裙两件套",
+            "orgPrice": 57,
+            "props": [
+                "格子半身裙",
+                "黑色",
+                "字母"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 197,
+            "price": 39.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.72",
+                "descDsr": "4.73",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.95"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mj9gzk&acm=3.ms.1_4_1mj9gzk.16.36598-69000.wzP0MrxRZMIZT.sd_117-swt_16-imt_6-t_wzP0MrxRZMIZT-lc_16-fcid_20004474-pid_181-pit_1-dit_157&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "阁阁靓衣坊"
+        },
+        {
+            "tradeItemId": "1mhtgji",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190529_55ada71geh6ljghib8l0i57893haj_640x960.jpg",
+            "originalPrice": 98.58,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhtgji&acm=3.ms.1_4_1mhtgji.16.36598-69000.wzP0MrxRZMIZT.sd_117-swt_16-imt_6-t_wzP0MrxRZMIZT-lc_16-fcid_20004474-pid_181-pit_1-dit_157",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhtgji&acm=3.ms.1_4_1mhtgji.16.36598-69000.wzP0MrxRZMIZT.sd_117-swt_16-imt_6-t_wzP0MrxRZMIZT-lc_16-fcid_20004474-pid_181-pit_1-dit_157",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mhtgji.16.36598-69000.wzP0MrxRZMIZT.sd_117-swt_16-imt_6-t_wzP0MrxRZMIZT-lc_16-fcid_20004474-pid_181-pit_1-dit_157",
+            "price_taglist": [],
+            "title": "夏季新款韩版百搭淑女中长款雪纺半身裙子开叉碎花一片式沙滩裙女",
+            "orgPrice": 98.58,
+            "props": [
+                "半身裙子",
+                "开叉",
+                "淑女",
+                "中长款雪纺",
+                "百搭",
+                "碎花",
+                "一片式",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 3534,
+            "price": 69,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.63",
+                "descDsr": "4.63",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.89"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mhtgji&acm=3.ms.1_4_1mhtgji.16.36598-69000.wzP0MrxRZMIZT.sd_117-swt_16-imt_6-t_wzP0MrxRZMIZT-lc_16-fcid_20004474-pid_181-pit_1-dit_157&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "潮衫的店"
+        }
+    ]
+}

@@ -1,0 +1,860 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "12777r2",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "14iz4",
+                "sellerId": "12777r2"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "我是青菜Vera",
+                            "avatar": "https://s5.mogucdn.com/mlcdn/5abf39/170911_029gkhed6iibdfk6b5703ld3lhlhe_200x200.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190621_752b56ajh58ib2gkj39ele887bbbb_750x1000.jpg"
+                        ],
+                        "rateId": "118f2wl4",
+                        "content": "颜色会反光和实物无区别，我就是来配这个短裙的，葡萄紫，很好看，喜欢！",
+                        "created": 1561127897,
+                        "isAnonymous": 0,
+                        "style": "颜色:贝壳粉紫 尺码:M ",
+                        "isEmpty": 1,
+                        "explain": "[商家回复]:【一，衷心感谢这位宝宝在百忙之中对这件宝贝写下评论。您对我们衣服和服务的满意，是我们的追求，也是对我们的努力付出的极大肯定，我们会很开心，这也能鼓励我们继续为宝宝们提供更加周到完善的服务，更加质优价美的衣服。】【二，然而世间没有十全十美的东西，您收到衣服很不满意的话，可以跟我们客服反馈的，对于您提出的建议，反馈的问题，我们都会积极去听取，这能使我们更加去完善每个细节，改善每个不足之处，这样我们会把衣衣做得更加完美，以赢得更多的肯定，这是我们一直以来的追求。】【①老牌厂家严格把关品质制作，专业团队质检发货，质量保证！】【②还赠送运费险，售后无忧，不合适，不喜欢，就退退退！】【③还有还有，最重要的！宝宝们收到衣衣15天内，如发现有降价的，我们无条件无理由退差价哦！绝无戏言！】【④所以宝宝们尽管放心下单，你们负责穿衣美美哒，剩下的事情都交给我们吧。】【⑤听说买了我们家衣衣的宝宝们爱情圆满，家庭幸福，心想事成，发大财！不买的收藏关注一下也一样万事如意。】^^⁺⸜(●˙▾˙●)⸝+",
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    },
+                    {
+                        "user": {
+                            "uname": "与其迁就",
+                            "avatar": "https://s11.mogucdn.com/mlcdn/5abf39/190509_6lkc80efg2dba6cii633jijgf54gf_400x400.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190726_6b3l620d8cib617aid0ikjbf7hlc4_480x640.jpg"
+                        ],
+                        "rateId": "118n28t8",
+                        "content": "“料子很不错”“没有气味”“卖家服务很好”“上身效果好”“质量好”“图片描述一致”“做工满意”好棒的一件衣服，推荐各位入手一件",
+                        "created": 1564124721,
+                        "isAnonymous": 0,
+                        "style": "颜色:海王蓝绿 尺码:L ",
+                        "isEmpty": 1,
+                        "explain": "[商家回复]:【一，衷心感谢这位宝宝在百忙之中对这件宝贝写下评论。您对我们衣服和服务的满意，是我们的追求，也是对我们的努力付出的极大肯定，我们会很开心，这也能鼓励我们继续为宝宝们提供更加周到完善的服务，更加质优价美的衣服。】【二，然而世间没有十全十美的东西，您收到衣服很不满意的话，可以跟我们客服反馈的，对于您提出的建议，反馈的问题，我们都会积极去听取，这能使我们更加去完善每个细节，改善每个不足之处，这样我们会把衣衣做得更加完美，以赢得更多的肯定，这是我们一直以来的追求。】【①老牌厂家严格把关品质制作，专业团队质检发货，质量保证！】【②还赠送运费险，售后无忧，不合适，不喜欢，就退退退！】【③还有还有，最重要的！宝宝们收到衣衣15天内，如发现有降价的，我们无条件无理由退差价哦！绝无戏言！】【④所以宝宝们尽管放心下单，你们负责穿衣美美哒，剩下的事情都交给我们吧。】【⑤听说买了我们家衣衣的宝宝们爱情圆满，家庭幸福，心想事成，发大财！不买的收藏关注一下也一样万事如意。】^^⁺⸜(●˙▾˙●)⸝+",
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "身高: 165 cm",
+                            "体重: 44 kg",
+                            "是否合身: 合身 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "weight": "44kg",
+                            "height": "165cm",
+                            "desc": "合身 "
+                        }
+                    }
+                ],
+                "cRate": 37,
+                "imgTotal": 4,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 4,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 18,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 14,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 10,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 8,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "做工",
+                        "value": "做工不错",
+                        "num": 6,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 433
+            },
+            "itemInfo": {
+                "desc": "原宿风BF风翻领光泽感设计亮面衬衫长袖防晒衣中长款衬衫外套女",
+                "title": "原宿风BF风翻领光泽感设计亮面衬衫长袖防晒衣中长款衬衫外套女",
+                "itemId": "1mi8ve2",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 1855,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "原宿风BF风翻领光泽感设计亮面衬衫长袖防晒衣中长款衬衫外套女",
+                    "wap_url": "//m.mogujie.com/x6/detail/1mi8ve2",
+                    "description": "来自蘑菇街优店衬衫_上装_女装_服饰鞋包家原宿风BF风翻领光泽感设计亮面衬衫长袖防晒衣中长款衬衫外套女的原宿风BF风翻领光泽感设计亮面衬衫长袖防晒衣中长款衬衫外套女，发现当季女装和小茉莉fashion之家搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1mi8ve2",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1mi8ve2",
+                    "seo_noindex": "0",
+                    "title": "【原宿风BF风翻领光泽感设计亮面衬衫长袖防晒衣中长款衬衫外套女】-女装-衬衫_上装_女装_服饰鞋包-小茉莉fashion之家-蘑菇街优店"
+                },
+                "type": 8,
+                "video": {
+                    "cover": "https://s11.mogucdn.com/mlcdn/c45406/190614_2lc768j27c4djk81k8hda76laea00_640x960.jpg",
+                    "videoId": 1473635,
+                    "width": 960,
+                    "height": 1280
+                },
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 433,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "address": "广东广州",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "114.00",
+                "highPrice": "114.00",
+                "lowNowPrice": "69.00",
+                "highNowPrice": "69.00",
+                "nowTime": 1564643743,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "69.00",
+                "oldPrice": "114.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "优惠价",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "69.00",
+                "normalPrice": "69.00",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564643743,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.67,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.67,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "TOP、连衣裙",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=7912"
+                    },
+                    {
+                        "name": "TOP、牛仔裤/短裤",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=7915"
+                    },
+                    {
+                        "name": "TOP、半身裙",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=14234"
+                    },
+                    {
+                        "name": "TOP、两件套装",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=30341"
+                    },
+                    {
+                        "name": "TOP、长袖衬衫",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=41938"
+                    },
+                    {
+                        "name": "TOP、T恤衫",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=76010"
+                    },
+                    {
+                        "name": "TOP、棒球衫",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=78986"
+                    },
+                    {
+                        "name": "TOP、雪纺蕾丝衫",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=85577"
+                    },
+                    {
+                        "name": "TOP、连体裤",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=141464"
+                    },
+                    {
+                        "name": "TOP、针织衫/毛衣",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=150194"
+                    },
+                    {
+                        "name": "TOP、牛仔外套",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=153840"
+                    },
+                    {
+                        "name": "TOP、卫衣",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=178316"
+                    },
+                    {
+                        "name": "TOP、防晒衣",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=198159"
+                    },
+                    {
+                        "name": "TOP、背心/吊带",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=222423"
+                    },
+                    {
+                        "name": "TOP、家居服/睡衣",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=264135"
+                    },
+                    {
+                        "name": "TOP、打底裤←←",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=269259"
+                    },
+                    {
+                        "name": "TOP、风衣外套",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=20091595"
+                    },
+                    {
+                        "name": "TOP、棉衣棉服",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=20106622"
+                    },
+                    {
+                        "name": "TOP、毛呢大衣",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=20255009"
+                    },
+                    {
+                        "name": "新品推荐",
+                        "link": "http://shop.mogu.com/14iz4/list/index?categoryId=20358963"
+                    }
+                ],
+                "cFans": "16.9万",
+                "cSells": "86.8万",
+                "isMarked": false,
+                "cGoods": 495,
+                "userId": "12777r2",
+                "shopLogo": "https://s5.mogucdn.com/p1/150916/13llur_ie2demtdhe4dizdbgmzdambqgiyde_200x200.jpg",
+                "name": "小茉莉fashion之家",
+                "shopId": "14iz4",
+                "type": 1,
+                "level": 4,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=14iz4",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "原宿风BF风翻领光泽感设计亮面衬衫长袖防晒衣中长款衬衫外套女",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_428a1aiddb4ake5d328b6fjhldca5_750x555.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_2k0gif848jh0f7lhdlfkki5ec1f64_750x569.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_30ga490jdhf0cfc599i5aj6310jhf_900x1200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_653b2174k2hg9755e4gb77cbbi962_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_0ld3k0c8dkg809hfk41e4he228d3g_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_806fl8begb7912d6j8cbd5gc58k4g_899x1200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_1d279fii8e7181g2g4kjc7gdfhc3h_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_1e712cd578752kd1246442j83f2l6_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_064jkkcki07c7d857l05alhh1ajhf_750x1033.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_354e0d06eb4l0g84ff6dde5j89li7_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_3g488jh65e9a45492dc8fdg1258dc_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_73hj890eg91g8cfb1i85fb1legfge_750x1033.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_4e8f4egfic879dhg2b2ickd41ji15_750x1033.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_1j30lbh5d3dj5746k9eg6cahjkc61_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_2dh2d245k9fbh875339e32gdk6dae_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_3kb02d70009j28a3c1gff5h2ghde0_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_30hbj551lch39lehg2e8k2hd32c51_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_4d6fjilbf5dikeidgebe9la036b0c_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_4hega4l1h64c4ekgh6384686229kh_900x1200.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_7i43edk3f8lfdjaa56bjeggh6hbd4_750x1033.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_3e41354h9fgbbga2le1ch8igi6k1a_750x1033.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_32956he357g2ghl6a37690b49fjab_750x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_0ac12i2b4hf9l2l610g270jjf8i61_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_85jd4fa9e85g8ki2f0a86d593afe2_750x1033.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_03024j4087bi5beic96501a95l56i_750x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_4h64a6i4ja4910ga8ag4fabg4d957_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_5ief3i39db26ika45402c3je64e8f_750x1033.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_6i98i3db0alb265c7jejaeh38212h_750x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_3d0c95ded83ibjhb5cjdk4ilc31b9_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_0fi6e75i0hj4lef252f7fijkbk24d_750x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_4cbaiff87990314gb41d85952kf21_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_88jllb7lg45biagehlkcc5549e1dk_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_3c37394d5kii972gcgeb445ik7jlj_750x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_479ag631h8bj865li0a26770f9c88_750x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_4b0c48dh42de81i024g5cbhf61abe_750x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_1el4c79ed8he99jbhejd34kfib1bh_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_72595chd1l6addkbl36a21afb0dce_750x374.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_34ac2k5hb98j83gjj0i421ga9l4j9_750x1000.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_5gekkjl7c600769e37ia901373eb6_750x1033.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_19chiiid4k4f99lhfgb2g2cfghgif_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_10ifd75h315jc5cj5cb74361ea45f_750x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_3g9k1bg5ieeli1kh40adad014lgc2_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_2h06flk9agk47fgf9blf8c2fjf647_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_7230b9i7j1bac61ihgl4be04206ff_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_1jcjeldf4khelk975k23a9bbgceia_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_47ac94338f7h77hf1dg2fhihaljig_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_89021bf630e37b5l659fei5e0kc53_750x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_5e29g5a4j2k284e7hklde8l48gic5_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_4a0ki6ei960092ikg9ggf51b4761f_750x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_012181i0bhl9lj73jibfe60810101_750x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190612_1jhkh102i9a7le63gj84cg0h6kl6f_750x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190612_5b4ia4g6137ifckg0ke0434e5cbf7_750x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564643743,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s11.mogucdn.com/mlcdn/c45406/190612_41dild08l6hj1ajk24fe3fb8gla6e_640x960.png",
+                "https://s11.mogucdn.com/mlcdn/c45406/190612_12klcd13jeg0lj9h3jg5977jl4127_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190612_5g42ed5ca3la8j72c4b9dh10545fg_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190612_6207109c2ihl746jlghfghbbek6li_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "原宿风BF风翻领光泽感设计亮面衬衫长袖防晒衣中长款衬衫外套女",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1mi8ve2&from=share",
+                "imageUrl": "https://s11.mogucdn.com/mlcdn/c45406/190612_41dild08l6hj1ajk24fe3fb8gla6e_640x960.png"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "纯色",
+                        "颜色": "海王蓝绿,贝壳粉紫,人鱼闪金",
+                        "袖型": "常规袖",
+                        "上衣厚度": "偏薄",
+                        "衣门襟": "单排扣",
+                        "穿着方式": "开襟",
+                        "尺码": "S,XL,L,M",
+                        "衣长": "中长款（66-80cm）",
+                        "版型": "宽松",
+                        "下摆": "前短后长",
+                        "季节": "夏季",
+                        "材质": "其他",
+                        "领型": "POLO领",
+                        "袖长": "长袖",
+                        "风格": "原宿",
+                        "潮流": "韩系"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "衣长（前）",
+                                "肩宽",
+                                "胸围"
+                            ],
+                            [
+                                "S",
+                                "72",
+                                "42",
+                                "122"
+                            ],
+                            [
+                                "M",
+                                "73",
+                                "43",
+                                "126"
+                            ],
+                            [
+                                "L",
+                                "74",
+                                "44",
+                                "130"
+                            ],
+                            [
+                                "XL",
+                                "75",
+                                "45",
+                                "134"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "69.00",
+                "oldPrice": "114.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "优惠价",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 433",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "address",
+                        "desc": "广东广州",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1mi8ve2",
+                "img": "https://s11.mogucdn.com/mlcdn/c45406/190612_41dild08l6hj1ajk24fe3fb8gla6e_640x960.png",
+                "isJdItem": false,
+                "title": "原宿风BF风翻领光泽感设计亮面衬衫长袖防晒衣中长款衬衫外套女",
+                "skus": [
+                    {
+                        "stockId": "11abfp9y",
+                        "xdSkuId": "11abfp9y",
+                        "price": 11400,
+                        "nowprice": 6900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190612_8ceecd78hka617ibeifk534a9k8jf_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 5518,
+                        "style": "海王蓝绿",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11abfpa0",
+                        "xdSkuId": "11abfpa0",
+                        "price": 11400,
+                        "nowprice": 6900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190612_8ceecd78hka617ibeifk534a9k8jf_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 5469,
+                        "style": "海王蓝绿",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11abfpa2",
+                        "xdSkuId": "11abfpa2",
+                        "price": 11400,
+                        "nowprice": 6900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190612_8ceecd78hka617ibeifk534a9k8jf_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 5497,
+                        "style": "海王蓝绿",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11abfpa4",
+                        "xdSkuId": "11abfpa4",
+                        "price": 11400,
+                        "nowprice": 6900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190612_8ceecd78hka617ibeifk534a9k8jf_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 5494,
+                        "style": "海王蓝绿",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11abfpa6",
+                        "xdSkuId": "11abfpa6",
+                        "price": 11400,
+                        "nowprice": 6900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190612_420h15ke963d2gg344jd47fig1kc5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 5552,
+                        "style": "人鱼闪金",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11abfpa8",
+                        "xdSkuId": "11abfpa8",
+                        "price": 11400,
+                        "nowprice": 6900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190612_420h15ke963d2gg344jd47fig1kc5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 5544,
+                        "style": "人鱼闪金",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11abfpaa",
+                        "xdSkuId": "11abfpaa",
+                        "price": 11400,
+                        "nowprice": 6900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190612_420h15ke963d2gg344jd47fig1kc5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 5543,
+                        "style": "人鱼闪金",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11abfpac",
+                        "xdSkuId": "11abfpac",
+                        "price": 11400,
+                        "nowprice": 6900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190612_420h15ke963d2gg344jd47fig1kc5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 5549,
+                        "style": "人鱼闪金",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 2,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11abfpae",
+                        "xdSkuId": "11abfpae",
+                        "price": 11400,
+                        "nowprice": 6900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190612_80fl69071kl2h2d641j1b8dkif5ch_640x960.png",
+                        "currency": "¥",
+                        "stock": 5531,
+                        "style": "贝壳粉紫",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 3,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11abfpag",
+                        "xdSkuId": "11abfpag",
+                        "price": 11400,
+                        "nowprice": 6900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190612_80fl69071kl2h2d641j1b8dkif5ch_640x960.png",
+                        "currency": "¥",
+                        "stock": 5514,
+                        "style": "贝壳粉紫",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 3,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11abfpai",
+                        "xdSkuId": "11abfpai",
+                        "price": 11400,
+                        "nowprice": 6900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190612_80fl69071kl2h2d641j1b8dkif5ch_640x960.png",
+                        "currency": "¥",
+                        "stock": 5514,
+                        "style": "贝壳粉紫",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 3,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11abfpak",
+                        "xdSkuId": "11abfpak",
+                        "price": 11400,
+                        "nowprice": 6900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190612_80fl69071kl2h2d641j1b8dkif5ch_640x960.png",
+                        "currency": "¥",
+                        "stock": 5524,
+                        "style": "贝壳粉紫",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 3,
+                        "sizeId": 103
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "海王蓝绿",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "人鱼闪金",
+                                "index": 2,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 3,
+                                "name": "贝壳粉紫",
+                                "index": 3,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "S",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "M",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "L",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "XL",
+                                "index": 103,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥69.00",
+                "defaultPrice": "¥69.00",
+                "totalStock": 66249,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

@@ -1,0 +1,101 @@
+{
+    "cid": "491871",
+    "name": "时尚套装",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1misx80",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190701_2i679gh2cf60a6042g5fh253igagh_640x960.jpg",
+            "originalPrice": 55.72,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1misx80&acm=3.ms.1_4_1misx80.16.36598-68998.mOjuyrxRXCWvL.sd_117-swt_16-imt_6-t_mOjuyrxRXCWvL-lc_16-fcid_50243-pid_183-pit_1-dit_179",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1misx80&acm=3.ms.1_4_1misx80.16.36598-68998.mOjuyrxRXCWvL.sd_117-swt_16-imt_6-t_mOjuyrxRXCWvL-lc_16-fcid_50243-pid_183-pit_1-dit_179",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1misx80.16.36598-68998.mOjuyrxRXCWvL.sd_117-swt_16-imt_6-t_mOjuyrxRXCWvL-lc_16-fcid_50243-pid_183-pit_1-dit_179",
+            "price_taglist": [],
+            "title": "夏季新款超火的露脐短袖T恤+高腰泫雅阔腿牛仔裤两件套装女潮",
+            "orgPrice": 55.72,
+            "props": [
+                "两件套装",
+                "露脐",
+                "高腰",
+                "女潮"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 4326,
+            "price": 39,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.73",
+                "descDsr": "4.72",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.93"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1misx80&acm=3.ms.1_4_1misx80.16.36598-68998.mOjuyrxRXCWvL.sd_117-swt_16-imt_6-t_mOjuyrxRXCWvL-lc_16-fcid_50243-pid_183-pit_1-dit_179&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "伊人霓裳"
+        },
+        {
+            "tradeItemId": "1mj0gos",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190706_7gbla56jd4b28lji428i393f2kcac_640x960.jpg",
+            "originalPrice": 111.43,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mj0gos&acm=3.ms.1_4_1mj0gos.16.36598-68998.mOjuyrxRXCWvL.sd_117-swt_16-imt_6-t_mOjuyrxRXCWvL-lc_16-fcid_50243-pid_183-pit_1-dit_179",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mj0gos&acm=3.ms.1_4_1mj0gos.16.36598-68998.mOjuyrxRXCWvL.sd_117-swt_16-imt_6-t_mOjuyrxRXCWvL-lc_16-fcid_50243-pid_183-pit_1-dit_179",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mj0gos.16.36598-68998.mOjuyrxRXCWvL.sd_117-swt_16-imt_6-t_mOjuyrxRXCWvL-lc_16-fcid_50243-pid_183-pit_1-dit_179",
+            "price_taglist": [],
+            "title": "帅气工装两件套女夏新款港风字母短袖T恤高腰束脚休闲裤时尚套装",
+            "orgPrice": 111.43,
+            "props": [
+                "时尚套装",
+                "高腰",
+                "港风",
+                "帅气",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 2638,
+            "price": 78,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.60",
+                "descDsr": "4.59",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.85"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mj0gos&acm=3.ms.1_4_1mj0gos.16.36598-68998.mOjuyrxRXCWvL.sd_117-swt_16-imt_6-t_mOjuyrxRXCWvL-lc_16-fcid_50243-pid_183-pit_1-dit_179&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "魔菇凉"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "cid": "758",
+    "name": "裤子",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "17otnpa",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/17f85e/180522_275i21i7gea88f0kgld8abl3bi5h7_640x960.jpg",
+            "iid": "17otnpa",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=17otnpa&acm=3.ms.1_1_17otnpa.46.28074-68998.om1qPrxRuKmpv.ct_1100-sd_117-swt_46-imt_7-c_2_17_332717533_1997691_1_0-t_om1qPrxRuKmpv-lc_17-pit_2-c1_10055_nil_nil_0_1997691_100_0-dit_171&cparam=MTU2NDYyOTIxOF8xZ3I3bnA0X2NjOWE1ZDc5MTRlZGU5YWQ1YjAyYzM0OTIyY2JkNzE3XzE3XzBfMzMyNzE3NTMzXzRhOGRfMTk5NzY5MV8xXzBfMTY3XzFfMF9ycy0xMDA1NS5ydC0xLnd0LTE=",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=17otnpa&acm=3.ms.1_1_17otnpa.46.28074-68998.om1qPrxRuKmpv.ct_1100-sd_117-swt_46-imt_7-c_2_17_332717533_1997691_1_0-t_om1qPrxRuKmpv-lc_17-pit_2-c1_10055_nil_nil_0_1997691_100_0-dit_171&cparam=MTU2NDYyOTIxOF8xZ3I3bnA0X2NjOWE1ZDc5MTRlZGU5YWQ1YjAyYzM0OTIyY2JkNzE3XzE3XzBfMzMyNzE3NTMzXzRhOGRfMTk5NzY5MV8xXzBfMTY3XzFfMF9ycy0xMDA1NS5ydC0xLnd0LTE=",
+            "itemMarks": "1525 188 72 61",
+            "acm": "3.ms.1_1_17otnpa.46.28074-68998.om1qPrxRuKmpv.ct_1100-sd_117-swt_46-imt_7-c_2_17_332717533_1997691_1_0-t_om1qPrxRuKmpv-lc_17-pit_2-c1_10055_nil_nil_0_1997691_100_0-dit_171",
+            "price_taglist": [],
+            "title": "明星同款春新款韩版小清新休闲帆布鞋女鞋学生平底系带小白鞋板鞋",
+            "type": 2,
+            "cparam": "MTU2NDYyOTIxOF8xZ3I3bnA0X2NjOWE1ZDc5MTRlZGU5YWQ1YjAyYzM0OTIyY2JkNzE3XzE3XzBfMzMyNzE3NTMzXzRhOGRfMTk5NzY5MV8xXzBfMTY3XzFfMF9ycy0xMDA1NS5ydC0xLnd0LTE=",
+            "orgPrice": 70,
+            "props": [
+                "休闲帆布鞋",
+                "平底",
+                "系带",
+                "明星同款",
+                "小清新",
+                "新款",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 28750,
+            "price": 49,
+            "leftbottom_taglist": [
+                {
+                    "color": "#FFFFFF",
+                    "bgColor": "#FF743C",
+                    "content": "热卖"
+                }
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=17otnpa&acm=3.ms.1_1_17otnpa.46.28074-68998.om1qPrxRuKmpv.ct_1100-sd_117-swt_46-imt_7-c_2_17_332717533_1997691_1_0-t_om1qPrxRuKmpv-lc_17-pit_2-c1_10055_nil_nil_0_1997691_100_0-dit_171&itemType=7",
+            "officialRmdDesc": ""
+        },
+        {
+            "tradeItemId": "1mhpygg",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190528_48ek71ggi9kgfij3730bl4ld16e44_640x960.jpg",
+            "iid": "1mhpygg",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhpygg&acm=3.ms.1_1_1mhpygg.46.28074-68998.om1qPrxRuKmpv.ct_1100-sd_117-swt_46-imt_7-c_2_17_506582848_503570289_2_0-t_om1qPrxRuKmpv-lc_17-pit_2-c1_10055_nil_nil_1_503570289_80_0-dit_171&cparam=MTU2NDYyOTIxOF8xZzVod3NhXzM4MDNmNjk1Nzk5MTk2MTY3YmZhODZlODMwZWMwYzJkXzE3XzFfNTA2NTgyODQ4XzRiODdfMF8yXzBfMTY3XzFfMF9ycy0xMDA1NS5ydC0xLnd0LTE=",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhpygg&acm=3.ms.1_1_1mhpygg.46.28074-68998.om1qPrxRuKmpv.ct_1100-sd_117-swt_46-imt_7-c_2_17_506582848_503570289_2_0-t_om1qPrxRuKmpv-lc_17-pit_2-c1_10055_nil_nil_1_503570289_80_0-dit_171&cparam=MTU2NDYyOTIxOF8xZzVod3NhXzM4MDNmNjk1Nzk5MTk2MTY3YmZhODZlODMwZWMwYzJkXzE3XzFfNTA2NTgyODQ4XzRiODdfMF8yXzBfMTY3XzFfMF9ycy0xMDA1NS5ydC0xLnd0LTE=",
+            "itemMarks": "1525 188",
+            "acm": "3.ms.1_1_1mhpygg.46.28074-68998.om1qPrxRuKmpv.ct_1100-sd_117-swt_46-imt_7-c_2_17_506582848_503570289_2_0-t_om1qPrxRuKmpv-lc_17-pit_2-c1_10055_nil_nil_1_503570289_80_0-dit_171",
+            "price_taglist": [],
+            "title": "新款网红帆布小白鞋女2019夏款潮鞋网鞋学生透气网面百搭板鞋",
+            "type": 2,
+            "cparam": "MTU2NDYyOTIxOF8xZzVod3NhXzM4MDNmNjk1Nzk5MTk2MTY3YmZhODZlODMwZWMwYzJkXzE3XzFfNTA2NTgyODQ4XzRiODdfMF8yXzBfMTY3XzFfMF9ycy0xMDA1NS5ydC0xLnd0LTE=",
+            "orgPrice": 84.29,
+            "props": [
+                "板鞋",
+                "透气",
+                "网面",
+                "百搭",
+                "夏款",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 134,
+            "price": 59,
+            "leftbottom_taglist": [
+                {
+                    "color": "#FFFFFF",
+                    "bgColor": "#FF743C",
+                    "content": "热卖"
+                }
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mhpygg&acm=3.ms.1_1_1mhpygg.46.28074-68998.om1qPrxRuKmpv.ct_1100-sd_117-swt_46-imt_7-c_2_17_506582848_503570289_2_0-t_om1qPrxRuKmpv-lc_17-pit_2-c1_10055_nil_nil_1_503570289_80_0-dit_171&itemType=7",
+            "officialRmdDesc": ""
+        }
+    ]
+}

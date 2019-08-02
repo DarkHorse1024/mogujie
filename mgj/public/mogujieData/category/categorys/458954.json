@@ -1,0 +1,104 @@
+{
+    "cid": "458954",
+    "name": "BF风衬衫",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mhnluc",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190525_21egl70e23ighi8jcklf3h0hid60d_640x960.jpg",
+            "originalPrice": 70,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhnluc&acm=3.ms.1_4_1mhnluc.16.36598-69000.bXHsnrxS5CKfx.sd_117-swt_16-imt_6-t_bXHsnrxS5CKfx-lc_16-fcid_10063664-pid_180-pit_1-dit_156",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhnluc&acm=3.ms.1_4_1mhnluc.16.36598-69000.bXHsnrxS5CKfx.sd_117-swt_16-imt_6-t_bXHsnrxS5CKfx-lc_16-fcid_10063664-pid_180-pit_1-dit_156",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mhnluc.16.36598-69000.bXHsnrxS5CKfx.sd_117-swt_16-imt_6-t_bXHsnrxS5CKfx-lc_16-fcid_10063664-pid_180-pit_1-dit_156",
+            "price_taglist": [],
+            "title": "2019夏季新款韩版bf宽松显瘦系带条纹衬衫女百搭短袖上衣潮",
+            "orgPrice": 70,
+            "props": [
+                "条纹衬衫",
+                "bf宽松",
+                "百搭",
+                "系带",
+                "显瘦",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 312,
+            "price": 49,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.65",
+                "descDsr": "4.64",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.88"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mhnluc&acm=3.ms.1_4_1mhnluc.16.36598-69000.bXHsnrxS5CKfx.sd_117-swt_16-imt_6-t_bXHsnrxS5CKfx-lc_16-fcid_10063664-pid_180-pit_1-dit_156&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "尚品衣家"
+        },
+        {
+            "tradeItemId": "1mdvcfk",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_7bgdbhg3g6a579agg5f4a5g5dcggi_800x1200.jpg",
+            "originalPrice": 84.29,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mdvcfk&acm=3.ms.1_4_1mdvcfk.16.36598-69000.bXHsnrxS5CKfx.sd_117-swt_16-imt_6-t_bXHsnrxS5CKfx-lc_16-fcid_10063664-pid_180-pit_1-dit_156",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mdvcfk&acm=3.ms.1_4_1mdvcfk.16.36598-69000.bXHsnrxS5CKfx.sd_117-swt_16-imt_6-t_bXHsnrxS5CKfx-lc_16-fcid_10063664-pid_180-pit_1-dit_156",
+            "itemMarks": "188 1127",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mdvcfk.16.36598-69000.bXHsnrxS5CKfx.sd_117-swt_16-imt_6-t_bXHsnrxS5CKfx-lc_16-fcid_10063664-pid_180-pit_1-dit_156",
+            "price_taglist": [],
+            "title": "2019新款韩版百搭宽松慵懒BF格子衬衫女中长款港味连帽外套",
+            "orgPrice": 84.29,
+            "props": [
+                "格子衬衫",
+                "宽松",
+                "百搭",
+                "中长款",
+                "新款",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 6918,
+            "price": 59,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.68",
+                "descDsr": "4.67",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.89"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mdvcfk&acm=3.ms.1_4_1mdvcfk.16.36598-69000.bXHsnrxS5CKfx.sd_117-swt_16-imt_6-t_bXHsnrxS5CKfx-lc_16-fcid_10063664-pid_180-pit_1-dit_156&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "JIUYUEQ/久月七"
+        }
+    ]
+}

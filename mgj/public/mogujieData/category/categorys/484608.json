@@ -1,0 +1,105 @@
+{
+    "cid": "484608",
+    "name": "夏季美裙",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1miyxue",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190704_55c02ki7k0kf6c65kjdh67aj4a9d7_640x960.jpg",
+            "originalPrice": 157,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1miyxue&acm=3.ms.1_4_1miyxue.16.36598-69000.2iMZxrxSb9wsJ.sd_117-swt_16-imt_6-t_2iMZxrxSb9wsJ-lc_16-fcid_20004419-pid_181-pit_1-dit_158",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1miyxue&acm=3.ms.1_4_1miyxue.16.36598-69000.2iMZxrxSb9wsJ.sd_117-swt_16-imt_6-t_2iMZxrxSb9wsJ-lc_16-fcid_20004419-pid_181-pit_1-dit_158",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1miyxue.16.36598-69000.2iMZxrxSb9wsJ.sd_117-swt_16-imt_6-t_2iMZxrxSb9wsJ-lc_16-fcid_20004419-pid_181-pit_1-dit_158",
+            "price_taglist": [],
+            "title": "尔沫一字肩连衣裙收腰显瘦气质小个子流行裙子女夏露肩衬衫裙夏季",
+            "orgPrice": 157,
+            "props": [
+                "尔沫",
+                "连衣裙",
+                "收腰显瘦",
+                "一字肩",
+                "露肩",
+                "气质",
+                "流行",
+                "夏季"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 466,
+            "price": 109.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.64",
+                "descDsr": "4.69",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.75"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1miyxue&acm=3.ms.1_4_1miyxue.16.36598-69000.2iMZxrxSb9wsJ.sd_117-swt_16-imt_6-t_2iMZxrxSb9wsJ-lc_16-fcid_20004419-pid_181-pit_1-dit_158&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "尔沫旗舰店"
+        },
+        {
+            "tradeItemId": "1midgw0",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190615_5949bf340cid9abi3gib5k6h2ef53_640x960.jpg",
+            "originalPrice": 141.43,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1midgw0&acm=3.ms.1_4_1midgw0.16.36598-69000.2iMZxrxSb9wsJ.sd_117-swt_16-imt_6-t_2iMZxrxSb9wsJ-lc_16-fcid_20004419-pid_181-pit_1-dit_158",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1midgw0&acm=3.ms.1_4_1midgw0.16.36598-69000.2iMZxrxSb9wsJ.sd_117-swt_16-imt_6-t_2iMZxrxSb9wsJ-lc_16-fcid_20004419-pid_181-pit_1-dit_158",
+            "itemMarks": "188 1106",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1midgw0.16.36598-69000.2iMZxrxSb9wsJ.sd_117-swt_16-imt_6-t_2iMZxrxSb9wsJ-lc_16-fcid_20004419-pid_181-pit_1-dit_158",
+            "price_taglist": [],
+            "title": "夏季牛油果绿连衣裙A字裙中长裙收腰仙女超仙短袖雪纺高腰公主裙",
+            "orgPrice": 141.43,
+            "props": [
+                "连衣裙",
+                "收腰",
+                "雪纺",
+                "短袖",
+                "夏季"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 4918,
+            "price": 99,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.60",
+                "descDsr": "4.66",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.87"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1midgw0&acm=3.ms.1_4_1midgw0.16.36598-69000.2iMZxrxSb9wsJ.sd_117-swt_16-imt_6-t_2iMZxrxSb9wsJ-lc_16-fcid_20004419-pid_181-pit_1-dit_158&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "小西原创女装"
+        }
+    ]
+}

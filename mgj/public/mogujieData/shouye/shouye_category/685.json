@@ -1,0 +1,90 @@
+{
+    "cid": "685",
+    "name": "上衣",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mfiuc0",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/55cf19/190413_517g95fg3bde6afjfl4la1067dh6b_640x960.jpg",
+            "iid": "1mfiuc0",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mfiuc0&acm=3.ms.1_1_1mfiuc0.46.28074-68998.om1qPrxRsUfXA.ct_1100-sd_117-swt_46-imt_7-c_2_17_497608050_497263817_1_0-t_om1qPrxRsUfXA-lc_17-pit_2-c1_31514_nil_nil_1_497263817_43_0-dit_166&cparam=MTU2NDYyODc3OV8xaDM0d3FhX2Y1ZGYyMWViNDA2Yzk0YmMwNzM1YWZjNWZiMmExODdkXzE3XzBfNDk3NjA4MDUwXzQ5OGNfMF8xXzBfNTUzXzFfMF9ycy0zMTUxNC5ydC0xLnd0LTE=",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mfiuc0&acm=3.ms.1_1_1mfiuc0.46.28074-68998.om1qPrxRsUfXA.ct_1100-sd_117-swt_46-imt_7-c_2_17_497608050_497263817_1_0-t_om1qPrxRsUfXA-lc_17-pit_2-c1_31514_nil_nil_1_497263817_43_0-dit_166&cparam=MTU2NDYyODc3OV8xaDM0d3FhX2Y1ZGYyMWViNDA2Yzk0YmMwNzM1YWZjNWZiMmExODdkXzE3XzBfNDk3NjA4MDUwXzQ5OGNfMF8xXzBfNTUzXzFfMF9ycy0zMTUxNC5ydC0xLnd0LTE=",
+            "itemMarks": "1525 188",
+            "acm": "3.ms.1_1_1mfiuc0.46.28074-68998.om1qPrxRsUfXA.ct_1100-sd_117-swt_46-imt_7-c_2_17_497608050_497263817_1_0-t_om1qPrxRsUfXA-lc_17-pit_2-c1_31514_nil_nil_1_497263817_43_0-dit_166",
+            "price_taglist": [],
+            "title": "春季加肥加大码女装条纹衬衫200斤胖妹妹遮肚子显瘦上衣打底衫",
+            "type": 2,
+            "cparam": "MTU2NDYyODc3OV8xaDM0d3FhX2Y1ZGYyMWViNDA2Yzk0YmMwNzM1YWZjNWZiMmExODdkXzE3XzBfNDk3NjA4MDUwXzQ5OGNfMF8xXzBfNTUzXzFfMF9ycy0zMTUxNC5ydC0xLnd0LTE=",
+            "orgPrice": 112.8,
+            "props": [
+                "条纹衬衫",
+                "加肥加大码",
+                "春季"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 301,
+            "price": 78.96,
+            "leftbottom_taglist": [
+                {
+                    "color": "#FFFFFF",
+                    "bgColor": "#FF743C",
+                    "content": "热卖"
+                }
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mfiuc0&acm=3.ms.1_1_1mfiuc0.46.28074-68998.om1qPrxRsUfXA.ct_1100-sd_117-swt_46-imt_7-c_2_17_497608050_497263817_1_0-t_om1qPrxRsUfXA-lc_17-pit_2-c1_31514_nil_nil_1_497263817_43_0-dit_166&itemType=7",
+            "officialRmdDesc": ""
+        },
+        {
+            "tradeItemId": "1mfogu8",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/55cf19/190418_43leja13ib06j0e221d45h817ggf0_640x960.jpg",
+            "iid": "1mfogu8",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mfogu8&acm=3.ms.1_1_1mfogu8.46.28074-68998.om1qPrxRsUfXA.ct_1100-sd_117-swt_46-imt_7-c_2_17_516596413_497943640_2_0-t_om1qPrxRsUfXA-lc_17-pit_2-c1_31514_nil_nil_1_497943640_47_0-dit_166&cparam=MTU2NDYyODc3OV8xZ3Vuem1nXzc5MmI3ZmEyYjExZGQzNjZkNjBjOWEyYWMxYjAyMzIzXzE3XzFfNTE2NTk2NDEzXzQ5ODhfMF8yXzBfNDUyXzFfMF9ycy0zMTUxNC5ydC0xLnd0LTA=",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mfogu8&acm=3.ms.1_1_1mfogu8.46.28074-68998.om1qPrxRsUfXA.ct_1100-sd_117-swt_46-imt_7-c_2_17_516596413_497943640_2_0-t_om1qPrxRsUfXA-lc_17-pit_2-c1_31514_nil_nil_1_497943640_47_0-dit_166&cparam=MTU2NDYyODc3OV8xZ3Vuem1nXzc5MmI3ZmEyYjExZGQzNjZkNjBjOWEyYWMxYjAyMzIzXzE3XzFfNTE2NTk2NDEzXzQ5ODhfMF8yXzBfNDUyXzFfMF9ycy0zMTUxNC5ydC0xLnd0LTA=",
+            "itemMarks": "1525 188",
+            "acm": "3.ms.1_1_1mfogu8.46.28074-68998.om1qPrxRsUfXA.ct_1100-sd_117-swt_46-imt_7-c_2_17_516596413_497943640_2_0-t_om1qPrxRsUfXA-lc_17-pit_2-c1_31514_nil_nil_1_497943640_47_0-dit_166",
+            "price_taglist": [],
+            "title": "2019夏季新款蕾丝拼接条纹透视衬衫女上衣",
+            "type": 2,
+            "cparam": "MTU2NDYyODc3OV8xZ3Vuem1nXzc5MmI3ZmEyYjExZGQzNjZkNjBjOWEyYWMxYjAyMzIzXzE3XzFfNTE2NTk2NDEzXzQ5ODhfMF8yXzBfNDUyXzFfMF9ycy0zMTUxNC5ydC0xLnd0LTA=",
+            "orgPrice": 99,
+            "props": [
+                "透视衬衫",
+                "条纹",
+                "蕾丝拼接"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 446,
+            "price": 69.3,
+            "leftbottom_taglist": [
+                {
+                    "color": "#FFFFFF",
+                    "bgColor": "#FF743C",
+                    "content": "热卖"
+                }
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mfogu8&acm=3.ms.1_1_1mfogu8.46.28074-68998.om1qPrxRsUfXA.ct_1100-sd_117-swt_46-imt_7-c_2_17_516596413_497943640_2_0-t_om1qPrxRsUfXA-lc_17-pit_2-c1_31514_nil_nil_1_497943640_47_0-dit_166&itemType=7",
+            "officialRmdDesc": ""
+        }
+    ]
+}

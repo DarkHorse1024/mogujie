@@ -1,0 +1,210 @@
+{
+    "cid": "426424",
+    "name": "内衣",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mishdi",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190630_2cb1eef4eg9ec2a38al0k8k3dbb7g_720x960.jpg",
+            "iid": "1mishdi",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mishdi&acm=3.ms.1_1_1mishdi.84.31296-68998.7Er9MrxRBnbg5.ct_1100-sd_117-swt_84-imt_7-c_2_16_511637484_507509882_1_0-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_2-c1_50006_nil_nil_1_507509882_80_0-dit_177&cparam=MTU2NDYzMDc5N18xZjdneHA4XzFhODExM2ZlNGIwYmE3NjJmNWZkNWVjZmQyOTlkNDZiXzE2XzBfNTExNjM3NDg0XzRhODdfMF8xXzBfNDE4XzFfMF9ycy01MDAwNi5ydC0wLnd0LTA=",
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mishdi&acm=3.ms.1_1_1mishdi.84.31296-68998.7Er9MrxRBnbg5.ct_1100-sd_117-swt_84-imt_7-c_2_16_511637484_507509882_1_0-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_2-c1_50006_nil_nil_1_507509882_80_0-dit_177&cparam=MTU2NDYzMDc5N18xZjdneHA4XzFhODExM2ZlNGIwYmE3NjJmNWZkNWVjZmQyOTlkNDZiXzE2XzBfNTExNjM3NDg0XzRhODdfMF8xXzBfNDE4XzFfMF9ycy01MDAwNi5ydC0wLnd0LTA=",
+            "itemMarks": "1525 188",
+            "acm": "3.ms.1_1_1mishdi.84.31296-68998.7Er9MrxRBnbg5.ct_1100-sd_117-swt_84-imt_7-c_2_16_511637484_507509882_1_0-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_2-c1_50006_nil_nil_1_507509882_80_0-dit_177",
+            "price_taglist": [],
+            "title": "无肩带内衣女聚拢防滑抹胸防走光小胸无钢圈文胸",
+            "type": 2,
+            "cparam": "MTU2NDYzMDc5N18xZjdneHA4XzFhODExM2ZlNGIwYmE3NjJmNWZkNWVjZmQyOTlkNDZiXzE2XzBfNTExNjM3NDg0XzRhODdfMF8xXzBfNDE4XzFfMF9ycy01MDAwNi5ydC0wLnd0LTA=",
+            "orgPrice": 55.58,
+            "props": [
+                "曼秀之恋",
+                "无钢圈文胸",
+                "聚拢",
+                "小胸",
+                "防走光",
+                "防滑"
+            ],
+            "hasSimilarity": true,
+            "lefttop_taglist": [],
+            "sale": 61,
+            "cfav": 104,
+            "price": 38.9,
+            "leftbottom_taglist": [
+                "http://s16.mogucdn.com/p2/161230/upload_5a2dfba8i8i75dhi39bg321k1fg8g_112x72.png"
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mishdi&acm=3.ms.1_1_1mishdi.84.31296-68998.7Er9MrxRBnbg5.ct_1100-sd_117-swt_84-imt_7-c_2_16_511637484_507509882_1_0-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_2-c1_50006_nil_nil_1_507509882_80_0-dit_177&itemType=7",
+            "shopSeller": "诗漫雅内衣"
+        },
+        {
+            "tradeItemId": "1m7h2cu",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/17f85e/181030_77eigf7242ab873b7b3k8d81c19el_640x960.jpg",
+            "iid": "1m7h2cu",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1m7h2cu&acm=3.ms.1_1_1m7h2cu.84.31296-68998.7Er9MrxRBnbg5.ct_1100-sd_117-swt_84-imt_7-c_2_16_459770034_2055671_2_0-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_2-c1_50006_nil_nil_0_2055671_65_0-dit_177&cparam=MTU2NDYzMDc5N18xZnJwb3NxXzhiMThkODViZmFjZjhhYTEyZGY5M2YzM2QxOTI2MGIxXzE2XzFfNDU5NzcwMDM0XzRiOGNfMjA1NTY3MV8yXzBfNDE3XzFfMF9ycy01MDAwNi5ydC0wLnd0LTI=",
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1m7h2cu&acm=3.ms.1_1_1m7h2cu.84.31296-68998.7Er9MrxRBnbg5.ct_1100-sd_117-swt_84-imt_7-c_2_16_459770034_2055671_2_0-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_2-c1_50006_nil_nil_0_2055671_65_0-dit_177&cparam=MTU2NDYzMDc5N18xZnJwb3NxXzhiMThkODViZmFjZjhhYTEyZGY5M2YzM2QxOTI2MGIxXzE2XzFfNDU5NzcwMDM0XzRiOGNfMjA1NTY3MV8yXzBfNDE3XzFfMF9ycy01MDAwNi5ydC0wLnd0LTI=",
+            "itemMarks": "1525 188 82",
+            "acm": "3.ms.1_1_1m7h2cu.84.31296-68998.7Er9MrxRBnbg5.ct_1100-sd_117-swt_84-imt_7-c_2_16_459770034_2055671_2_0-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_2-c1_50006_nil_nil_0_2055671_65_0-dit_177",
+            "price_taglist": [],
+            "title": "【买一件送同款一件】无钢圈调整型蕾丝背心收副乳内衣聚拢小胸罩厚薄款大码文胸",
+            "type": 2,
+            "cparam": "MTU2NDYzMDc5N18xZnJwb3NxXzhiMThkODViZmFjZjhhYTEyZGY5M2YzM2QxOTI2MGIxXzE2XzFfNDU5NzcwMDM0XzRiOGNfMjA1NTY3MV8yXzBfNDE3XzFfMF9ycy01MDAwNi5ydC0wLnd0LTI=",
+            "orgPrice": 70,
+            "props": [
+                "魅蝶恋人",
+                "大码文胸",
+                "调整型",
+                "无钢圈",
+                "聚拢",
+                "薄款",
+                "同款"
+            ],
+            "hasSimilarity": true,
+            "lefttop_taglist": [],
+            "sale": 725,
+            "cfav": 1529,
+            "price": 49,
+            "leftbottom_taglist": [
+                "http://s16.mogucdn.com/p2/161230/upload_5a2dfba8i8i75dhi39bg321k1fg8g_112x72.png"
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1m7h2cu&acm=3.ms.1_1_1m7h2cu.84.31296-68998.7Er9MrxRBnbg5.ct_1100-sd_117-swt_84-imt_7-c_2_16_459770034_2055671_2_0-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_2-c1_50006_nil_nil_0_2055671_65_0-dit_177&itemType=7",
+            "shopSeller": "魅蝶恋人旗舰店"
+        },
+        {
+            "tradeItemId": "1mcffiu",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/181210_2h6d66a1e3eeg5idfclfdk3874gh8_640x960.jpg",
+            "iid": "1mcffiu",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mcffiu&acm=3.ms.1_4_1mcffiu.84.36598-68998.7Er9MrxRBnbg5.sd_117-swt_84-imt_6-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_1-dit_177",
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mcffiu&acm=3.ms.1_4_1mcffiu.84.36598-68998.7Er9MrxRBnbg5.sd_117-swt_84-imt_6-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_1-dit_177",
+            "itemMarks": "1525 188 1127 1630 1232",
+            "acm": "3.ms.1_4_1mcffiu.84.36598-68998.7Er9MrxRBnbg5.sd_117-swt_84-imt_6-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_1-dit_177",
+            "price_taglist": [],
+            "title": "4条装中腰内裤女纯棉100%全棉抗菌底裆少女学生底裤性感蕾丝边女士无痕三角裤头",
+            "type": 2,
+            "orgPrice": 99,
+            "props": [
+                "中腰内裤",
+                "无痕",
+                "抗菌",
+                "全棉",
+                "纯棉",
+                "性感",
+                "女士"
+            ],
+            "hasSimilarity": true,
+            "lefttop_taglist": [],
+            "sale": 3822,
+            "cfav": 3318,
+            "price": 39.9,
+            "leftbottom_taglist": [],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mcffiu&acm=3.ms.1_4_1mcffiu.84.36598-68998.7Er9MrxRBnbg5.sd_117-swt_84-imt_6-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_1-dit_177&itemType=6",
+            "shopSeller": "泡沫树内衣店"
+        },
+        {
+            "tradeItemId": "1mcvge6",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_53b54ieb328g24eb5836gc0iad3i1_640x960.jpg",
+            "iid": "1mcvge6",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mcvge6&acm=3.ms.1_4_1mcvge6.84.36598-68998.7Er9MrxRBnbg5.sd_117-swt_84-imt_6-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_1-dit_177",
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mcvge6&acm=3.ms.1_4_1mcvge6.84.36598-68998.7Er9MrxRBnbg5.sd_117-swt_84-imt_6-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_1-dit_177",
+            "itemMarks": "1525 188",
+            "acm": "3.ms.1_4_1mcvge6.84.36598-68998.7Er9MrxRBnbg5.sd_117-swt_84-imt_6-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_1-dit_177",
+            "price_taglist": [],
+            "title": "加厚小胸罩蕾丝内衣内裤套装少女性感聚拢款无钢圈文胸收副乳上托",
+            "type": 2,
+            "orgPrice": 42.72,
+            "props": [
+                "无钢圈文胸",
+                "副乳",
+                "聚拢",
+                "性感",
+                "蕾丝",
+                "加厚"
+            ],
+            "hasSimilarity": true,
+            "lefttop_taglist": [],
+            "sale": 3405,
+            "cfav": 7946,
+            "price": 29.9,
+            "leftbottom_taglist": [],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mcvge6&acm=3.ms.1_4_1mcvge6.84.36598-68998.7Er9MrxRBnbg5.sd_117-swt_84-imt_6-t_7Er9MrxRBnbg5-lc_16-fcid_50006-pid_19-pit_1-dit_177&itemType=6",
+            "shopSeller": "衣橱D秘密"
+        }
+    ],
+    "list": [
+        {
+            "image": "https\u003A\u002F\u002Fs17.mogucdn.com\u002Fmlcdn\u002Fc45406\u002F170913_132j1ai8f2i0cag6i0kf9j9klc345_120x120.png",
+            "link": "\u002F\u002Fm.mogu.com\u002Fx6\u002Fwall\u002Fbook\u002Fneiyi\u003Ffcid\u003D50031\u0026title\u003D\u6587\u80F8\u0026acm\u003D3.mce.1_10_1ekwy.598.0.j5TvJrxRBn9Nd.pos_0\u002Dm_340117\u002Dsd_119",
+            "startTime": 1507564800,
+            "acm": "3.mce.1_10_1ekwy.598.0.j5TvJrxRBn9Nd.pos_0\u002Dm_340117\u002Dsd_119",
+            "sort": 1,
+            "endTime": 0,
+            "title": "\u6587\u80F8",
+            "goodsList_id": "340117"
+        },
+        {
+            "image": "https\u003A\u002F\u002Fs2.mogucdn.com\u002Fp2\u002F170310\u002F64548447_4i382973af4b1d5hj66cgjcl4a275_120x120.jpg",
+            "link": "\u002F\u002Fm.mogu.com\u002Fx6\u002Fwall\u002Fbook\u002Fneiyi\u003Ffcid\u003D10059049\u0026title\u003D\u5185\u88E4\u0026acm\u003D3.mce.1_10_1ekwu.598.0.j5TvJrxRBn9Ne.pos_1\u002Dm_340115\u002Dsd_119",
+            "startTime": 1507564800,
+            "acm": "3.mce.1_10_1ekwu.598.0.j5TvJrxRBn9Ne.pos_1\u002Dm_340115\u002Dsd_119",
+            "sort": 2,
+            "endTime": 0,
+            "title": "\u5185\u88E4",
+            "goodsList_id": "340115"
+        },
+        {
+            "image": "https\u003A\u002F\u002Fs2.mogucdn.com\u002Fp2\u002F170310\u002F64548447_7b66k51d8f2020hjci285ce804cl9_120x120.jpg",
+            "link": "\u002F\u002Fm.mogu.com\u002Fx6\u002Fwall\u002Fbook\u002Fneiyi\u003Ffcid\u003D50030\u0026title\u003D\u6587\u80F8\u5957\u88C5\u0026acm\u003D3.mce.1_10_1ekwq.598.0.j5TvJrxRBn9Nf.pos_2\u002Dm_340113\u002Dsd_119",
+            "startTime": 1507564800,
+            "acm": "3.mce.1_10_1ekwq.598.0.j5TvJrxRBn9Nf.pos_2\u002Dm_340113\u002Dsd_119",
+            "sort": 3,
+            "endTime": 0,
+            "title": "\u6587\u80F8\u5957\u88C5",
+            "goodsList_id": "340113"
+        },
+        {
+            "image": "https\u003A\u002F\u002Fs10.mogucdn.com\u002Fmlcdn\u002Fc45406\u002F181010_3l22082l8iaf159ia16e131k54i4a_800x800.png",
+            "link": "\u002F\u002Fm.mogu.com\u002Fx6\u002Fwall\u002Fbook\u002Fneiyi\u003Ffcid\u003D50042\u0026title\u003D\u7761\u8863\u5957\u88C5\u0026acm\u003D3.mce.1_10_1jkv6.598.0.j5TvJrxRBn9Ng.pos_3\u002Dm_456725\u002Dsd_119",
+            "startTime": 1507564800,
+            "acm": "3.mce.1_10_1jkv6.598.0.j5TvJrxRBn9Ng.pos_3\u002Dm_456725\u002Dsd_119",
+            "sort": 4,
+            "endTime": 0,
+            "title": "\u7761\u8863\u5957\u88C5",
+            "goodsList_id": "456725"
+        },
+        {
+            "image": "https\u003A\u002F\u002Fs10.mogucdn.com\u002Fmlcdn\u002Fc45406\u002F181010_0ke4deh7f1j77797a925jkdff4d60_150x150.png",
+            "link": "\u002F\u002Fm.mogu.com\u002Fx6\u002Fwall\u002Fbook\u002Fneiyi\u003Ffcid\u003D50051\u0026title\u003D\u7761\u88D9\u0026acm\u003D3.mce.1_10_1jkv2.598.0.j5TvJrxRBn9Nh.pos_4\u002Dm_456723\u002Dsd_119",
+            "startTime": 1507564800,
+            "acm": "3.mce.1_10_1jkv2.598.0.j5TvJrxRBn9Nh.pos_4\u002Dm_456723\u002Dsd_119",
+            "sort": 5,
+            "endTime": 0,
+            "title": "\u7761\u88D9",
+            "goodsList_id": "456723"
+        },
+        {
+            "image": "https\u003A\u002F\u002Fs10.mogucdn.com\u002Fmlcdn\u002Fc45406\u002F171104_4e52gj76k40c02f4ah5g2hji815ll_120x120.png",
+            "link": "\u002F\u002Fm.mogu.com\u002Fx6\u002Fwall\u002Fbook\u002Fneiyi\u003Ffcid\u003D50028\u0026title\u003D\u889C\u5B50\u0026acm\u003D3.mce.1_10_1jkw4.598.0.j5TvJrxRBn9Ni.pos_5\u002Dm_456742\u002Dsd_119",
+            "startTime": 1507564800,
+            "acm": "3.mce.1_10_1jkw4.598.0.j5TvJrxRBn9Ni.pos_5\u002Dm_456742\u002Dsd_119",
+            "sort": 6,
+            "endTime": 0,
+            "title": "\u889C\u5B50",
+            "goodsList_id": "456742"
+        }
+    ]
+}

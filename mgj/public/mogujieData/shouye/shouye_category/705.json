@@ -1,0 +1,98 @@
+{
+    "cid": "705",
+    "name": "上衣",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mhrdss",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/55cf19/190529_3le7306bcbih6h1a6767b868la7id_800x800.jpg",
+            "iid": "1mhrdss",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhrdss&acm=3.ms.1_1_1mhrdss.46.28074-69000.bXHsnrxRubpYw.ct_1100-sd_117-swt_46-imt_7-c_2_17_508546232_503714001_1_0-t_bXHsnrxRubpYw-lc_17-pit_2-c1_5748_nil_nil_1_503714001_30_0-dit_155&cparam=MTU2NDYyOTA4M18xaDI0ZTNxXzg3ZDUzNWM4MGVkZjVjMjIyOGU5YzlhODAzNTEwY2QxXzE3XzBfNTA4NTQ2MjMyXzRmOGNfMF8xXzBfNjUyXzFfMF9ycy01NzQ4LnJ0LTEud3QtMA==",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mhrdss&acm=3.ms.1_1_1mhrdss.46.28074-69000.bXHsnrxRubpYw.ct_1100-sd_117-swt_46-imt_7-c_2_17_508546232_503714001_1_0-t_bXHsnrxRubpYw-lc_17-pit_2-c1_5748_nil_nil_1_503714001_30_0-dit_155&cparam=MTU2NDYyOTA4M18xaDI0ZTNxXzg3ZDUzNWM4MGVkZjVjMjIyOGU5YzlhODAzNTEwY2QxXzE3XzBfNTA4NTQ2MjMyXzRmOGNfMF8xXzBfNjUyXzFfMF9ycy01NzQ4LnJ0LTEud3QtMA==",
+            "itemMarks": "1525 188",
+            "acm": "3.ms.1_1_1mhrdss.46.28074-69000.bXHsnrxRubpYw.ct_1100-sd_117-swt_46-imt_7-c_2_17_508546232_503714001_1_0-t_bXHsnrxRubpYw-lc_17-pit_2-c1_5748_nil_nil_1_503714001_30_0-dit_155",
+            "price_taglist": [],
+            "title": "无袖连衣裙新款夏圆领时尚气质山本风法式复古裙高腰显瘦裙子",
+            "type": 2,
+            "cparam": "MTU2NDYyOTA4M18xaDI0ZTNxXzg3ZDUzNWM4MGVkZjVjMjIyOGU5YzlhODAzNTEwY2QxXzE3XzBfNTA4NTQ2MjMyXzRmOGNfMF8xXzBfNjUyXzFfMF9ycy01NzQ4LnJ0LTEud3QtMA==",
+            "orgPrice": 132,
+            "props": [
+                "无袖连衣裙",
+                "气质",
+                "法式",
+                "圆领",
+                "高腰",
+                "时尚",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 106,
+            "price": 92.4,
+            "leftbottom_taglist": [
+                {
+                    "color": "#FFFFFF",
+                    "bgColor": "#FF743C",
+                    "content": "热卖"
+                }
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mhrdss&acm=3.ms.1_1_1mhrdss.46.28074-69000.bXHsnrxRubpYw.ct_1100-sd_117-swt_46-imt_7-c_2_17_508546232_503714001_1_0-t_bXHsnrxRubpYw-lc_17-pit_2-c1_5748_nil_nil_1_503714001_30_0-dit_155&itemType=7",
+            "officialRmdDesc": ""
+        },
+        {
+            "tradeItemId": "1mjj5g2",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/55cf19/190724_13847j97ikgi4j79dh307d507g888_640x960.jpg",
+            "iid": "1mjj5g2",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjj5g2&acm=3.ms.1_1_1mjj5g2.46.28074-69000.bXHsnrxRubpYw.ct_1100-sd_117-swt_46-imt_7-c_2_17_515744535_510153126_2_0-t_bXHsnrxRubpYw-lc_17-pit_2-c1_5748_nil_nil_1_510153126_30_0-dit_155&cparam=MTU2NDYyOTA4M18xaDJwNzY0XzYxOTc3ODNiZTBjMTA2Yzg0Y2UwMzZhMWJiMmQyNjM4XzE3XzFfNTE1NzQ0NTM1XzRmOGNfMF8yXzBfMzU1XzFfMF9ycy01NzQ4LnJ0LTEud3QtMA==",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjj5g2&acm=3.ms.1_1_1mjj5g2.46.28074-69000.bXHsnrxRubpYw.ct_1100-sd_117-swt_46-imt_7-c_2_17_515744535_510153126_2_0-t_bXHsnrxRubpYw-lc_17-pit_2-c1_5748_nil_nil_1_510153126_30_0-dit_155&cparam=MTU2NDYyOTA4M18xaDJwNzY0XzYxOTc3ODNiZTBjMTA2Yzg0Y2UwMzZhMWJiMmQyNjM4XzE3XzFfNTE1NzQ0NTM1XzRmOGNfMF8yXzBfMzU1XzFfMF9ycy01NzQ4LnJ0LTEud3QtMA==",
+            "itemMarks": "188",
+            "acm": "3.ms.1_1_1mjj5g2.46.28074-69000.bXHsnrxRubpYw.ct_1100-sd_117-swt_46-imt_7-c_2_17_515744535_510153126_2_0-t_bXHsnrxRubpYw-lc_17-pit_2-c1_5748_nil_nil_1_510153126_30_0-dit_155",
+            "price_taglist": [],
+            "title": "秋季新款韩版小个子洋气显瘦减龄两件套网红裙子套装小香风套装女",
+            "type": 2,
+            "cparam": "MTU2NDYyOTA4M18xaDJwNzY0XzYxOTc3ODNiZTBjMTA2Yzg0Y2UwMzZhMWJiMmQyNjM4XzE3XzFfNTE1NzQ0NTM1XzRmOGNfMF8yXzBfMzU1XzFfMF9ycy01NzQ4LnJ0LTEud3QtMA==",
+            "orgPrice": 107,
+            "props": [
+                "小香风套装",
+                "减龄",
+                "洋气",
+                "显瘦",
+                "秋季",
+                "新款",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 13,
+            "price": 74.9,
+            "leftbottom_taglist": [
+                {
+                    "color": "#FFFFFF",
+                    "bgColor": "#FF743C",
+                    "content": "热卖"
+                }
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mjj5g2&acm=3.ms.1_1_1mjj5g2.46.28074-69000.bXHsnrxRubpYw.ct_1100-sd_117-swt_46-imt_7-c_2_17_515744535_510153126_2_0-t_bXHsnrxRubpYw-lc_17-pit_2-c1_5748_nil_nil_1_510153126_30_0-dit_155&itemType=7",
+            "officialRmdDesc": ""
+        }
+    ]
+}

@@ -1,0 +1,685 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "19xhk74",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1172vugu",
+                "sellerId": "19xhk74"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "F***a",
+                            "avatar": "https://s11.mogucdn.com/p1/160105/idid_ifrwenjuhfsggntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190108_3eie81l596c5j7135ldf6d777fl4g_300x400.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190108_727c62lgbli6ic79b0d6c31277g11_300x400.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190108_0f874kk9eg2g84h0hee76h150879b_333x400.jpg"
+                        ],
+                        "rateId": "117eeok2",
+                        "content": "发货速度快，三天就到了，裤子质量超好，料子厚实秋冬都能穿，版型显瘦好看，美美哒，旁边的口袋做装饰特别美，也可以装手机够大",
+                        "created": 1546923705,
+                        "isAnonymous": 1,
+                        "style": "颜色:黑色 尺码:M ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "身高: 165cm",
+                            "体重: 45kg",
+                            "是否合身: 合身"
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "weight": "45kg",
+                            "height": "165cm",
+                            "desc": "合身"
+                        }
+                    },
+                    {
+                        "user": {
+                            "uname": "蒲晓玲儿",
+                            "avatar": "https://s11.mogucdn.com/mlcdn/5abf39/190104_53c2iedgdfklai7aif2jeceh4aea8_400x400.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190107_7gfjij470e4jjl02292a4ccdbgle6_1080x1440.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190107_7i2l7e54k5bl915h6hdic5h91l98c_1080x1440.jpg"
+                        ],
+                        "rateId": "117ea2oy",
+                        "content": "包装很好，店家很用心，没有色差，没有异味，款式新颖好看，上身效果好，不起球，不缩水，客服态度好，物流快，超级满意",
+                        "created": 1546866694,
+                        "isAnonymous": 0,
+                        "style": "颜色:黑色 尺码:S ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "身高: 165 cm",
+                            "体重: 45 kg",
+                            "是否合身: 合身 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "weight": "45kg",
+                            "height": "165cm",
+                            "desc": "合身 "
+                        }
+                    }
+                ],
+                "cRate": 62,
+                "imgTotal": 31,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 31,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 29,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 22,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 21,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "尺码",
+                        "value": "尺寸无偏差",
+                        "num": 14,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 10,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 21
+            },
+            "itemInfo": {
+                "desc": "时尚，你想要的街头范都在这里，\n侧边大口袋设计展现潮流范，个性又休闲味\n宽松版型，有造型感\n绿色+黑色，干净自然，四季都可以穿",
+                "title": "秋季新款运动裤女哈伦裤子女韩版工装裤宽松休闲裤显瘦魔术贴束脚",
+                "itemId": "1mctspk",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 2262,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "秋季新款运动裤女哈伦裤子女韩版工装裤宽松休闲裤显瘦魔术贴束脚",
+                    "wap_url": "//m.mogujie.com/x6/detail/1mctspk",
+                    "description": "来自蘑菇街优店休闲裤_裤子_女装_服饰鞋包家时尚，你想要的街头范都在这里，\n侧边大口袋设计展现潮流范，个性又休闲味\n宽松版型，有造型感\n绿色+黑色，干净自然，四季都可以穿的秋季新款运动裤女哈伦裤子女韩版工装裤宽松休闲裤显瘦魔术贴束脚，发现当季女装和优优美衣搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1mctspk",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1mctspk",
+                    "seo_noindex": "0",
+                    "title": "【秋季新款运动裤女哈伦裤子女韩版工装裤宽松休闲裤显瘦魔术贴束脚】-女装-休闲裤_裤子_女装_服饰鞋包-优优美衣-蘑菇街优店"
+                },
+                "type": 100,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 21,
+                    "isFreePost": true,
+                    "express": "默认快递",
+                    "address": "浙江金华",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "69.00",
+                "highPrice": "69.00",
+                "lowNowPrice": "59.00",
+                "highNowPrice": "59.00",
+                "nowTime": 1564638751,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "59.00",
+                "oldPrice": "69.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "爱夏天",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "59.00",
+                "normalPrice": "59.00",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564638751,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.84,
+                        "isBetter": true
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.84,
+                        "isBetter": true
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "cFans": "1378",
+                "cSells": "8256",
+                "isMarked": false,
+                "cGoods": 29,
+                "userId": "19xhk74",
+                "shopLogo": "https://s11.mogucdn.com/mlcdn/c45406/180827_6l7ab4f54f8d01ke98dg9003fdl9f_200x200.jpg",
+                "name": "优优美衣",
+                "shopId": "1172vugu",
+                "type": 2,
+                "level": 2,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1172vugu",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "时尚，你想要的街头范都在这里，\n侧边大口袋设计展现潮流范，个性又休闲味\n宽松版型，有造型感\n绿色+黑色，干净自然，四季都可以穿",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/181222_4960kja87h9g5a0j9aej7838197i1_790x1037.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181222_4kjl2k89i665882ilj56hfie875ad_790x936.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181222_54ka317l2399lffa7c6a7hab06il7_790x1280.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181222_7958cja425b3fa0k6jbei0h5l2f65_790x1323.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181222_49b5lld62l85gl8ja7114ibk3gi6k_790x1274.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181222_8falf4h1a2445j7kcl7b02a0gc49l_790x1383.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181222_4bdk21df703jckkaj89ijg017b60g_790x1085.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181222_15acc1ahkbl1hgd0i5gihgdf9c3ig_790x781.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181222_0e0h8c79lkbgi3f50ed38214279k7_790x1110.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181222_2k920dda9d822l748ied0f166k04d_790x1173.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181222_04e1f7d3cbl18h1kbc25g7991ikh8_790x1170.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181222_5glfki018gkj3d90kk9ef29feg07f_790x889.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181222_0e39fg85857jid0g593f9egb39l7h_790x915.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181222_1e92il516c42458bl1k712j30hj5j_790x1009.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181222_2kccla4jhbgc4ahe6c18hf7ca8i2l_790x1142.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181222_38gb9igbc283eall0ggga031l78gg_790x1108.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181222_81i84kieff3d1b3j42b8jcjf12k7b_790x872.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181222_4e34b3h01k6k3g8b75cl9fej2i7hc_790x914.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181222_3d28ki1l559d0j75g96a3aa4g1kg3_790x1149.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181222_8783jhc59dg56jgdh0b7a3hi4gh2a_790x548.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564638751,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s5.mogucdn.com/mlcdn/c45406/181222_3e49ebj9h5l098ahgl5icd3affdf6_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/181222_0hki305l37751h259339i792j29gi_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/181222_4hhcb21dh6k78hckc85abba1i1bh1_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/181222_4i9c4k8hj01172k400e3a1i897j81_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/181222_05lc096i6c0hgg1g5lh43gfli74jl_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/181222_7j66i142cj0ae6g9gkbl16agab487_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/181222_29jdhchk8idddc256b6dfk92h06h4_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/181222_04blfh3c6fed98120413jde295kfl_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "秋季新款运动裤女哈伦裤子女韩版工装裤宽松休闲裤显瘦魔术贴束脚",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1mctspk&from=share",
+                "imageUrl": "https://s5.mogucdn.com/mlcdn/c45406/181222_3e49ebj9h5l098ahgl5icd3affdf6_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "厚薄": "常规",
+                        "颜色": "黑色,军绿色",
+                        "裤长": "长裤",
+                        "腰型": "自然腰",
+                        "尺码": "S,XL,L,M",
+                        "季节": "四季",
+                        "材质": "其他",
+                        "裤型": "哈伦裤",
+                        "风格": "街头",
+                        "闭合方式": "皮筋腰带"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "desc": "测量单位为cm，纯手工测量，误差2-3cm属正常范围，敬请见谅",
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "大腿围",
+                                "腰围",
+                                "臀围",
+                                "裤长",
+                                "裤口"
+                            ],
+                            [
+                                "S",
+                                "50",
+                                "60-72",
+                                "98",
+                                "91",
+                                "26"
+                            ],
+                            [
+                                "M",
+                                "52",
+                                "64-76",
+                                "104",
+                                "92",
+                                "27"
+                            ],
+                            [
+                                "L",
+                                "54",
+                                "68-80",
+                                "110",
+                                "93",
+                                "28"
+                            ],
+                            [
+                                "XL",
+                                "56",
+                                "72-84",
+                                "116",
+                                "94",
+                                "29"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "59.00",
+                "oldPrice": "69.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "爱夏天",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 21",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "address",
+                        "desc": "浙江金华",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1mctspk",
+                "img": "https://s5.mogucdn.com/mlcdn/c45406/181222_3e49ebj9h5l098ahgl5icd3affdf6_640x960.jpg",
+                "isJdItem": false,
+                "title": "秋季新款运动裤女哈伦裤子女韩版工装裤宽松休闲裤显瘦魔术贴束脚",
+                "skus": [
+                    {
+                        "stockId": "118rtl8k",
+                        "xdSkuId": "118rtl8k",
+                        "price": 6900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181222_59d54gf743c7lllkd1e9a3i6c21ea_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 770,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "S",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118rtl8m",
+                        "xdSkuId": "118rtl8m",
+                        "price": 6900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181222_59d54gf743c7lllkd1e9a3i6c21ea_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 48,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "M",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118rtl8o",
+                        "xdSkuId": "118rtl8o",
+                        "price": 6900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181222_59d54gf743c7lllkd1e9a3i6c21ea_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 245,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "L",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "118rtl8q",
+                        "xdSkuId": "118rtl8q",
+                        "price": 6900,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181222_59d54gf743c7lllkd1e9a3i6c21ea_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 31,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "XL",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "118rtl8s",
+                        "xdSkuId": "118rtl8s",
+                        "price": 6900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181222_40le7dac5jb326kb3i32g74i9dg35_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "军绿色",
+                        "color": "#5d762a",
+                        "size": "S",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118rtl8u",
+                        "xdSkuId": "118rtl8u",
+                        "price": 6900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181222_40le7dac5jb326kb3i32g74i9dg35_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "军绿色",
+                        "color": "#5d762a",
+                        "size": "M",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118rtl8w",
+                        "xdSkuId": "118rtl8w",
+                        "price": 6900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181222_40le7dac5jb326kb3i32g74i9dg35_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "军绿色",
+                        "color": "#5d762a",
+                        "size": "L",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "118rtl8y",
+                        "xdSkuId": "118rtl8y",
+                        "price": 6900,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181222_40le7dac5jb326kb3i32g74i9dg35_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "军绿色",
+                        "color": "#5d762a",
+                        "size": "XL",
+                        "styleId": 2,
+                        "sizeId": 103
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "黑色",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "军绿色",
+                                "index": 2,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "S",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "M",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "L",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "XL",
+                                "index": 103,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥59.00",
+                "defaultPrice": "¥59.00",
+                "totalStock": 1094,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

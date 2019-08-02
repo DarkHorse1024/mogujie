@@ -1,0 +1,501 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "19avuny",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1172ut6m",
+                "sellerId": "19avuny"
+            },
+            "rateInfo": {
+                "cRate": 0,
+                "imgTotal": 0,
+                "sales": 0
+            },
+            "itemInfo": {
+                "desc": "秋季新款韩版小个子洋气显瘦减龄两件套网红裙子套装小香风套装女",
+                "title": "秋季新款韩版小个子洋气显瘦减龄两件套网红裙子套装小香风套装女",
+                "itemId": "1mjj5g2",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 13,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "秋季新款韩版小个子洋气显瘦减龄两件套网红裙子套装小香风套装女",
+                    "wap_url": "//m.mogujie.com/x6/detail/1mjj5g2",
+                    "description": "来自蘑菇街优店时尚套装_套装/学生校服/工作制服_女装_服饰鞋包家秋季新款韩版小个子洋气显瘦减龄两件套网红裙子套装小香风套装女的秋季新款韩版小个子洋气显瘦减龄两件套网红裙子套装小香风套装女，发现当季女装和希儿潮品搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1mjj5g2",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1mjj5g2",
+                    "seo_noindex": "0",
+                    "title": "【秋季新款韩版小个子洋气显瘦减龄两件套网红裙子套装小香风套装女】-女装-时尚套装_套装/学生校服/工作制服_女装_服饰鞋包-希儿潮品-蘑菇街优店"
+                },
+                "type": 8,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 0,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "address": "广东广州",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "107.00",
+                "highPrice": "107.00",
+                "lowNowPrice": "74.90",
+                "highNowPrice": "74.90",
+                "nowTime": 1564634086,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "74.90",
+                "oldPrice": "107.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "7折",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "74.90",
+                "normalPrice": "74.90",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564634086,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.69,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.7,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "长袖T恤",
+                        "link": "http://shop.mogu.com/1172ut6m/list/index?categoryId=20269585"
+                    },
+                    {
+                        "name": "针织衫",
+                        "link": "http://shop.mogu.com/1172ut6m/list/index?categoryId=20269586"
+                    },
+                    {
+                        "name": "连衣裙",
+                        "link": "http://shop.mogu.com/1172ut6m/list/index?categoryId=20269587"
+                    },
+                    {
+                        "name": "秋冬外套",
+                        "link": "http://shop.mogu.com/1172ut6m/list/index?categoryId=20269588"
+                    },
+                    {
+                        "name": "春秋外套",
+                        "link": "http://shop.mogu.com/1172ut6m/list/index?categoryId=20269614"
+                    },
+                    {
+                        "name": "裤子",
+                        "link": "http://shop.mogu.com/1172ut6m/list/index?categoryId=20269761"
+                    },
+                    {
+                        "name": "裙子",
+                        "link": "http://shop.mogu.com/1172ut6m/list/index?categoryId=20269807"
+                    },
+                    {
+                        "name": "保暖衣套装",
+                        "link": "http://shop.mogu.com/1172ut6m/list/index?categoryId=20273668"
+                    },
+                    {
+                        "name": "卫衣",
+                        "link": "http://shop.mogu.com/1172ut6m/list/index?categoryId=20276819"
+                    }
+                ],
+                "cFans": "994",
+                "cSells": "26201",
+                "isMarked": false,
+                "cGoods": 392,
+                "userId": "19avuny",
+                "shopLogo": "https://s5.mogucdn.com/mlcdn/c45406/171121_511ji98dcef323d2b46e10kifj78l_320x320.jpg",
+                "name": "希儿潮品",
+                "shopId": "1172ut6m",
+                "type": 1,
+                "level": 3,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1172ut6m",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": false,
+                "desc": "秋季新款韩版小个子洋气显瘦减龄两件套网红裙子套装小香风套装女",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190724_63c5ll84lcl3e5ha447hcblbhkiik_649x647.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190724_8g11kkldhclhjdkfgebgfl19jh3a8_744x743.png",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190724_02e7ckdgj978d0f9ldg1fdgjggkaj_720x828.png",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190724_2k64ef352dbk00573h218l1ed6eij_743x825.png",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190724_3fbbb0hcja5f924a3e72i362i71i2_746x749.png",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190724_6le3k769hh55k2b93jk01h80bljc1_647x649.png",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190724_75008lee6b32g6l7bj7h48jjb613a_748x832.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190724_40hf7lfjh9lhh28jg5l0ili0gh10f_732x939.png",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190724_2gfi6737b8d2cj7bb5j3ihi0k24j2_750x745.png",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190724_7igljbfgfl4bih9ka3ce4ldb18fkc_750x747.png",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564634086,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s5.mogucdn.com/mlcdn/55cf19/190724_4828a9126015i0lj8ebb47dadlh6c_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/55cf19/190724_13847j97ikgi4j79dh307d507g888_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/55cf19/190724_8203k6ak04j2l46480b9564ab0l7h_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/55cf19/190724_1e2jae50h0clc6gffc5la565b92i8_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "秋季新款韩版小个子洋气显瘦减龄两件套网红裙子套装小香风套装女",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1mjj5g2&from=share",
+                "imageUrl": "https://s5.mogucdn.com/mlcdn/55cf19/190724_4828a9126015i0lj8ebb47dadlh6c_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "色块",
+                        "厚薄": "普通",
+                        "颜色": "图片色",
+                        "袖型": "其他袖型",
+                        "尺码": "S,L,M",
+                        "衣长": "短款（41-50cm）",
+                        "季节": "秋季",
+                        "材质": "其他",
+                        "领型": "圆领",
+                        "袖长": "五分袖（中袖）",
+                        "款式": "衣裙套装",
+                        "风格": "简约",
+                        "潮流": "韩系"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "desc": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "裙长",
+                                "衣长"
+                            ],
+                            [
+                                "S",
+                                "40",
+                                "46"
+                            ],
+                            [
+                                "M",
+                                "41",
+                                "47"
+                            ],
+                            [
+                                "L",
+                                "42",
+                                "48"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "74.90",
+                "oldPrice": "107.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "7折",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 0",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "address",
+                        "desc": "广东广州",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1mjj5g2",
+                "img": "https://s5.mogucdn.com/mlcdn/55cf19/190724_4828a9126015i0lj8ebb47dadlh6c_640x960.jpg",
+                "isJdItem": false,
+                "title": "秋季新款韩版小个子洋气显瘦减龄两件套网红裙子套装小香风套装女",
+                "skus": [
+                    {
+                        "stockId": "11ata3lk",
+                        "xdSkuId": "11ata3lk",
+                        "price": 10700,
+                        "nowprice": 7490,
+                        "img": "https://s11.mogucdn.com/mlcdn/55cf19/190724_09i4jk3jh2jcc1g6kla7k5k8ecjdf_650x609.png",
+                        "currency": "¥",
+                        "stock": 600,
+                        "style": "图片色",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11ata3lo",
+                        "xdSkuId": "11ata3lo",
+                        "price": 10700,
+                        "nowprice": 7490,
+                        "img": "https://s11.mogucdn.com/mlcdn/55cf19/190724_09i4jk3jh2jcc1g6kla7k5k8ecjdf_650x609.png",
+                        "currency": "¥",
+                        "stock": 600,
+                        "style": "图片色",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11ata3lm",
+                        "xdSkuId": "11ata3lm",
+                        "price": 10700,
+                        "nowprice": 7490,
+                        "img": "https://s11.mogucdn.com/mlcdn/55cf19/190724_09i4jk3jh2jcc1g6kla7k5k8ecjdf_650x609.png",
+                        "currency": "¥",
+                        "stock": 600,
+                        "style": "图片色",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 1,
+                        "sizeId": 102
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "图片色",
+                                "index": 1,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "S",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "M",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "L",
+                                "index": 102,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥74.90",
+                "defaultPrice": "¥74.90",
+                "totalStock": 1800,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

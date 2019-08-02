@@ -1,0 +1,107 @@
+{
+    "cid": "491874",
+    "name": "防晒衣",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mi8ve2",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190612_41dild08l6hj1ajk24fe3fb8gla6e_640x960.png",
+            "originalPrice": 114,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mi8ve2&acm=3.ms.1_4_1mi8ve2.16.36598-68998.1vjqLrxRZjjlw.sd_117-swt_16-imt_6-t_1vjqLrxRZjjlw-lc_16-fcid_20004472-pid_180-pit_1-dit_165",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mi8ve2&acm=3.ms.1_4_1mi8ve2.16.36598-68998.1vjqLrxRZjjlw.sd_117-swt_16-imt_6-t_1vjqLrxRZjjlw-lc_16-fcid_20004472-pid_180-pit_1-dit_165",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mi8ve2.16.36598-68998.1vjqLrxRZjjlw.sd_117-swt_16-imt_6-t_1vjqLrxRZjjlw-lc_16-fcid_20004472-pid_180-pit_1-dit_165",
+            "price_taglist": [],
+            "title": "原宿风BF风翻领光泽感设计亮面衬衫长袖防晒衣中长款衬衫外套女",
+            "orgPrice": 114,
+            "props": [
+                "衬衫外套",
+                "翻领",
+                "bf风",
+                "长袖",
+                "中长款",
+                "原宿风",
+                "亮面"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 1849,
+            "price": 69,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.67",
+                "descDsr": "4.67",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.87"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mi8ve2&acm=3.ms.1_4_1mi8ve2.16.36598-68998.1vjqLrxRZjjlw.sd_117-swt_16-imt_6-t_1vjqLrxRZjjlw-lc_16-fcid_20004472-pid_180-pit_1-dit_165&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "小茉莉fashion之家"
+        },
+        {
+            "tradeItemId": "1mjba6i",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190715_7c4f3fj84aff4khbd65348kk54kl9_640x960.jpg",
+            "originalPrice": 84.29,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjba6i&acm=3.ms.1_4_1mjba6i.16.36598-68998.1vjqLrxRZjjlw.sd_117-swt_16-imt_6-t_1vjqLrxRZjjlw-lc_16-fcid_20004472-pid_180-pit_1-dit_165",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjba6i&acm=3.ms.1_4_1mjba6i.16.36598-68998.1vjqLrxRZjjlw.sd_117-swt_16-imt_6-t_1vjqLrxRZjjlw-lc_16-fcid_20004472-pid_180-pit_1-dit_165",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mjba6i.16.36598-68998.1vjqLrxRZjjlw.sd_117-swt_16-imt_6-t_1vjqLrxRZjjlw-lc_16-fcid_20004472-pid_180-pit_1-dit_165",
+            "price_taglist": [],
+            "title": "衬衫女韩版宽松2019夏新款设计感复古长袖防晒衣气质显瘦衬衫",
+            "orgPrice": 84.29,
+            "props": [
+                "显瘦衬衫",
+                "长袖",
+                "设计感",
+                "宽松",
+                "气质",
+                "复古",
+                "新款",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 510,
+            "price": 59,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.62",
+                "descDsr": "4.64",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.83"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mjba6i&acm=3.ms.1_4_1mjba6i.16.36598-68998.1vjqLrxRZjjlw.sd_117-swt_16-imt_6-t_1vjqLrxRZjjlw-lc_16-fcid_20004472-pid_180-pit_1-dit_165&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "小恩恩潮流女装"
+        }
+    ]
+}

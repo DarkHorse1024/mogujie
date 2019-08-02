@@ -1,0 +1,799 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "1adjfbo",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1172vvey",
+                "sellerId": "1adjfbo"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "布***a",
+                            "avatar": "https://s11.mogucdn.com/p1/160105/idid_ifrtcnbzgbswgntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190713_82ig1h4cfej39bilfci1eee3ea1f4_1125x1254.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190713_0hi48lkgal6232kh951adh996866c_1080x1040.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190713_36die45c81ai8k94gj6h0k501ci3g_1064x1200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190713_52d4jbh5l672063j7aab3e3bgk0ei_1080x1110.jpg"
+                        ],
+                        "rateId": "118j9r6g",
+                        "content": "鞋子上脚好轻盈，透气性特别好！小白鞋是百搭的单品，这一款小白鞋与普通的不太一样，版型很有特色，这个价钱买到这一款真的是赚到了！",
+                        "created": 1563006765,
+                        "isAnonymous": 1,
+                        "style": "颜色:白银色 尺码:36 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "鞋码: 36 ",
+                            "是否合脚: 合脚 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "size": "36",
+                            "desc": "合脚 "
+                        }
+                    },
+                    {
+                        "user": {
+                            "uname": "人连2015",
+                            "avatar": "https://s5.mogucdn.com/mlcdn/5abf39/190613_774bc2jkgg713egfi6elghf7if522_132x132.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190713_56ggc7h1276hj6bjag0c45j53j0l6_480x640.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190713_3ffcj397c86505l08486i99fi80k8_480x640.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190713_81ia3c98kgj5hj13j8bhfcb998ghj_640x480.jpg"
+                        ],
+                        "rateId": "118j97r2",
+                        "content": "一直想买双这样的鞋子来穿，非常满意。鞋底柔软舒适，带点弹性，走路不累。而且防滑耐磨，网纱面料，透气不热，夏天穿很好。",
+                        "created": 1563011894,
+                        "isAnonymous": 0,
+                        "style": "颜色:白银色 尺码:35 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    }
+                ],
+                "cRate": 138,
+                "imgTotal": 99,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 99,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 58,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 46,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 35,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "整体",
+                        "value": "整体感觉不错",
+                        "num": 25,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 22,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 1134
+            },
+            "itemInfo": {
+                "desc": "baby同款的冰丝网纱小白鞋，你get到了吗！炎热的夏天却有免不了的户外活动，这时候能拥有一双清爽透气又美美哒鞋子简直太重要了！圆润可爱的鞋头把双脚更好地包裹，冰丝弹力网面鞋面，既有弹性又凉爽舒适。鞋侧两道杠的图案十分经典时尚，给鞋子增加看点。鞋型是比较修脚小巧的，很适合女孩子穿。爬山、逛街、约会选它准没错的哟",
+                "title": "杨颖baby同款网红女鞋子学生透气网面女小白鞋新款百搭休闲鞋",
+                "itemId": "1mhzaz6",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 1858,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "杨颖baby同款网红女鞋子学生透气网面女小白鞋新款百搭休闲鞋",
+                    "wap_url": "//m.mogujie.com/x6/detail/1mhzaz6",
+                    "description": "来自蘑菇街优店休闲鞋_女鞋_服饰鞋包家baby同款的冰丝网纱小白鞋，你get到了吗！炎热的夏天却有免不了的户外活动，这时候能拥有一双清爽透气又美美哒鞋子简直太重要了！圆润可爱的鞋头把双脚更好地包裹，冰丝弹力网面鞋面，既有弹性又凉爽舒适。鞋侧两道杠的图案十分经典时尚，给鞋子增加看点。鞋型是比较修脚小巧的，很适合女孩子穿。爬山、逛街、约会选它准没错的哟的杨颖baby同款网红女鞋子学生透气网面女小白鞋新款百搭休闲鞋，发现当季女鞋和澄子美鞋铺搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1mhzaz6",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1mhzaz6",
+                    "seo_noindex": "0",
+                    "title": "【杨颖baby同款网红女鞋子学生透气网面女小白鞋新款百搭休闲鞋】-女鞋-休闲鞋_女鞋_服饰鞋包-澄子美鞋铺-蘑菇街优店"
+                },
+                "type": 8,
+                "video": {
+                    "cover": "https://s5.mogucdn.com/mlcdn/c45406/190603_45c956e0j982ib94134j5fkl1dc2h_640x960.jpg",
+                    "videoId": 1440546,
+                    "width": 960,
+                    "height": 1280
+                },
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 1134,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "address": "浙江台州",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "127.15",
+                "highPrice": "127.15",
+                "lowNowPrice": "89.00",
+                "highNowPrice": "89.00",
+                "brandName": "杺鱼蜜",
+                "nowTime": 1564642595,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "89.00",
+                "oldPrice": "127.15",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "限量促销",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "89.00",
+                "normalPrice": "89.00",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564642595,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.66,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.63,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "♡靴子♡",
+                        "link": "http://shop.mogu.com/1172vvey/list/index?categoryId=20352978"
+                    },
+                    {
+                        "name": "♡雪地靴♡",
+                        "link": "http://shop.mogu.com/1172vvey/list/index?categoryId=20352979"
+                    },
+                    {
+                        "name": "♡运动鞋♡",
+                        "link": "http://shop.mogu.com/1172vvey/list/index?categoryId=20352980"
+                    },
+                    {
+                        "name": "♡单鞋♡",
+                        "link": "http://shop.mogu.com/1172vvey/list/index?categoryId=20352981"
+                    },
+                    {
+                        "name": "♡凉鞋♡",
+                        "link": "http://shop.mogu.com/1172vvey/list/index?categoryId=20352982"
+                    },
+                    {
+                        "name": "♡148任选两双♡",
+                        "link": "http://shop.mogu.com/1172vvey/list/index?categoryId=20354403"
+                    },
+                    {
+                        "name": "♡新品上新♡",
+                        "link": "http://shop.mogu.com/1172vvey/list/index?categoryId=20356679"
+                    },
+                    {
+                        "name": "♡109任选两双♡",
+                        "link": "http://shop.mogu.com/1172vvey/list/index?categoryId=20362589"
+                    }
+                ],
+                "cFans": "44659",
+                "cSells": "12.8万",
+                "isMarked": false,
+                "cGoods": 327,
+                "userId": "1adjfbo",
+                "shopLogo": "https://s11.mogucdn.com/mlcdn/c45406/181218_74jda27jc4ed2eh785d5kdhlga33f_200x200.jpg",
+                "name": "澄子美鞋铺",
+                "shopId": "1172vvey",
+                "type": 1,
+                "level": 4,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1172vvey",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": false,
+                "desc": "baby同款的冰丝网纱小白鞋，你get到了吗！炎热的夏天却有免不了的户外活动，这时候能拥有一双清爽透气又美美哒鞋子简直太重要了！圆润可爱的鞋头把双脚更好地包裹，冰丝弹力网面鞋面，既有弹性又凉爽舒适。鞋侧两道杠的图案十分经典时尚，给鞋子增加看点。鞋型是比较修脚小巧的，很适合女孩子穿。爬山、逛街、约会选它准没错的哟",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190603_67gehk7il98dbh81f2fl959cf5kk2_750x1886.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190603_6el704f776hc66if620f84ahc4g1j_750x865.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190603_6c7haghab9db64hdk1a0be9kaiec7_750x850.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190603_6jka7d3f2gg88if4b3gkeh33lfgg3_750x593.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190603_706lig74g99115j4kcid4i170lg0a_750x979.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190603_797899jflialeka48ggi94j7c8362_750x890.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190603_0g2e8i631e79c4ei59i6db90a638f_750x622.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190603_73c47ka8eal83lj4al5jff5el6463_750x1043.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190603_5lkjhl199e587997jbge70hlebcj7_750x1114.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190603_4dk0c473kkij64ja3j7757ej46c10_750x1065.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190603_626fjihda5ccd6kd60h50g008bkc0_750x1116.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190603_2713h0c8a6h5574lic5f4679e1hc2_750x795.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190603_20h110ld252g8b4dc347c1e7ik354_750x1162.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190603_5423klh8c5i5dkekc808k72b40hi7_750x220.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190603_2g3ll358925280i5g181ad22gajhh_750x872.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190603_46ji82d8i2li528a0f18cbahfe3l9_750x887.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190603_5654ig651hi195l6g96229i40gdde_750x1083.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190603_3ccg5840k1l84lk5lle1l0h860351_750x1018.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190603_1c7l1fb7j025aid0ejg10j49l8eif_750x1078.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190603_10596j5ce6a2g41ldk6efcj71b8e4_750x1068.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190603_88ck8272h4ck000ae8khjlf4h9cae_750x991.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190603_432khlec3ai3li1f44k83c0a5792j_750x939.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190603_8f9a2172ih0calkibhdc546e342jf_750x1154.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190603_54a3ei6fli34d196ihh4k2l473kj1_750x1162.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564642595,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s5.mogucdn.com/mlcdn/c45406/190603_8c8fff8dlckhjc30lccl3l9e5j51g_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190603_1ag76lka80cl4hbh93kk7469dh1el_750x1000.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190603_47f619e4g0d25hacg4fb1k09ka4lc_750x1000.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190603_5bf1b0ki2189j9dkdald30h1ahh89_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190603_0l57df7e5a74bk134ea2h7ee021b6_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "杨颖baby同款网红女鞋子学生透气网面女小白鞋新款百搭休闲鞋",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1mhzaz6&from=share",
+                "imageUrl": "https://s5.mogucdn.com/mlcdn/c45406/190603_8c8fff8dlckhjc30lccl3l9e5j51g_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "纯色",
+                        "内里材质": "网纱",
+                        "鞋头形状": "圆头",
+                        "鞋面特殊工艺效果": "光板（无工艺效果）",
+                        "颜色": "白银色,白黑色",
+                        "帮高": "低帮",
+                        "鞋面材质": "网布",
+                        "跟高": "中跟（3-5CM）",
+                        "尺码": "35,36,37,38,39,40",
+                        "鞋底形状": "厚底（松糕）",
+                        "开口深度": "深口",
+                        "鞋底材质": "橡胶底",
+                        "季节": "夏季",
+                        "帮面材质": "人造革",
+                        "流行元素": "绑带（系带)",
+                        "风格": "韩系,百搭",
+                        "闭合方式": "系带"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "desc": "此款鞋为标准尺码，脚胖脚宽建议拍大一码！",
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "脚长"
+                            ],
+                            [
+                                "35",
+                                "225"
+                            ],
+                            [
+                                "36",
+                                "230"
+                            ],
+                            [
+                                "37",
+                                "235"
+                            ],
+                            [
+                                "38",
+                                "240"
+                            ],
+                            [
+                                "39",
+                                "245"
+                            ],
+                            [
+                                "40",
+                                "250"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "89.00",
+                "oldPrice": "127.15",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "限量促销",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "品牌认证",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "严格审核，正规品牌授权链；精挑细选，国内外知名品牌合作。引领潮流趋势，时尚品质保证。"
+                    },
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 1134",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "address",
+                        "desc": "浙江台州",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1mhzaz6",
+                "img": "https://s5.mogucdn.com/mlcdn/c45406/190603_8c8fff8dlckhjc30lccl3l9e5j51g_640x960.jpg",
+                "isJdItem": false,
+                "title": "杨颖baby同款网红女鞋子学生透气网面女小白鞋新款百搭休闲鞋",
+                "skus": [
+                    {
+                        "stockId": "11a7q8y4",
+                        "xdSkuId": "11a7q8y4",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190603_4jdaiciib0lk12dajja5558gdfkji_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 452,
+                        "style": "白黑色",
+                        "color": "",
+                        "size": "35",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11a7q8y2",
+                        "xdSkuId": "11a7q8y2",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190603_4jdaiciib0lk12dajja5558gdfkji_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 391,
+                        "style": "白黑色",
+                        "color": "",
+                        "size": "36",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11a7q8y6",
+                        "xdSkuId": "11a7q8y6",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190603_4jdaiciib0lk12dajja5558gdfkji_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 346,
+                        "style": "白黑色",
+                        "color": "",
+                        "size": "37",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11a7q8y8",
+                        "xdSkuId": "11a7q8y8",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190603_4jdaiciib0lk12dajja5558gdfkji_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 385,
+                        "style": "白黑色",
+                        "color": "",
+                        "size": "38",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11a7q8ya",
+                        "xdSkuId": "11a7q8ya",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190603_4jdaiciib0lk12dajja5558gdfkji_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 435,
+                        "style": "白黑色",
+                        "color": "",
+                        "size": "39",
+                        "styleId": 1,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "11a7q8yc",
+                        "xdSkuId": "11a7q8yc",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190603_4jdaiciib0lk12dajja5558gdfkji_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 469,
+                        "style": "白黑色",
+                        "color": "",
+                        "size": "40",
+                        "styleId": 1,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "11a7q8ye",
+                        "xdSkuId": "11a7q8ye",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190603_1gccclgd4259ef10jlhbj3bi9dkg9_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 451,
+                        "style": "白银色",
+                        "color": "",
+                        "size": "35",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11a7q8yg",
+                        "xdSkuId": "11a7q8yg",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190603_1gccclgd4259ef10jlhbj3bi9dkg9_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 398,
+                        "style": "白银色",
+                        "color": "",
+                        "size": "36",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11a7q8yi",
+                        "xdSkuId": "11a7q8yi",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190603_1gccclgd4259ef10jlhbj3bi9dkg9_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 379,
+                        "style": "白银色",
+                        "color": "",
+                        "size": "37",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11a7q8yk",
+                        "xdSkuId": "11a7q8yk",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190603_1gccclgd4259ef10jlhbj3bi9dkg9_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 398,
+                        "style": "白银色",
+                        "color": "",
+                        "size": "38",
+                        "styleId": 2,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11a7q8ym",
+                        "xdSkuId": "11a7q8ym",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190603_1gccclgd4259ef10jlhbj3bi9dkg9_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 446,
+                        "style": "白银色",
+                        "color": "",
+                        "size": "39",
+                        "styleId": 2,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "11a7q8yo",
+                        "xdSkuId": "11a7q8yo",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190603_1gccclgd4259ef10jlhbj3bi9dkg9_800x800.jpg",
+                        "currency": "¥",
+                        "stock": 477,
+                        "style": "白银色",
+                        "color": "",
+                        "size": "40",
+                        "styleId": 2,
+                        "sizeId": 105
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "白黑色",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "白银色",
+                                "index": 2,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "35",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "36",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "37",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "38",
+                                "index": 103,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 104,
+                                "default": false,
+                                "name": "39",
+                                "index": 104,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 105,
+                                "default": false,
+                                "name": "40",
+                                "index": 105,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥89.00",
+                "defaultPrice": "¥89.00",
+                "totalStock": 5027,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

@@ -1,0 +1,106 @@
+{
+    "cid": "169762",
+    "name": "阔腿裤",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1minnqg",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190625_053b26e4clk60f4897h056i9hjelk_750x1000.jpg",
+            "originalPrice": 70,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1minnqg&acm=3.ms.1_4_1minnqg.16.36598-69000.wzP0MrxS7Ft8q.sd_117-swt_16-imt_6-t_wzP0MrxS7Ft8q-lc_16-fcid_50207-pid_180-pit_1-dit_154",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1minnqg&acm=3.ms.1_4_1minnqg.16.36598-69000.wzP0MrxS7Ft8q.sd_117-swt_16-imt_6-t_wzP0MrxS7Ft8q-lc_16-fcid_50207-pid_180-pit_1-dit_154",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1minnqg.16.36598-69000.wzP0MrxS7Ft8q.sd_117-swt_16-imt_6-t_wzP0MrxS7Ft8q-lc_16-fcid_50207-pid_180-pit_1-dit_154",
+            "price_taglist": [],
+            "title": "阔腿裤女夏季宽松泫雅风垂感高腰显瘦百褶坠感直筒休闲拖地长裤",
+            "orgPrice": 70,
+            "props": [
+                "雅羊人爱美丽",
+                "阔腿裤",
+                "高腰",
+                "直筒",
+                "显瘦",
+                "宽松",
+                "休闲",
+                "夏季"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 2963,
+            "price": 49,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.70",
+                "descDsr": "4.70",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.89"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1minnqg&acm=3.ms.1_4_1minnqg.16.36598-69000.wzP0MrxS7Ft8q.sd_117-swt_16-imt_6-t_wzP0MrxS7Ft8q-lc_16-fcid_50207-pid_180-pit_1-dit_154&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "雅羊人爱美丽"
+        },
+        {
+            "tradeItemId": "1mep9em",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190318_0cibg61a3ed74hb2296a3996k6eg9_640x960.jpg",
+            "originalPrice": 55.72,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mep9em&acm=3.ms.1_4_1mep9em.16.36598-69000.wzP0MrxS7Ft8q.sd_117-swt_16-imt_6-t_wzP0MrxS7Ft8q-lc_16-fcid_50207-pid_180-pit_1-dit_154",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mep9em&acm=3.ms.1_4_1mep9em.16.36598-69000.wzP0MrxS7Ft8q.sd_117-swt_16-imt_6-t_wzP0MrxS7Ft8q-lc_16-fcid_50207-pid_180-pit_1-dit_154",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mep9em.16.36598-69000.wzP0MrxS7Ft8q.sd_117-swt_16-imt_6-t_wzP0MrxS7Ft8q-lc_16-fcid_50207-pid_180-pit_1-dit_154",
+            "price_taglist": [],
+            "title": "2019春夏季新款时尚套装高腰百搭西装裤+纯色T恤直筒宽松九分休闲裤子显瘦阔腿裤开叉烟管裤",
+            "orgPrice": 55.72,
+            "props": [
+                "烟管裤",
+                "九分",
+                "直筒宽松",
+                "高腰",
+                "开叉",
+                "百搭"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 7988,
+            "price": 39,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.64",
+                "descDsr": "4.65",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.83"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mep9em&acm=3.ms.1_4_1mep9em.16.36598-69000.wzP0MrxS7Ft8q.sd_117-swt_16-imt_6-t_wzP0MrxS7Ft8q-lc_16-fcid_50207-pid_180-pit_1-dit_154&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "新伊家"
+        }
+    ]
+}

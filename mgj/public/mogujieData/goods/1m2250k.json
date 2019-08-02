@@ -1,0 +1,859 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "173vxak",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1172tqiw",
+                "sellerId": "173vxak"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "七友199712",
+                            "avatar": "https://s5.mogucdn.com/p2/161116/upload_2fgc1133lbf7eg395f5k8j64295b9_100x100.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190513_4078e080cae62a575a6bibl370h15_720x960.jpg"
+                        ],
+                        "rateId": "1186b1ks",
+                        "content": "真的超级喜欢，非常支持，质量非常好，与卖家描述的完全一致，非常满意,真的很喜欢，完全超出期望值，发货速度非常快，包装非常仔细、严实，物流公司服务态度很好，运送速度很快，很满意的一次购物",
+                        "created": 1557721847,
+                        "isAnonymous": 0,
+                        "style": "颜色:复古蓝 尺码:S ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "身高: 163 cm",
+                            "体重: 45 kg",
+                            "是否合身: 偏大 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "weight": "45kg",
+                            "height": "163cm",
+                            "desc": "偏大 "
+                        }
+                    },
+                    {
+                        "user": {
+                            "uname": "w***n",
+                            "avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrtgyjxmjrwgntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190601_31352c27gaikjk6hdb4f1hd19d737_293x400.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190601_5c303601ccbe8k7f9106c7lg904jl_294x400.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190601_3ife3j3ifkec14eggdecf29747lj5_300x400.jpg"
+                        ],
+                        "rateId": "118aqlu6",
+                        "content": "这条裤子入手留下真的很明智的选择，直筒版型很好穿在身上贴身而不紧绷，有这种舒适感应该跟面料有大的关系，之前也在别家买过牛仔裤，都没有这种质感，这家手感摸起来就比较柔软舒适，裤子我洗过了不褪色的，复古蓝颜色真的是我特别喜欢的。",
+                        "created": 1559391222,
+                        "isAnonymous": 1,
+                        "style": "颜色:复古蓝 尺码:S ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    }
+                ],
+                "cRate": 498,
+                "imgTotal": 142,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 142,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 138,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 101,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 98,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "尺码",
+                        "value": "尺寸无偏差",
+                        "num": 65,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 41,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 1593
+            },
+            "itemInfo": {
+                "desc": "牛仔布做了柔软水洗工艺，直接贴身穿非常柔软的那种，亲肤舒适。裤脚边也采用手工剪裁磨破拉丝工艺，裤脚的猫须边短而整齐，也有一些零碎的拉丝，裤脚也可以卷起来穿，给人一种休闲随意的感觉。",
+                "title": "2019新款韩版九分牛仔裤女高腰显瘦学生宽松直筒老爹裤子长裤",
+                "itemId": "1m2250k",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 18707,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "2019新款韩版九分牛仔裤女高腰显瘦学生宽松直筒老爹裤子长裤",
+                    "wap_url": "//m.mogujie.com/x6/detail/1m2250k",
+                    "description": "来自蘑菇街优店牛仔裤_裤子_女装_服饰鞋包家牛仔布做了柔软水洗工艺，直接贴身穿非常柔软的那种，亲肤舒适。裤脚边也采用手工剪裁磨破拉丝工艺，裤脚的猫须边短而整齐，也有一些零碎的拉丝，裤脚也可以卷起来穿，给人一种休闲随意的感觉。的2019新款韩版九分牛仔裤女高腰显瘦学生宽松直筒老爹裤子长裤，发现当季女装和贝迪谷旗舰店搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1m2250k",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1m2250k",
+                    "seo_noindex": "0",
+                    "title": "【2019新款韩版九分牛仔裤女高腰显瘦学生宽松直筒老爹裤子长裤】-女装-牛仔裤_裤子_女装_服饰鞋包-贝迪谷旗舰店-蘑菇街优店"
+                },
+                "type": 8,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 1593,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "98.00",
+                "highPrice": "98.00",
+                "lowNowPrice": "68.60",
+                "highNowPrice": "68.60",
+                "brandName": "贝迪谷",
+                "nowTime": 1564643920,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "68.60",
+                "oldPrice": "98.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "抢购价",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "68.60",
+                "normalPrice": "68.60",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564643920,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.69,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.72,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "牛仔裤",
+                        "link": "http://shop.mogu.com/1172tqiw/list/index?categoryId=20195997"
+                    },
+                    {
+                        "name": "九分裤",
+                        "link": "http://shop.mogu.com/1172tqiw/list/index?categoryId=20197257"
+                    },
+                    {
+                        "name": "短裤",
+                        "link": "http://shop.mogu.com/1172tqiw/list/index?categoryId=20197258"
+                    },
+                    {
+                        "name": "小脚裤",
+                        "link": "http://shop.mogu.com/1172tqiw/list/index?categoryId=20267033"
+                    },
+                    {
+                        "name": "阔腿裤",
+                        "link": "http://shop.mogu.com/1172tqiw/list/index?categoryId=20267034"
+                    },
+                    {
+                        "name": "哈伦裤",
+                        "link": "http://shop.mogu.com/1172tqiw/list/index?categoryId=20267035"
+                    },
+                    {
+                        "name": "直筒裤",
+                        "link": "http://shop.mogu.com/1172tqiw/list/index?categoryId=20267036"
+                    },
+                    {
+                        "name": "新品专区",
+                        "link": "http://shop.mogu.com/1172tqiw/list/index?categoryId=20267046"
+                    }
+                ],
+                "cFans": "45111",
+                "cSells": "12.4万",
+                "isMarked": false,
+                "cGoods": 295,
+                "userId": "173vxak",
+                "shopLogo": "https://s11.mogucdn.com/mlcdn/c45406/170820_5g15f7c864583h33gjhk23hcah22d_200x200.jpg",
+                "name": "贝迪谷旗舰店",
+                "shopId": "1172tqiw",
+                "type": 1,
+                "level": 4,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1172tqiw",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "collcationSet": {
+                "itemId": "1m2250k",
+                "sellerId": "173vxak",
+                "collcationSetList": [
+                    {
+                        "name": "套餐一",
+                        "promotionMark": "collocationSet_700017143442",
+                        "campaignId": 700017143442,
+                        "collocationSetItemGroupDTOs": [
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/c45406/180521_22hfhf0d7je0g9cl8878g8bifl67c_640x960.jpg",
+                                "title": "2019新款韩版九分牛仔裤女高腰显瘦学生宽松直筒老爹裤子长裤",
+                                "itemId": 666857430,
+                                "iid": "1m2250k",
+                                "proPrice": 6700,
+                                "originalPrice": 9800,
+                                "defaultPrice": "¥67",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1221764092,
+                                        "proPrice": 6700
+                                    },
+                                    {
+                                        "stockId": 1221764095,
+                                        "proPrice": 6700
+                                    },
+                                    {
+                                        "stockId": 1221764096,
+                                        "proPrice": 6700
+                                    },
+                                    {
+                                        "stockId": 1221764093,
+                                        "proPrice": 6700
+                                    },
+                                    {
+                                        "stockId": 1221764094,
+                                        "proPrice": 6700
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/55cf19/190603_4h9i4lb048l96k5i89bda1hbb67ce_640x960.jpg",
+                                "title": "宽松涂鸦印花短袖T恤",
+                                "itemId": 680220245,
+                                "iid": "1mhyyn6",
+                                "proPrice": 5800,
+                                "originalPrice": 8500,
+                                "defaultPrice": "¥58",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1397063523,
+                                        "proPrice": 5800
+                                    },
+                                    {
+                                        "stockId": 1397063524,
+                                        "proPrice": 5800
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "套餐二",
+                        "promotionMark": "collocationSet_700017143473",
+                        "campaignId": 700017143473,
+                        "collocationSetItemGroupDTOs": [
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/55cf19/190603_59ah4hkjh64gjiec2667ejjb12l7l_640x960.jpg",
+                                "title": "圆领萌娃印花短袖T恤",
+                                "itemId": 680220219,
+                                "iid": "1mhyylq",
+                                "proPrice": 5800,
+                                "originalPrice": 8500,
+                                "defaultPrice": "¥58",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1397062517,
+                                        "proPrice": 5800
+                                    },
+                                    {
+                                        "stockId": 1397062518,
+                                        "proPrice": 5800
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/c45406/180521_22hfhf0d7je0g9cl8878g8bifl67c_640x960.jpg",
+                                "title": "2019新款韩版九分牛仔裤女高腰显瘦学生宽松直筒老爹裤子长裤",
+                                "itemId": 666857430,
+                                "iid": "1m2250k",
+                                "proPrice": 6700,
+                                "originalPrice": 9800,
+                                "defaultPrice": "¥67",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1221764092,
+                                        "proPrice": 6700
+                                    },
+                                    {
+                                        "stockId": 1221764095,
+                                        "proPrice": 6700
+                                    },
+                                    {
+                                        "stockId": 1221764096,
+                                        "proPrice": 6700
+                                    },
+                                    {
+                                        "stockId": 1221764093,
+                                        "proPrice": 6700
+                                    },
+                                    {
+                                        "stockId": 1221764094,
+                                        "proPrice": 6700
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "套餐三",
+                        "promotionMark": "collocationSet_700017143498",
+                        "campaignId": 700017143498,
+                        "collocationSetItemGroupDTOs": [
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/55cf19/190603_2034j32148h7218l2i4aj62afd3a3_640x960.jpg",
+                                "title": "印花圆领学生港味T",
+                                "itemId": 680217250,
+                                "iid": "1mhyu0s",
+                                "proPrice": 5450,
+                                "originalPrice": 8000,
+                                "defaultPrice": "¥54.5",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1396994472,
+                                        "proPrice": 5450
+                                    },
+                                    {
+                                        "stockId": 1396994473,
+                                        "proPrice": 5450
+                                    },
+                                    {
+                                        "stockId": 1396994474,
+                                        "proPrice": 5450
+                                    },
+                                    {
+                                        "stockId": 1396994475,
+                                        "proPrice": 5450
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/c45406/180521_22hfhf0d7je0g9cl8878g8bifl67c_640x960.jpg",
+                                "title": "2019新款韩版九分牛仔裤女高腰显瘦学生宽松直筒老爹裤子长裤",
+                                "itemId": 666857430,
+                                "iid": "1m2250k",
+                                "proPrice": 6700,
+                                "originalPrice": 9800,
+                                "defaultPrice": "¥67",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1221764092,
+                                        "proPrice": 6700
+                                    },
+                                    {
+                                        "stockId": 1221764095,
+                                        "proPrice": 6700
+                                    },
+                                    {
+                                        "stockId": 1221764096,
+                                        "proPrice": 6700
+                                    },
+                                    {
+                                        "stockId": 1221764093,
+                                        "proPrice": 6700
+                                    },
+                                    {
+                                        "stockId": 1221764094,
+                                        "proPrice": 6700
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "牛仔布做了柔软水洗工艺，直接贴身穿非常柔软的那种，亲肤舒适。裤脚边也采用手工剪裁磨破拉丝工艺，裤脚的猫须边短而整齐，也有一些零碎的拉丝，裤脚也可以卷起来穿，给人一种休闲随意的感觉。",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/180614_2ebd90a67ba027k1bead2giahb8dd_795x872.png",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180614_6jchfl64j9acfhh67d25aaehfike5_795x796.png",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180614_371jlh5ie83cfli53fd54l8177bkd_795x816.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180614_4gj6iif6khbk6di1j4b7cg3ld59f7_795x778.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180614_8147jffih2c8625i782ec40ilai2e_795x852.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180614_39ffdadgk4hikh3e4chjb4j39a825_795x890.png",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180614_179d576ikj5kh9bg2hil59a6ec80b_795x812.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180614_4fbak0fa932i5j5ljbkkd03j37f6j_795x812.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180614_5jfjicij15d6b2iceidack20f1de3_795x826.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180614_75285blgjk703fgfk99bbd0a188ee_795x830.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180614_8fgjaj4kf26c91097cfh9613h5i0b_795x826.png",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180614_6bj885jfjl8b1k1j3dl750cbl85gc_795x812.png",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180614_4k136cd335kj66d6h40e2l9a7c2df_795x806.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180614_5fg4kdjg6h63e72a0ej5c0f854d53_795x828.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190625_2khc541h30f538eaif46a00b47030_750x542.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180614_7kh9kdl3d05gbbke8cgh5gg2lc9bf_795x578.png",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180614_639k7f268k0h62ej4i39j1l505hc2_795x636.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564643920,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s11.mogucdn.com/mlcdn/c45406/180521_22hfhf0d7je0g9cl8878g8bifl67c_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180521_5124l2f5338b6f1312ih6ji4dje04_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180521_2kff7i9ke62k7a3fj33b552lhh9gb_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180521_1f4868dj21hljjlf0kik7aa1hbdai_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180521_0g8d8k90k46ca58k46cjblk2jc6ke_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "2019新款韩版九分牛仔裤女高腰显瘦学生宽松直筒老爹裤子长裤",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1m2250k&from=share",
+                "imageUrl": "https://s11.mogucdn.com/mlcdn/c45406/180521_22hfhf0d7je0g9cl8878g8bifl67c_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "厚薄": "常规",
+                        "颜色": "复古蓝",
+                        "弹性": "无弹",
+                        "裤长": "九分裤",
+                        "腰型": "高腰",
+                        "尺码": "S,XL,XS,L,M",
+                        "季节": "秋季",
+                        "材质": "全棉牛仔布",
+                        "裤型": "直筒裤",
+                        "风格": "简约",
+                        "闭合方式": "纽扣+拉链"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "大腿围",
+                                "腰围",
+                                "臀围",
+                                "裤长"
+                            ],
+                            [
+                                "XS",
+                                "54",
+                                "62",
+                                "86",
+                                "87"
+                            ],
+                            [
+                                "S",
+                                "56",
+                                "66",
+                                "90",
+                                "88"
+                            ],
+                            [
+                                "M",
+                                "58",
+                                "70",
+                                "94",
+                                "89"
+                            ],
+                            [
+                                "L",
+                                "60",
+                                "74",
+                                "98",
+                                "90"
+                            ],
+                            [
+                                "XL",
+                                "62",
+                                "78",
+                                "102",
+                                "91"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "68.60",
+                "oldPrice": "98.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "抢购价",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "品牌认证",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "严格审核，正规品牌授权链；精挑细选，国内外知名品牌合作。引领潮流趋势，时尚品质保证。"
+                    },
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 1593",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1m2250k",
+                "img": "https://s11.mogucdn.com/mlcdn/c45406/180521_22hfhf0d7je0g9cl8878g8bifl67c_640x960.jpg",
+                "isJdItem": false,
+                "title": "2019新款韩版九分牛仔裤女高腰显瘦学生宽松直筒老爹裤子长裤",
+                "skus": [
+                    {
+                        "stockId": "114etagg",
+                        "xdSkuId": "114etagg",
+                        "price": 9800,
+                        "nowprice": 6860,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180521_6528a43deka3dk7de9a18c1kii6da_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 965,
+                        "style": "复古蓝",
+                        "color": "",
+                        "size": "XS",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "114etagi",
+                        "xdSkuId": "114etagi",
+                        "price": 9800,
+                        "nowprice": 6860,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180521_6528a43deka3dk7de9a18c1kii6da_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 888,
+                        "style": "复古蓝",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "114etagk",
+                        "xdSkuId": "114etagk",
+                        "price": 9800,
+                        "nowprice": 6860,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180521_6528a43deka3dk7de9a18c1kii6da_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 850,
+                        "style": "复古蓝",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "114etagm",
+                        "xdSkuId": "114etagm",
+                        "price": 9800,
+                        "nowprice": 6860,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180521_6528a43deka3dk7de9a18c1kii6da_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 919,
+                        "style": "复古蓝",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "114etago",
+                        "xdSkuId": "114etago",
+                        "price": 9800,
+                        "nowprice": 6860,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180521_6528a43deka3dk7de9a18c1kii6da_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 954,
+                        "style": "复古蓝",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 1,
+                        "sizeId": 104
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "复古蓝",
+                                "index": 1,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "XS",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "S",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "M",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "L",
+                                "index": 103,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 104,
+                                "default": false,
+                                "name": "XL",
+                                "index": 104,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥68.60",
+                "defaultPrice": "¥68.60",
+                "totalStock": 4576,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

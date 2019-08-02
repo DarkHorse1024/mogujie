@@ -1,0 +1,233 @@
+{
+    "cid": "426421",
+    "name": "上衣",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mi5r3q",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190609_28f72c2k974859ldj2137gleecchk_640x960.jpg",
+            "iid": "1mi5r3q",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mi5r3q&acm=3.ms.1_1_1mi5r3q.84.31296-68998.om1qOrxRyAmAy.ct_1100-sd_117-swt_84-imt_7-c_2_16_509162508_505068212_1_0-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_2-c1_50003_nil_nil_1_505068212_36_0-dit_179&cparam=MTU2NDYzMDEzMl8xZ3ZmZG51XzNkYTdhMzVlNTllNjBjOTRlNzcwNGVjZGU3ZmNkYzliXzE2XzBfNTA5MTYyNTA4XzRlOGFfMF8xXzBfOTU0XzFfMF9ycy01MDAwMy5ydC0wLnd0LTA=",
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mi5r3q&acm=3.ms.1_1_1mi5r3q.84.31296-68998.om1qOrxRyAmAy.ct_1100-sd_117-swt_84-imt_7-c_2_16_509162508_505068212_1_0-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_2-c1_50003_nil_nil_1_505068212_36_0-dit_179&cparam=MTU2NDYzMDEzMl8xZ3ZmZG51XzNkYTdhMzVlNTllNjBjOTRlNzcwNGVjZGU3ZmNkYzliXzE2XzBfNTA5MTYyNTA4XzRlOGFfMF8xXzBfOTU0XzFfMF9ycy01MDAwMy5ydC0wLnd0LTA=",
+            "itemMarks": "-1",
+            "acm": "3.ms.1_1_1mi5r3q.84.31296-68998.om1qOrxRyAmAy.ct_1100-sd_117-swt_84-imt_7-c_2_16_509162508_505068212_1_0-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_2-c1_50003_nil_nil_1_505068212_36_0-dit_179",
+            "price_taglist": [],
+            "title": "【2件52元】新款夏季短袖纯棉t恤女大码200斤可穿宽松上衣",
+            "type": 2,
+            "cparam": "MTU2NDYzMDEzMl8xZ3ZmZG51XzNkYTdhMzVlNTllNjBjOTRlNzcwNGVjZGU3ZmNkYzliXzE2XzBfNTA5MTYyNTA4XzRlOGFfMF8xXzBfOTU0XzFfMF9ycy01MDAwMy5ydC0wLnd0LTA=",
+            "orgPrice": 89,
+            "props": [
+                "短袖纯棉t恤",
+                "大码",
+                "夏季",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "lefttop_taglist": [],
+            "sale": 105,
+            "cfav": 57,
+            "price": 34.8,
+            "leftbottom_taglist": [
+                "http://s16.mogucdn.com/p2/161230/upload_5a2dfba8i8i75dhi39bg321k1fg8g_112x72.png"
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mi5r3q&acm=3.ms.1_1_1mi5r3q.84.31296-68998.om1qOrxRyAmAy.ct_1100-sd_117-swt_84-imt_7-c_2_16_509162508_505068212_1_0-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_2-c1_50003_nil_nil_1_505068212_36_0-dit_179&itemType=7",
+            "shopSeller": "红豆家企业店"
+        },
+        {
+            "tradeItemId": "1mid9qa",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190615_21ffgl7defji04g549he1ced6606f_640x960.jpg",
+            "iid": "1mid9qa",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mid9qa&acm=3.ms.1_1_1mid9qa.84.31296-68998.om1qOrxRyAmAy.ct_1100-sd_117-swt_84-imt_7-c_2_16_510122201_1401898859_2_0-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_2-c1_50003_nil_nil_2_1401898859_41_0-dit_179&cparam=MTU2NDYzMDEzMl8xZ2t6YXZ3XzE3NTc1NWI4MjVkY2U1YTIwMTEzY2Y3OTBiZTFmNjIzXzE2XzFfNTEwMTIyMjAxXzRlODZfMF8yXzBfOTU4XzFfMF9ycy01MDAwMy5ydC0wLnd0LTA=",
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mid9qa&acm=3.ms.1_1_1mid9qa.84.31296-68998.om1qOrxRyAmAy.ct_1100-sd_117-swt_84-imt_7-c_2_16_510122201_1401898859_2_0-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_2-c1_50003_nil_nil_2_1401898859_41_0-dit_179&cparam=MTU2NDYzMDEzMl8xZ2t6YXZ3XzE3NTc1NWI4MjVkY2U1YTIwMTEzY2Y3OTBiZTFmNjIzXzE2XzFfNTEwMTIyMjAxXzRlODZfMF8yXzBfOTU4XzFfMF9ycy01MDAwMy5ydC0wLnd0LTA=",
+            "itemMarks": "189",
+            "acm": "3.ms.1_1_1mid9qa.84.31296-68998.om1qOrxRyAmAy.ct_1100-sd_117-swt_84-imt_7-c_2_16_510122201_1401898859_2_0-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_2-c1_50003_nil_nil_2_1401898859_41_0-dit_179",
+            "price_taglist": [],
+            "title": "【2件52元】夏装新款韩版cec短袖t恤女宽松上衣服ins潮",
+            "type": 2,
+            "cparam": "MTU2NDYzMDEzMl8xZ2t6YXZ3XzE3NTc1NWI4MjVkY2U1YTIwMTEzY2Y3OTBiZTFmNjIzXzE2XzFfNTEwMTIyMjAxXzRlODZfMF8yXzBfOTU4XzFfMF9ycy01MDAwMy5ydC0wLnd0LTA=",
+            "orgPrice": 89,
+            "props": [
+                "短袖t恤",
+                "新款",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "lefttop_taglist": [],
+            "sale": 58,
+            "cfav": 26,
+            "price": 34.8,
+            "leftbottom_taglist": [
+                "http://s16.mogucdn.com/p2/161230/upload_5a2dfba8i8i75dhi39bg321k1fg8g_112x72.png"
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mid9qa&acm=3.ms.1_1_1mid9qa.84.31296-68998.om1qOrxRyAmAy.ct_1100-sd_117-swt_84-imt_7-c_2_16_510122201_1401898859_2_0-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_2-c1_50003_nil_nil_2_1401898859_41_0-dit_179&itemType=7",
+            "shopSeller": "一见钟情企业店"
+        },
+        {
+            "tradeItemId": "1mi60pq",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190703_6lc1k7b4i8af3g5b8khb4a8051cl2_640x960.jpg",
+            "iid": "1mi60pq",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mi60pq&acm=3.ms.1_4_1mi60pq.84.36598-68998.om1qOrxRyAmAy.sd_117-swt_84-imt_6-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_1-dit_179",
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mi60pq&acm=3.ms.1_4_1mi60pq.84.36598-68998.om1qOrxRyAmAy.sd_117-swt_84-imt_6-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_1-dit_179",
+            "itemMarks": "1525 188",
+            "acm": "3.ms.1_4_1mi60pq.84.36598-68998.om1qOrxRyAmAy.sd_117-swt_84-imt_6-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_1-dit_179",
+            "price_taglist": [],
+            "title": "牛油果绿V领短袖女T恤上衣夏季新款ins宽松体恤打底衫半袖潮",
+            "type": 2,
+            "orgPrice": 57,
+            "props": [
+                "短袖女t恤",
+                "半袖",
+                "v领",
+                "宽松"
+            ],
+            "hasSimilarity": true,
+            "lefttop_taglist": [],
+            "sale": 3464,
+            "cfav": 3530,
+            "price": 39.9,
+            "leftbottom_taglist": [],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mi60pq&acm=3.ms.1_4_1mi60pq.84.36598-68998.om1qOrxRyAmAy.sd_117-swt_84-imt_6-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_1-dit_179&itemType=6",
+            "shopSeller": "ALICE名媛馆"
+        },
+        {
+            "tradeItemId": "1mijoxi",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190621_56dkhiai09hkfea2k5ki03hl4j30b_640x960.jpg",
+            "iid": "1mijoxi",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mijoxi&acm=3.ms.1_4_1mijoxi.84.36598-68998.om1qOrxRyAmAy.sd_117-swt_84-imt_6-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_1-dit_179",
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mijoxi&acm=3.ms.1_4_1mijoxi.84.36598-68998.om1qOrxRyAmAy.sd_117-swt_84-imt_6-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_1-dit_179",
+            "itemMarks": "188",
+            "acm": "3.ms.1_4_1mijoxi.84.36598-68998.om1qOrxRyAmAy.sd_117-swt_84-imt_6-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_1-dit_179",
+            "price_taglist": [],
+            "title": "【2件69元】2019新款纯棉宽松潮牛油果抹茶绿短袖t恤女",
+            "type": 2,
+            "orgPrice": 57,
+            "props": [
+                "翰代维",
+                "短袖t恤",
+                "纯棉",
+                "宽松",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "lefttop_taglist": [],
+            "sale": 1891,
+            "cfav": 1500,
+            "price": 39.9,
+            "leftbottom_taglist": [],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mijoxi&acm=3.ms.1_4_1mijoxi.84.36598-68998.om1qOrxRyAmAy.sd_117-swt_84-imt_6-t_om1qOrxRyAmAy-lc_16-fcid_50003-pid_180-pit_1-dit_179&itemType=6",
+            "shopSeller": "翰代维旗舰店"
+        }
+    ],
+    "list": [
+        {
+            "image": "https\u003A\u002F\u002Fs10.mogucdn.com\u002Fmlcdn\u002Fc45406\u002F190611_42gik6bfjgf9jgkhfl40hhj05hdfa_120x120.png",
+            "link": "\u002F\u002Fm.mogu.com\u002Fwall\u002Fbook\u002Fshopping\u003Ffcid\u003D20004449\u0026title\u003D\u0025E5\u0025AD\u002597\u0025E6\u0025AF\u00258DT\u0025E6\u002581\u0025A4\u0026acm\u003D3.mce.1_10_1lqoa.582.0.30ftBrxRyAjY2.pos_12\u002Dm_507145\u002Dsd_119",
+            "startTime": 1539758327,
+            "acm": "3.mce.1_10_1lqoa.582.0.30ftBrxRyAjY2.pos_12\u002Dm_507145\u002Dsd_119",
+            "sort": 1,
+            "endTime": 0,
+            "title": "\u5B57\u6BCDT\u6064",
+            "goodsList_id": "507145"
+        },
+        {
+            "image": "https\u003A\u002F\u002Fs10.mogucdn.com\u002Fmlcdn\u002Fc45406\u002F190611_1b8188a17jckc2chd4d2ibeh8jk2c_120x120.png",
+            "link": "\u002F\u002Fm.mogu.com\u002Fwall\u002Fbook\u002Fshopping\u003Ffcid\u003D20004452\u0026title\u003Dchic\u0025E9\u00259F\u0025A9\u0025E8\u00258C\u002583\u0026acm\u003D3.mce.1_10_1lqoi.582.0.30ftBrxRyAjY3.pos_13\u002Dm_507149\u002Dsd_119",
+            "startTime": 1539758327,
+            "acm": "3.mce.1_10_1lqoi.582.0.30ftBrxRyAjY3.pos_13\u002Dm_507149\u002Dsd_119",
+            "sort": 1,
+            "endTime": 0,
+            "title": "chic\u97E9\u8303",
+            "goodsList_id": "507149"
+        },
+        {
+            "image": "https\u003A\u002F\u002Fs10.mogucdn.com\u002Fmlcdn\u002Fc45406\u002F190611_59lc688gdcele0e953ldke2542e0a_120x120.png",
+            "link": "\u002F\u002Fm.mogu.com\u002Fx6\u002Fwall\u002Fbook\u002Fclothing\u003Ffcid\u003D50244\u0026title\u003D\u767E\u642DT\u6064\u0026acm\u003D3.mce.1_10_1lqlk.582.0.30ftBrxRyAjY4.pos_14\u002Dm_507096\u002Dsd_119",
+            "startTime": 1539763461,
+            "acm": "3.mce.1_10_1lqlk.582.0.30ftBrxRyAjY4.pos_14\u002Dm_507096\u002Dsd_119",
+            "sort": 20,
+            "endTime": 0,
+            "title": "\u767E\u642DT\u6064",
+            "goodsList_id": "507096"
+        },
+        {
+            "image": "https\u003A\u002F\u002Fs10.mogucdn.com\u002Fmlcdn\u002Fc45406\u002F180827_709iij56lljb42a4a5ll32i95c91e_180x180.jpg",
+            "wxa_link": "",
+            "link": "\u002F\u002Fm.mogu.com\u002Fx6\u002Fwall\u002Fbook\u002Fclothing\u003Ffcid\u003D52174\u0026title\u003D\u7ECF\u5178\u6761\u7EB9\u0026acm\u003D3.mce.1_10_1joam.582.0.30ftBrxRyAjY5.pos_15\u002Dm_458947\u002Dsd_119",
+            "acm": "3.mce.1_10_1joam.582.0.30ftBrxRyAjY5.pos_15\u002Dm_458947\u002Dsd_119",
+            "sort": 27,
+            "link_xcx": "",
+            "title": "\u7ECF\u5178\u6761\u7EB9",
+            "wxa_appId": "",
+            "goodsList_id": "458947"
+        },
+        {
+            "image": "https\u003A\u002F\u002Fs10.mogucdn.com\u002Fmlcdn\u002Fc45406\u002F190611_1g1l1dak934d37j1i8bk7f036113j_120x120.png",
+            "link": "\u002F\u002Fm.mogu.com\u002Fwall\u002Fbook\u002Fshopping\u003Ffcid\u003D20004429\u0026title\u003D\u0025E5\u002590\u00258A\u0025E5\u0025B8\u0025A6\u0025E8\u002583\u00258C\u0025E5\u0025BF\u002583\u0026acm\u003D3.mce.1_10_1lqls.582.0.30ftBrxRyAjY6.pos_16\u002Dm_507100\u002Dsd_119",
+            "startTime": 1539758327,
+            "acm": "3.mce.1_10_1lqls.582.0.30ftBrxRyAjY6.pos_16\u002Dm_507100\u002Dsd_119",
+            "sort": 27,
+            "endTime": 0,
+            "title": "\u540A\u5E26\u80CC\u5FC3",
+            "goodsList_id": "507100"
+        },
+        {
+            "image": "https\u003A\u002F\u002Fs10.mogucdn.com\u002Fmlcdn\u002Fc45406\u002F180827_2ded7fbcif6hejke7l0bhdha0b2c7_180x180.jpg",
+            "wxa_link": "",
+            "link": "\u002F\u002Fm.mogu.com\u002Fx6\u002Fwall\u002Fbook\u002Fclothing\u003Ffcid\u003D10055075\u0026title\u003D\u767D\u886C\u886B\u0026acm\u003D3.mce.1_10_1joao.582.0.30ftBrxRyAjY7.pos_17\u002Dm_458948\u002Dsd_119",
+            "acm": "3.mce.1_10_1joao.582.0.30ftBrxRyAjY7.pos_17\u002Dm_458948\u002Dsd_119",
+            "sort": 28,
+            "link_xcx": "",
+            "title": "\u767D\u886C\u886B",
+            "wxa_appId": "",
+            "goodsList_id": "458948"
+        },
+        {
+            "image": "https\u003A\u002F\u002Fs10.mogucdn.com\u002Fmlcdn\u002Fc45406\u002F181017_1a2gj6fhkdg34i89k4bjk571c3b04_120x120.jpg",
+            "link": "\u002F\u002Fm.mogu.com\u002Fwall\u002Fbook\u002Fshopping\u003Ffcid\u003D20004166\u0026title\u003D\u0025E6\u002598\u0025BE\u0025E7\u002598\u0025A6\u0025E9\u00259C\u0025B2\u0025E8\u002582\u0025A9\u0026acm\u003D3.mce.1_10_1joay.582.0.30ftBrxRyAjY8.pos_18\u002Dm_458953\u002Dsd_119",
+            "startTime": 1535299200,
+            "acm": "3.mce.1_10_1joay.582.0.30ftBrxRyAjY8.pos_18\u002Dm_458953\u002Dsd_119",
+            "sort": 29,
+            "endTime": 0,
+            "title": "\u663E\u7626\u9732\u80A9",
+            "goodsList_id": "458953"
+        },
+        {
+            "image": "https\u003A\u002F\u002Fs10.mogucdn.com\u002Fmlcdn\u002Fc45406\u002F180810_2l9fjld9d8327f50ghd4524cjd6l7_180x180.jpg",
+            "wxa_link": "",
+            "link": "\u002F\u002Fm.mogu.com\u002Fx6\u002Fwall\u002Fbook\u002Fclothing\u003Ffcid\u003D10063664\u0026title\u003DBF\u98CE\u886C\u886B\u0026acm\u003D3.mce.1_10_1job0.582.0.30ftBrxRyAjY9.pos_19\u002Dm_458954\u002Dsd_119",
+            "acm": "3.mce.1_10_1job0.582.0.30ftBrxRyAjY9.pos_19\u002Dm_458954\u002Dsd_119",
+            "sort": 31,
+            "link_xcx": "",
+            "title": "BF\u98CE\u886C\u886B",
+            "wxa_appId": "",
+            "goodsList_id": "458954"
+        },
+        {
+            "image": "https\u003A\u002F\u002Fs10.mogucdn.com\u002Fmlcdn\u002Fc45406\u002F190213_2ia20705dd9cihhb8842a487chg38_120x120.jpg",
+            "link": "\u002F\u002Fm.mogu.com\u002Fwall\u002Fbook\u002Fshopping\u003Ffcid\u003D20004173\u0026title\u003D\u0025E7\u002594\u00259C\u0025E7\u0025BE\u00258E\u0025E8\u002595\u0025BE\u0025E4\u0025B8\u00259D\u0026acm\u003D3.mce.1_10_1joas.582.0.30ftBrxRyAjYa.pos_20\u002Dm_458950\u002Dsd_119",
+            "startTime": 1535299200,
+            "acm": "3.mce.1_10_1joas.582.0.30ftBrxRyAjYa.pos_20\u002Dm_458950\u002Dsd_119",
+            "sort": 32,
+            "endTime": 0,
+            "title": "\u751C\u7F8E\u857E\u4E1D",
+            "goodsList_id": "458950"
+        }
+    ]
+}

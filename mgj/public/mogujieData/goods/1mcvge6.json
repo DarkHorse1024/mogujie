@@ -1,0 +1,1047 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "1152zxm",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1o889o",
+                "sellerId": "1152zxm"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "小***啊",
+                            "avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrwem3ggvswgntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190715_0c86fg8lbb911f9b239j0j0l0hd12_3024x4032.jpg"
+                        ],
+                        "rateId": "118jkkb2",
+                        "content": "很好",
+                        "created": 1563153730,
+                        "isAnonymous": 1,
+                        "style": "颜色:军绿色套装 尺码:32/70 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    },
+                    {
+                        "user": {
+                            "uname": "w***n",
+                            "avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrtgyjxmjrwgntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190716_28292e42i9decc1hb2gc8b524i1g0_3456x4608.jpg"
+                        ],
+                        "rateId": "118jn1mo",
+                        "content": "款式不错，聚拢效果也很好，就是包装是不是有点粗糙呢，直接用袋子给装的，也没有个盒子啥的",
+                        "created": 1563279594,
+                        "isAnonymous": 1,
+                        "style": "颜色:酒红色套装 尺码:36/80 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    }
+                ],
+                "cRate": 219,
+                "imgTotal": 38,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 38,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 30,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 27,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 25,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "negative",
+                        "property": "尺码",
+                        "value": "尺码不准",
+                        "num": 15,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "服务",
+                        "value": "卖家服务很好",
+                        "num": 8,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 3415
+            },
+            "itemInfo": {
+                "desc": "加厚小胸罩蕾丝内衣内裤套装少女性感聚拢款无钢圈文胸收副乳上托",
+                "title": "加厚小胸罩蕾丝内衣内裤套装少女性感聚拢款无钢圈文胸收副乳上托",
+                "itemId": "1mcvge6",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 7953,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "加厚小胸罩蕾丝内衣内裤套装少女性感聚拢款无钢圈文胸收副乳上托",
+                    "wap_url": "//m.mogujie.com/x6/detail/1mcvge6",
+                    "description": "来自蘑菇街优店女士内衣/家居服_文胸_服饰鞋包家加厚小胸罩蕾丝内衣内裤套装少女性感聚拢款无钢圈文胸收副乳上托的加厚小胸罩蕾丝内衣内裤套装少女性感聚拢款无钢圈文胸收副乳上托，发现当季女士内衣和衣橱D秘密搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1mcvge6",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1mcvge6",
+                    "seo_noindex": "0",
+                    "title": "【加厚小胸罩蕾丝内衣内裤套装少女性感聚拢款无钢圈文胸收副乳上托】-女士内衣-女士内衣/家居服_文胸_服饰鞋包-衣橱D秘密-蘑菇街优店"
+                },
+                "type": 8,
+                "video": {
+                    "cover": "https://s11.mogucdn.com/mlcdn/c45406/190118_3k8100jf510f78d3717ll4cl35gj3_640x960.jpg",
+                    "videoId": 1084488,
+                    "width": 960,
+                    "height": 1280
+                },
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "modouDiscount": "2",
+                "extra": {
+                    "sales": 3415,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "onSaleTime": 0,
+                    "modouDiscount": "2"
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "42.72",
+                "highPrice": "57.00",
+                "lowNowPrice": "29.90",
+                "highNowPrice": "39.90",
+                "nowTime": 1564640460,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "29.90",
+                "oldPrice": "42.72起",
+                "highNowPrice": "39.90",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "优惠中",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "29.90",
+                "normalPrice": "29.90",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564640460,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.7,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.7,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "文胸",
+                        "link": "http://shop.mogu.com/1o889o/list/index?categoryId=20235241"
+                    },
+                    {
+                        "name": "热销推荐",
+                        "link": "http://shop.mogu.com/1o889o/list/index?categoryId=20246273"
+                    },
+                    {
+                        "name": "抹胸",
+                        "link": "http://shop.mogu.com/1o889o/list/index?categoryId=20355388"
+                    }
+                ],
+                "cFans": "28916",
+                "cSells": "28.2万",
+                "isMarked": false,
+                "cGoods": 112,
+                "userId": "1152zxm",
+                "shopLogo": "https://s11.mogucdn.com/p1/150802/14dhcd_iezwgyzsg43dsnddgizdambqgyyde_200x200.jpg",
+                "name": "衣橱D秘密",
+                "shopId": "1o889o",
+                "type": 1,
+                "level": 5,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1o889o",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "加厚小胸罩蕾丝内衣内裤套装少女性感聚拢款无钢圈文胸收副乳上托",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/181224_26gb32lhcbj9b89efafd4jj0fd2ff_790x1010.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181224_1h38k683abi7c9ei6ief612a564fa_790x548.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181224_4gfb264ek61070aj41ig30969g1g8_790x1187.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181224_7480a189dcag6d915k7kgg54k07l1_790x899.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181224_6fbf87le4i540a78ej9i5hg33ag7b_790x871.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181224_62e2jde4j4el78h88he27abhh3b1k_790x991.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181224_7hjac7h255g172dl21gjd5j01b04c_790x1500.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181224_3j4i111g837k2ajj0g90f9956all1_790x1537.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181224_1idbi9ce4ek4a1dfhc46efd1i1900_790x1410.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181224_019l448i4830aa2kalc408855f2ee_790x1282.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181224_8ba5i080cchd740hcje4jkkbiakb8_790x1528.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "整体款式",
+                        "anchor": "baipai_img2",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190118_35jde56da291fg9hab4ikchh638kj_640x960.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190118_58fb0h7ljjhfajfg9ef8lb0ied809_640x960.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564640460,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s5.mogucdn.com/mlcdn/c45406/181224_53b54ieb328g24eb5836gc0iad3i1_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "加厚小胸罩蕾丝内衣内裤套装少女性感聚拢款无钢圈文胸收副乳上托",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1mcvge6&from=share",
+                "imageUrl": "https://s5.mogucdn.com/mlcdn/c45406/181224_53b54ieb328g24eb5836gc0iad3i1_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "纯色",
+                        "侧翼面料": "锦纶",
+                        "颜色": "橘色单件,橘色套装,黑色单件,军绿色单件j,酒红色套装,黑色套装,酒红色单件,军绿色套装",
+                        "罩杯厚度": "中模杯",
+                        "消费群体": "少女(学生)",
+                        "尺码": "36/80,34/75,32/70,38/85",
+                        "罩杯型": "二分之一",
+                        "罩杯里料": "锦纶",
+                        "肩带": "可拆卸双肩带",
+                        "钢圈": "无钢圈",
+                        "功能": "聚拢",
+                        "季节": "四季",
+                        "外形设计": "V型",
+                        "插片": "无插片",
+                        "搭扣": "后三排搭扣",
+                        "风格": "性感,日系",
+                        "罩杯面料": "锦纶"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "下胸围"
+                            ],
+                            [
+                                "32/70",
+                                "70"
+                            ],
+                            [
+                                "34/75",
+                                "75"
+                            ],
+                            [
+                                "36/80",
+                                "80"
+                            ],
+                            [
+                                "38/85",
+                                "85"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "29.90",
+                "oldPrice": "42.72起",
+                "highNowPrice": "39.90",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "优惠中",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 3415",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1mcvge6",
+                "img": "https://s5.mogucdn.com/mlcdn/c45406/181224_53b54ieb328g24eb5836gc0iad3i1_640x960.jpg",
+                "isJdItem": false,
+                "title": "加厚小胸罩蕾丝内衣内裤套装少女性感聚拢款无钢圈文胸收副乳上托",
+                "skus": [
+                    {
+                        "stockId": "118scmom",
+                        "xdSkuId": "118scmom",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_5kl7bke92e37g9ddb1iadg0ej35ll_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3643,
+                        "style": "军绿色单件j",
+                        "color": "",
+                        "size": "32/70",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118scmoo",
+                        "xdSkuId": "118scmoo",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_5kl7bke92e37g9ddb1iadg0ej35ll_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3400,
+                        "style": "军绿色单件j",
+                        "color": "",
+                        "size": "34/75",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118scmoq",
+                        "xdSkuId": "118scmoq",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_5kl7bke92e37g9ddb1iadg0ej35ll_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3593,
+                        "style": "军绿色单件j",
+                        "color": "",
+                        "size": "36/80",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "118scmos",
+                        "xdSkuId": "118scmos",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_5kl7bke92e37g9ddb1iadg0ej35ll_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3837,
+                        "style": "军绿色单件j",
+                        "color": "",
+                        "size": "38/85",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "118scmow",
+                        "xdSkuId": "118scmow",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181224_3lakha994lia9bc7hkl74ckh0f6ag_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3847,
+                        "style": "酒红色单件",
+                        "color": "",
+                        "size": "32/70",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118scmou",
+                        "xdSkuId": "118scmou",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181224_3lakha994lia9bc7hkl74ckh0f6ag_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3739,
+                        "style": "酒红色单件",
+                        "color": "",
+                        "size": "34/75",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118scmp0",
+                        "xdSkuId": "118scmp0",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181224_3lakha994lia9bc7hkl74ckh0f6ag_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3814,
+                        "style": "酒红色单件",
+                        "color": "",
+                        "size": "36/80",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "118scmoy",
+                        "xdSkuId": "118scmoy",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181224_3lakha994lia9bc7hkl74ckh0f6ag_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3938,
+                        "style": "酒红色单件",
+                        "color": "",
+                        "size": "38/85",
+                        "styleId": 2,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "118scmp2",
+                        "xdSkuId": "118scmp2",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181224_87ggfc95jfbdg5gl19cidhf4h5769_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3862,
+                        "style": "橘色单件",
+                        "color": "",
+                        "size": "32/70",
+                        "styleId": 3,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118scmp4",
+                        "xdSkuId": "118scmp4",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181224_87ggfc95jfbdg5gl19cidhf4h5769_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3771,
+                        "style": "橘色单件",
+                        "color": "",
+                        "size": "34/75",
+                        "styleId": 3,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118scmp6",
+                        "xdSkuId": "118scmp6",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181224_87ggfc95jfbdg5gl19cidhf4h5769_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3868,
+                        "style": "橘色单件",
+                        "color": "",
+                        "size": "36/80",
+                        "styleId": 3,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "118scmp8",
+                        "xdSkuId": "118scmp8",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181224_87ggfc95jfbdg5gl19cidhf4h5769_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3947,
+                        "style": "橘色单件",
+                        "color": "",
+                        "size": "38/85",
+                        "styleId": 3,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "118scmpa",
+                        "xdSkuId": "118scmpa",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_5jblf113e3eaf4491k3155b22jc2c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 3554,
+                        "style": "军绿色套装",
+                        "color": "",
+                        "size": "32/70",
+                        "styleId": 4,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118scmpc",
+                        "xdSkuId": "118scmpc",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_5jblf113e3eaf4491k3155b22jc2c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 3120,
+                        "style": "军绿色套装",
+                        "color": "",
+                        "size": "34/75",
+                        "styleId": 4,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118scmpe",
+                        "xdSkuId": "118scmpe",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_5jblf113e3eaf4491k3155b22jc2c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 3466,
+                        "style": "军绿色套装",
+                        "color": "",
+                        "size": "36/80",
+                        "styleId": 4,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "118scmpg",
+                        "xdSkuId": "118scmpg",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_5jblf113e3eaf4491k3155b22jc2c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 3811,
+                        "style": "军绿色套装",
+                        "color": "",
+                        "size": "38/85",
+                        "styleId": 4,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "118scmpi",
+                        "xdSkuId": "118scmpi",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_0981ji5887h81b5ck4b8a103fa244_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3807,
+                        "style": "酒红色套装",
+                        "color": "",
+                        "size": "32/70",
+                        "styleId": 5,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118scmpk",
+                        "xdSkuId": "118scmpk",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_0981ji5887h81b5ck4b8a103fa244_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3542,
+                        "style": "酒红色套装",
+                        "color": "",
+                        "size": "34/75",
+                        "styleId": 5,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118scmpm",
+                        "xdSkuId": "118scmpm",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_0981ji5887h81b5ck4b8a103fa244_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3723,
+                        "style": "酒红色套装",
+                        "color": "",
+                        "size": "36/80",
+                        "styleId": 5,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "118scmpo",
+                        "xdSkuId": "118scmpo",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_0981ji5887h81b5ck4b8a103fa244_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3895,
+                        "style": "酒红色套装",
+                        "color": "",
+                        "size": "38/85",
+                        "styleId": 5,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "118scmpq",
+                        "xdSkuId": "118scmpq",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181224_29a94ghb2gd6gied51908g56did6l_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3896,
+                        "style": "橘色套装",
+                        "color": "",
+                        "size": "32/70",
+                        "styleId": 6,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118scmps",
+                        "xdSkuId": "118scmps",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181224_29a94ghb2gd6gied51908g56did6l_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3792,
+                        "style": "橘色套装",
+                        "color": "",
+                        "size": "34/75",
+                        "styleId": 6,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118scmpu",
+                        "xdSkuId": "118scmpu",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181224_29a94ghb2gd6gied51908g56did6l_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3891,
+                        "style": "橘色套装",
+                        "color": "",
+                        "size": "36/80",
+                        "styleId": 6,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "118scmpw",
+                        "xdSkuId": "118scmpw",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181224_29a94ghb2gd6gied51908g56did6l_750x1000.jpg",
+                        "currency": "¥",
+                        "stock": 3953,
+                        "style": "橘色套装",
+                        "color": "",
+                        "size": "38/85",
+                        "styleId": 6,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "118yfvl2",
+                        "xdSkuId": "118yfvl2",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190118_6ale59a3gk1fh2c9dla91bfj28kh3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 3810,
+                        "style": "黑色单件",
+                        "color": "",
+                        "size": "32/70",
+                        "styleId": 7,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118yfvl4",
+                        "xdSkuId": "118yfvl4",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190118_6ale59a3gk1fh2c9dla91bfj28kh3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 3690,
+                        "style": "黑色单件",
+                        "color": "",
+                        "size": "34/75",
+                        "styleId": 7,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118yfvl6",
+                        "xdSkuId": "118yfvl6",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190118_6ale59a3gk1fh2c9dla91bfj28kh3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 3814,
+                        "style": "黑色单件",
+                        "color": "",
+                        "size": "36/80",
+                        "styleId": 7,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "118yfvl8",
+                        "xdSkuId": "118yfvl8",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190118_6ale59a3gk1fh2c9dla91bfj28kh3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 3926,
+                        "style": "黑色单件",
+                        "color": "",
+                        "size": "38/85",
+                        "styleId": 7,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "118yfvla",
+                        "xdSkuId": "118yfvla",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190118_0fg4e79jk0b06l2dad177fbghh8h8_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 3819,
+                        "style": "黑色套装",
+                        "color": "",
+                        "size": "32/70",
+                        "styleId": 8,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "118yfvlc",
+                        "xdSkuId": "118yfvlc",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190118_0fg4e79jk0b06l2dad177fbghh8h8_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 3696,
+                        "style": "黑色套装",
+                        "color": "",
+                        "size": "34/75",
+                        "styleId": 8,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "118yfvle",
+                        "xdSkuId": "118yfvle",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190118_0fg4e79jk0b06l2dad177fbghh8h8_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 3831,
+                        "style": "黑色套装",
+                        "color": "",
+                        "size": "36/80",
+                        "styleId": 8,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "118yfvlg",
+                        "xdSkuId": "118yfvlg",
+                        "price": 5700,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190118_0fg4e79jk0b06l2dad177fbghh8h8_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 3930,
+                        "style": "黑色套装",
+                        "color": "",
+                        "size": "38/85",
+                        "styleId": 8,
+                        "sizeId": 103
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "军绿色单件j",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "酒红色单件",
+                                "index": 2,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 3,
+                                "name": "橘色单件",
+                                "index": 3,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 4,
+                                "name": "军绿色套装",
+                                "index": 4,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 5,
+                                "name": "酒红色套装",
+                                "index": 5,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 6,
+                                "name": "橘色套装",
+                                "index": 6,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 7,
+                                "name": "黑色单件",
+                                "index": 7,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 8,
+                                "name": "黑色套装",
+                                "index": 8,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "32/70",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "34/75",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "36/80",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "38/85",
+                                "index": 103,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥29.90~¥39.90",
+                "defaultPrice": "¥29.90~¥39.90",
+                "totalStock": 120225,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

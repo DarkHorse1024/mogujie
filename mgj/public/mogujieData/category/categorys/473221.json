@@ -1,0 +1,105 @@
+{
+    "cid": "473221",
+    "name": "气质连衣裙",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mifg8m",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190617_2h633e57adb88i2c4aba55k5edcdl_640x960.jpg",
+            "originalPrice": 127.15,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mifg8m&acm=3.ms.1_4_1mifg8m.16.36598-68998.fJZKwrxSbWNhG.sd_117-swt_16-imt_6-t_fJZKwrxSbWNhG-lc_16-fcid_20003855-pid_180-pit_1-dit_161",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mifg8m&acm=3.ms.1_4_1mifg8m.16.36598-68998.fJZKwrxSbWNhG.sd_117-swt_16-imt_6-t_fJZKwrxSbWNhG-lc_16-fcid_20003855-pid_180-pit_1-dit_161",
+            "itemMarks": "188 82",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mifg8m.16.36598-68998.fJZKwrxSbWNhG.sd_117-swt_16-imt_6-t_fJZKwrxSbWNhG-lc_16-fcid_20003855-pid_180-pit_1-dit_161",
+            "price_taglist": [],
+            "title": "夏季新款小个子V领刺绣A字短裙系带收腰显瘦气质雪纺连衣裙子女",
+            "orgPrice": 127.15,
+            "props": [
+                "雪纺连衣裙",
+                "收腰显瘦",
+                "v领",
+                "气质",
+                "系带"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 4920,
+            "price": 89,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.71",
+                "descDsr": "4.72",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.91"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mifg8m&acm=3.ms.1_4_1mifg8m.16.36598-68998.fJZKwrxSbWNhG.sd_117-swt_16-imt_6-t_fJZKwrxSbWNhG-lc_16-fcid_20003855-pid_180-pit_1-dit_161&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "素本依"
+        },
+        {
+            "tradeItemId": "1miyxue",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190704_55c02ki7k0kf6c65kjdh67aj4a9d7_640x960.jpg",
+            "originalPrice": 157,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1miyxue&acm=3.ms.1_4_1miyxue.16.36598-68998.fJZKwrxSbWNhG.sd_117-swt_16-imt_6-t_fJZKwrxSbWNhG-lc_16-fcid_20003855-pid_180-pit_1-dit_161",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1miyxue&acm=3.ms.1_4_1miyxue.16.36598-68998.fJZKwrxSbWNhG.sd_117-swt_16-imt_6-t_fJZKwrxSbWNhG-lc_16-fcid_20003855-pid_180-pit_1-dit_161",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1miyxue.16.36598-68998.fJZKwrxSbWNhG.sd_117-swt_16-imt_6-t_fJZKwrxSbWNhG-lc_16-fcid_20003855-pid_180-pit_1-dit_161",
+            "price_taglist": [],
+            "title": "尔沫一字肩连衣裙收腰显瘦气质小个子流行裙子女夏露肩衬衫裙夏季",
+            "orgPrice": 157,
+            "props": [
+                "尔沫",
+                "连衣裙",
+                "收腰显瘦",
+                "一字肩",
+                "露肩",
+                "气质",
+                "流行",
+                "夏季"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 466,
+            "price": 109.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.64",
+                "descDsr": "4.69",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.75"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1miyxue&acm=3.ms.1_4_1miyxue.16.36598-68998.fJZKwrxSbWNhG.sd_117-swt_16-imt_6-t_fJZKwrxSbWNhG-lc_16-fcid_20003855-pid_180-pit_1-dit_161&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "尔沫旗舰店"
+        }
+    ]
+}

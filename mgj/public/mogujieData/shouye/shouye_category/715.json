@@ -1,0 +1,93 @@
+{
+    "cid": 705,
+    "name": "女装",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1me1a0o",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190306_618b8ggkl8g61fb233j992ighd10b_640x960.jpg",
+            "iid": "1me1a0o",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1me1a0o&acm=3.ms.1_1_1me1a0o.46.28074-68998.ghxVhrxRrC0rL.ct_1100-sd_117-swt_46-imt_7-c_2_17_516595634_1366654751_1_0-t_ghxVhrxRrC0rL-lc_17-pit_2-c1_88933_nil_nil_2_1366654751_47_0-dit_173&cparam=MTU2NDYyODQ3MV8xaDJwN2hlXzMwMDFhNjM0ODZiOTNkZmJmNDRkYmRiMDU0ZjhmYjAzXzE3XzBfNTE2NTk1NjM0XzRlODhfMF8xXzBfNDUyXzFfMF9ycy04ODkzMy5ydC0xLnd0LTA=",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1me1a0o&acm=3.ms.1_1_1me1a0o.46.28074-68998.ghxVhrxRrC0rL.ct_1100-sd_117-swt_46-imt_7-c_2_17_516595634_1366654751_1_0-t_ghxVhrxRrC0rL-lc_17-pit_2-c1_88933_nil_nil_2_1366654751_47_0-dit_173&cparam=MTU2NDYyODQ3MV8xaDJwN2hlXzMwMDFhNjM0ODZiOTNkZmJmNDRkYmRiMDU0ZjhmYjAzXzE3XzBfNTE2NTk1NjM0XzRlODhfMF8xXzBfNDUyXzFfMF9ycy04ODkzMy5ydC0xLnd0LTA=",
+            "itemMarks": "1525 188",
+            "acm": "3.ms.1_1_1me1a0o.46.28074-68998.ghxVhrxRrC0rL.ct_1100-sd_117-swt_46-imt_7-c_2_17_516595634_1366654751_1_0-t_ghxVhrxRrC0rL-lc_17-pit_2-c1_88933_nil_nil_2_1366654751_47_0-dit_173",
+            "price_taglist": [],
+            "title": "轻熟洋气2019新款春季女装时髦套装裙钉珠网纱裙子气质长裙时尚三件套",
+            "type": 2,
+            "cparam": "MTU2NDYyODQ3MV8xaDJwN2hlXzMwMDFhNjM0ODZiOTNkZmJmNDRkYmRiMDU0ZjhmYjAzXzE3XzBfNTE2NTk1NjM0XzRlODhfMF8xXzBfNDUyXzFfMF9ycy04ODkzMy5ydC0xLnd0LTA=",
+            "orgPrice": 41,
+            "props": [
+                "套装裙",
+                "钉珠",
+                "时尚",
+                "洋气",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 9286,
+            "price": 28.7,
+            "leftbottom_taglist": [
+                {
+                    "color": "#FFFFFF",
+                    "bgColor": "#FF743C",
+                    "content": "热卖"
+                }
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1me1a0o&acm=3.ms.1_1_1me1a0o.46.28074-68998.ghxVhrxRrC0rL.ct_1100-sd_117-swt_46-imt_7-c_2_17_516595634_1366654751_1_0-t_ghxVhrxRrC0rL-lc_17-pit_2-c1_88933_nil_nil_2_1366654751_47_0-dit_173&itemType=7"
+        },
+        {
+            "tradeItemId": "1miq61u",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190628_2agg8abk962046770f4c5k4b40270_640x960.jpg",
+            "iid": "1miq61u",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1miq61u&acm=3.ms.1_1_1miq61u.46.28074-68998.ghxVhrxRrC0rL.ct_1100-sd_117-swt_46-imt_7-c_2_17_516230133_507295050_2_0-t_ghxVhrxRrC0rL-lc_17-pit_2-c1_88933_nil_nil_1_507295050_30_0-dit_173&cparam=MTU2NDYyODQ3MV8xZ3VycDh1XzYzMjg2MmU1Yjc3OTU4YzQzNzE1Zjg5MzNjY2JlM2EyXzE3XzFfNTE2MjMwMTMzXzRmODdfMF8yXzBfMjc0XzFfMF9ycy04ODkzMy5ydC0xLnd0LTE=",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1miq61u&acm=3.ms.1_1_1miq61u.46.28074-68998.ghxVhrxRrC0rL.ct_1100-sd_117-swt_46-imt_7-c_2_17_516230133_507295050_2_0-t_ghxVhrxRrC0rL-lc_17-pit_2-c1_88933_nil_nil_1_507295050_30_0-dit_173&cparam=MTU2NDYyODQ3MV8xZ3VycDh1XzYzMjg2MmU1Yjc3OTU4YzQzNzE1Zjg5MzNjY2JlM2EyXzE3XzFfNTE2MjMwMTMzXzRmODdfMF8yXzBfMjc0XzFfMF9ycy04ODkzMy5ydC0xLnd0LTE=",
+            "itemMarks": "1525 188",
+            "acm": "3.ms.1_1_1miq61u.46.28074-68998.ghxVhrxRrC0rL.ct_1100-sd_117-swt_46-imt_7-c_2_17_516230133_507295050_2_0-t_ghxVhrxRrC0rL-lc_17-pit_2-c1_88933_nil_nil_1_507295050_30_0-dit_173",
+            "price_taglist": [],
+            "title": "大码女装夏装2019新款洋气套装胖mm显瘦遮肚连衣裙",
+            "type": 2,
+            "cparam": "MTU2NDYyODQ3MV8xZ3VycDh1XzYzMjg2MmU1Yjc3OTU4YzQzNzE1Zjg5MzNjY2JlM2EyXzE3XzFfNTE2MjMwMTMzXzRmODdfMF8yXzBfMjc0XzFfMF9ycy04ODkzMy5ydC0xLnd0LTE=",
+            "orgPrice": 78.25,
+            "props": [
+                "连衣裙",
+                "洋气",
+                "胖mm",
+                "显瘦",
+                "遮肚",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 32,
+            "price": 54.77,
+            "leftbottom_taglist": [
+                {
+                    "color": "#FFFFFF",
+                    "bgColor": "#FF743C",
+                    "content": "热卖"
+                }
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1miq61u&acm=3.ms.1_1_1miq61u.46.28074-68998.ghxVhrxRrC0rL.ct_1100-sd_117-swt_46-imt_7-c_2_17_516230133_507295050_2_0-t_ghxVhrxRrC0rL-lc_17-pit_2-c1_88933_nil_nil_1_507295050_30_0-dit_173&itemType=7"
+        }
+    ]
+}

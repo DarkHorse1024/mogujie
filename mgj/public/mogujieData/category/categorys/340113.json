@@ -1,0 +1,108 @@
+{
+    "cid": "340113",
+    "name": "文胸套装",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1lpu5r6",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/180114_553g92e8j020kc90e588h36hi5hd2_640x960.jpg",
+            "originalPrice": 59,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1lpu5r6&acm=3.ms.1_4_1lpu5r6.16.36598-68998.4aiUQrxSgUSOI.sd_117-swt_16-imt_6-t_4aiUQrxSgUSOI-lc_16-fcid_50030-pid_19-pit_1-dit_179",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1lpu5r6&acm=3.ms.1_4_1lpu5r6.16.36598-68998.4aiUQrxSgUSOI.sd_117-swt_16-imt_6-t_4aiUQrxSgUSOI-lc_16-fcid_50030-pid_19-pit_1-dit_179",
+            "itemMarks": "1525 188 1358 1630 1232 1990 82 9999",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1lpu5r6.16.36598-68998.4aiUQrxSgUSOI.sd_117-swt_16-imt_6-t_4aiUQrxSgUSOI-lc_16-fcid_50030-pid_19-pit_1-dit_179",
+            "price_taglist": [],
+            "title": "歌帕性感蕾丝少女内衣套装小胸聚拢无钢圈中厚调整型收副乳文胸",
+            "orgPrice": 59,
+            "props": [
+                "收副乳文胸",
+                "调整型",
+                "聚拢",
+                "无钢圈",
+                "小胸"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 17629,
+            "price": 59,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.83",
+                "descDsr": "4.81",
+                "tagDescDsr": "4.77",
+                "tagQualityDsr": "4.76",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.94"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1lpu5r6&acm=3.ms.1_4_1lpu5r6.16.36598-68998.4aiUQrxSgUSOI.sd_117-swt_16-imt_6-t_4aiUQrxSgUSOI-lc_16-fcid_50030-pid_19-pit_1-dit_179&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "歌帕内衣"
+        },
+        {
+            "tradeItemId": "1mbfgky",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/181116_42ebjl4i3jhe0hg40af3fhh274f49_640x960.jpg",
+            "originalPrice": 42.72,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mbfgky&acm=3.ms.1_4_1mbfgky.16.36598-68998.4aiUQrxSgUSOI.sd_117-swt_16-imt_6-t_4aiUQrxSgUSOI-lc_16-fcid_50030-pid_19-pit_1-dit_179",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mbfgky&acm=3.ms.1_4_1mbfgky.16.36598-68998.4aiUQrxSgUSOI.sd_117-swt_16-imt_6-t_4aiUQrxSgUSOI-lc_16-fcid_50030-pid_19-pit_1-dit_179",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mbfgky.16.36598-68998.4aiUQrxSgUSOI.sd_117-swt_16-imt_6-t_4aiUQrxSgUSOI-lc_16-fcid_50030-pid_19-pit_1-dit_179",
+            "price_taglist": [],
+            "title": "少女甜美蝴蝶结加厚性感内衣套装少女聚拢无钢圈文胸小胸罩收副乳防下垂美背简约波浪边透气胸罩",
+            "orgPrice": 42.72,
+            "props": [
+                "胸罩",
+                "美背",
+                "聚拢",
+                "副乳",
+                "性感",
+                "防下垂",
+                "透气",
+                "加厚",
+                "甜美蝴蝶结",
+                "波浪边",
+                "简约"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 5228,
+            "price": 29.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.71",
+                "descDsr": "4.71",
+                "tagDescDsr": "4.77",
+                "tagQualityDsr": "4.76",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.88"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mbfgky&acm=3.ms.1_4_1mbfgky.16.36598-68998.4aiUQrxSgUSOI.sd_117-swt_16-imt_6-t_4aiUQrxSgUSOI-lc_16-fcid_50030-pid_19-pit_1-dit_179&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "衣橱D秘密"
+        }
+    ]
+}

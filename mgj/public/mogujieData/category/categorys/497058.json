@@ -1,0 +1,106 @@
+{
+    "cid": "497058",
+    "name": "拖鞋",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mjesgk",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190719_1a2b94ak4ee52lj1dd5lii5gcjcfl_640x960.jpg",
+            "originalPrice": 99,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjesgk&acm=3.ms.1_4_1mjesgk.16.36598-68998.om1qOrxSkrsNo.sd_117-swt_16-imt_6-t_om1qOrxSkrsNo-lc_16-fcid_20003415-pid_5-pit_1-dit_163",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjesgk&acm=3.ms.1_4_1mjesgk.16.36598-68998.om1qOrxSkrsNo.sd_117-swt_16-imt_6-t_om1qOrxSkrsNo-lc_16-fcid_20003415-pid_5-pit_1-dit_163",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mjesgk.16.36598-68998.om1qOrxSkrsNo.sd_117-swt_16-imt_6-t_om1qOrxSkrsNo-lc_16-fcid_20003415-pid_5-pit_1-dit_163",
+            "price_taglist": [],
+            "title": "拖鞋女外穿2019新款夏季包头半拖女鞋百搭网红懒人凉拖鞋潮鞋",
+            "orgPrice": 99,
+            "props": [
+                "凉拖鞋",
+                "包头",
+                "懒人",
+                "百搭",
+                "新款",
+                "夏季"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 20,
+            "price": 59.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.56",
+                "descDsr": "4.58",
+                "tagDescDsr": "4.69",
+                "tagQualityDsr": "4.67",
+                "tagServiceDsr": "4.89",
+                "serviceDsr": "4.85"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mjesgk&acm=3.ms.1_4_1mjesgk.16.36598-68998.om1qOrxSkrsNo.sd_117-swt_16-imt_6-t_om1qOrxSkrsNo-lc_16-fcid_20003415-pid_5-pit_1-dit_163&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "麻豆鞋店"
+        },
+        {
+            "tradeItemId": "1mjedxs",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190718_5gk5297ljgd6c7j6hl180ifgbfieg_640x960.jpg",
+            "originalPrice": 138,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjedxs&acm=3.ms.1_4_1mjedxs.16.36598-68998.om1qOrxSkrsNo.sd_117-swt_16-imt_6-t_om1qOrxSkrsNo-lc_16-fcid_20003415-pid_5-pit_1-dit_163",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjedxs&acm=3.ms.1_4_1mjedxs.16.36598-68998.om1qOrxSkrsNo.sd_117-swt_16-imt_6-t_om1qOrxSkrsNo-lc_16-fcid_20003415-pid_5-pit_1-dit_163",
+            "itemMarks": "77 188 1210",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mjedxs.16.36598-68998.om1qOrxSkrsNo.sd_117-swt_16-imt_6-t_om1qOrxSkrsNo-lc_16-fcid_20003415-pid_5-pit_1-dit_163",
+            "price_taglist": [],
+            "title": "2019新款无后跟懒人包头奶奶半拖鞋女夏外穿时尚百搭网红单鞋",
+            "orgPrice": 138,
+            "props": [
+                "凯丽森澜",
+                "半拖鞋",
+                "包头",
+                "后跟",
+                "懒人",
+                "时尚",
+                "百搭",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 130,
+            "price": 69.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.57",
+                "descDsr": "4.61",
+                "tagDescDsr": "4.68",
+                "tagQualityDsr": "4.68",
+                "tagServiceDsr": "4.90",
+                "serviceDsr": "4.82"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mjedxs&acm=3.ms.1_4_1mjedxs.16.36598-68998.om1qOrxSkrsNo.sd_117-swt_16-imt_6-t_om1qOrxSkrsNo-lc_16-fcid_20003415-pid_5-pit_1-dit_163&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "凯丽森澜"
+        }
+    ]
+}

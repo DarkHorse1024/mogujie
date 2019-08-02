@@ -1,0 +1,105 @@
+{
+    "cid": "484459",
+    "name": "性感连衣裙",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1me934w",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190417_5e51jf4iia56eifii3862f3ljkjh5_640x960.jpg",
+            "originalPrice": 180,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1me934w&acm=3.ms.1_4_1me934w.16.36598-69000.bXHsmrxSbp7X5.sd_117-swt_16-imt_6-t_bXHsmrxSbp7X5-lc_16-fcid_20003023-pid_180-pit_1-dit_153",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1me934w&acm=3.ms.1_4_1me934w.16.36598-69000.bXHsmrxSbp7X5.sd_117-swt_16-imt_6-t_bXHsmrxSbp7X5-lc_16-fcid_20003023-pid_180-pit_1-dit_153",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1me934w.16.36598-69000.bXHsmrxSbp7X5.sd_117-swt_16-imt_6-t_bXHsmrxSbp7X5-lc_16-fcid_20003023-pid_180-pit_1-dit_153",
+            "price_taglist": [],
+            "title": "网纱拼接雪纺收腰性感露肩连衣裙气质修身显瘦裙子夏季新款小黑裙",
+            "orgPrice": 180,
+            "props": [
+                "露肩连衣裙",
+                "收腰",
+                "雪纺",
+                "网纱",
+                "气质",
+                "拼接",
+                "性感",
+                "修身"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 5097,
+            "price": 126,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.76",
+                "descDsr": "4.78",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.93"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1me934w&acm=3.ms.1_4_1me934w.16.36598-69000.bXHsmrxSbp7X5.sd_117-swt_16-imt_6-t_bXHsmrxSbp7X5-lc_16-fcid_20003023-pid_180-pit_1-dit_153&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "淑城品牌女装"
+        },
+        {
+            "tradeItemId": "1mipn7m",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190627_32ab21d2bj4fgccd322hj38l81j63_640x960.jpg",
+            "originalPrice": 108.58,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mipn7m&acm=3.ms.1_4_1mipn7m.16.36598-69000.bXHsmrxSbp7X5.sd_117-swt_16-imt_6-t_bXHsmrxSbp7X5-lc_16-fcid_20003023-pid_180-pit_1-dit_153",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mipn7m&acm=3.ms.1_4_1mipn7m.16.36598-69000.bXHsmrxSbp7X5.sd_117-swt_16-imt_6-t_bXHsmrxSbp7X5-lc_16-fcid_20003023-pid_180-pit_1-dit_153",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mipn7m.16.36598-69000.bXHsmrxSbp7X5.sd_117-swt_16-imt_6-t_bXHsmrxSbp7X5-lc_16-fcid_20003023-pid_180-pit_1-dit_153",
+            "price_taglist": [],
+            "title": "2019夏季新款赫本小黑裙低胸女人味气质性感收腰显瘦连衣裙女",
+            "orgPrice": 108.58,
+            "props": [
+                "赫本小黑裙",
+                "低胸",
+                "收腰",
+                "气质",
+                "性感"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 843,
+            "price": 76,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.63",
+                "descDsr": "4.64",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.87"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mipn7m&acm=3.ms.1_4_1mipn7m.16.36598-69000.bXHsmrxSbp7X5.sd_117-swt_16-imt_6-t_bXHsmrxSbp7X5-lc_16-fcid_20003023-pid_180-pit_1-dit_153&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "胖家小妹"
+        }
+    ]
+}

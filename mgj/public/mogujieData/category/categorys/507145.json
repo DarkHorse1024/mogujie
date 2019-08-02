@@ -1,0 +1,105 @@
+{
+    "cid": "507145",
+    "name": "字母T恤",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mijoxi",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190621_56dkhiai09hkfea2k5ki03hl4j30b_640x960.jpg",
+            "originalPrice": 57,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mijoxi&acm=3.ms.1_4_1mijoxi.16.36598-68998.ghxVhrxS4dP9G.sd_117-swt_16-imt_6-t_ghxVhrxS4dP9G-lc_16-fcid_20004449-pid_180-pit_1-dit_169",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mijoxi&acm=3.ms.1_4_1mijoxi.16.36598-68998.ghxVhrxS4dP9G.sd_117-swt_16-imt_6-t_ghxVhrxS4dP9G-lc_16-fcid_20004449-pid_180-pit_1-dit_169",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mijoxi.16.36598-68998.ghxVhrxS4dP9G.sd_117-swt_16-imt_6-t_ghxVhrxS4dP9G-lc_16-fcid_20004449-pid_180-pit_1-dit_169",
+            "price_taglist": [],
+            "title": "【2件69元】2019新款纯棉宽松潮牛油果抹茶绿短袖t恤女",
+            "orgPrice": 57,
+            "props": [
+                "翰代维",
+                "短袖t恤",
+                "纯棉",
+                "宽松",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 1500,
+            "price": 39.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.78",
+                "descDsr": "4.76",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.75",
+                "tagServiceDsr": "4.91",
+                "serviceDsr": "4.88"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mijoxi&acm=3.ms.1_4_1mijoxi.16.36598-68998.ghxVhrxS4dP9G.sd_117-swt_16-imt_6-t_ghxVhrxS4dP9G-lc_16-fcid_20004449-pid_180-pit_1-dit_169&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "翰代维旗舰店"
+        },
+        {
+            "tradeItemId": "1ka4e28",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/170412_36ihf80j3igjc0c0k3a75aak8igej_640x960.jpg",
+            "originalPrice": 54.29,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1ka4e28&acm=3.ms.1_4_1ka4e28.16.36598-68998.ghxVhrxS4dP9G.sd_117-swt_16-imt_6-t_ghxVhrxS4dP9G-lc_16-fcid_20004449-pid_180-pit_1-dit_169",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1ka4e28&acm=3.ms.1_4_1ka4e28.16.36598-68998.ghxVhrxS4dP9G.sd_117-swt_16-imt_6-t_ghxVhrxS4dP9G-lc_16-fcid_20004449-pid_180-pit_1-dit_169",
+            "itemMarks": "1525 188 1127 82",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1ka4e28.16.36598-68998.ghxVhrxS4dP9G.sd_117-swt_16-imt_6-t_ghxVhrxS4dP9G-lc_16-fcid_20004449-pid_180-pit_1-dit_169",
+            "price_taglist": [],
+            "title": "2019春夏新款女装宽松潮V领破洞镂空字母印花短袖T恤",
+            "orgPrice": 54.29,
+            "props": [
+                "印花短袖t恤",
+                "字母",
+                "v领",
+                "宽松",
+                "镂空",
+                "破洞",
+                "春夏",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 35407,
+            "price": 38,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.62",
+                "descDsr": "4.62",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.83"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1ka4e28&acm=3.ms.1_4_1ka4e28.16.36598-68998.ghxVhrxS4dP9G.sd_117-swt_16-imt_6-t_ghxVhrxS4dP9G-lc_16-fcid_20004449-pid_180-pit_1-dit_169&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "卡麦丝"
+        }
+    ]
+}

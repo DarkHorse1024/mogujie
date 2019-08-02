@@ -1,0 +1,689 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "13a8iqw",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1p9m7m",
+                "sellerId": "13a8iqw"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "wx_qdy3w5ljgbhw8",
+                            "avatar": "https://s11.mogucdn.com/mlcdn/5abf39/181216_0l2ag2f6f29j63gkbk9g9ih5bb974_132x132.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190715_6dbl9cbd0h7bf3a6l82cf3bjgfi7e_400x400.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190715_1k30a6j812j94igb1ghf5akak208k_400x400.jpg"
+                        ],
+                        "rateId": "118jldx0",
+                        "content": "衣服上身真的蛮好看，黄色很显肤白，甜甜的很减龄，超喜欢上身效果很好，喜欢好评.",
+                        "created": 1563173031,
+                        "isAnonymous": 0,
+                        "style": "颜色:黄色衬衫 尺码:M ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    },
+                    {
+                        "user": {
+                            "uname": "樱桃z2c0dl",
+                            "avatar": "https://s5.mogucdn.com/mlcdn/5abf39/190713_57c34g0k9ih2hk4lcflfb4c0ihac0_132x132.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190719_11ek1ff7gfb1bfkcc7bh8ljll1c8a_360x640.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190719_6c9hggb7a8j3a1hdjfi891adefb64_360x640.jpg"
+                        ],
+                        "rateId": "118kz3p2",
+                        "content": "实物和图片一样好看，美美的出门拍照啦，质量还是不错的，穿上挺舒服的这个颜色好显白，喜欢的小姐妹们可以下手啦~",
+                        "created": 1563516439,
+                        "isAnonymous": 0,
+                        "style": "颜色:黄色衬衫 尺码:S ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    }
+                ],
+                "cRate": 23,
+                "imgTotal": 7,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 7,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 9,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 8,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 6,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "颜色",
+                        "value": "颜色正",
+                        "num": 5,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 3,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 282
+            },
+            "itemInfo": {
+                "desc": "小众泡泡袖设计感短袖V领白衬衫女",
+                "title": "夏锁骨心机显瘦上衣衬衣超仙女小众泡泡袖设计感短袖V领白衬衫女",
+                "itemId": "1mimo90",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 768,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "夏锁骨心机显瘦上衣衬衣超仙女小众泡泡袖设计感短袖V领白衬衫女",
+                    "wap_url": "//m.mogujie.com/x6/detail/1mimo90",
+                    "description": "来自蘑菇街优店衬衫_上装_女装_服饰鞋包家小众泡泡袖设计感短袖V领白衬衫女的夏锁骨心机显瘦上衣衬衣超仙女小众泡泡袖设计感短袖V领白衬衫女，发现当季女装和芒果屋Wu搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1mimo90",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1mimo90",
+                    "seo_noindex": "0",
+                    "title": "【夏锁骨心机显瘦上衣衬衣超仙女小众泡泡袖设计感短袖V领白衬衫女】-女装-衬衫_上装_女装_服饰鞋包-芒果屋Wu-蘑菇街优店"
+                },
+                "type": 8,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 282,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "address": "广东广州",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "168.00",
+                "highPrice": "168.00",
+                "lowNowPrice": "59.00",
+                "highNowPrice": "59.00",
+                "nowTime": 1564643119,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "59.00",
+                "oldPrice": "168.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "优惠价",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "59.00",
+                "normalPrice": "59.00",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564643119,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.68,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.67,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "女装特卖",
+                        "link": "http://shop.mogu.com/1p9m7m/list/index?categoryId=20225442"
+                    },
+                    {
+                        "name": "套装",
+                        "link": "http://shop.mogu.com/1p9m7m/list/index?categoryId=20225443"
+                    },
+                    {
+                        "name": "裙子",
+                        "link": "http://shop.mogu.com/1p9m7m/list/index?categoryId=20225444"
+                    },
+                    {
+                        "name": "裤子",
+                        "link": "http://shop.mogu.com/1p9m7m/list/index?categoryId=20225445"
+                    },
+                    {
+                        "name": "上装",
+                        "link": "http://shop.mogu.com/1p9m7m/list/index?categoryId=20225446"
+                    },
+                    {
+                        "name": "外套",
+                        "link": "http://shop.mogu.com/1p9m7m/list/index?categoryId=20225447"
+                    }
+                ],
+                "cFans": "39700",
+                "cSells": "20.6万",
+                "isMarked": false,
+                "cGoods": 411,
+                "userId": "13a8iqw",
+                "shopLogo": "https://s5.mogucdn.com/p1/160113/1n49co_ie3tmmdbmq3wembrgyzdambqgayde_800x800.jpg",
+                "name": "芒果屋Wu",
+                "shopId": "1p9m7m",
+                "type": 1,
+                "level": 4,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1p9m7m",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "小众泡泡袖设计感短袖V领白衬衫女",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190624_5h2glif561eh4k28j1aglje1b2b9d_800x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190624_7aff4hjckh04iaj8bii3fk01352ce_796x801.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190624_6j5hil559akg40bh4ga53hl04gih6_798x798.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190624_14dilgfd4b914ikjb348d9b9ji5d7_800x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190624_5bih9ii8h1hkj78jga2h2f5iaf3h8_799x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190624_6ii1461700jlfca6k8cdgdi2b32cf_800x799.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190624_5cf3g9gc7gk9l4h3glel9e835i0a3_799x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190624_2ijb7b631fl6hic1ghf7g640hc71c_797x801.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190624_8h1d9df84ee19i43h8a2djab45ii5_799x799.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190624_0cg56a8d47j8delj21lkb80l0f8k4_799x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190624_7kel62kl7c9eala39a2dj8c8fkjh7_799x799.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190624_2diegkij2daiej7fjgdef7c11k942_799x798.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190624_75f0h8bb4g7l0a105jka4kfafe8f0_797x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190624_51dlh5da78kd4k3bhh1flhiai5l8i_799x799.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190624_6liiddk4k192e16e2gh8143h405e1_799x798.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190624_877ac9fk6b582811g0a8j1ek2kbh6_800x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564643119,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s5.mogucdn.com/mlcdn/c45406/190624_7d5fgj1fi5gkj94b268h9ef88i6l1_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190624_6bcgidlf0k3d6518b012l7bc28g7d_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190624_6j785ii2elkl6i5d529h09c67ki5d_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190624_48j7641dfkgghh7hfj7abjl8idi52_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190624_0giie0ff7h0i5979g5f6lgig0b214_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "夏锁骨心机显瘦上衣衬衣超仙女小众泡泡袖设计感短袖V领白衬衫女",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1mimo90&from=share",
+                "imageUrl": "https://s5.mogucdn.com/mlcdn/c45406/190624_7d5fgj1fi5gkj94b268h9ef88i6l1_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "颜色": "白色衬衫,黄色衬衫",
+                        "穿着方式": "套头",
+                        "尺码": "S,XL,L,M",
+                        "衣长": "常规款（51-65cm）",
+                        "版型": "直筒",
+                        "季节": "夏季",
+                        "材质": "聚酯纤维",
+                        "领型": "V领",
+                        "袖长": "短袖",
+                        "风格": "通勤（OL）"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "衣长（前）",
+                                "肩宽",
+                                "胸围",
+                                "袖长"
+                            ],
+                            [
+                                "S",
+                                "58",
+                                "35",
+                                "92",
+                                "23"
+                            ],
+                            [
+                                "M",
+                                "59",
+                                "36",
+                                "96",
+                                "24"
+                            ],
+                            [
+                                "L",
+                                "60",
+                                "37",
+                                "100",
+                                "25"
+                            ],
+                            [
+                                "XL",
+                                "61",
+                                "38",
+                                "104",
+                                "26"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "59.00",
+                "oldPrice": "168.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "优惠价",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 282",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "address",
+                        "desc": "广东广州",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1mimo90",
+                "img": "https://s5.mogucdn.com/mlcdn/c45406/190624_7d5fgj1fi5gkj94b268h9ef88i6l1_640x960.jpg",
+                "isJdItem": false,
+                "title": "夏锁骨心机显瘦上衣衬衣超仙女小众泡泡袖设计感短袖V领白衬衫女",
+                "skus": [
+                    {
+                        "stockId": "11agtc12",
+                        "xdSkuId": "11agtc12",
+                        "price": 16800,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190624_3i14gh31gdbla53djb40e601af32k_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 249,
+                        "style": "黄色衬衫",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11agtc14",
+                        "xdSkuId": "11agtc14",
+                        "price": 16800,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190624_3i14gh31gdbla53djb40e601af32k_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 241,
+                        "style": "黄色衬衫",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11agtc16",
+                        "xdSkuId": "11agtc16",
+                        "price": 16800,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190624_3i14gh31gdbla53djb40e601af32k_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 266,
+                        "style": "黄色衬衫",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11agtc18",
+                        "xdSkuId": "11agtc18",
+                        "price": 16800,
+                        "nowprice": 5900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190624_3i14gh31gdbla53djb40e601af32k_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 273,
+                        "style": "黄色衬衫",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11agtc1a",
+                        "xdSkuId": "11agtc1a",
+                        "price": 16800,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190624_18g68674l985132hgjj2jgd053ef9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 288,
+                        "style": "白色衬衫",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11agtc1c",
+                        "xdSkuId": "11agtc1c",
+                        "price": 16800,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190624_18g68674l985132hgjj2jgd053ef9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 286,
+                        "style": "白色衬衫",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11agtc1e",
+                        "xdSkuId": "11agtc1e",
+                        "price": 16800,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190624_18g68674l985132hgjj2jgd053ef9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 283,
+                        "style": "白色衬衫",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11agtc1g",
+                        "xdSkuId": "11agtc1g",
+                        "price": 16800,
+                        "nowprice": 5900,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190624_18g68674l985132hgjj2jgd053ef9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 297,
+                        "style": "白色衬衫",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 2,
+                        "sizeId": 103
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "黄色衬衫",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "白色衬衫",
+                                "index": 2,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "S",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "M",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "L",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "XL",
+                                "index": 103,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥59.00",
+                "defaultPrice": "¥59.00",
+                "totalStock": 2183,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

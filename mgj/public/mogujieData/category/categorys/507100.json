@@ -1,0 +1,105 @@
+{
+    "cid": "507100",
+    "name": "吊带背心",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mid0k0",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190615_69hfe6a05b4k9h93jb5deb10c716b_640x850.jpg",
+            "originalPrice": 64.29,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mid0k0&acm=3.ms.1_4_1mid0k0.16.36598-68998.A6HA5rxS587NG.sd_117-swt_16-imt_6-t_A6HA5rxS587NG-lc_16-fcid_20004429-pid_180-pit_1-dit_180",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mid0k0&acm=3.ms.1_4_1mid0k0.16.36598-68998.A6HA5rxS587NG.sd_117-swt_16-imt_6-t_A6HA5rxS587NG-lc_16-fcid_20004429-pid_180-pit_1-dit_180",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mid0k0.16.36598-68998.A6HA5rxS587NG.sd_117-swt_16-imt_6-t_A6HA5rxS587NG-lc_16-fcid_20004429-pid_180-pit_1-dit_180",
+            "price_taglist": [],
+            "title": "宽松显瘦螺旋纹chic圆领薄款冰丝纯色简约百搭无袖针织衫上衣",
+            "orgPrice": 64.29,
+            "props": [
+                "无袖针织衫",
+                "冰丝",
+                "百搭",
+                "纯色",
+                "简约",
+                "螺旋纹",
+                "薄款",
+                "圆领",
+                "宽松显瘦"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 947,
+            "price": 45,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.60",
+                "descDsr": "4.59",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.83"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mid0k0&acm=3.ms.1_4_1mid0k0.16.36598-68998.A6HA5rxS587NG.sd_117-swt_16-imt_6-t_A6HA5rxS587NG-lc_16-fcid_20004429-pid_180-pit_1-dit_180&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "唯她衣阁"
+        },
+        {
+            "tradeItemId": "1miqq5o",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190628_26j93e4h0854fe3ekc0eb0l74bebl_640x960.jpg",
+            "originalPrice": 70,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1miqq5o&acm=3.ms.1_4_1miqq5o.16.36598-68998.A6HA5rxS587NG.sd_117-swt_16-imt_6-t_A6HA5rxS587NG-lc_16-fcid_20004429-pid_180-pit_1-dit_180",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1miqq5o&acm=3.ms.1_4_1miqq5o.16.36598-68998.A6HA5rxS587NG.sd_117-swt_16-imt_6-t_A6HA5rxS587NG-lc_16-fcid_20004429-pid_180-pit_1-dit_180",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1miqq5o.16.36598-68998.A6HA5rxS587NG.sd_117-swt_16-imt_6-t_A6HA5rxS587NG-lc_16-fcid_20004429-pid_180-pit_1-dit_180",
+            "price_taglist": [],
+            "title": "夏季新款韩版宽松学生无袖吊带牛油果绿字母针织背心女(送吊带)",
+            "orgPrice": 70,
+            "props": [
+                "针织背心",
+                "字母",
+                "宽松",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 546,
+            "price": 49,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.60",
+                "descDsr": "4.59",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.88"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1miqq5o&acm=3.ms.1_4_1miqq5o.16.36598-68998.A6HA5rxS587NG.sd_117-swt_16-imt_6-t_A6HA5rxS587NG-lc_16-fcid_20004429-pid_180-pit_1-dit_180&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "蜗牛美衣"
+        }
+    ]
+}

@@ -1,0 +1,1902 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "12zqld2",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1cv43u",
+                "sellerId": "12zqld2"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "she薇薇306",
+                            "avatar": "https://s5.mogucdn.com/mlcdn/5abf39/180904_181he0hgg79h7306j7616858i38e2_132x132.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/181121_1439jh4ef8lc91l5j5glckh8bc52a_1080x1440.jpg"
+                        ],
+                        "rateId": "116tppzk",
+                        "content": "衣服很合身。买的时候还担心会不会不合身。没想到刚好。很显瘦。有需要的宝宝们可以放心购买。物流很快。服务态度很好！很愉快的一次购物\uD83D\uDE0A",
+                        "created": 1541769830,
+                        "isAnonymous": 0,
+                        "style": "颜色:黑色【长裤】 尺码:28【建议100-110斤】 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "身高: 156 cm",
+                            "体重: 52 kg",
+                            "是否合身: 合身 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "weight": "52kg",
+                            "height": "156cm",
+                            "desc": "合身 "
+                        }
+                    },
+                    {
+                        "user": {
+                            "uname": "艷艷女王",
+                            "avatar": "https://s11.mogucdn.com/mlcdn/5abf39/171014_41ace73e6a4a30981j4ahc39f0c58_400x400.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/181104_1j0k2gk565d8k90d7k1ljc0aa2349_1656x2208.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181104_00hcbga77l2340kck32jeijhi730j_1242x1656.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181104_15aa43flg99al02k75cjidba4c51c_1242x1656.jpg"
+                        ],
+                        "rateId": "116rnyk0",
+                        "content": "物流很快，隔天就到了，而且放了柠檬香包想想的，上腿试了一下很好穿，没有束缚感很舒服，，弹力也大，超级喜欢的洋气灰，很好看哦！",
+                        "created": 1541334255,
+                        "isAnonymous": 0,
+                        "style": "颜色:深灰色【长裤】 尺码:28【建议100-110斤】 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "身高: 163 cm",
+                            "体重: 59 kg",
+                            "是否合身: 合身 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "weight": "59kg",
+                            "height": "163cm",
+                            "desc": "合身 "
+                        }
+                    }
+                ],
+                "cRate": 2366,
+                "imgTotal": 753,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 753
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 356
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 186
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "尺码",
+                        "value": "尺寸无偏差",
+                        "num": 88
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 84
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "物流",
+                        "value": "物流快",
+                        "num": 76
+                    }
+                ],
+                "sales": 62
+            },
+            "itemInfo": {
+                "desc": "【长裤与九分裤任选】【不加绒和加绒任选】\n就是想告诉你们，牛仔裤也可以穿出这么帅气的！ 小高腰设计，一下子就拉长腿部线条，大长腿就是你了！ 店主亲自试穿，真的很不错噢！",
+                "title": "牛仔裤女韩版秋冬新款高腰修身显瘦紧身大码百搭弹力小脚女裤子",
+                "itemId": "1khq8ju",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 37100,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "牛仔裤女韩版秋冬新款高腰修身显瘦紧身大码百搭弹力小脚女裤子",
+                    "wap_url": "//m.mogujie.com/x6/detail/1khq8ju",
+                    "description": "来自蘑菇街优店牛仔裤_裤子_女装_服饰鞋包家【长裤与九分裤任选】【不加绒和加绒任选】\n就是想告诉你们，牛仔裤也可以穿出这么帅气的！ 小高腰设计，一下子就拉长腿部线条，大长腿就是你了！ 店主亲自试穿，真的很不错噢！的牛仔裤女韩版秋冬新款高腰修身显瘦紧身大码百搭弹力小脚女裤子，发现当季女装和果果e家搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1khq8ju",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1khq8ju",
+                    "seo_noindex": "0",
+                    "title": "【牛仔裤女韩版秋冬新款高腰修身显瘦紧身大码百搭弹力小脚女裤子】-女装-牛仔裤_裤子_女装_服饰鞋包-果果e家-蘑菇街优店"
+                },
+                "type": 8,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 62,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "address": "广东中山",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "85.00",
+                "highPrice": "99.00",
+                "lowNowPrice": "59.50",
+                "highNowPrice": "69.30",
+                "nowTime": 1564633866,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "59.50",
+                "oldPrice": "85.00起",
+                "highNowPrice": "69.30",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "商家让利",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "59.50",
+                "normalPrice": "59.50",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564633866,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.73,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.71,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "裤子专区",
+                        "link": "http://shop.mogu.com/1cv43u/list/index?categoryId=89711"
+                    },
+                    {
+                        "name": "T恤专区",
+                        "link": "http://shop.mogu.com/1cv43u/list/index?categoryId=89712"
+                    },
+                    {
+                        "name": "裙子专区",
+                        "link": "http://shop.mogu.com/1cv43u/list/index?categoryId=89713"
+                    },
+                    {
+                        "name": "套装专区",
+                        "link": "http://shop.mogu.com/1cv43u/list/index?categoryId=90963"
+                    },
+                    {
+                        "name": "卫衣",
+                        "link": "http://shop.mogu.com/1cv43u/list/index?categoryId=173366"
+                    },
+                    {
+                        "name": "69两件专区",
+                        "link": "http://shop.mogu.com/1cv43u/list/index?categoryId=20355453"
+                    },
+                    {
+                        "name": "75两件专区",
+                        "link": "http://shop.mogu.com/1cv43u/list/index?categoryId=20362892"
+                    }
+                ],
+                "cFans": "17939",
+                "cSells": "24.4万",
+                "isMarked": false,
+                "cGoods": 155,
+                "userId": "12zqld2",
+                "shopLogo": "https://s11.mogucdn.com/b7/avatar/150414/1hvanr_ie2wcmdbmu2wgzbygazdambqhayde_200x200.jpg",
+                "name": "果果e家",
+                "shopId": "1cv43u",
+                "type": 1,
+                "level": 3,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1cv43u",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "【长裤与九分裤任选】【不加绒和加绒任选】\n就是想告诉你们，牛仔裤也可以穿出这么帅气的！ 小高腰设计，一下子就拉长腿部线条，大长腿就是你了！ 店主亲自试穿，真的很不错噢！",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/180826_4bhki573e0756l4lbi20h47bh1kid_750x1010.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/181004_36lh6lfd38a8jdi5ddb13231bk713_750x1231.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181004_18c29b8lj2lghe7030756hjle2890_750x970.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181004_11gai4j36ibck80aai104h7726094_750x779.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/181004_63lkb5clk1jlfbf6be408k76gb3d2_750x617.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180826_30407cjf9273893h4ak4a6ccahc44_750x694.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "整体款式",
+                        "anchor": "baipai_img2",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/170826_52c5b43ikl69hjj292f3lfdceaa09_750x783.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170826_5h4fc22kah2kkaj0fdkbkadakjefj_750x822.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/170826_44d1l23477j2l7dh1b57118ic4b75_750x1296.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170826_8ab7df4fj3lejd0980j7jj8hdfd57_750x714.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170826_88cj11d6042fgc2054l0eag6d41ec_750x1100.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/170826_8a7j1a8440fd0k55lf2da161aa78b_750x1413.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170826_132kj9i807dk7lebkb72h6gi73fj5_750x1119.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170826_4dcd53b81c3l0eg4l1b2c57dka0l4_750x777.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170826_8b80lk9a7if99afhk0aeif9a3lj0c_750x1344.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170826_7ff5lbl139k56872bgial4f83511a_750x1247.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/170826_21b40c1kae8h3bgjhi745bafelj14_750x954.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/170826_3gi9f49hl9lfe164la99j17a5i2f1_750x906.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170826_4ik129ji35e1ekd0j8b08202dfdk1_750x1181.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "细节做工",
+                        "anchor": "detail_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/170826_5hi32c0hjej8jc5ca0k9beeii5b2g_750x876.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/170826_8138lg81aaili893b5afhdjg6i95c_750x620.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564633866,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s5.mogucdn.com/mlcdn/c45406/170915_1c0fkkie75c349e886kg977e89dfj_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/170826_79l3f7j3hc1af5klk73gj88i0jhb6_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/170826_636ik00iad791325jdhd2ffe00589_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/170826_1k0e0d2b5l63827a5c791ej446h8b_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "牛仔裤女韩版秋冬新款高腰修身显瘦紧身大码百搭弹力小脚女裤子",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1khq8ju&from=share",
+                "imageUrl": "https://s5.mogucdn.com/mlcdn/c45406/170915_1c0fkkie75c349e886kg977e89dfj_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "纯色",
+                        "厚薄": "常规",
+                        "颜色": "深灰色【九分裤】,黑色九分【加绒加厚】,深灰色【长裤】,蓝色【长裤】,蓝色【九分裤】,黑色【长裤】,蓝色九分【加绒加厚】,深灰长裤【加绒加厚】,黑色【九分裤】,蓝色长裤【加绒加厚】,黑色长裤【加绒加厚】,深灰九分【加绒加厚】",
+                        "裤长": "长裤",
+                        "腰型": "高腰",
+                        "尺码": "28【建议100-110斤】,32【建议140-150斤】,31【建议130-140斤】,29【建议110-120斤】,30【建议120-130斤】,26【建议80-90斤】,27【建议90-100斤】",
+                        "版型": "修身",
+                        "季节": "秋季",
+                        "材质": "牛仔布",
+                        "裤型": "小脚",
+                        "风格": "通勤（OL）",
+                        "闭合方式": "纽扣+拉链",
+                        "潮流": "韩系"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "desc": "修身版",
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "腰围",
+                                "臀围",
+                                "裤长"
+                            ],
+                            [
+                                "26【建议80-90斤】",
+                                "64",
+                                "76",
+                                "九分87-长裤93"
+                            ],
+                            [
+                                "27【建议90-100斤】",
+                                "67",
+                                "79",
+                                "九分88-长裤93"
+                            ],
+                            [
+                                "28【建议100-110斤】",
+                                "70",
+                                "82",
+                                "九分89-长裤94"
+                            ],
+                            [
+                                "29【建议110-120斤】",
+                                "73",
+                                "85",
+                                "九分90-长裤95"
+                            ],
+                            [
+                                "30【建议120-130斤】",
+                                "76",
+                                "88",
+                                "九分91-长裤96"
+                            ],
+                            [
+                                "31【建议130-140斤】",
+                                "79",
+                                "91",
+                                "九分92-长裤96"
+                            ],
+                            [
+                                "32【建议140-150斤】",
+                                "82",
+                                "94",
+                                "九分92-长裤97"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "59.50",
+                "oldPrice": "85.00起",
+                "highNowPrice": "69.30",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "商家让利",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "实拍认证",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "商家承诺所有商品图片均为实物拍摄，所见即所得，解除您网购货不对板的后顾之虑。"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 62",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "address",
+                        "desc": "广东中山",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1khq8ju",
+                "img": "https://s5.mogucdn.com/mlcdn/c45406/170915_1c0fkkie75c349e886kg977e89dfj_640x960.jpg",
+                "isJdItem": false,
+                "title": "牛仔裤女韩版秋冬新款高腰修身显瘦紧身大码百搭弹力小脚女裤子",
+                "skus": [
+                    {
+                        "stockId": "1tfp5es",
+                        "xdSkuId": "1tfp5es",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_0kk6a14af48jiifgg8127e8c8d87c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 568,
+                        "style": "深灰色【长裤】",
+                        "color": "",
+                        "size": "26【建议80-90斤】",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1tfp5eu",
+                        "xdSkuId": "1tfp5eu",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_0kk6a14af48jiifgg8127e8c8d87c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1051,
+                        "style": "深灰色【长裤】",
+                        "color": "",
+                        "size": "27【建议90-100斤】",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1tfp5ew",
+                        "xdSkuId": "1tfp5ew",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_0kk6a14af48jiifgg8127e8c8d87c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 991,
+                        "style": "深灰色【长裤】",
+                        "color": "",
+                        "size": "28【建议100-110斤】",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1tfp5ey",
+                        "xdSkuId": "1tfp5ey",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_0kk6a14af48jiifgg8127e8c8d87c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 273,
+                        "style": "深灰色【长裤】",
+                        "color": "",
+                        "size": "29【建议110-120斤】",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1tfp5f0",
+                        "xdSkuId": "1tfp5f0",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_0kk6a14af48jiifgg8127e8c8d87c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 591,
+                        "style": "深灰色【长裤】",
+                        "color": "",
+                        "size": "30【建议120-130斤】",
+                        "styleId": 1,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "1tfp5f2",
+                        "xdSkuId": "1tfp5f2",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_0kk6a14af48jiifgg8127e8c8d87c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 818,
+                        "style": "深灰色【长裤】",
+                        "color": "",
+                        "size": "31【建议130-140斤】",
+                        "styleId": 1,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "1tfp5f4",
+                        "xdSkuId": "1tfp5f4",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_0kk6a14af48jiifgg8127e8c8d87c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 855,
+                        "style": "深灰色【长裤】",
+                        "color": "",
+                        "size": "32【建议140-150斤】",
+                        "styleId": 1,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "1tfp5f6",
+                        "xdSkuId": "1tfp5f6",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_89h3hh0hechc92idfh1j731hj38l5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 859,
+                        "style": "蓝色【长裤】",
+                        "color": "",
+                        "size": "26【建议80-90斤】",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1tfp5f8",
+                        "xdSkuId": "1tfp5f8",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_89h3hh0hechc92idfh1j731hj38l5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 721,
+                        "style": "蓝色【长裤】",
+                        "color": "",
+                        "size": "27【建议90-100斤】",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1tfp5fa",
+                        "xdSkuId": "1tfp5fa",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_89h3hh0hechc92idfh1j731hj38l5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 721,
+                        "style": "蓝色【长裤】",
+                        "color": "",
+                        "size": "28【建议100-110斤】",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1tfp5fc",
+                        "xdSkuId": "1tfp5fc",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_89h3hh0hechc92idfh1j731hj38l5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 798,
+                        "style": "蓝色【长裤】",
+                        "color": "",
+                        "size": "29【建议110-120斤】",
+                        "styleId": 2,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1tfp5fe",
+                        "xdSkuId": "1tfp5fe",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_89h3hh0hechc92idfh1j731hj38l5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 880,
+                        "style": "蓝色【长裤】",
+                        "color": "",
+                        "size": "30【建议120-130斤】",
+                        "styleId": 2,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "1tfp5fg",
+                        "xdSkuId": "1tfp5fg",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_89h3hh0hechc92idfh1j731hj38l5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 922,
+                        "style": "蓝色【长裤】",
+                        "color": "",
+                        "size": "31【建议130-140斤】",
+                        "styleId": 2,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "1tfp5fi",
+                        "xdSkuId": "1tfp5fi",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/170826_89h3hh0hechc92idfh1j731hj38l5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 942,
+                        "style": "蓝色【长裤】",
+                        "color": "",
+                        "size": "32【建议140-150斤】",
+                        "styleId": 2,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "1tfp5fk",
+                        "xdSkuId": "1tfp5fk",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_6j538h105a6hag2kh68b4g0bl5e96_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 676,
+                        "style": "黑色【长裤】",
+                        "color": "",
+                        "size": "26【建议80-90斤】",
+                        "styleId": 3,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1tfp5fm",
+                        "xdSkuId": "1tfp5fm",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_6j538h105a6hag2kh68b4g0bl5e96_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1259,
+                        "style": "黑色【长裤】",
+                        "color": "",
+                        "size": "27【建议90-100斤】",
+                        "styleId": 3,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1tfp5fo",
+                        "xdSkuId": "1tfp5fo",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_6j538h105a6hag2kh68b4g0bl5e96_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1147,
+                        "style": "黑色【长裤】",
+                        "color": "",
+                        "size": "28【建议100-110斤】",
+                        "styleId": 3,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1tfp5fq",
+                        "xdSkuId": "1tfp5fq",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_6j538h105a6hag2kh68b4g0bl5e96_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 423,
+                        "style": "黑色【长裤】",
+                        "color": "",
+                        "size": "29【建议110-120斤】",
+                        "styleId": 3,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1tfp5fs",
+                        "xdSkuId": "1tfp5fs",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_6j538h105a6hag2kh68b4g0bl5e96_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 648,
+                        "style": "黑色【长裤】",
+                        "color": "",
+                        "size": "30【建议120-130斤】",
+                        "styleId": 3,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "1tfp5fu",
+                        "xdSkuId": "1tfp5fu",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_6j538h105a6hag2kh68b4g0bl5e96_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 826,
+                        "style": "黑色【长裤】",
+                        "color": "",
+                        "size": "31【建议130-140斤】",
+                        "styleId": 3,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "1tfp5fw",
+                        "xdSkuId": "1tfp5fw",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_6j538h105a6hag2kh68b4g0bl5e96_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 853,
+                        "style": "黑色【长裤】",
+                        "color": "",
+                        "size": "32【建议140-150斤】",
+                        "styleId": 3,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "1tfp5fy",
+                        "xdSkuId": "1tfp5fy",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_7a82jdd16j9fgb2kkggc918j6h55l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 502,
+                        "style": "深灰色【九分裤】",
+                        "color": "",
+                        "size": "26【建议80-90斤】",
+                        "styleId": 4,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1tfp5g0",
+                        "xdSkuId": "1tfp5g0",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_7a82jdd16j9fgb2kkggc918j6h55l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1252,
+                        "style": "深灰色【九分裤】",
+                        "color": "",
+                        "size": "27【建议90-100斤】",
+                        "styleId": 4,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1tfp5g2",
+                        "xdSkuId": "1tfp5g2",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_7a82jdd16j9fgb2kkggc918j6h55l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1340,
+                        "style": "深灰色【九分裤】",
+                        "color": "",
+                        "size": "28【建议100-110斤】",
+                        "styleId": 4,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1tfp5g4",
+                        "xdSkuId": "1tfp5g4",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_7a82jdd16j9fgb2kkggc918j6h55l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 606,
+                        "style": "深灰色【九分裤】",
+                        "color": "",
+                        "size": "29【建议110-120斤】",
+                        "styleId": 4,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1tfp5g6",
+                        "xdSkuId": "1tfp5g6",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_7a82jdd16j9fgb2kkggc918j6h55l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 801,
+                        "style": "深灰色【九分裤】",
+                        "color": "",
+                        "size": "30【建议120-130斤】",
+                        "styleId": 4,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "1tfp5g8",
+                        "xdSkuId": "1tfp5g8",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_7a82jdd16j9fgb2kkggc918j6h55l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 869,
+                        "style": "深灰色【九分裤】",
+                        "color": "",
+                        "size": "31【建议130-140斤】",
+                        "styleId": 4,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "1tfp5ga",
+                        "xdSkuId": "1tfp5ga",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_7a82jdd16j9fgb2kkggc918j6h55l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 912,
+                        "style": "深灰色【九分裤】",
+                        "color": "",
+                        "size": "32【建议140-150斤】",
+                        "styleId": 4,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "1tfp5gc",
+                        "xdSkuId": "1tfp5gc",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_431ejdclg1c62c086hifh1ef37all_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 872,
+                        "style": "蓝色【九分裤】",
+                        "color": "",
+                        "size": "26【建议80-90斤】",
+                        "styleId": 5,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1tfp5ge",
+                        "xdSkuId": "1tfp5ge",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_431ejdclg1c62c086hifh1ef37all_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 864,
+                        "style": "蓝色【九分裤】",
+                        "color": "",
+                        "size": "27【建议90-100斤】",
+                        "styleId": 5,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1tfp5gg",
+                        "xdSkuId": "1tfp5gg",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_431ejdclg1c62c086hifh1ef37all_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 832,
+                        "style": "蓝色【九分裤】",
+                        "color": "",
+                        "size": "28【建议100-110斤】",
+                        "styleId": 5,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1tfp5gi",
+                        "xdSkuId": "1tfp5gi",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_431ejdclg1c62c086hifh1ef37all_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 905,
+                        "style": "蓝色【九分裤】",
+                        "color": "",
+                        "size": "29【建议110-120斤】",
+                        "styleId": 5,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1tfp5gk",
+                        "xdSkuId": "1tfp5gk",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_431ejdclg1c62c086hifh1ef37all_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 941,
+                        "style": "蓝色【九分裤】",
+                        "color": "",
+                        "size": "30【建议120-130斤】",
+                        "styleId": 5,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "1tfp5gm",
+                        "xdSkuId": "1tfp5gm",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_431ejdclg1c62c086hifh1ef37all_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 967,
+                        "style": "蓝色【九分裤】",
+                        "color": "",
+                        "size": "31【建议130-140斤】",
+                        "styleId": 5,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "1tfp5go",
+                        "xdSkuId": "1tfp5go",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_431ejdclg1c62c086hifh1ef37all_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 971,
+                        "style": "蓝色【九分裤】",
+                        "color": "",
+                        "size": "32【建议140-150斤】",
+                        "styleId": 5,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "1tfp5gq",
+                        "xdSkuId": "1tfp5gq",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_1h2628f7l33h1423h4074lbbb67j7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 561,
+                        "style": "黑色【九分裤】",
+                        "color": "",
+                        "size": "26【建议80-90斤】",
+                        "styleId": 6,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1tfp5gs",
+                        "xdSkuId": "1tfp5gs",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_1h2628f7l33h1423h4074lbbb67j7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1257,
+                        "style": "黑色【九分裤】",
+                        "color": "",
+                        "size": "27【建议90-100斤】",
+                        "styleId": 6,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1tfp5gu",
+                        "xdSkuId": "1tfp5gu",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_1h2628f7l33h1423h4074lbbb67j7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1404,
+                        "style": "黑色【九分裤】",
+                        "color": "",
+                        "size": "28【建议100-110斤】",
+                        "styleId": 6,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1tfp5gw",
+                        "xdSkuId": "1tfp5gw",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_1h2628f7l33h1423h4074lbbb67j7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 651,
+                        "style": "黑色【九分裤】",
+                        "color": "",
+                        "size": "29【建议110-120斤】",
+                        "styleId": 6,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1tfp5gy",
+                        "xdSkuId": "1tfp5gy",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_1h2628f7l33h1423h4074lbbb67j7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 801,
+                        "style": "黑色【九分裤】",
+                        "color": "",
+                        "size": "30【建议120-130斤】",
+                        "styleId": 6,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "1tfp5h0",
+                        "xdSkuId": "1tfp5h0",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_1h2628f7l33h1423h4074lbbb67j7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 883,
+                        "style": "黑色【九分裤】",
+                        "color": "",
+                        "size": "31【建议130-140斤】",
+                        "styleId": 6,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "1tfp5h2",
+                        "xdSkuId": "1tfp5h2",
+                        "price": 8500,
+                        "nowprice": 5950,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170826_1h2628f7l33h1423h4074lbbb67j7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 910,
+                        "style": "黑色【九分裤】",
+                        "color": "",
+                        "size": "32【建议140-150斤】",
+                        "styleId": 6,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "117ck74q",
+                        "xdSkuId": "117ck74q",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_252dje2l45j2le2b1h2187jlg4263_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰长裤【加绒加厚】",
+                        "color": "",
+                        "size": "26【建议80-90斤】",
+                        "styleId": 7,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "117ck74s",
+                        "xdSkuId": "117ck74s",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_252dje2l45j2le2b1h2187jlg4263_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰长裤【加绒加厚】",
+                        "color": "",
+                        "size": "27【建议90-100斤】",
+                        "styleId": 7,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "117ck74u",
+                        "xdSkuId": "117ck74u",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_252dje2l45j2le2b1h2187jlg4263_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰长裤【加绒加厚】",
+                        "color": "",
+                        "size": "28【建议100-110斤】",
+                        "styleId": 7,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "117ck74w",
+                        "xdSkuId": "117ck74w",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_252dje2l45j2le2b1h2187jlg4263_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰长裤【加绒加厚】",
+                        "color": "",
+                        "size": "29【建议110-120斤】",
+                        "styleId": 7,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "117ck74y",
+                        "xdSkuId": "117ck74y",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_252dje2l45j2le2b1h2187jlg4263_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰长裤【加绒加厚】",
+                        "color": "",
+                        "size": "30【建议120-130斤】",
+                        "styleId": 7,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "117ck750",
+                        "xdSkuId": "117ck750",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_252dje2l45j2le2b1h2187jlg4263_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰长裤【加绒加厚】",
+                        "color": "",
+                        "size": "31【建议130-140斤】",
+                        "styleId": 7,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "117ck752",
+                        "xdSkuId": "117ck752",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_252dje2l45j2le2b1h2187jlg4263_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰长裤【加绒加厚】",
+                        "color": "",
+                        "size": "32【建议140-150斤】",
+                        "styleId": 7,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "117ck754",
+                        "xdSkuId": "117ck754",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_5li1ejf2504k1c2jg0j439jg90gdb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "26【建议80-90斤】",
+                        "styleId": 8,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "117ck756",
+                        "xdSkuId": "117ck756",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_5li1ejf2504k1c2jg0j439jg90gdb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "27【建议90-100斤】",
+                        "styleId": 8,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "117ck758",
+                        "xdSkuId": "117ck758",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_5li1ejf2504k1c2jg0j439jg90gdb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "28【建议100-110斤】",
+                        "styleId": 8,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "117ck75a",
+                        "xdSkuId": "117ck75a",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_5li1ejf2504k1c2jg0j439jg90gdb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "29【建议110-120斤】",
+                        "styleId": 8,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "117ck75c",
+                        "xdSkuId": "117ck75c",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_5li1ejf2504k1c2jg0j439jg90gdb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "30【建议120-130斤】",
+                        "styleId": 8,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "117ck75e",
+                        "xdSkuId": "117ck75e",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_5li1ejf2504k1c2jg0j439jg90gdb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "31【建议130-140斤】",
+                        "styleId": 8,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "117ck75g",
+                        "xdSkuId": "117ck75g",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_5li1ejf2504k1c2jg0j439jg90gdb_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "32【建议140-150斤】",
+                        "styleId": 8,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "117ck75i",
+                        "xdSkuId": "117ck75i",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_08lc2idj52bcgahfa2il7c40b43c3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "26【建议80-90斤】",
+                        "styleId": 9,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "117ck75k",
+                        "xdSkuId": "117ck75k",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_08lc2idj52bcgahfa2il7c40b43c3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "27【建议90-100斤】",
+                        "styleId": 9,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "117ck75m",
+                        "xdSkuId": "117ck75m",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_08lc2idj52bcgahfa2il7c40b43c3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "28【建议100-110斤】",
+                        "styleId": 9,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "117ck75o",
+                        "xdSkuId": "117ck75o",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_08lc2idj52bcgahfa2il7c40b43c3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "29【建议110-120斤】",
+                        "styleId": 9,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "117ck75q",
+                        "xdSkuId": "117ck75q",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_08lc2idj52bcgahfa2il7c40b43c3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "30【建议120-130斤】",
+                        "styleId": 9,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "117ck75s",
+                        "xdSkuId": "117ck75s",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_08lc2idj52bcgahfa2il7c40b43c3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "31【建议130-140斤】",
+                        "styleId": 9,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "117ck75u",
+                        "xdSkuId": "117ck75u",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_08lc2idj52bcgahfa2il7c40b43c3_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色长裤【加绒加厚】",
+                        "color": "",
+                        "size": "32【建议140-150斤】",
+                        "styleId": 9,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "117ck75w",
+                        "xdSkuId": "117ck75w",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_5agbl1ffdldc2988407gfl0f74j5l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰九分【加绒加厚】",
+                        "color": "",
+                        "size": "26【建议80-90斤】",
+                        "styleId": 10,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "117ck75y",
+                        "xdSkuId": "117ck75y",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_5agbl1ffdldc2988407gfl0f74j5l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰九分【加绒加厚】",
+                        "color": "",
+                        "size": "27【建议90-100斤】",
+                        "styleId": 10,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "117ck760",
+                        "xdSkuId": "117ck760",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_5agbl1ffdldc2988407gfl0f74j5l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰九分【加绒加厚】",
+                        "color": "",
+                        "size": "28【建议100-110斤】",
+                        "styleId": 10,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "117ck762",
+                        "xdSkuId": "117ck762",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_5agbl1ffdldc2988407gfl0f74j5l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰九分【加绒加厚】",
+                        "color": "",
+                        "size": "29【建议110-120斤】",
+                        "styleId": 10,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "117ck764",
+                        "xdSkuId": "117ck764",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_5agbl1ffdldc2988407gfl0f74j5l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰九分【加绒加厚】",
+                        "color": "",
+                        "size": "30【建议120-130斤】",
+                        "styleId": 10,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "117ck766",
+                        "xdSkuId": "117ck766",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_5agbl1ffdldc2988407gfl0f74j5l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰九分【加绒加厚】",
+                        "color": "",
+                        "size": "31【建议130-140斤】",
+                        "styleId": 10,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "117ck768",
+                        "xdSkuId": "117ck768",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181008_5agbl1ffdldc2988407gfl0f74j5l_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "深灰九分【加绒加厚】",
+                        "color": "",
+                        "size": "32【建议140-150斤】",
+                        "styleId": 10,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "117ck76a",
+                        "xdSkuId": "117ck76a",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_24iaj453dh7la4bjk0bfl3d9b505g_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色九分【加绒加厚】",
+                        "color": "",
+                        "size": "26【建议80-90斤】",
+                        "styleId": 11,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "117ck76c",
+                        "xdSkuId": "117ck76c",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_24iaj453dh7la4bjk0bfl3d9b505g_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色九分【加绒加厚】",
+                        "color": "",
+                        "size": "27【建议90-100斤】",
+                        "styleId": 11,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "117ck76e",
+                        "xdSkuId": "117ck76e",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_24iaj453dh7la4bjk0bfl3d9b505g_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色九分【加绒加厚】",
+                        "color": "",
+                        "size": "28【建议100-110斤】",
+                        "styleId": 11,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "117ck76g",
+                        "xdSkuId": "117ck76g",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_24iaj453dh7la4bjk0bfl3d9b505g_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色九分【加绒加厚】",
+                        "color": "",
+                        "size": "29【建议110-120斤】",
+                        "styleId": 11,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "117ck76i",
+                        "xdSkuId": "117ck76i",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_24iaj453dh7la4bjk0bfl3d9b505g_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色九分【加绒加厚】",
+                        "color": "",
+                        "size": "30【建议120-130斤】",
+                        "styleId": 11,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "117ck76k",
+                        "xdSkuId": "117ck76k",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_24iaj453dh7la4bjk0bfl3d9b505g_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色九分【加绒加厚】",
+                        "color": "",
+                        "size": "31【建议130-140斤】",
+                        "styleId": 11,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "117ck76m",
+                        "xdSkuId": "117ck76m",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_24iaj453dh7la4bjk0bfl3d9b505g_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "蓝色九分【加绒加厚】",
+                        "color": "",
+                        "size": "32【建议140-150斤】",
+                        "styleId": 11,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "117ck76o",
+                        "xdSkuId": "117ck76o",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_0ik8fc89b768lghca87h7d96l523b_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色九分【加绒加厚】",
+                        "color": "",
+                        "size": "26【建议80-90斤】",
+                        "styleId": 12,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "117ck76q",
+                        "xdSkuId": "117ck76q",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_0ik8fc89b768lghca87h7d96l523b_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色九分【加绒加厚】",
+                        "color": "",
+                        "size": "27【建议90-100斤】",
+                        "styleId": 12,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "117ck76s",
+                        "xdSkuId": "117ck76s",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_0ik8fc89b768lghca87h7d96l523b_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色九分【加绒加厚】",
+                        "color": "",
+                        "size": "28【建议100-110斤】",
+                        "styleId": 12,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "117ck76u",
+                        "xdSkuId": "117ck76u",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_0ik8fc89b768lghca87h7d96l523b_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色九分【加绒加厚】",
+                        "color": "",
+                        "size": "29【建议110-120斤】",
+                        "styleId": 12,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "117ck76w",
+                        "xdSkuId": "117ck76w",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_0ik8fc89b768lghca87h7d96l523b_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色九分【加绒加厚】",
+                        "color": "",
+                        "size": "30【建议120-130斤】",
+                        "styleId": 12,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "117ck76y",
+                        "xdSkuId": "117ck76y",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_0ik8fc89b768lghca87h7d96l523b_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色九分【加绒加厚】",
+                        "color": "",
+                        "size": "31【建议130-140斤】",
+                        "styleId": 12,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "117ck770",
+                        "xdSkuId": "117ck770",
+                        "price": 9900,
+                        "nowprice": 6930,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181008_0ik8fc89b768lghca87h7d96l523b_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色九分【加绒加厚】",
+                        "color": "",
+                        "size": "32【建议140-150斤】",
+                        "styleId": 12,
+                        "sizeId": 106
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "深灰色【长裤】",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "蓝色【长裤】",
+                                "index": 2,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 3,
+                                "name": "黑色【长裤】",
+                                "index": 3,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 4,
+                                "name": "深灰色【九分裤】",
+                                "index": 4,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 5,
+                                "name": "蓝色【九分裤】",
+                                "index": 5,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 6,
+                                "name": "黑色【九分裤】",
+                                "index": 6,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 7,
+                                "name": "深灰长裤【加绒加厚】",
+                                "index": 7,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 8,
+                                "name": "蓝色长裤【加绒加厚】",
+                                "index": 8,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 9,
+                                "name": "黑色长裤【加绒加厚】",
+                                "index": 9,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 10,
+                                "name": "深灰九分【加绒加厚】",
+                                "index": 10,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 11,
+                                "name": "蓝色九分【加绒加厚】",
+                                "index": 11,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 12,
+                                "name": "黑色九分【加绒加厚】",
+                                "index": 12,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "26【建议80-90斤】",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "27【建议90-100斤】",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "28【建议100-110斤】",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "29【建议110-120斤】",
+                                "index": 103,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 104,
+                                "default": false,
+                                "name": "30【建议120-130斤】",
+                                "index": 104,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 105,
+                                "default": false,
+                                "name": "31【建议130-140斤】",
+                                "index": 105,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 106,
+                                "default": false,
+                                "name": "32【建议140-150斤】",
+                                "index": 106,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥59.50~¥69.30",
+                "defaultPrice": "¥59.50~¥69.30",
+                "totalStock": 35923,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

@@ -1,0 +1,680 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "14sxh9k",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1r5do2",
+                "sellerId": "14sxh9k"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "宋***0",
+                            "avatar": "https://s11.mogucdn.com/mlcdn/5abf39/180907_0l075cf0l6h4kcg9fd0j9cgcgfaga_132x132.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190709_6c0ica89ec686474l476e34k9a194_555x579.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190709_465cg644gba010ladd8k460ckjl6a_732x760.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190709_5394e94fd1a68ig268ki17hh3cj1g_300x400.jpg"
+                        ],
+                        "rateId": "118iosdo",
+                        "content": "连衣裙收到了，质量不错，面料舒适柔软，款式很漂亮，很可爱，颜色很衬皮肤白，真爱！特别可爱吧，也显气质显肤色白，真很开心，棒棒的",
+                        "created": 1562663124,
+                        "isAnonymous": 0,
+                        "style": "颜色:牛油果绿色 尺码:S ",
+                        "isEmpty": 1,
+                        "explain": "[商家回复]:感谢小仙女百忙之中抽空出来给我们一个评价，很高兴您满意我们家的宝贝，愿风吹起如花般破碎的流年，而你的笑容摇晃摇晃，步伐轻跃跳动，成为我宝途中最美的点缀，表白美美哒小仙女~您的肯定就是对我们最大的支持和鼓励，您的建议也时刻指引着我们向更高的标准前进，为了达到你们的更高要求，我们时刻不断的改正自己，不断的完善自己，这也是对我们可爱的小仙女最大的回报。我们时刻会记得你们对我们的支持，希望你也记得我在时刻期待你的再次光临~交易虽然结束，但服务才刚开始，虽然我们不能万分肯定宝贝百分百不出问题，但我们会保证百分百解决问题!我们会用100%的诚心，100%的服务换取您200%的满意，温暖知己在，蓝颜难觅。我一直在这里等你。^-^不断的寻寻觅觅，似水流年，且行且记且珍惜，愿每一件美好的宝贝都会有你的身影，因为这是一生中美好的瞬间，很美，我们相遇更美。褪尽风华，我依然在这里等你。^-^也希望能得到小仙女您的继续关注哦",
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "身高: 160 cm",
+                            "体重: 45 kg",
+                            "是否合身: 合身 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "weight": "45kg",
+                            "height": "160cm",
+                            "desc": "合身 "
+                        }
+                    },
+                    {
+                        "user": {
+                            "uname": "w***8",
+                            "avatar": "https://s11.mogucdn.com/new1/v1/bdefaultavatar/06.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190619_5405k7f04i71f13757bhdkef606gb_480x640.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190619_44c8hc2b38328b9c3f9d7g6hke915_480x640.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190619_315d64ld7cc285ihfef6jifaf9a7d_640x640.jpg"
+                        ],
+                        "rateId": "118eer58",
+                        "content": "很不错喔，穿上很仙，显得肤色很白，，手感和视觉真心不错，今年很流行的牛油果色,真是超级满意的一次购物呢。裙子很漂亮，没有色差，穿上很显瘦，颜色衬肤，卖家服务态度好",
+                        "created": 1560927742,
+                        "isAnonymous": 0,
+                        "style": "颜色:牛油果绿色 尺码:XL ",
+                        "isEmpty": 1,
+                        "explain": "[商家回复]:感谢小仙女百忙之中抽空出来给我们一个评价，很高兴您满意我们家的宝贝，愿风吹起如花般破碎的流年，而你的笑容摇晃摇晃，步伐轻跃跳动，成为我宝途中最美的点缀，表白美美哒小仙女~您的肯定就是对我们最大的支持和鼓励，您的建议也时刻指引着我们向更高的标准前进，为了达到你们的更高要求，我们时刻不断的改正自己，不断的完善自己，这也是对我们可爱的小仙女最大的回报。我们时刻会记得你们对我们的支持，希望你也记得我在时刻期待你的再次光临~交易虽然结束，但服务才刚开始，虽然我们不能万分肯定宝贝百分百不出问题，但我们会保证百分百解决问题!我们会用100%的诚心，100%的服务换取您200%的满意，温暖知己在，蓝颜难觅。我一直在这里等你。^-^不断的寻寻觅觅，似水流年，且行且记且珍惜，愿每一件美好的宝贝都会有你的身影，因为这是一生中美好的瞬间，很美，我们相遇更美。褪尽风华，我依然在这里等你。^-^也希望能得到小仙女您的继续关注哦",
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "是否合身: 合身"
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "desc": "合身"
+                        }
+                    }
+                ],
+                "cRate": 89,
+                "imgTotal": 44,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 44,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 37,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 26,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 17,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "尺码",
+                        "value": "尺寸无偏差",
+                        "num": 15,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "颜色",
+                        "value": "颜色正",
+                        "num": 14,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 937
+            },
+            "itemInfo": {
+                "desc": "夏季牛油果绿连衣裙A字裙中长裙收腰仙女超仙短袖雪纺高腰公主裙",
+                "title": "夏季牛油果绿连衣裙A字裙中长裙收腰仙女超仙短袖雪纺高腰公主裙",
+                "itemId": "1midgw0",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 4946,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "夏季牛油果绿连衣裙A字裙中长裙收腰仙女超仙短袖雪纺高腰公主裙",
+                    "wap_url": "//m.mogujie.com/x6/detail/1midgw0",
+                    "description": "来自蘑菇街优店女装_服饰鞋包_连衣裙_裙子家夏季牛油果绿连衣裙A字裙中长裙收腰仙女超仙短袖雪纺高腰公主裙的夏季牛油果绿连衣裙A字裙中长裙收腰仙女超仙短袖雪纺高腰公主裙，发现当季女装和小西原创女装搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1midgw0",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1midgw0",
+                    "seo_noindex": "0",
+                    "title": "【夏季牛油果绿连衣裙A字裙中长裙收腰仙女超仙短袖雪纺高腰公主裙】-女装-女装_服饰鞋包_连衣裙_裙子-小西原创女装-蘑菇街优店"
+                },
+                "type": 8,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 937,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "141.43",
+                "highPrice": "141.43",
+                "lowNowPrice": "99.00",
+                "highNowPrice": "99.00",
+                "nowTime": 1564642762,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "99.00",
+                "oldPrice": "141.43",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "7折",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "99.00",
+                "normalPrice": "99.00",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564642762,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.66,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.6,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "上装",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20000439"
+                    },
+                    {
+                        "name": "下装",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20000440"
+                    },
+                    {
+                        "name": "时尚套装",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20000444"
+                    },
+                    {
+                        "name": "连衣裙",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20000948"
+                    },
+                    {
+                        "name": "毛衣/针织衫",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20277418"
+                    },
+                    {
+                        "name": "卫衣",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20277423"
+                    },
+                    {
+                        "name": "短袖T恤",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20277424"
+                    },
+                    {
+                        "name": "打底衫",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20277425"
+                    },
+                    {
+                        "name": "衬衫",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20277426"
+                    },
+                    {
+                        "name": "牛仔裤",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20277427"
+                    },
+                    {
+                        "name": "休闲裤",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20277428"
+                    },
+                    {
+                        "name": "T恤",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20364114"
+                    },
+                    {
+                        "name": "短裤",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20364120"
+                    },
+                    {
+                        "name": "夏季抢新",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20364191"
+                    },
+                    {
+                        "name": "初秋上新",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20367484"
+                    },
+                    {
+                        "name": "风衣",
+                        "link": "http://shop.mogu.com/1r5do2/list/index?categoryId=20367897"
+                    }
+                ],
+                "cFans": "29480",
+                "cSells": "13.8万",
+                "isMarked": false,
+                "cGoods": 319,
+                "userId": "14sxh9k",
+                "shopLogo": "https://s5.mogucdn.com/mlcdn/c45406/190316_1ae7jjh7gdj3jfk38e393fbce65a5_200x200.jpg",
+                "name": "小西原创女装",
+                "shopId": "1r5do2",
+                "type": 1,
+                "level": 3,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1r5do2",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "夏季牛油果绿连衣裙A字裙中长裙收腰仙女超仙短袖雪纺高腰公主裙",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190401_25ahfcij5091ia6a34909lk7dj7a8_750x744.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190401_14kgbc7b3hh0016l4g405749eldbh_750x542.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190401_1lk2lka26fl86g9i054jbg7c3ad5l_750x70.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190522_76lcf94bfi4b39gl03bkd4532l8ij_750x298.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_4cl2b9bfc2c1474il94g448k8i0gk_750x732.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190615_732f2k42i155a9a5be2d138b7l349_750x876.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_67aiej83kdfkh193ef4jb8ec8iclk_750x876.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_04ddelflg0965d62eb5e104fcj6db_800x1200.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_2i7ccih5a5gl0i10iihclafia1lbe_800x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_584d7edkbh7j1j3jki0bk0kk3hd39_800x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_36601ii9i155063k4l4lj0bbekf05_800x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190615_18564gafb9ak5k6g8jkb2g7k3lk0l_800x800.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_4e47d93elge0j1565d9k60677egha_750x876.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_0g0e7ie9ckah29cjlgcg73bf068l0_750x876.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_4481hc37aef99ddj69h14i31963bb_750x876.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190615_72b8g39l2d2d887j6g99degg18cij_750x876.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_2d7ab56jhc6a611ggi985hbe57ib7_750x876.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_3k30h8ik23egag06fl3577e93852d_750x876.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_6ceaj8g1659e2hf5f7k0f7jdg7250_750x876.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_8gjlha7fj31kb8klae20j4g24b4be_750x876.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_3kh1c1f73hi24f8c2b1a5j34hl86k_750x876.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190615_55eb1ek8jhfkk15i8ll9bihh30fje_750x876.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564642762,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s11.mogucdn.com/mlcdn/c45406/190615_5949bf340cid9abi3gib5k6h2ef53_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190615_7e869lbdda07ad5ikh9k7lfiac59e_750x876.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190615_500i54ek205e37jc6icfkj1a6g656_750x876.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190615_4baj3l8blhj76g4ecbjh6d8j33b1d_750x876.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190615_43j364c8fh1ek7032i4ehkcfg37kj_750x876.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190615_72h796ka388gg1j5f41jf0j5eah4a_750x876.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190615_7k74g0d3cjdgg7hkb42g7ld3kd3b4_750x876.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "夏季牛油果绿连衣裙A字裙中长裙收腰仙女超仙短袖雪纺高腰公主裙",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1midgw0&from=share",
+                "imageUrl": "https://s11.mogucdn.com/mlcdn/c45406/190615_5949bf340cid9abi3gib5k6h2ef53_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "纯色",
+                        "裙型": "A字裙",
+                        "颜色": "牛油果绿色",
+                        "腰型": "高腰",
+                        "尺码": "S,XL,L,M",
+                        "季节": "夏季",
+                        "材质": "聚酯纤维",
+                        "组合形式": "单件",
+                        "领型": "V领",
+                        "裙长": "短裙（76-90cm）",
+                        "袖长": "短袖",
+                        "风格": "甜美"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "裙长",
+                                "胸围"
+                            ],
+                            [
+                                "S",
+                                "104",
+                                "86"
+                            ],
+                            [
+                                "M",
+                                "104",
+                                "88"
+                            ],
+                            [
+                                "L",
+                                "104",
+                                "92"
+                            ],
+                            [
+                                "XL",
+                                "104",
+                                "96"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "99.00",
+                "oldPrice": "141.43",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "7折",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 937",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1midgw0",
+                "img": "https://s11.mogucdn.com/mlcdn/c45406/190615_5949bf340cid9abi3gib5k6h2ef53_640x960.jpg",
+                "isJdItem": false,
+                "title": "夏季牛油果绿连衣裙A字裙中长裙收腰仙女超仙短袖雪纺高腰公主裙",
+                "skus": [
+                    {
+                        "stockId": "11ade1be",
+                        "xdSkuId": "11ade1be",
+                        "price": 14143,
+                        "nowprice": 9900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190615_5254hb23dhkdfe8i92cijal1dgldl_750x876.jpg",
+                        "currency": "¥",
+                        "stock": 690,
+                        "style": "牛油果绿色",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11ade1bi",
+                        "xdSkuId": "11ade1bi",
+                        "price": 14143,
+                        "nowprice": 9900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190615_5254hb23dhkdfe8i92cijal1dgldl_750x876.jpg",
+                        "currency": "¥",
+                        "stock": 593,
+                        "style": "牛油果绿色",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11ade1bg",
+                        "xdSkuId": "11ade1bg",
+                        "price": 14143,
+                        "nowprice": 9900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190615_5254hb23dhkdfe8i92cijal1dgldl_750x876.jpg",
+                        "currency": "¥",
+                        "stock": 672,
+                        "style": "牛油果绿色",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11ade1bk",
+                        "xdSkuId": "11ade1bk",
+                        "price": 14143,
+                        "nowprice": 9900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190615_5254hb23dhkdfe8i92cijal1dgldl_750x876.jpg",
+                        "currency": "¥",
+                        "stock": 741,
+                        "style": "牛油果绿色",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 1,
+                        "sizeId": 103
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "牛油果绿色",
+                                "index": 1,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "S",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "M",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "L",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "XL",
+                                "index": 103,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥99.00",
+                "defaultPrice": "¥99.00",
+                "totalStock": 2696,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

@@ -1,0 +1,1323 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "147emr8",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1pys3a",
+                "sellerId": "147emr8"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "大口娟",
+                            "avatar": "https://s11.mogucdn.com/b7/avatar/140501/wyts7_kqzgmzswozbfqwkugfjeg5sckzsew_440x293.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190405_5bha6icfe510agi4k6hcf912i0a0c_1242x1656.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190405_107l9ck3b5eb959k0679cf53ig7ja_1242x930.jpg"
+                        ],
+                        "rateId": "117wdbpe",
+                        "content": "没有色差，颜色好看，百搭t恤，价格实惠物流给力",
+                        "created": 1554443154,
+                        "isAnonymous": 0,
+                        "style": "颜色:【圆领】南瓜橘 尺码:S ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "身高: 153 cm",
+                            "体重: 47 kg",
+                            "是否合身: 合身 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "weight": "47kg",
+                            "height": "153cm",
+                            "desc": "合身 "
+                        }
+                    },
+                    {
+                        "user": {
+                            "uname": "青***上",
+                            "avatar": "https://s11.mogucdn.com/p1/160105/idid_ifrwenbygrsggntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190715_79aihcdh54fhf36fkcf4357kj8e1h_828x1792.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190715_64dga3ka7iak2h2j2ea782ag2lajg_828x1792.jpg"
+                        ],
+                        "rateId": "118jkyr4",
+                        "content": "跟图片描述的一样质量不错好评",
+                        "created": 1563173023,
+                        "isAnonymous": 1,
+                        "style": "颜色:蓝色 尺码:M ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "身高: 165 cm",
+                            "体重: 48 kg",
+                            "是否合身: 合身 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "weight": "48kg",
+                            "height": "165cm",
+                            "desc": "合身 "
+                        }
+                    }
+                ],
+                "cRate": 1266,
+                "imgTotal": 390,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 390,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 231,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 153,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 103,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 82,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "颜色",
+                        "value": "颜色正",
+                        "num": 80,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 5330
+            },
+            "itemInfo": {
+                "desc": "码数推荐：S码（80-100斤）；M码（100-110斤）；L码（110-120斤）；XL码（120-140斤）",
+                "title": "韩版夏季新款t恤短袖女纯色V领基础款宽松白色圆领体恤女上衣",
+                "itemId": "1kehc56",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 18109,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "韩版夏季新款t恤短袖女纯色V领基础款宽松白色圆领体恤女上衣",
+                    "wap_url": "//m.mogujie.com/x6/detail/1kehc56",
+                    "description": "来自蘑菇街优店T恤_上装_女装_服饰鞋包家码数推荐：S码（80-100斤）；M码（100-110斤）；L码（110-120斤）；XL码（120-140斤）的韩版夏季新款t恤短袖女纯色V领基础款宽松白色圆领体恤女上衣，发现当季女装和绮叶小蘑菇搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1kehc56",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1kehc56",
+                    "seo_noindex": "0",
+                    "title": "【韩版夏季新款t恤短袖女纯色V领基础款宽松白色圆领体恤女上衣】-女装-T恤_上装_女装_服饰鞋包-绮叶小蘑菇-蘑菇街优店"
+                },
+                "type": 8,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 5330,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "42.72",
+                "highPrice": "42.72",
+                "lowNowPrice": "29.90",
+                "highNowPrice": "29.90",
+                "nowTime": 1564643239,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "29.90",
+                "oldPrice": "42.72",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "7折",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "29.90",
+                "normalPrice": "29.90",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564643239,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.69,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.7,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "中裤/短裤",
+                        "link": "http://shop.mogu.com/1pys3a/list/index?categoryId=1407878"
+                    },
+                    {
+                        "name": "雪纺衫/衬衫",
+                        "link": "http://shop.mogu.com/1pys3a/list/index?categoryId=1408083"
+                    },
+                    {
+                        "name": "连衣裙",
+                        "link": "http://shop.mogu.com/1pys3a/list/index?categoryId=1409219"
+                    },
+                    {
+                        "name": "牛仔/休闲/背带裤",
+                        "link": "http://shop.mogu.com/1pys3a/list/index?categoryId=1411776"
+                    },
+                    {
+                        "name": "毛呢外套",
+                        "link": "http://shop.mogu.com/1pys3a/list/index?categoryId=1418760"
+                    },
+                    {
+                        "name": "T恤",
+                        "link": "http://shop.mogu.com/1pys3a/list/index?categoryId=1460474"
+                    },
+                    {
+                        "name": "半身裙",
+                        "link": "http://shop.mogu.com/1pys3a/list/index?categoryId=1469266"
+                    },
+                    {
+                        "name": "省心时尚套装",
+                        "link": "http://shop.mogu.com/1pys3a/list/index?categoryId=1470718"
+                    },
+                    {
+                        "name": "卫衣",
+                        "link": "http://shop.mogu.com/1pys3a/list/index?categoryId=20339277"
+                    },
+                    {
+                        "name": "毛衣针织衫",
+                        "link": "http://shop.mogu.com/1pys3a/list/index?categoryId=20342722"
+                    },
+                    {
+                        "name": "外套",
+                        "link": "http://shop.mogu.com/1pys3a/list/index?categoryId=20348280"
+                    },
+                    {
+                        "name": "毛呢",
+                        "link": "http://shop.mogu.com/1pys3a/list/index?categoryId=20348281"
+                    },
+                    {
+                        "name": "其他",
+                        "link": "http://shop.mogu.com/1pys3a/list/index?categoryId=20348282"
+                    }
+                ],
+                "cFans": "4664",
+                "cSells": "11.2万",
+                "isMarked": false,
+                "cGoods": 241,
+                "userId": "147emr8",
+                "shopLogo": "https://s11.mogucdn.com/p1/151216/23pbcu_ie3wgnrugfstkmryguzdambqgayde_200x208.png",
+                "name": "绮叶小蘑菇",
+                "shopId": "1pys3a",
+                "type": 1,
+                "level": 4,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1pys3a",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "码数推荐：S码（80-100斤）；M码（100-110斤）；L码（110-120斤）；XL码（120-140斤）",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/170625_86lj2ag80d89j60i3f7ae8i25fj16_750x752.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170625_298b644ejcd4jlibfl4jjf7j9j331_750x628.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170625_120k6d808ijf8li19e6hb3d1bgh7a_750x750.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/170625_27bhlia62i67ddb2fafb2fjlcd05b_750x465.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170625_7fh99ac1a87db01a8d3ae03e16fe7_750x751.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170625_4h9ka70fk7a76daelg689950g0dgb_750x749.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170625_46lhj176iaf913gf8b8c3h82122ib_750x751.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170625_0278a68la6d7i122e23014f03ae3a_750x750.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170625_8bcba0eibk7h73g55efbh9ceig8h7_750x671.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "整体款式",
+                        "anchor": "baipai_img2",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/170625_20dk6hg2750277jdgj1jel26c5ge2_750x555.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170625_03g8l0jfjkebe5ld6l1f6c5bdbb3k_750x671.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170625_89fh1j871c3l5h9d540l83ii14419_750x711.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/170625_676j0d0c150iaj27kgg3h11fdk3gh_750x837.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190220_845kbhl19ggil1ag2cak2bhl3hdcc_640x960.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190220_1a4b606ib062e0cij53khi3ldda0h_640x960.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190220_1kjc571ilglgf5d34a7fbd2g5dihc_640x960.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190220_23ge7jk5jb6g035i9db823kll30g4_640x960.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190220_6723g6h45ki7226kle4b7053ikch2_640x960.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190220_74c7l7ba21b88g43b955fde6l4ec9_640x960.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190220_8eab22k71hf5fj130e27b7fekb7l9_640x960.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "细节做工",
+                        "anchor": "detail_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190220_5k6h0b1475jhd8ai0k8e821622i1h_640x960.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190220_397ihk8hhi92f7l6a723l3h4189ef_640x960.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190220_0385ebgf9dj21f65300j0l089jl5b_640x960.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190220_180ghah90176500ljddk066d375e8_640x960.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190303_1aa5ckbef2d50g60ehdjll75922cl_640x960.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564643239,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s11.mogucdn.com/mlcdn/c45406/190220_6id0gcbb5545alc8kk0lh3g2k6gih_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/170625_6h96fik51g2i64fiklge35kii0bga_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190220_83c5k2g25d3c70a0ch315aei82a9c_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190220_4ff4ae94152i738708ie6efiea81g_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190220_4c0fbd4j4h0h8ijdai680c3c4hi3a_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190220_7hkalfd37798bhggjbag6360jj5k1_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190220_13e4l09e6jbl77b2fhj9cac256103_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190220_6l99ickh2621cg5jjbib3fb8l8bcd_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "韩版夏季新款t恤短袖女纯色V领基础款宽松白色圆领体恤女上衣",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1kehc56&from=share",
+                "imageUrl": "https://s11.mogucdn.com/mlcdn/c45406/190220_6id0gcbb5545alc8kk0lh3g2k6gih_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "纯色",
+                        "颜色": "【圆领】南瓜橘,圆领-白色,蓝色,圆领-蓝色,圆领-黑色,【圆领】番茄红,粉色,【圆领】姜黄,圆领-蜜桃粉,白色,圆领-樱花粉",
+                        "袖型": "常规袖",
+                        "上衣厚度": "适中",
+                        "尺码": "S,XL,L,M",
+                        "衣长": "常规款（51-65cm）",
+                        "版型": "宽松",
+                        "下摆": "敞口",
+                        "季节": "夏季",
+                        "材质": "棉",
+                        "领型": "圆领",
+                        "袖长": "短袖",
+                        "风格": "简约",
+                        "潮流": "韩系"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "肩宽",
+                                "衣长",
+                                "胸围"
+                            ],
+                            [
+                                "S",
+                                "38",
+                                "60",
+                                "96"
+                            ],
+                            [
+                                "M",
+                                "39",
+                                "61",
+                                "100"
+                            ],
+                            [
+                                "L",
+                                "40",
+                                "62",
+                                "104"
+                            ],
+                            [
+                                "XL",
+                                "41",
+                                "63",
+                                "108"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "29.90",
+                "oldPrice": "42.72",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "7折",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 5330",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1kehc56",
+                "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_6id0gcbb5545alc8kk0lh3g2k6gih_640x960.jpg",
+                "isJdItem": false,
+                "title": "韩版夏季新款t恤短袖女纯色V领基础款宽松白色圆领体恤女上衣",
+                "skus": [
+                    {
+                        "stockId": "1s96zs0",
+                        "xdSkuId": "1s96zs0",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170625_8619e8cgle0h7k2l2e46e5c9148fe_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1572,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "S",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1s96zs2",
+                        "xdSkuId": "1s96zs2",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170625_8619e8cgle0h7k2l2e46e5c9148fe_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1308,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "M",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1s96zs4",
+                        "xdSkuId": "1s96zs4",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170625_8619e8cgle0h7k2l2e46e5c9148fe_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1457,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "L",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1s96zs6",
+                        "xdSkuId": "1s96zs6",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170625_8619e8cgle0h7k2l2e46e5c9148fe_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1635,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "XL",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1s96zrs",
+                        "xdSkuId": "1s96zrs",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170625_1bdb7gha5kg5ck8g3d13d9ec7d171_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1196,
+                        "style": "蓝色",
+                        "color": "#71adfa",
+                        "size": "S",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1s96zru",
+                        "xdSkuId": "1s96zru",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170625_1bdb7gha5kg5ck8g3d13d9ec7d171_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1675,
+                        "style": "蓝色",
+                        "color": "#71adfa",
+                        "size": "M",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1s96zrw",
+                        "xdSkuId": "1s96zrw",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170625_1bdb7gha5kg5ck8g3d13d9ec7d171_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 851,
+                        "style": "蓝色",
+                        "color": "#71adfa",
+                        "size": "L",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1s96zry",
+                        "xdSkuId": "1s96zry",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170625_1bdb7gha5kg5ck8g3d13d9ec7d171_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1217,
+                        "style": "蓝色",
+                        "color": "#71adfa",
+                        "size": "XL",
+                        "styleId": 2,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1s96zse",
+                        "xdSkuId": "1s96zse",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170625_51ic6i7h8j3lf319c91g55l6lac08_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1635,
+                        "style": "粉色",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 3,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1s96zsk",
+                        "xdSkuId": "1s96zsk",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170625_51ic6i7h8j3lf319c91g55l6lac08_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1484,
+                        "style": "粉色",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 3,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1s96zsi",
+                        "xdSkuId": "1s96zsi",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170625_51ic6i7h8j3lf319c91g55l6lac08_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1569,
+                        "style": "粉色",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 3,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1s96zsm",
+                        "xdSkuId": "1s96zsm",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/170625_51ic6i7h8j3lf319c91g55l6lac08_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1744,
+                        "style": "粉色",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 3,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1191vfju",
+                        "xdSkuId": "1191vfju",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_07ckhb948j0cf0eb94e564i32i448_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1788,
+                        "style": "圆领-蓝色",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 4,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1191vfjw",
+                        "xdSkuId": "1191vfjw",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_07ckhb948j0cf0eb94e564i32i448_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1695,
+                        "style": "圆领-蓝色",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 4,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1191vfjy",
+                        "xdSkuId": "1191vfjy",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_07ckhb948j0cf0eb94e564i32i448_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1795,
+                        "style": "圆领-蓝色",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 4,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1191vfk0",
+                        "xdSkuId": "1191vfk0",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_07ckhb948j0cf0eb94e564i32i448_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1900,
+                        "style": "圆领-蓝色",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 4,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1191vfk2",
+                        "xdSkuId": "1191vfk2",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_885ibj6i87hgjj5gillf0ii0245gc_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1840,
+                        "style": "圆领-白色",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 5,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1191vfk4",
+                        "xdSkuId": "1191vfk4",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_885ibj6i87hgjj5gillf0ii0245gc_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1791,
+                        "style": "圆领-白色",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 5,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1191vfk6",
+                        "xdSkuId": "1191vfk6",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_885ibj6i87hgjj5gillf0ii0245gc_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1859,
+                        "style": "圆领-白色",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 5,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1191vfk8",
+                        "xdSkuId": "1191vfk8",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_885ibj6i87hgjj5gillf0ii0245gc_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1937,
+                        "style": "圆领-白色",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 5,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1191vfka",
+                        "xdSkuId": "1191vfka",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190220_0jibh0e3dg8ki645e2k9f79ga5863_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1943,
+                        "style": "圆领-黑色",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 6,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1191vfkc",
+                        "xdSkuId": "1191vfkc",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190220_0jibh0e3dg8ki645e2k9f79ga5863_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1912,
+                        "style": "圆领-黑色",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 6,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1191vfke",
+                        "xdSkuId": "1191vfke",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190220_0jibh0e3dg8ki645e2k9f79ga5863_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1931,
+                        "style": "圆领-黑色",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 6,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1191vfkg",
+                        "xdSkuId": "1191vfkg",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190220_0jibh0e3dg8ki645e2k9f79ga5863_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1954,
+                        "style": "圆领-黑色",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 6,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1191vfki",
+                        "xdSkuId": "1191vfki",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_3bl9187h4e81j9288b74cg7cce5d9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1894,
+                        "style": "圆领-樱花粉",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 7,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1191vfkk",
+                        "xdSkuId": "1191vfkk",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_3bl9187h4e81j9288b74cg7cce5d9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1876,
+                        "style": "圆领-樱花粉",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 7,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1191vfkm",
+                        "xdSkuId": "1191vfkm",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_3bl9187h4e81j9288b74cg7cce5d9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1929,
+                        "style": "圆领-樱花粉",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 7,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1191vgcg",
+                        "xdSkuId": "1191vgcg",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_3bl9187h4e81j9288b74cg7cce5d9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1962,
+                        "style": "圆领-樱花粉",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 7,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1191vgci",
+                        "xdSkuId": "1191vgci",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_646b323b2843785g9fb2d0gf7c731_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1952,
+                        "style": "圆领-蜜桃粉",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 8,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1191vgck",
+                        "xdSkuId": "1191vgck",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_646b323b2843785g9fb2d0gf7c731_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1923,
+                        "style": "圆领-蜜桃粉",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 8,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1191vgcm",
+                        "xdSkuId": "1191vgcm",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_646b323b2843785g9fb2d0gf7c731_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1956,
+                        "style": "圆领-蜜桃粉",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 8,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1191vgco",
+                        "xdSkuId": "1191vgco",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_646b323b2843785g9fb2d0gf7c731_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1970,
+                        "style": "圆领-蜜桃粉",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 8,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1195ydba",
+                        "xdSkuId": "1195ydba",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190303_1f0kji7bej5ck1ej5ii53gdhh5geh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1978,
+                        "style": "【圆领】番茄红",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 9,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1195ydbc",
+                        "xdSkuId": "1195ydbc",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190303_1f0kji7bej5ck1ej5ii53gdhh5geh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1928,
+                        "style": "【圆领】番茄红",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 9,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1195ydbe",
+                        "xdSkuId": "1195ydbe",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190303_1f0kji7bej5ck1ej5ii53gdhh5geh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1941,
+                        "style": "【圆领】番茄红",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 9,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1195ydbi",
+                        "xdSkuId": "1195ydbi",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190303_1f0kji7bej5ck1ej5ii53gdhh5geh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1963,
+                        "style": "【圆领】番茄红",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 9,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1195ydbg",
+                        "xdSkuId": "1195ydbg",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190303_59g22404cf736k8bie7e0d83a94g7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "【圆领】南瓜橘",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 10,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1195ydbm",
+                        "xdSkuId": "1195ydbm",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190303_59g22404cf736k8bie7e0d83a94g7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "【圆领】南瓜橘",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 10,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1195ydbk",
+                        "xdSkuId": "1195ydbk",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190303_59g22404cf736k8bie7e0d83a94g7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "【圆领】南瓜橘",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 10,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1195ydbo",
+                        "xdSkuId": "1195ydbo",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190303_59g22404cf736k8bie7e0d83a94g7_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "【圆领】南瓜橘",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 10,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1197bwyu",
+                        "xdSkuId": "1197bwyu",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190306_75dc4bgbk7fb15jj0b9k92jhceed8_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1957,
+                        "style": "【圆领】姜黄",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 11,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1197bwyw",
+                        "xdSkuId": "1197bwyw",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190306_75dc4bgbk7fb15jj0b9k92jhceed8_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1932,
+                        "style": "【圆领】姜黄",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 11,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1197bwyy",
+                        "xdSkuId": "1197bwyy",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190306_75dc4bgbk7fb15jj0b9k92jhceed8_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1953,
+                        "style": "【圆领】姜黄",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 11,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1197bwz0",
+                        "xdSkuId": "1197bwz0",
+                        "price": 4272,
+                        "nowprice": 2990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190306_75dc4bgbk7fb15jj0b9k92jhceed8_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 1976,
+                        "style": "【圆领】姜黄",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 11,
+                        "sizeId": 103
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "白色",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "蓝色",
+                                "index": 2,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 3,
+                                "name": "粉色",
+                                "index": 3,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 4,
+                                "name": "圆领-蓝色",
+                                "index": 4,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 5,
+                                "name": "圆领-白色",
+                                "index": 5,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 6,
+                                "name": "圆领-黑色",
+                                "index": 6,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 7,
+                                "name": "圆领-樱花粉",
+                                "index": 7,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 8,
+                                "name": "圆领-蜜桃粉",
+                                "index": 8,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 9,
+                                "name": "【圆领】番茄红",
+                                "index": 9,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 10,
+                                "name": "【圆领】南瓜橘",
+                                "index": 10,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 11,
+                                "name": "【圆领】姜黄",
+                                "index": 11,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "S",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "M",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "L",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "XL",
+                                "index": 103,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥29.90",
+                "defaultPrice": "¥29.90",
+                "totalStock": 70778,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

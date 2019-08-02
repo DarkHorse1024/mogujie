@@ -1,0 +1,1627 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "17g4nh4",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1172ueda",
+                "sellerId": "17g4nh4"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "q***9",
+                            "avatar": "https://s11.mogucdn.com/p1/160105/idid_ifrwenjuhfsggntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/180410_2dk72kgel4beahheh4b6l85a2g9gh_545x854.png"
+                        ],
+                        "rateId": "114ambmu",
+                        "content": "这款牛仔短裤质量很好，上身效果不错，显瘦，穿着舒适。物美价廉。客服态度很好，耐心解答各种提问，非常满意。物流快。五星好评。",
+                        "created": 1523342174,
+                        "isAnonymous": 1,
+                        "style": "颜色:TKB355破洞 黑色 尺码:26 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "是否合身: 合身 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "desc": "合身 "
+                        }
+                    },
+                    {
+                        "user": {
+                            "uname": "j***8",
+                            "avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrtgyjxmjrwgntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/180410_42ec71d613a5h3789j3fahj6ejjla_647x854.png"
+                        ],
+                        "rateId": "114ah3h4",
+                        "content": "性价比很好，和图片卖家描述一致。做工也挺好的，卖家的服务很专业，超级好，包装也很好，一定还再来。好东西分享给大家。非常满意的一次购物，值得推荐！",
+                        "created": 1523327165,
+                        "isAnonymous": 1,
+                        "style": "颜色:TKB255白色 尺码:30 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "是否合身: 合身 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "desc": "合身 "
+                        }
+                    }
+                ],
+                "cRate": 615,
+                "imgTotal": 98,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 98,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "尺码",
+                        "value": "尺寸无偏差",
+                        "num": 87,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 83,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 62,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "服务",
+                        "value": "卖家服务很好",
+                        "num": 52,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "做工",
+                        "value": "做工不错",
+                        "num": 29,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 1002
+            },
+            "itemInfo": {
+                "desc": "毛边短裤，今年无毛边不时髦，造旧设计，阔腿版型\n一款超火的牛仔短裤，四色可选，纯色/破洞可选\n收腰提臀瘦腿，轻松打造大长腿\n总有些牛仔裤是那么的出类拔萃",
+                "title": "短裤女高腰韩版宽松显瘦学生热裤潮毛边破洞白色牛仔裤百搭阔腿裤",
+                "itemId": "1lt1g5m",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 3893,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "短裤女高腰韩版宽松显瘦学生热裤潮毛边破洞白色牛仔裤百搭阔腿裤",
+                    "wap_url": "//m.mogujie.com/x6/detail/1lt1g5m",
+                    "description": "来自蘑菇街优店裤子_短裤_女装_服饰鞋包家毛边短裤，今年无毛边不时髦，造旧设计，阔腿版型\n一款超火的牛仔短裤，四色可选，纯色/破洞可选\n收腰提臀瘦腿，轻松打造大长腿\n总有些牛仔裤是那么的出类拔萃的短裤女高腰韩版宽松显瘦学生热裤潮毛边破洞白色牛仔裤百搭阔腿裤，发现当季女装和旗维斯旗舰店搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1lt1g5m",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1lt1g5m",
+                    "seo_noindex": "0",
+                    "title": "【短裤女高腰韩版宽松显瘦学生热裤潮毛边破洞白色牛仔裤百搭阔腿裤】-女装-裤子_短裤_女装_服饰鞋包-旗维斯旗舰店-蘑菇街优店"
+                },
+                "type": 8,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 1002,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "address": "广东广州",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "66.50",
+                "highPrice": "66.50",
+                "lowNowPrice": "39.90",
+                "highNowPrice": "39.90",
+                "brandName": "旗维斯",
+                "nowTime": 1564643655,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "39.90",
+                "oldPrice": "66.50",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "店铺促销",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "39.90",
+                "normalPrice": "39.90",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564643655,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.64,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.66,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "48小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "短裤",
+                        "link": "http://shop.mogu.com/1172ueda/list/index?categoryId=20216023"
+                    },
+                    {
+                        "name": "九分裤",
+                        "link": "http://shop.mogu.com/1172ueda/list/index?categoryId=20216025"
+                    },
+                    {
+                        "name": "长裤",
+                        "link": "http://shop.mogu.com/1172ueda/list/index?categoryId=20216026"
+                    },
+                    {
+                        "name": "加绒牛仔裤",
+                        "link": "http://shop.mogu.com/1172ueda/list/index?categoryId=20261691"
+                    }
+                ],
+                "cFans": "9203",
+                "cSells": "11.0万",
+                "isMarked": false,
+                "cGoods": 157,
+                "userId": "17g4nh4",
+                "shopLogo": "https://s11.mogucdn.com/mlcdn/c45406/170803_56l8563aa6edej9die4fk446dffi0_200x200.jpg",
+                "name": "旗维斯旗舰店",
+                "shopId": "1172ueda",
+                "type": 1,
+                "level": 4,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1172ueda",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": false,
+                "desc": "毛边短裤，今年无毛边不时髦，造旧设计，阔腿版型\n一款超火的牛仔短裤，四色可选，纯色/破洞可选\n收腰提臀瘦腿，轻松打造大长腿\n总有些牛仔裤是那么的出类拔萃",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_3dj5k2jk1afa4e9g0ikkkkl8f5ah1_750x1041.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_142ld86eg8045j39ih77hk9ecgl8k_750x591.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_080c9ie4bdbd8fh33i36cil3ba66b_750x591.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_49667ad4cd1ab3jki7e423ehei017_750x751.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_1ll9bfec6cea3cdf4l9fh3de696a4_750x902.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180312_70027i84kd6ac6k3b02jcech84fbg_750x1180.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_473bekjkl729971g47ik7lc19h321_750x414.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "整体款式",
+                        "anchor": "baipai_img2",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_4500b4fc3ea83gf4kajk28aeaaab8_750x1082.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_75hc5ci6f1hbjbed8gclb8gk1bfl8_750x832.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_585gfhe0fd1c062997lhbkh8g3833_750x660.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180312_1jdfaf01e3kdj40b07b8ijjl3c0j5_750x647.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180312_18keck10b0hil7dk4clajk1h7a0bf_750x874.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180312_8b0e3c1h04i0ge6b9hi96e3fda17e_750x542.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_3kgd31kegi7c2ih58g2ji60jgcjl1_750x727.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_2aj16d0cbe4c4la88j402e52ld84h_750x971.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180312_58jh7c3ghl177c13502c4ei86bc20_750x771.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_893k77f68h9j7c530e99j88422d1g_750x670.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180312_3h0d619h2db5d5k7ab63g78lgg8a3_750x716.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_0h07e56k15222a735iffk38373del_750x859.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_112g7a0hdfghb63ldh78ajg8j072a_750x564.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_1d7g07258bciifai4idf8lk9kj0bi_750x605.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180312_054ajh0gjgg6993542gl62hfj4gfe_750x975.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_62k5c73c3h24j3i8f085a36ilc9ii_750x709.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180312_3a1cj4cf65h82fchckgj6i3leek2l_750x703.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180312_090373ch6ff8gbeeiac8h41116538_750x702.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180312_7kkhecg8kl4j3e953ek5eih0bgg46_750x931.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180312_8a70lhakjchllla8i524cc4b2lllh_750x570.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "细节做工",
+                        "anchor": "detail_img",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/180312_401llk55kikgflbfdghck55fl5kl8_750x986.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180312_5e9f7j9egkbi5f6db3aka303lj8l2_750x712.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_84a05l5j9eba4hag7jgf7i32g785l_750x694.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/180312_56i1le7g508h146d9d7h85hdd5gc7_750x653.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564643655,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s11.mogucdn.com/mlcdn/c45406/180312_0896j6h7difddfk5dl163h61l7jia_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180312_0lg62970d88234a19l29k24c83c8g_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180312_24c77ge3cd4l9fhl6h5hehcje7453_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180312_5ag5f97lh7i77b5k09jh786k1i947_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180312_3ahgh61aa61i60f3b398ekkjbdb9e_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180312_078667k19g294592g94500a668kkk_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180312_182gkk750fbhdh4gldk4hib60357l_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180312_3kkh5c7dji4e1ab6j9khdf0j7b4g2_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180312_1dg7ahfg2gg7e2j8el2g1f4ib3b31_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180312_574i9c9087f1l6h80l85fhc6eb06b_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180312_50cec7eie1k98gaj2ieckgjf74l67_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180312_3h13ldh8ehe8hda7h9kei3ikbfhi0_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180312_7f0g5ce0cl5l59ejkcb8393h0b36l_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180312_679b8dc4aikdfgigikebl538d4ach_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "短裤女高腰韩版宽松显瘦学生热裤潮毛边破洞白色牛仔裤百搭阔腿裤",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1lt1g5m&from=share",
+                "imageUrl": "https://s11.mogucdn.com/mlcdn/c45406/180312_0896j6h7difddfk5dl163h61l7jia_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "纯色",
+                        "颜色": "TKB255白色,TKB255浅蓝,TKB355破洞 浅蓝,TKB355破洞 黑色,TKB355破洞 白色,TKB255黑色,TKB255深蓝,TKB355破洞 深蓝",
+                        "腰型": "高腰",
+                        "尺码": "25,26,27,28,29,30,31,32",
+                        "季节": "夏季",
+                        "材质": "棉",
+                        "元素": "金属拉链,破洞",
+                        "裤型": "短裤",
+                        "风格": "简约",
+                        "闭合方式": "纽扣+拉链",
+                        "潮流": "韩系"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "档长",
+                                "大腿围",
+                                "腰围",
+                                "臀围",
+                                "裤长"
+                            ],
+                            [
+                                "25",
+                                "26",
+                                "53",
+                                "64",
+                                "90",
+                                "33"
+                            ],
+                            [
+                                "26",
+                                "26",
+                                "54",
+                                "66",
+                                "93",
+                                "33"
+                            ],
+                            [
+                                "27",
+                                "27",
+                                "55",
+                                "68",
+                                "96",
+                                "33"
+                            ],
+                            [
+                                "28",
+                                "27",
+                                "57",
+                                "70",
+                                "98",
+                                "33"
+                            ],
+                            [
+                                "29",
+                                "27",
+                                "59",
+                                "72",
+                                "100",
+                                "34"
+                            ],
+                            [
+                                "30",
+                                "28",
+                                "61",
+                                "74",
+                                "102",
+                                "34"
+                            ],
+                            [
+                                "31",
+                                "28",
+                                "62",
+                                "77",
+                                "104",
+                                "35"
+                            ],
+                            [
+                                "32",
+                                "29",
+                                "63",
+                                "80",
+                                "106",
+                                "35"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "39.90",
+                "oldPrice": "66.50",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "店铺促销",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "品牌认证",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "严格审核，正规品牌授权链；精挑细选，国内外知名品牌合作。引领潮流趋势，时尚品质保证。"
+                    },
+                    {
+                        "name": "48小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 1002",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "address",
+                        "desc": "广东广州",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1lt1g5m",
+                "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_0896j6h7difddfk5dl163h61l7jia_640x960.jpg",
+                "isJdItem": false,
+                "title": "短裤女高腰韩版宽松显瘦学生热裤潮毛边破洞白色牛仔裤百搭阔腿裤",
+                "skus": [
+                    {
+                        "stockId": "110bf6tq",
+                        "xdSkuId": "110bf6tq",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_1j969cak8ji08653ei430484a53jf_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 286,
+                        "style": "TKB255白色",
+                        "color": "",
+                        "size": "25",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "110bf6ts",
+                        "xdSkuId": "110bf6ts",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_1j969cak8ji08653ei430484a53jf_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 149,
+                        "style": "TKB255白色",
+                        "color": "",
+                        "size": "26",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "110bf6tu",
+                        "xdSkuId": "110bf6tu",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_1j969cak8ji08653ei430484a53jf_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 65,
+                        "style": "TKB255白色",
+                        "color": "",
+                        "size": "27",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "110bf6tw",
+                        "xdSkuId": "110bf6tw",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_1j969cak8ji08653ei430484a53jf_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 161,
+                        "style": "TKB255白色",
+                        "color": "",
+                        "size": "28",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "110bf6ty",
+                        "xdSkuId": "110bf6ty",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_1j969cak8ji08653ei430484a53jf_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 284,
+                        "style": "TKB255白色",
+                        "color": "",
+                        "size": "29",
+                        "styleId": 1,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "110bf6u0",
+                        "xdSkuId": "110bf6u0",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_1j969cak8ji08653ei430484a53jf_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 374,
+                        "style": "TKB255白色",
+                        "color": "",
+                        "size": "30",
+                        "styleId": 1,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "110bf6u2",
+                        "xdSkuId": "110bf6u2",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_1j969cak8ji08653ei430484a53jf_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 425,
+                        "style": "TKB255白色",
+                        "color": "",
+                        "size": "31",
+                        "styleId": 1,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "110bf6u4",
+                        "xdSkuId": "110bf6u4",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_1j969cak8ji08653ei430484a53jf_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 439,
+                        "style": "TKB255白色",
+                        "color": "",
+                        "size": "32",
+                        "styleId": 1,
+                        "sizeId": 107
+                    },
+                    {
+                        "stockId": "110bf6u6",
+                        "xdSkuId": "110bf6u6",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_44hca4i5f33di42lb3djallb75bha_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 426,
+                        "style": "TKB255黑色",
+                        "color": "",
+                        "size": "25",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "110bf6u8",
+                        "xdSkuId": "110bf6u8",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_44hca4i5f33di42lb3djallb75bha_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 360,
+                        "style": "TKB255黑色",
+                        "color": "",
+                        "size": "26",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "110bf6ua",
+                        "xdSkuId": "110bf6ua",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_44hca4i5f33di42lb3djallb75bha_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 347,
+                        "style": "TKB255黑色",
+                        "color": "",
+                        "size": "27",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "110bf6uc",
+                        "xdSkuId": "110bf6uc",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_44hca4i5f33di42lb3djallb75bha_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 349,
+                        "style": "TKB255黑色",
+                        "color": "",
+                        "size": "28",
+                        "styleId": 2,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "110bf6ue",
+                        "xdSkuId": "110bf6ue",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_44hca4i5f33di42lb3djallb75bha_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 398,
+                        "style": "TKB255黑色",
+                        "color": "",
+                        "size": "29",
+                        "styleId": 2,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "110bf6ug",
+                        "xdSkuId": "110bf6ug",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_44hca4i5f33di42lb3djallb75bha_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 429,
+                        "style": "TKB255黑色",
+                        "color": "",
+                        "size": "30",
+                        "styleId": 2,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "110bf6ui",
+                        "xdSkuId": "110bf6ui",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_44hca4i5f33di42lb3djallb75bha_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 458,
+                        "style": "TKB255黑色",
+                        "color": "",
+                        "size": "31",
+                        "styleId": 2,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "110bf6uk",
+                        "xdSkuId": "110bf6uk",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_44hca4i5f33di42lb3djallb75bha_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 447,
+                        "style": "TKB255黑色",
+                        "color": "",
+                        "size": "32",
+                        "styleId": 2,
+                        "sizeId": 107
+                    },
+                    {
+                        "stockId": "110bf6um",
+                        "xdSkuId": "110bf6um",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_5k77d65hk3l5d796gjkbbbceigc9i_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 421,
+                        "style": "TKB255深蓝",
+                        "color": "",
+                        "size": "25",
+                        "styleId": 3,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "110bf6uo",
+                        "xdSkuId": "110bf6uo",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_5k77d65hk3l5d796gjkbbbceigc9i_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 373,
+                        "style": "TKB255深蓝",
+                        "color": "",
+                        "size": "26",
+                        "styleId": 3,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "110bf6uq",
+                        "xdSkuId": "110bf6uq",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_5k77d65hk3l5d796gjkbbbceigc9i_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 325,
+                        "style": "TKB255深蓝",
+                        "color": "",
+                        "size": "27",
+                        "styleId": 3,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "110bf6us",
+                        "xdSkuId": "110bf6us",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_5k77d65hk3l5d796gjkbbbceigc9i_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 351,
+                        "style": "TKB255深蓝",
+                        "color": "",
+                        "size": "28",
+                        "styleId": 3,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "110bf6uu",
+                        "xdSkuId": "110bf6uu",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_5k77d65hk3l5d796gjkbbbceigc9i_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 391,
+                        "style": "TKB255深蓝",
+                        "color": "",
+                        "size": "29",
+                        "styleId": 3,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "110bf6uw",
+                        "xdSkuId": "110bf6uw",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_5k77d65hk3l5d796gjkbbbceigc9i_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 416,
+                        "style": "TKB255深蓝",
+                        "color": "",
+                        "size": "30",
+                        "styleId": 3,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "110bf6uy",
+                        "xdSkuId": "110bf6uy",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_5k77d65hk3l5d796gjkbbbceigc9i_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 453,
+                        "style": "TKB255深蓝",
+                        "color": "",
+                        "size": "31",
+                        "styleId": 3,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "110bf6v0",
+                        "xdSkuId": "110bf6v0",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_5k77d65hk3l5d796gjkbbbceigc9i_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 456,
+                        "style": "TKB255深蓝",
+                        "color": "",
+                        "size": "32",
+                        "styleId": 3,
+                        "sizeId": 107
+                    },
+                    {
+                        "stockId": "110bf6v2",
+                        "xdSkuId": "110bf6v2",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_287cck96bbbc0bi1637lil658c8g9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 415,
+                        "style": "TKB255浅蓝",
+                        "color": "",
+                        "size": "25",
+                        "styleId": 4,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "110bf6v4",
+                        "xdSkuId": "110bf6v4",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_287cck96bbbc0bi1637lil658c8g9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 365,
+                        "style": "TKB255浅蓝",
+                        "color": "",
+                        "size": "26",
+                        "styleId": 4,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "110bf6v6",
+                        "xdSkuId": "110bf6v6",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_287cck96bbbc0bi1637lil658c8g9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 321,
+                        "style": "TKB255浅蓝",
+                        "color": "",
+                        "size": "27",
+                        "styleId": 4,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "110bf6v8",
+                        "xdSkuId": "110bf6v8",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_287cck96bbbc0bi1637lil658c8g9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 335,
+                        "style": "TKB255浅蓝",
+                        "color": "",
+                        "size": "28",
+                        "styleId": 4,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "110bf6va",
+                        "xdSkuId": "110bf6va",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_287cck96bbbc0bi1637lil658c8g9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 399,
+                        "style": "TKB255浅蓝",
+                        "color": "",
+                        "size": "29",
+                        "styleId": 4,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "110bf7hk",
+                        "xdSkuId": "110bf7hk",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_287cck96bbbc0bi1637lil658c8g9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 446,
+                        "style": "TKB255浅蓝",
+                        "color": "",
+                        "size": "30",
+                        "styleId": 4,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "110bf7hm",
+                        "xdSkuId": "110bf7hm",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_287cck96bbbc0bi1637lil658c8g9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 470,
+                        "style": "TKB255浅蓝",
+                        "color": "",
+                        "size": "31",
+                        "styleId": 4,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "110bf7ho",
+                        "xdSkuId": "110bf7ho",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_287cck96bbbc0bi1637lil658c8g9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 469,
+                        "style": "TKB255浅蓝",
+                        "color": "",
+                        "size": "32",
+                        "styleId": 4,
+                        "sizeId": 107
+                    },
+                    {
+                        "stockId": "110bf7hq",
+                        "xdSkuId": "110bf7hq",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_4a7087ja85c6eebd8ic10j64h0b9d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 415,
+                        "style": "TKB355破洞 白色",
+                        "color": "",
+                        "size": "25",
+                        "styleId": 5,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "110bf7hs",
+                        "xdSkuId": "110bf7hs",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_4a7087ja85c6eebd8ic10j64h0b9d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 375,
+                        "style": "TKB355破洞 白色",
+                        "color": "",
+                        "size": "26",
+                        "styleId": 5,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "110bf7hu",
+                        "xdSkuId": "110bf7hu",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_4a7087ja85c6eebd8ic10j64h0b9d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 340,
+                        "style": "TKB355破洞 白色",
+                        "color": "",
+                        "size": "27",
+                        "styleId": 5,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "110bf7hw",
+                        "xdSkuId": "110bf7hw",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_4a7087ja85c6eebd8ic10j64h0b9d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 365,
+                        "style": "TKB355破洞 白色",
+                        "color": "",
+                        "size": "28",
+                        "styleId": 5,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "110bf7hy",
+                        "xdSkuId": "110bf7hy",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_4a7087ja85c6eebd8ic10j64h0b9d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 420,
+                        "style": "TKB355破洞 白色",
+                        "color": "",
+                        "size": "29",
+                        "styleId": 5,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "110bf7i0",
+                        "xdSkuId": "110bf7i0",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_4a7087ja85c6eebd8ic10j64h0b9d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 440,
+                        "style": "TKB355破洞 白色",
+                        "color": "",
+                        "size": "30",
+                        "styleId": 5,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "110bf7i2",
+                        "xdSkuId": "110bf7i2",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_4a7087ja85c6eebd8ic10j64h0b9d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 460,
+                        "style": "TKB355破洞 白色",
+                        "color": "",
+                        "size": "31",
+                        "styleId": 5,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "110bf7i4",
+                        "xdSkuId": "110bf7i4",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_4a7087ja85c6eebd8ic10j64h0b9d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 460,
+                        "style": "TKB355破洞 白色",
+                        "color": "",
+                        "size": "32",
+                        "styleId": 5,
+                        "sizeId": 107
+                    },
+                    {
+                        "stockId": "110bf7i6",
+                        "xdSkuId": "110bf7i6",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_026l7bi2d14gliebjfa1jk7a13bi5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 463,
+                        "style": "TKB355破洞 黑色",
+                        "color": "",
+                        "size": "25",
+                        "styleId": 6,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "110bf7i8",
+                        "xdSkuId": "110bf7i8",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_026l7bi2d14gliebjfa1jk7a13bi5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 436,
+                        "style": "TKB355破洞 黑色",
+                        "color": "",
+                        "size": "26",
+                        "styleId": 6,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "110bf7ia",
+                        "xdSkuId": "110bf7ia",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_026l7bi2d14gliebjfa1jk7a13bi5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 416,
+                        "style": "TKB355破洞 黑色",
+                        "color": "",
+                        "size": "27",
+                        "styleId": 6,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "110bf7ic",
+                        "xdSkuId": "110bf7ic",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_026l7bi2d14gliebjfa1jk7a13bi5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 429,
+                        "style": "TKB355破洞 黑色",
+                        "color": "",
+                        "size": "28",
+                        "styleId": 6,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "110bf7ie",
+                        "xdSkuId": "110bf7ie",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_026l7bi2d14gliebjfa1jk7a13bi5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 461,
+                        "style": "TKB355破洞 黑色",
+                        "color": "",
+                        "size": "29",
+                        "styleId": 6,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "110bf7ig",
+                        "xdSkuId": "110bf7ig",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_026l7bi2d14gliebjfa1jk7a13bi5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 456,
+                        "style": "TKB355破洞 黑色",
+                        "color": "",
+                        "size": "30",
+                        "styleId": 6,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "110bf7ii",
+                        "xdSkuId": "110bf7ii",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_026l7bi2d14gliebjfa1jk7a13bi5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 472,
+                        "style": "TKB355破洞 黑色",
+                        "color": "",
+                        "size": "31",
+                        "styleId": 6,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "110bf7ik",
+                        "xdSkuId": "110bf7ik",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_026l7bi2d14gliebjfa1jk7a13bi5_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 471,
+                        "style": "TKB355破洞 黑色",
+                        "color": "",
+                        "size": "32",
+                        "styleId": 6,
+                        "sizeId": 107
+                    },
+                    {
+                        "stockId": "110bf7im",
+                        "xdSkuId": "110bf7im",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_1d087kag3hd19d709l7lhh0fdk5df_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 470,
+                        "style": "TKB355破洞 深蓝",
+                        "color": "",
+                        "size": "25",
+                        "styleId": 7,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "110bf7io",
+                        "xdSkuId": "110bf7io",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_1d087kag3hd19d709l7lhh0fdk5df_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 452,
+                        "style": "TKB355破洞 深蓝",
+                        "color": "",
+                        "size": "26",
+                        "styleId": 7,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "110bf7iq",
+                        "xdSkuId": "110bf7iq",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_1d087kag3hd19d709l7lhh0fdk5df_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 453,
+                        "style": "TKB355破洞 深蓝",
+                        "color": "",
+                        "size": "27",
+                        "styleId": 7,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "110bf7is",
+                        "xdSkuId": "110bf7is",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_1d087kag3hd19d709l7lhh0fdk5df_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 438,
+                        "style": "TKB355破洞 深蓝",
+                        "color": "",
+                        "size": "28",
+                        "styleId": 7,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "110bf7iu",
+                        "xdSkuId": "110bf7iu",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_1d087kag3hd19d709l7lhh0fdk5df_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 456,
+                        "style": "TKB355破洞 深蓝",
+                        "color": "",
+                        "size": "29",
+                        "styleId": 7,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "110bf7iw",
+                        "xdSkuId": "110bf7iw",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_1d087kag3hd19d709l7lhh0fdk5df_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 469,
+                        "style": "TKB355破洞 深蓝",
+                        "color": "",
+                        "size": "30",
+                        "styleId": 7,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "110bf7iy",
+                        "xdSkuId": "110bf7iy",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_1d087kag3hd19d709l7lhh0fdk5df_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 476,
+                        "style": "TKB355破洞 深蓝",
+                        "color": "",
+                        "size": "31",
+                        "styleId": 7,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "110bf7j0",
+                        "xdSkuId": "110bf7j0",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180312_1d087kag3hd19d709l7lhh0fdk5df_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 478,
+                        "style": "TKB355破洞 深蓝",
+                        "color": "",
+                        "size": "32",
+                        "styleId": 7,
+                        "sizeId": 107
+                    },
+                    {
+                        "stockId": "110bf7j2",
+                        "xdSkuId": "110bf7j2",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_30k6ighdedccfb8ak192hia4cf84d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 468,
+                        "style": "TKB355破洞 浅蓝",
+                        "color": "",
+                        "size": "25",
+                        "styleId": 8,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "110bf7j4",
+                        "xdSkuId": "110bf7j4",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_30k6ighdedccfb8ak192hia4cf84d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 423,
+                        "style": "TKB355破洞 浅蓝",
+                        "color": "",
+                        "size": "26",
+                        "styleId": 8,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "110bf7j6",
+                        "xdSkuId": "110bf7j6",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_30k6ighdedccfb8ak192hia4cf84d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 405,
+                        "style": "TKB355破洞 浅蓝",
+                        "color": "",
+                        "size": "27",
+                        "styleId": 8,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "110bf7j8",
+                        "xdSkuId": "110bf7j8",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_30k6ighdedccfb8ak192hia4cf84d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 416,
+                        "style": "TKB355破洞 浅蓝",
+                        "color": "",
+                        "size": "28",
+                        "styleId": 8,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "110bf7ja",
+                        "xdSkuId": "110bf7ja",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_30k6ighdedccfb8ak192hia4cf84d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 452,
+                        "style": "TKB355破洞 浅蓝",
+                        "color": "",
+                        "size": "29",
+                        "styleId": 8,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "110bf7jc",
+                        "xdSkuId": "110bf7jc",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_30k6ighdedccfb8ak192hia4cf84d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 467,
+                        "style": "TKB355破洞 浅蓝",
+                        "color": "",
+                        "size": "30",
+                        "styleId": 8,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "110bf7je",
+                        "xdSkuId": "110bf7je",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_30k6ighdedccfb8ak192hia4cf84d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 473,
+                        "style": "TKB355破洞 浅蓝",
+                        "color": "",
+                        "size": "31",
+                        "styleId": 8,
+                        "sizeId": 106
+                    },
+                    {
+                        "stockId": "110bf7jg",
+                        "xdSkuId": "110bf7jg",
+                        "price": 6650,
+                        "nowprice": 3990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180312_30k6ighdedccfb8ak192hia4cf84d_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 464,
+                        "style": "TKB355破洞 浅蓝",
+                        "color": "",
+                        "size": "32",
+                        "styleId": 8,
+                        "sizeId": 107
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "TKB255白色",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "TKB255黑色",
+                                "index": 2,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 3,
+                                "name": "TKB255深蓝",
+                                "index": 3,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 4,
+                                "name": "TKB255浅蓝",
+                                "index": 4,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 5,
+                                "name": "TKB355破洞 白色",
+                                "index": 5,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 6,
+                                "name": "TKB355破洞 黑色",
+                                "index": 6,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 7,
+                                "name": "TKB355破洞 深蓝",
+                                "index": 7,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 8,
+                                "name": "TKB355破洞 浅蓝",
+                                "index": 8,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "25",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "26",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "27",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "28",
+                                "index": 103,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 104,
+                                "default": false,
+                                "name": "29",
+                                "index": 104,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 105,
+                                "default": false,
+                                "name": "30",
+                                "index": 105,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 106,
+                                "default": false,
+                                "name": "31",
+                                "index": 106,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 107,
+                                "default": false,
+                                "name": "32",
+                                "index": 107,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥39.90",
+                "defaultPrice": "¥39.90",
+                "totalStock": 25942,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

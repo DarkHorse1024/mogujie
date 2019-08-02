@@ -1,0 +1,106 @@
+{
+    "cid": "168233",
+    "name": "单鞋",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mjc3lk",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190716_0lb8h1iid819d1g3a3jj2k1khh3l7_640x960.jpg",
+            "originalPrice": 98.58,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjc3lk&acm=3.ms.1_4_1mjc3lk.16.36598-68998.4aiURrxSk34dJ.sd_117-swt_16-imt_6-t_4aiURrxSk34dJ-lc_16-fcid_51267-pid_5-pit_1-dit_177",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjc3lk&acm=3.ms.1_4_1mjc3lk.16.36598-68998.4aiURrxSk34dJ.sd_117-swt_16-imt_6-t_4aiURrxSk34dJ-lc_16-fcid_51267-pid_5-pit_1-dit_177",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mjc3lk.16.36598-68998.4aiURrxSk34dJ.sd_117-swt_16-imt_6-t_4aiURrxSk34dJ-lc_16-fcid_51267-pid_5-pit_1-dit_177",
+            "price_taglist": [],
+            "title": "学生韩版方扣平底女鞋子软面奶奶鞋方头瓢鞋百搭浅口单鞋女新款潮",
+            "orgPrice": 98.58,
+            "props": [
+                "杺鱼蜜",
+                "浅口单鞋",
+                "方头",
+                "软面",
+                "百搭",
+                "韩版",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 96,
+            "price": 69,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.63",
+                "descDsr": "4.66",
+                "tagDescDsr": "4.68",
+                "tagQualityDsr": "4.68",
+                "tagServiceDsr": "4.90",
+                "serviceDsr": "4.86"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mjc3lk&acm=3.ms.1_4_1mjc3lk.16.36598-68998.4aiURrxSk34dJ.sd_117-swt_16-imt_6-t_4aiURrxSk34dJ-lc_16-fcid_51267-pid_5-pit_1-dit_177&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "澄子美鞋铺"
+        },
+        {
+            "tradeItemId": "1mdjrau",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190224_5bfagg97elg18h161a5l1kj433726_640x960.jpg",
+            "originalPrice": 99,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mdjrau&acm=3.ms.1_4_1mdjrau.16.36598-68998.4aiURrxSk34dJ.sd_117-swt_16-imt_6-t_4aiURrxSk34dJ-lc_16-fcid_51267-pid_5-pit_1-dit_177",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mdjrau&acm=3.ms.1_4_1mdjrau.16.36598-68998.4aiURrxSk34dJ.sd_117-swt_16-imt_6-t_4aiURrxSk34dJ-lc_16-fcid_51267-pid_5-pit_1-dit_177",
+            "itemMarks": "1525 188 1127",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mdjrau.16.36598-68998.4aiURrxSk34dJ.sd_117-swt_16-imt_6-t_4aiURrxSk34dJ-lc_16-fcid_51267-pid_5-pit_1-dit_177",
+            "price_taglist": [],
+            "title": "单鞋女2019夏季新款百搭浅口尖头平底鞋女软底懒人一脚蹬女鞋",
+            "orgPrice": 99,
+            "props": [
+                "帕蔓妮",
+                "尖头平底鞋",
+                "浅口",
+                "一脚蹬",
+                "软底",
+                "懒人",
+                "百搭"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 9799,
+            "price": 69.3,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.56",
+                "descDsr": "4.59",
+                "tagDescDsr": "4.69",
+                "tagQualityDsr": "4.67",
+                "tagServiceDsr": "4.89",
+                "serviceDsr": "4.82"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mdjrau&acm=3.ms.1_4_1mdjrau.16.36598-68998.4aiURrxSk34dJ.sd_117-swt_16-imt_6-t_4aiURrxSk34dJ-lc_16-fcid_51267-pid_5-pit_1-dit_177&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "帕蔓妮旗舰店"
+        }
+    ]
+}

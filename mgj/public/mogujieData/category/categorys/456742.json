@@ -1,0 +1,109 @@
+{
+    "cid": "456742",
+    "name": "袜子",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1m86urc",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/180905_29hb1j9ki439c98di46d3cdca5i9h_640x900.jpg",
+            "originalPrice": 28.29,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1m86urc&acm=3.ms.1_4_1m86urc.16.36598-68998.mhRMarxShDH77.sd_117-swt_16-imt_6-t_mhRMarxShDH77-lc_16-fcid_50028-pid_19-pit_1-dit_168",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1m86urc&acm=3.ms.1_4_1m86urc.16.36598-68998.mhRMarxShDH77.sd_117-swt_16-imt_6-t_mhRMarxShDH77-lc_16-fcid_50028-pid_19-pit_1-dit_168",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1m86urc.16.36598-68998.mhRMarxShDH77.sd_117-swt_16-imt_6-t_mhRMarxShDH77-lc_16-fcid_50028-pid_19-pit_1-dit_168",
+            "price_taglist": [],
+            "title": "3双彩虹长袜子女中筒袜韩版学院风韩国糖果色条纹ins潮街头原宿滑板袜",
+            "orgPrice": 28.29,
+            "props": [
+                "中筒袜",
+                "条纹",
+                "原宿",
+                "学院风",
+                "彩虹",
+                "韩版",
+                "糖果色",
+                "街头"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 1401,
+            "price": 19.8,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.84",
+                "descDsr": "4.86",
+                "tagDescDsr": "4.77",
+                "tagQualityDsr": "4.76",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.93"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1m86urc&acm=3.ms.1_4_1m86urc.16.36598-68998.mhRMarxShDH77.sd_117-swt_16-imt_6-t_mhRMarxShDH77-lc_16-fcid_50028-pid_19-pit_1-dit_168&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "徐小妞袜铺"
+        },
+        {
+            "tradeItemId": "1mfazf4",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190406_5eg2ddfa67ed21e741dak32681g5d_640x960.jpg",
+            "originalPrice": 26.86,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mfazf4&acm=3.ms.1_4_1mfazf4.16.36598-68998.mhRMarxShDH77.sd_117-swt_16-imt_6-t_mhRMarxShDH77-lc_16-fcid_50028-pid_19-pit_1-dit_168",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mfazf4&acm=3.ms.1_4_1mfazf4.16.36598-68998.mhRMarxShDH77.sd_117-swt_16-imt_6-t_mhRMarxShDH77-lc_16-fcid_50028-pid_19-pit_1-dit_168",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mfazf4.16.36598-68998.mhRMarxShDH77.sd_117-swt_16-imt_6-t_mhRMarxShDH77-lc_16-fcid_50028-pid_19-pit_1-dit_168",
+            "price_taglist": [],
+            "title": "3双装袜子女中筒情侣款男女欧美街头潮流运动个性学院风全棉长袜",
+            "orgPrice": 26.86,
+            "props": [
+                "长袜",
+                "个性",
+                "情侣款",
+                "运动",
+                "欧美",
+                "学院风",
+                "全棉",
+                "街头",
+                "潮流"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 349,
+            "price": 18.8,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.71",
+                "descDsr": "4.81",
+                "tagDescDsr": "4.77",
+                "tagQualityDsr": "4.76",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.85"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mfazf4&acm=3.ms.1_4_1mfazf4.16.36598-68998.mhRMarxShDH77.sd_117-swt_16-imt_6-t_mhRMarxShDH77-lc_16-fcid_50028-pid_19-pit_1-dit_168&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "美丽家内衣店"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "cid": "2525",
+    "name": "裤子",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mjgsja",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190721_346bkhhi0138g95jkk02bg8ha6agf_640x960.jpg",
+            "iid": "1mjgsja",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjgsja&acm=3.ms.1_1_1mjgsja.46.28074-69000.wzP0NrxRutvDy.ct_1100-sd_117-swt_46-imt_7-c_2_17_515950070_509769001_1_0-t_wzP0NrxRutvDy-lc_17-pit_2-c1_92146_nil_nil_1_509769001_47_0-dit_152&cparam=MTU2NDYyOTE1M18xaDJncjV1X2Q5MTdjZTQ1NjgzMzg4NTVjMWQ0NGVkNzkzNTg4ZDBlXzE3XzBfNTE1OTUwMDcwXzRlODdfMF8xXzBfMTI2XzFfMF9ycy05MjE0Ni5ydC0xLnd0LTA=",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjgsja&acm=3.ms.1_1_1mjgsja.46.28074-69000.wzP0NrxRutvDy.ct_1100-sd_117-swt_46-imt_7-c_2_17_515950070_509769001_1_0-t_wzP0NrxRutvDy-lc_17-pit_2-c1_92146_nil_nil_1_509769001_47_0-dit_152&cparam=MTU2NDYyOTE1M18xaDJncjV1X2Q5MTdjZTQ1NjgzMzg4NTVjMWQ0NGVkNzkzNTg4ZDBlXzE3XzBfNTE1OTUwMDcwXzRlODdfMF8xXzBfMTI2XzFfMF9ycy05MjE0Ni5ydC0xLnd0LTA=",
+            "itemMarks": "188",
+            "acm": "3.ms.1_1_1mjgsja.46.28074-69000.wzP0NrxRutvDy.ct_1100-sd_117-swt_46-imt_7-c_2_17_515950070_509769001_1_0-t_wzP0NrxRutvDy-lc_17-pit_2-c1_92146_nil_nil_1_509769001_47_0-dit_152",
+            "price_taglist": [],
+            "title": "穿上小香风拼色织带衬衫+针织吊带+高腰牛仔短裙三件套套装",
+            "type": 2,
+            "cparam": "MTU2NDYyOTE1M18xaDJncjV1X2Q5MTdjZTQ1NjgzMzg4NTVjMWQ0NGVkNzkzNTg4ZDBlXzE3XzBfNTE1OTUwMDcwXzRlODdfMF8xXzBfMTI2XzFfMF9ycy05MjE0Ni5ydC0xLnd0LTA=",
+            "orgPrice": 42.72,
+            "props": [
+                "针织吊带",
+                "小香风",
+                "高腰"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 25,
+            "price": 29.9,
+            "leftbottom_taglist": [
+                {
+                    "color": "#FFFFFF",
+                    "bgColor": "#FF743C",
+                    "content": "热卖"
+                }
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mjgsja&acm=3.ms.1_1_1mjgsja.46.28074-69000.wzP0NrxRutvDy.ct_1100-sd_117-swt_46-imt_7-c_2_17_515950070_509769001_1_0-t_wzP0NrxRutvDy-lc_17-pit_2-c1_92146_nil_nil_1_509769001_47_0-dit_152&itemType=7",
+            "officialRmdDesc": ""
+        },
+        {
+            "tradeItemId": "1mjlq3g",
+            "itemType": 7,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190726_87h868ddb5k81713334ablj1e24jc_640x960.jpg",
+            "iid": "1mjlq3g",
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjlq3g&acm=3.ms.1_1_1mjlq3g.46.28074-69000.wzP0NrxRutvDy.ct_1100-sd_117-swt_46-imt_7-c_2_17_516032933_510268182_2_0-t_wzP0NrxRutvDy-lc_17-pit_2-c1_92146_nil_nil_1_510268182_31_0-dit_152&cparam=MTU2NDYyOTE1M18xaDJmdnNtX2JiOGY1MjBmNGM5YzIwYWM5OWJmZWM2OTc5Y2JiNDk3XzE3XzFfNTE2MDMyOTMzXzRlOGZfMF8yXzBfMjcwXzFfMF9ycy05MjE0Ni5ydC0xLnd0LTE=",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mjlq3g&acm=3.ms.1_1_1mjlq3g.46.28074-69000.wzP0NrxRutvDy.ct_1100-sd_117-swt_46-imt_7-c_2_17_516032933_510268182_2_0-t_wzP0NrxRutvDy-lc_17-pit_2-c1_92146_nil_nil_1_510268182_31_0-dit_152&cparam=MTU2NDYyOTE1M18xaDJmdnNtX2JiOGY1MjBmNGM5YzIwYWM5OWJmZWM2OTc5Y2JiNDk3XzE3XzFfNTE2MDMyOTMzXzRlOGZfMF8yXzBfMjcwXzFfMF9ycy05MjE0Ni5ydC0xLnd0LTE=",
+            "itemMarks": "1525 188",
+            "acm": "3.ms.1_1_1mjlq3g.46.28074-69000.wzP0NrxRutvDy.ct_1100-sd_117-swt_46-imt_7-c_2_17_516032933_510268182_2_0-t_wzP0NrxRutvDy-lc_17-pit_2-c1_92146_nil_nil_1_510268182_31_0-dit_152",
+            "price_taglist": [],
+            "title": "亲爱的热爱的杨紫佟年同款粉色短款连帽卫2019新款女春秋薄款",
+            "type": 2,
+            "cparam": "MTU2NDYyOTE1M18xaDJmdnNtX2JiOGY1MjBmNGM5YzIwYWM5OWJmZWM2OTc5Y2JiNDk3XzE3XzFfNTE2MDMyOTMzXzRlOGZfMF8yXzBfMjcwXzFfMF9ycy05MjE0Ni5ydC0xLnd0LTE=",
+            "orgPrice": 97.15,
+            "props": [
+                "连帽",
+                "粉色",
+                "短款",
+                "薄款",
+                "同款",
+                "春秋",
+                "新款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 84,
+            "price": 68,
+            "leftbottom_taglist": [
+                {
+                    "color": "#FFFFFF",
+                    "bgColor": "#FF743C",
+                    "content": "热卖"
+                }
+            ],
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mjlq3g&acm=3.ms.1_1_1mjlq3g.46.28074-69000.wzP0NrxRutvDy.ct_1100-sd_117-swt_46-imt_7-c_2_17_516032933_510268182_2_0-t_wzP0NrxRutvDy-lc_17-pit_2-c1_92146_nil_nil_1_510268182_31_0-dit_152&itemType=7",
+            "officialRmdDesc": ""
+        }
+    ]
+}

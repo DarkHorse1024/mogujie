@@ -1,0 +1,765 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "1439nis",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1pomw8",
+                "sellerId": "1439nis"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "樱桃j51tj1",
+                            "avatar": "https://s11.mogucdn.com/mlcdn/5abf39/190718_01eeele0afj5gb4k53b722285a82j_132x132.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190729_1e3j6615i2j82b0216da8c826jg37_511x640.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190729_1e28fg49j9cc7g5914aai6ga9a3ge_590x640.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190729_1cfcadacab0khg0i15llbe4je892b_525x640.jpg"
+                        ],
+                        "rateId": "118nr5e6",
+                        "content": "“料子很不错”“性价比高”“上身效果好”“款式好看”一直在跟这部剧，哈哈，盯上了这件卫衣，没想到一淘就能淘到了，物流很快啊，收到试穿下就洗了，是薄款的不会很厚，天气凉点就可以穿了，布料是棉的试穿的时候很舒服，做工，设计跟图片的一模一样。真的很开心，买到了自己想要的衣服，棒棒棒！",
+                        "created": 1564406755,
+                        "isAnonymous": 0,
+                        "style": "颜色:粉色卫衣 尺码:M ",
+                        "isEmpty": 1,
+                        "explain": "[商家回复]:感谢亲对“美丽众合服饰”的支持与厚爱，我们会再接再厉勇于创新出更加舒适且性价比高的产品。希望亲们多多提及一些好的建议哦谢谢亲们，宝贝收到不合适可以随时联系我们售后客服的哦，我们随时都在您身边，信任，其实很简单，多一点互相理解，给一份互相尊重，交易，在默契中进行，过程，其实可以很浪漫，您编织愉悦，我们传递惊喜！",
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "身高: 165 cm",
+                            "体重: 50 kg",
+                            "是否合身: 合身 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "weight": "50kg",
+                            "height": "165cm",
+                            "desc": "合身 "
+                        }
+                    }
+                ],
+                "cRate": 1,
+                "imgTotal": 1,
+                "rateTags": [],
+                "sales": 10
+            },
+            "itemInfo": {
+                "desc": "亲爱的热爱的杨紫佟年同款粉色短款连帽卫衣服2019新款女春秋薄款",
+                "title": "亲爱的热爱的杨紫佟年同款粉色短款连帽卫2019新款女春秋薄款",
+                "itemId": "1mjlq3g",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 92,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "亲爱的热爱的杨紫佟年同款粉色短款连帽卫2019新款女春秋薄款",
+                    "wap_url": "//m.mogujie.com/x6/detail/1mjlq3g",
+                    "description": "来自蘑菇街优店卫衣_上装_女装_服饰鞋包家亲爱的热爱的杨紫佟年同款粉色短款连帽卫衣服2019新款女春秋薄款的亲爱的热爱的杨紫佟年同款粉色短款连帽卫2019新款女春秋薄款，发现当季女装和美丽众合服饰搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1mjlq3g",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1mjlq3g",
+                    "seo_noindex": "0",
+                    "title": "【亲爱的热爱的杨紫佟年同款粉色短款连帽卫2019新款女春秋薄款】-女装-卫衣_上装_女装_服饰鞋包-美丽众合服饰-蘑菇街优店"
+                },
+                "type": 8,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "modouDiscount": "5",
+                "extra": {
+                    "sales": 10,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "address": "广东广州",
+                    "onSaleTime": 0,
+                    "modouDiscount": "5"
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "97.15",
+                "highPrice": "197.15",
+                "lowNowPrice": "68.00",
+                "highNowPrice": "138.00",
+                "nowTime": 1564634213,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "68",
+                "oldPrice": "97.15起",
+                "highNowPrice": "138",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "限量促销",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "68.00",
+                "normalPrice": "68.00",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564634213,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.8,
+                        "isBetter": true
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.79,
+                        "isBetter": true
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "定制裙装",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296807"
+                    },
+                    {
+                        "name": "定制外套",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296808"
+                    },
+                    {
+                        "name": "定制时尚套装",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296809"
+                    },
+                    {
+                        "name": "定制裤装",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296810"
+                    },
+                    {
+                        "name": "风衣",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296811"
+                    },
+                    {
+                        "name": "毛呢外套",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296812"
+                    },
+                    {
+                        "name": "棒球外套",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296813"
+                    },
+                    {
+                        "name": "开衫毛衣",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296814"
+                    },
+                    {
+                        "name": "马甲",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296816"
+                    },
+                    {
+                        "name": "小西装",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296817"
+                    },
+                    {
+                        "name": "半身裙",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296819"
+                    },
+                    {
+                        "name": "连衣裙",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296820"
+                    },
+                    {
+                        "name": "小脚裤",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296821"
+                    },
+                    {
+                        "name": "牛仔裤",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296822"
+                    },
+                    {
+                        "name": "哈伦裤",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296823"
+                    },
+                    {
+                        "name": "西装裤",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296824"
+                    },
+                    {
+                        "name": "休闲裤",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296825"
+                    },
+                    {
+                        "name": "定制上衣",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296962"
+                    },
+                    {
+                        "name": "T恤",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20296963"
+                    },
+                    {
+                        "name": "衬衫",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20297565"
+                    },
+                    {
+                        "name": "牛仔外套",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20302946"
+                    },
+                    {
+                        "name": "雪纺衫/蕾丝衫",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20309890"
+                    },
+                    {
+                        "name": "卫衣",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20336723"
+                    },
+                    {
+                        "name": "针织衫",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20336960"
+                    },
+                    {
+                        "name": "棉衣/棉服",
+                        "link": "http://shop.mogu.com/1pomw8/list/index?categoryId=20349081"
+                    }
+                ],
+                "cFans": "16718",
+                "cSells": "61075",
+                "isMarked": false,
+                "cGoods": 201,
+                "userId": "1439nis",
+                "shopLogo": "https://s11.mogucdn.com/mlcdn/c45406/180401_0i6j1kj1e1idea59gg7d41fik0bce_640x640.jpg",
+                "name": "美丽众合服饰",
+                "shopId": "1pomw8",
+                "type": 1,
+                "level": 3,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1pomw8",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "亲爱的热爱的杨紫佟年同款粉色短款连帽卫衣服2019新款女春秋薄款",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190726_01def51cb91c0k8bf5e3lhbg504dg_750x450.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190726_1g0fi3i0i5bej63kagae186bdbj50_640x960.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190726_87ha7233ldda735jglkf19i1fikdc_640x960.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190726_3he7ilia4742l7hk0d6ch6b5fk5lj_640x960.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190726_2j6el9fb8lkggdhbdb89464jb5i01_640x960.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190726_39gb276f6ibdd7fg8gl2j76ad2984_640x960.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190726_3072c671ag2gacj868jcah02a4jjb_640x960.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564634213,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s5.mogucdn.com/mlcdn/c45406/190726_5gl9g1il73cghlghd33ed44eij5ag_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190726_7ji8ebgd73h9jcjl2k7g1fbb9h21e_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190726_87h868ddb5k81713334ablj1e24jc_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190726_4aae7670a4cahl8cd1285i44cj690_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190726_0d8f7d28hieglii62daa09ld9cijl_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190726_86ekh244ki0gcf3bg8520kakk80b5_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "亲爱的热爱的杨紫佟年同款粉色短款连帽卫2019新款女春秋薄款",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1mjlq3g&from=share",
+                "imageUrl": "https://s5.mogucdn.com/mlcdn/c45406/190726_5gl9g1il73cghlghd33ed44eij5ag_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "纯色",
+                        "厚薄": "普通",
+                        "颜色": "粉色卫衣,半身裙,套装（卫衣+半身裙）",
+                        "袖型": "其他袖型",
+                        "尺码": "S,XL,L,M",
+                        "衣长": "短款（41-50cm）",
+                        "版型": "宽松",
+                        "季节": "春秋",
+                        "材质": "其他",
+                        "领型": "连帽",
+                        "袖长": "长袖",
+                        "风格": "简约",
+                        "潮流": "韩系"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "desc": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "胸围",
+                                "袖长",
+                                "腰围"
+                            ],
+                            [
+                                "S",
+                                "116",
+                                "51",
+                                "60松紧"
+                            ],
+                            [
+                                "M",
+                                "120",
+                                "52",
+                                "64松紧"
+                            ],
+                            [
+                                "L",
+                                "124",
+                                "53",
+                                "68松紧"
+                            ],
+                            [
+                                "XL",
+                                "128",
+                                "54",
+                                "72松紧"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "68",
+                "oldPrice": "97.15起",
+                "highNowPrice": "138",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "限量促销",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 10",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1mjlq3g",
+                "img": "https://s5.mogucdn.com/mlcdn/c45406/190726_5gl9g1il73cghlghd33ed44eij5ag_640x960.jpg",
+                "isJdItem": false,
+                "title": "亲爱的热爱的杨紫佟年同款粉色短款连帽卫2019新款女春秋薄款",
+                "skus": [
+                    {
+                        "stockId": "11au8xii",
+                        "xdSkuId": "11au8xii",
+                        "price": 11143,
+                        "nowprice": 7800,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190726_3b7l290714ee227j2ll68335dle3c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 499,
+                        "style": "粉色卫衣",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11au8x7a",
+                        "xdSkuId": "11au8x7a",
+                        "price": 11143,
+                        "nowprice": 7800,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190726_3b7l290714ee227j2ll68335dle3c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 499,
+                        "style": "粉色卫衣",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11au8xig",
+                        "xdSkuId": "11au8xig",
+                        "price": 11143,
+                        "nowprice": 7800,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190726_3b7l290714ee227j2ll68335dle3c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 500,
+                        "style": "粉色卫衣",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11au8xik",
+                        "xdSkuId": "11au8xik",
+                        "price": 11143,
+                        "nowprice": 7800,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190726_3b7l290714ee227j2ll68335dle3c_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 499,
+                        "style": "粉色卫衣",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11auc91c",
+                        "xdSkuId": "11auc91c",
+                        "price": 9715,
+                        "nowprice": 6800,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190727_3fgfagk946b230j947404jh6d0ahh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 200,
+                        "style": "半身裙",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11auc91e",
+                        "xdSkuId": "11auc91e",
+                        "price": 9715,
+                        "nowprice": 6800,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190727_3fgfagk946b230j947404jh6d0ahh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 200,
+                        "style": "半身裙",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11auc91g",
+                        "xdSkuId": "11auc91g",
+                        "price": 9715,
+                        "nowprice": 6800,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190727_3fgfagk946b230j947404jh6d0ahh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 200,
+                        "style": "半身裙",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11auc91i",
+                        "xdSkuId": "11auc91i",
+                        "price": 9715,
+                        "nowprice": 6800,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190727_3fgfagk946b230j947404jh6d0ahh_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 200,
+                        "style": "半身裙",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 2,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11auc91m",
+                        "xdSkuId": "11auc91m",
+                        "price": 19715,
+                        "nowprice": 13800,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190727_41507ga0i64fid2h507gk99k01dl9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 199,
+                        "style": "套装（卫衣+半身裙）",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 3,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11auc91k",
+                        "xdSkuId": "11auc91k",
+                        "price": 19715,
+                        "nowprice": 13800,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190727_41507ga0i64fid2h507gk99k01dl9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 196,
+                        "style": "套装（卫衣+半身裙）",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 3,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11auc91o",
+                        "xdSkuId": "11auc91o",
+                        "price": 19715,
+                        "nowprice": 13800,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190727_41507ga0i64fid2h507gk99k01dl9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 200,
+                        "style": "套装（卫衣+半身裙）",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 3,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11auc91q",
+                        "xdSkuId": "11auc91q",
+                        "price": 19715,
+                        "nowprice": 13800,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190727_41507ga0i64fid2h507gk99k01dl9_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 198,
+                        "style": "套装（卫衣+半身裙）",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 3,
+                        "sizeId": 103
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "粉色卫衣",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "半身裙",
+                                "index": 2,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 3,
+                                "name": "套装（卫衣+半身裙）",
+                                "index": 3,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "S",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "M",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "L",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "XL",
+                                "index": 103,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥68.00~¥138.00",
+                "defaultPrice": "¥68.00~¥138.00",
+                "totalStock": 3590,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

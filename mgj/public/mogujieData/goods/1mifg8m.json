@@ -1,0 +1,836 @@
+{
+    "apis": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "12xi69i",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1172v4ju",
+                "sellerId": "12xi69i"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "永琪Bonnie",
+                            "avatar": "https://s11.mogucdn.com/mlcdn/5abf39/180507_567514afdbb869fi6dgchl4450j61_132x132.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190730_04lee2d67ci4a11ac255e3h6cibhl_480x640.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190730_4abg8j92jglbgh37dlel6lj352285_480x640.jpg"
+                        ],
+                        "rateId": "118nzf7w",
+                        "content": "“没有色差”“图片描述一致”“质量好”“卖家服务很好”“包装高大上”“上身效果好”宝贝超级好看，店家服务态度也超级好，下次还会来回购的",
+                        "created": 1564482095,
+                        "isAnonymous": 0,
+                        "style": "颜色:白色连衣裙 尺码:S ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "身高: 160 cm",
+                            "体重: 45 kg",
+                            "是否合身: 合身 "
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "weight": "45kg",
+                            "height": "160cm",
+                            "desc": "合身 "
+                        }
+                    },
+                    {
+                        "user": {
+                            "uname": "甜味白开水200510",
+                            "avatar": "https://s11.mogucdn.com/mlcdn/5abf39/190726_4ej0c9h90g21g7e72a7k0hig1889b_132x132.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190730_522e54fk37cb357kj0ik89dec6ilk_480x640.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190730_4322k10g0ili48e8ii0610ib52gc8_480x640.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190730_6g6d0258ic8lkcj20kl9akhi96464_480x640.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190730_7a6l3g7i4a7ik2l6i9c4j8bbjc0fk_480x640.jpg"
+                        ],
+                        "rateId": "118nv5sa",
+                        "content": "太划算了，物有所值，质量很好，非常漂亮，发货速度快，物流快，整体感觉不错，收到了，超喜欢，和图片一样，质量超好，值得推荐哦",
+                        "created": 1564469616,
+                        "isAnonymous": 0,
+                        "style": "颜色:白色连衣裙 尺码:M ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    }
+                ],
+                "cRate": 32,
+                "imgTotal": 21,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 21,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 13,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 12,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "服务",
+                        "value": "卖家服务很好",
+                        "num": 10,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 9,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "物流",
+                        "value": "物流快",
+                        "num": 9,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 366
+            },
+            "itemInfo": {
+                "desc": "上身炒鸡显气质的小清新连衣裙~",
+                "title": "夏季新款小个子V领刺绣A字短裙系带收腰显瘦气质雪纺连衣裙子女",
+                "itemId": "1mifg8m",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 4939,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "夏季新款小个子V领刺绣A字短裙系带收腰显瘦气质雪纺连衣裙子女",
+                    "wap_url": "//m.mogujie.com/x6/detail/1mifg8m",
+                    "description": "来自蘑菇街优店女装_服饰鞋包_连衣裙_裙子家上身炒鸡显气质的小清新连衣裙~的夏季新款小个子V领刺绣A字短裙系带收腰显瘦气质雪纺连衣裙子女，发现当季女装和素本依搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1mifg8m",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1mifg8m",
+                    "seo_noindex": "0",
+                    "title": "【夏季新款小个子V领刺绣A字短裙系带收腰显瘦气质雪纺连衣裙子女】-女装-女装_服饰鞋包_连衣裙_裙子-素本依-蘑菇街优店"
+                },
+                "type": 8,
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 367,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "127.15",
+                "highPrice": "127.15",
+                "lowNowPrice": "89.00",
+                "highNowPrice": "89.00",
+                "nowTime": 1564640052,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "89.00",
+                "oldPrice": "127.15",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "7折",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "89.00",
+                "normalPrice": "89.00",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564640052,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.72,
+                        "isBetter": false
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.71,
+                        "isBetter": false
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "连衣裙",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20308177"
+                    },
+                    {
+                        "name": "时尚套装",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20308178"
+                    },
+                    {
+                        "name": "外套",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20308179"
+                    },
+                    {
+                        "name": "上装",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20308180"
+                    },
+                    {
+                        "name": "新品上架",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20308183"
+                    },
+                    {
+                        "name": "卫衣",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20308193"
+                    },
+                    {
+                        "name": "衬衫/雪纺衫",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20308194"
+                    },
+                    {
+                        "name": "棒球服",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20339811"
+                    },
+                    {
+                        "name": "牛仔外套",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20339812"
+                    },
+                    {
+                        "name": "风衣",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20339813"
+                    },
+                    {
+                        "name": "夹克",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20339814"
+                    },
+                    {
+                        "name": "毛针织衫",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20344863"
+                    },
+                    {
+                        "name": "棉羽绒服",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20344864"
+                    },
+                    {
+                        "name": "毛呢大衣",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20344887"
+                    },
+                    {
+                        "name": "秋冬爆款",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20349847"
+                    },
+                    {
+                        "name": "新品推荐",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20349848"
+                    },
+                    {
+                        "name": "特惠专区",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20349849"
+                    },
+                    {
+                        "name": "T恤",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20362320"
+                    },
+                    {
+                        "name": "牛仔裤/休闲裤",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20362321"
+                    },
+                    {
+                        "name": "半身裙",
+                        "link": "http://shop.mogu.com/1172v4ju/list/index?categoryId=20363891"
+                    }
+                ],
+                "cFans": "47436",
+                "cSells": "30.9万",
+                "isMarked": false,
+                "cGoods": 476,
+                "userId": "12xi69i",
+                "shopLogo": "https://s5.mogucdn.com/mlcdn/c45406/180328_5kh9kf82d35eg9c7409gk0a5b6ed3_200x200.jpg",
+                "name": "素本依",
+                "shopId": "1172v4ju",
+                "type": 1,
+                "level": 4,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1172v4ju",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "collcationSet": {
+                "itemId": "1mifg8m",
+                "sellerId": "12xi69i",
+                "collcationSetList": [
+                    {
+                        "name": "套餐一",
+                        "promotionMark": "collocationSet_700016941693",
+                        "campaignId": 700016941693,
+                        "collocationSetItemGroupDTOs": [
+                            {
+                                "img": "https://s5.mogucdn.com/mlcdn/c45406/190421_62lf0ce83lchae37be5hd9jhh27d7_640x960.jpg",
+                                "title": "夏季新款小个子气质性感沙滩裙收腰显瘦喇叭袖A字裙雪纺连衣裙子",
+                                "itemId": 678362460,
+                                "iid": "1mfrbow",
+                                "proPrice": 9800,
+                                "originalPrice": 14143,
+                                "defaultPrice": "¥98",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1381677450,
+                                        "proPrice": 9800
+                                    },
+                                    {
+                                        "stockId": 1381677451,
+                                        "proPrice": 9800
+                                    },
+                                    {
+                                        "stockId": 1381677448,
+                                        "proPrice": 9800
+                                    },
+                                    {
+                                        "stockId": 1381677449,
+                                        "proPrice": 9800
+                                    },
+                                    {
+                                        "stockId": 1381677447,
+                                        "proPrice": 9800
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/c45406/190421_42l488d7b8cbh8c3k36fhhb5eha6a_790x1121.jpg",
+                                "title": "夏季新款气质小个子性感露肩A字裙收腰显瘦印花雪纺连衣裙子女",
+                                "itemId": 678366796,
+                                "iid": "1mfrids",
+                                "proPrice": 8800,
+                                "originalPrice": 12715,
+                                "defaultPrice": "¥88",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1381729145,
+                                        "proPrice": 8800
+                                    },
+                                    {
+                                        "stockId": 1381729144,
+                                        "proPrice": 8800
+                                    },
+                                    {
+                                        "stockId": 1381729143,
+                                        "proPrice": 8800
+                                    },
+                                    {
+                                        "stockId": 1381729142,
+                                        "proPrice": 8800
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/c45406/190406_7c4lk4kkh9l93j3ljhkj0jbe6blj4_640x960.jpg",
+                                "title": "夏季新款小个子性感气质收腰显瘦A字裙喇叭袖镂空雪纺连衣裙子女",
+                                "itemId": 677976831,
+                                "iid": "1mfasl2",
+                                "proPrice": 8800,
+                                "originalPrice": 12715,
+                                "defaultPrice": "¥88",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1376640144,
+                                        "proPrice": 8800
+                                    },
+                                    {
+                                        "stockId": 1376640143,
+                                        "proPrice": 8800
+                                    },
+                                    {
+                                        "stockId": 1376640142,
+                                        "proPrice": 8800
+                                    },
+                                    {
+                                        "stockId": 1376640141,
+                                        "proPrice": 8800
+                                    }
+                                ]
+                            },
+                            {
+                                "img": "https://s11.mogucdn.com/mlcdn/c45406/190617_2h633e57adb88i2c4aba55k5edcdl_640x960.jpg",
+                                "title": "夏季新款小个子V领刺绣A字短裙系带收腰显瘦气质雪纺连衣裙子女",
+                                "itemId": 680604895,
+                                "iid": "1mifg8m",
+                                "proPrice": 8800,
+                                "originalPrice": 12715,
+                                "defaultPrice": "¥88",
+                                "collocationSetSkuDTOs": [
+                                    {
+                                        "stockId": 1402666744,
+                                        "proPrice": 8800
+                                    },
+                                    {
+                                        "stockId": 1402666741,
+                                        "proPrice": 8800
+                                    },
+                                    {
+                                        "stockId": 1402666743,
+                                        "proPrice": 8800
+                                    },
+                                    {
+                                        "stockId": 1402666742,
+                                        "proPrice": 8800
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "detailInfo": {
+                "splitDetailImage": false,
+                "desc": "上身炒鸡显气质的小清新连衣裙~",
+                "shopDecorate": {
+                    "img": "https://s5.mogucdn.com/mlcdn/c45406/190420_2i1lf16hk8762fefe4677l7c6f74i_1125x405.jpg",
+                    "link": "http://m.mogujie.com/v8/meili/shopCustom?shopid=1172v4ju&templateId=1eeca&templateType=1",
+                    "xcxLink": "/pages/shop/custom/index?shopId=1172v4ju&templateId=1eeca"
+                },
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190616_7eig70c77cbalhejjlj0be2i36i7d_750x674.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190617_7h662b12hkd8bb502j6801l3b3iae_790x1073.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190617_88ejk69h0gebek2cd3jf5jhb1ha2k_790x843.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190617_5j2ck5kkg12khh5627i7fba13fkcg_790x1038.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190617_1bhdekbf6965b4kcke45kf8ehl8k5_790x998.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190617_62h5ecj9kig9f1ce9l96h38kl45a6_790x860.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190617_4e19ldijgi4jklcd9i9i9e5c2gfkc_790x1029.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190617_717cc0bfcjcg64g94faghl0i0el64_790x730.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "整体款式",
+                        "anchor": "baipai_img2",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190617_5jjhb818h55hh89bh947eaca4if56_790x1067.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190617_16b1ae41cj91edjfihed320e33bk5_790x933.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190617_8e2c9ebfjh3cd8b50cd6b1099k24k_790x986.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190617_16j8c2hiaigje6h2f49gfh95k9fjj_790x994.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564640052,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s11.mogucdn.com/mlcdn/c45406/190617_2h633e57adb88i2c4aba55k5edcdl_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190617_44d5ecfbd7l05hd4cjiabe8j2254c_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190617_192hl6297d30jkf7if3f432f1e624_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190617_227k74i2l34f7el08c9jibja98hf1_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190617_4ibbjelfa978b89ghe7191k1hgjlf_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "夏季新款小个子V领刺绣A字短裙系带收腰显瘦气质雪纺连衣裙子女",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1mifg8m&from=share",
+                "imageUrl": "https://s11.mogucdn.com/mlcdn/c45406/190617_2h633e57adb88i2c4aba55k5edcdl_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "色块",
+                        "裙型": "A字裙",
+                        "颜色": "白色连衣裙",
+                        "开衩": "低开衩",
+                        "袖型": "喇叭袖",
+                        "衣门襟": "套头",
+                        "摆型": "常规",
+                        "腰型": "高腰",
+                        "尺码": "S,XL,L,M",
+                        "版型": "A型",
+                        "季节": "夏季",
+                        "材质": "雪纺",
+                        "组合形式": "单件",
+                        "领型": "V领",
+                        "元素": "荷叶边,多层,系带,面料拼接,蝴蝶结",
+                        "裙长": "短裙（76-90cm）",
+                        "袖长": "七分袖",
+                        "风格": "甜美",
+                        "潮流": "韩系"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "desc": "尺码为随机测量，因手工测量误差难免，个人测量方法不一样，批次问题等，误差在2~3公分为正常现象。具体穿什么码数可以问我们家客服哦",
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "裙长",
+                                "肩宽",
+                                "腰围",
+                                "胸围",
+                                "袖长"
+                            ],
+                            [
+                                "S",
+                                "85",
+                                "36",
+                                "63",
+                                "100",
+                                "38"
+                            ],
+                            [
+                                "M",
+                                "86",
+                                "37",
+                                "67",
+                                "104",
+                                "39"
+                            ],
+                            [
+                                "L",
+                                "87",
+                                "38",
+                                "71",
+                                "108",
+                                "40"
+                            ],
+                            [
+                                "XL",
+                                "88",
+                                "39",
+                                "75",
+                                "112",
+                                "41"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "89.00",
+                "oldPrice": "127.15",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "7折",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 367",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1mifg8m",
+                "img": "https://s11.mogucdn.com/mlcdn/c45406/190617_2h633e57adb88i2c4aba55k5edcdl_640x960.jpg",
+                "isJdItem": false,
+                "title": "夏季新款小个子V领刺绣A字短裙系带收腰显瘦气质雪纺连衣裙子女",
+                "skus": [
+                    {
+                        "stockId": "11ae817o",
+                        "xdSkuId": "11ae817o",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190617_23k84ec3lb9hlh0f8kcd2j9gf60g2_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 2871,
+                        "style": "白色连衣裙",
+                        "color": "",
+                        "size": "S",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11ae817q",
+                        "xdSkuId": "11ae817q",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190617_23k84ec3lb9hlh0f8kcd2j9gf60g2_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 2859,
+                        "style": "白色连衣裙",
+                        "color": "",
+                        "size": "M",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11ae817m",
+                        "xdSkuId": "11ae817m",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190617_23k84ec3lb9hlh0f8kcd2j9gf60g2_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 2940,
+                        "style": "白色连衣裙",
+                        "color": "",
+                        "size": "L",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11ae817s",
+                        "xdSkuId": "11ae817s",
+                        "price": 12715,
+                        "nowprice": 8900,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190617_23k84ec3lb9hlh0f8kcd2j9gf60g2_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 2974,
+                        "style": "白色连衣裙",
+                        "color": "",
+                        "size": "XL",
+                        "styleId": 1,
+                        "sizeId": 103
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "白色连衣裙",
+                                "index": 1,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "S",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "M",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "L",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "XL",
+                                "index": 103,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥89.00",
+                "defaultPrice": "¥89.00",
+                "totalStock": 11644,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

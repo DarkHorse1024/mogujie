@@ -1,0 +1,785 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "141n6ec",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1pje0w",
+                "sellerId": "141n6ec"
+            },
+            "rateInfo": {
+                "cRate": 0,
+                "imgTotal": 0,
+                "sales": 17
+            },
+            "itemInfo": {
+                "desc": "印花连衣裙\n采用菱形麻面料，手感顺滑舒适有垂坠感 无弹力\n今年大火的闺蜜装连衣裙，本期同花色还有一款短上衣\n前片大V领的设计，修饰脸型与脖颈，\n \n泡泡袖型，高腰线设计，拉长视觉比例，\n宽腰带设计，腰带可拆卸，\n腰部有弹力松紧，穿脱方便舒适\n大裙摆，有里料白色的也不用担心走光哦\n经典又时尚的黑白配色美腻不挑人！",
+                "title": "大码连衣裙遮肉显瘦 甜美款胖MM大码连衣裙 夏季品牌大码女装",
+                "itemId": "1migaey",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 103,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "大码连衣裙遮肉显瘦 甜美款胖MM大码连衣裙 夏季品牌大码女装",
+                    "wap_url": "//m.mogujie.com/x6/detail/1migaey",
+                    "description": "来自蘑菇街优店女装_服饰鞋包_连衣裙_裙子家印花连衣裙\n采用菱形麻面料，手感顺滑舒适有垂坠感 无弹力\n今年大火的闺蜜装连衣裙，本期同花色还有一款短上衣\n前片大V领的设计，修饰脸型与脖颈，\n \n泡泡袖型，高腰线设计，拉长视觉比例，\n宽腰带设计，腰带可拆卸，\n腰部有弹力松紧，穿脱方便舒适\n大裙摆，有里料白色的也不用担心走光哦\n经典又时尚的黑白配色美腻不挑人！的大码连衣裙遮肉显瘦 甜美款胖MM大码连衣裙 夏季品牌大码女装，发现当季女装和X.R Wardrobe 新然衣橱搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1migaey",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1migaey",
+                    "seo_noindex": "0",
+                    "title": "【大码连衣裙遮肉显瘦 甜美款胖MM大码连衣裙 夏季品牌大码女装】-女装-女装_服饰鞋包_连衣裙_裙子-X.R Wardrobe 新然衣橱-蘑菇街优店"
+                },
+                "type": 8,
+                "video": {
+                    "cover": "https://s11.mogucdn.com/mlcdn/c45406/190618_2237c1g4099bkhifbd97aac0b0e27_640x853.jpg",
+                    "videoId": 1498535,
+                    "width": 1280,
+                    "height": 1280
+                },
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 17,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "184.00",
+                "highPrice": "184.00",
+                "lowNowPrice": "128.80",
+                "highNowPrice": "128.80",
+                "nowTime": 1564640006,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "128.80",
+                "oldPrice": "184.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "活动中",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "128.80",
+                "normalPrice": "128.80",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564640006,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.77,
+                        "isBetter": true
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.75,
+                        "isBetter": true
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "春/秋款",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=1385615"
+                    },
+                    {
+                        "name": "冬装",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20253085"
+                    },
+                    {
+                        "name": "上衣",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258042"
+                    },
+                    {
+                        "name": "毛衣/针织衫",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258043"
+                    },
+                    {
+                        "name": "T恤",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258044"
+                    },
+                    {
+                        "name": "衬衫",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258045"
+                    },
+                    {
+                        "name": "卫衣",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258046"
+                    },
+                    {
+                        "name": "外套",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258047"
+                    },
+                    {
+                        "name": "羽绒服/棉服",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258048"
+                    },
+                    {
+                        "name": "牛仔外套",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258049"
+                    },
+                    {
+                        "name": "马甲",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258050"
+                    },
+                    {
+                        "name": "西服外套",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258051"
+                    },
+                    {
+                        "name": "毛呢外套",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258052"
+                    },
+                    {
+                        "name": "风衣",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258053"
+                    },
+                    {
+                        "name": "皮衣/皮草",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258054"
+                    },
+                    {
+                        "name": "蕾丝衫/雪纺衫",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258055"
+                    },
+                    {
+                        "name": "裤子",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258056"
+                    },
+                    {
+                        "name": "牛仔裤",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258057"
+                    },
+                    {
+                        "name": "背带裤",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258058"
+                    },
+                    {
+                        "name": "正装/西裤",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258059"
+                    },
+                    {
+                        "name": "运动裤",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258060"
+                    },
+                    {
+                        "name": "打底裤",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258064"
+                    },
+                    {
+                        "name": "短裤",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258066"
+                    },
+                    {
+                        "name": "裙子",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258068"
+                    },
+                    {
+                        "name": "连衣裙",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258069"
+                    },
+                    {
+                        "name": "半身裙",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258070"
+                    },
+                    {
+                        "name": "背带裙",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258071"
+                    },
+                    {
+                        "name": "棒球外套",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258073"
+                    },
+                    {
+                        "name": "其它外套",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258074"
+                    },
+                    {
+                        "name": "阔腿裤",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258075"
+                    },
+                    {
+                        "name": "套装",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258076"
+                    },
+                    {
+                        "name": "衣裙套装",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258077"
+                    },
+                    {
+                        "name": "衣裤套装",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258078"
+                    },
+                    {
+                        "name": "运动套装",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258079"
+                    },
+                    {
+                        "name": "夏款",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258080"
+                    },
+                    {
+                        "name": "内衣",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258082"
+                    },
+                    {
+                        "name": "文胸",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258083"
+                    },
+                    {
+                        "name": "吊带/抹胸",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258084"
+                    },
+                    {
+                        "name": "裤袜",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258085"
+                    },
+                    {
+                        "name": "睡衣/家居服",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258096"
+                    },
+                    {
+                        "name": "塑身衣",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258098"
+                    },
+                    {
+                        "name": "连体裤",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258167"
+                    },
+                    {
+                        "name": "保暖内衣",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20258183"
+                    },
+                    {
+                        "name": "泳装",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20294185"
+                    },
+                    {
+                        "name": "休闲裤",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20310337"
+                    },
+                    {
+                        "name": "搭配商品",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20322830"
+                    },
+                    {
+                        "name": "内裤",
+                        "link": "http://shop.mogu.com/1pje0w/list/index?categoryId=20345734"
+                    }
+                ],
+                "cFans": "35586",
+                "cSells": "24331",
+                "isMarked": false,
+                "cGoods": 484,
+                "userId": "141n6ec",
+                "shopLogo": "https://s5.mogucdn.com/p1/151201/20tl6e_ie3wgytcmyzdkmrtguzdambqgayde_200x200.jpg",
+                "name": "X.R Wardrobe 新然衣橱",
+                "shopId": "1pje0w",
+                "type": 1,
+                "level": 4,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1pje0w",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "印花连衣裙\n采用菱形麻面料，手感顺滑舒适有垂坠感 无弹力\n今年大火的闺蜜装连衣裙，本期同花色还有一款短上衣\n前片大V领的设计，修饰脸型与脖颈，\n \n泡泡袖型，高腰线设计，拉长视觉比例，\n宽腰带设计，腰带可拆卸，\n腰部有弹力松紧，穿脱方便舒适\n大裙摆，有里料白色的也不用担心走光哦\n经典又时尚的黑白配色美腻不挑人！",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/190618_5k99cdk48i5ibi7dcfa415l73085k_750x644.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190618_076b7cj5j7968l86hkh09gag6h2ah_750x531.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190618_5i8bjll4l8fiihc66856jd9be494b_750x951.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190618_0k4a4iea0cfck3922454lh43cbei5_750x719.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190618_82d505c6aj8cl843jkfj589b9ld70_750x782.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190618_7bggckccj10193cg24f359a6lj6fb_750x670.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190618_6jk9iec00ceke401k6k1fkgbk3cil_750x671.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190618_07i244b1h9j91861dh78id8d8b9ak_750x746.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190618_5gke3h4d8gelakdbackg5bbcfb20d_750x809.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190618_16g4a63kl3b6cejife148kf3c44cl_750x664.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190618_1gkalkbffbll3h3a0c76lf7jil93e_750x822.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190618_5l0c02ljj13c81b719ib0l7ja56ei_750x822.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190618_3ie6209hf94gjd80c5f7k6a1a1g1j_750x636.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190618_2542kd241572e7g3a057e7kg56lll_750x706.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190618_6370g0k06k74251kdj2c04laab25e_750x546.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190618_1f4gal3a4b6ihk10i0823d47b0hla_750x660.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "细节做工",
+                        "anchor": "detail_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190618_754ae110cjci1fce457be2fc622i4_750x854.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190618_66l87a5ee8ch5b589jk8g3fhd6gda_750x482.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190618_03h6jba129ghei8eglh6cl007id5a_750x481.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190618_6gdcj2gi49220ld0dbe0i2gg2c09a_750x482.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190618_5k655delkjiea0jgcf1cgl4blb705_750x482.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190618_5kkab680b8ih90kfg51j9l110cb09_750x650.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190618_2d9l67h950gd4c4309d36cgdklja4_750x506.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190618_5l654cb6kck7d1gbaf4h1lkaeaj69_750x402.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564640006,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s11.mogucdn.com/mlcdn/c45406/190618_28gk20gci0eij6h8ej7eehl4ih302_640x853.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190618_00a90170e51fdag9bae749h6f71je_640x853.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190618_4d2dl070944932ijiel8c3gl6d0kl_640x853.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/190618_1baa388ge9c3k2hjd9f0a6ah3igbg_800x800.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/190618_53bk74cb0bgbh1k2aehfakg8g539e_640x853.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "大码连衣裙遮肉显瘦 甜美款胖MM大码连衣裙 夏季品牌大码女装",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1migaey&from=share",
+                "imageUrl": "https://s11.mogucdn.com/mlcdn/c45406/190618_28gk20gci0eij6h8ej7eehl4ih302_640x853.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "抽象图案",
+                        "裙型": "A字裙",
+                        "颜色": "黑底白花,白底黑花",
+                        "腰型": "高腰",
+                        "尺码": "2XL【150-170斤】,4XL【190-230斤】,XL【120-150斤】,3XL【170-190斤】",
+                        "季节": "夏季",
+                        "材质": "棉麻",
+                        "组合形式": "单件",
+                        "领型": "V领",
+                        "裙长": "中裙（91-105cm）",
+                        "袖长": "短袖",
+                        "风格": "通勤（OL）"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "desc": "XL 衣长95 胸围104 肩宽37 袖长26 腰围78-100 建议130-150\nXXL 衣长97 胸围112 肩宽39 袖长26.5 腰围87-108 建议150-170\n3XL 衣长99 胸围120 肩宽41 袖长27 腰围94-116 建议170-190\n4XL 衣长101 胸围128 肩宽43 袖长27.5 腰围101-124 建议190-220",
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "裙长",
+                                "肩宽",
+                                "胸围",
+                                "袖长"
+                            ],
+                            [
+                                "XL【120-150斤】",
+                                "95",
+                                "37",
+                                "104",
+                                "26"
+                            ],
+                            [
+                                "2XL【150-170斤】",
+                                "97",
+                                "39",
+                                "112",
+                                "26.5"
+                            ],
+                            [
+                                "3XL【170-190斤】",
+                                "99",
+                                "41",
+                                "120",
+                                "27"
+                            ],
+                            [
+                                "4XL【190-230斤】",
+                                "101",
+                                "43",
+                                "128",
+                                "27.5"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "128.80",
+                "oldPrice": "184.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "活动中",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 17",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1migaey",
+                "img": "https://s11.mogucdn.com/mlcdn/c45406/190618_28gk20gci0eij6h8ej7eehl4ih302_640x853.jpg",
+                "isJdItem": false,
+                "title": "大码连衣裙遮肉显瘦 甜美款胖MM大码连衣裙 夏季品牌大码女装",
+                "skus": [
+                    {
+                        "stockId": "11aefyyo",
+                        "xdSkuId": "11aefyyo",
+                        "price": 18400,
+                        "nowprice": 12880,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190618_53c885l56iaefea832iglb7elb9fa_640x853.jpg",
+                        "currency": "¥",
+                        "stock": 43,
+                        "style": "黑底白花",
+                        "color": "",
+                        "size": "XL【120-150斤】",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11aefyyq",
+                        "xdSkuId": "11aefyyq",
+                        "price": 18400,
+                        "nowprice": 12880,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190618_53c885l56iaefea832iglb7elb9fa_640x853.jpg",
+                        "currency": "¥",
+                        "stock": 46,
+                        "style": "黑底白花",
+                        "color": "",
+                        "size": "2XL【150-170斤】",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11aefyys",
+                        "xdSkuId": "11aefyys",
+                        "price": 18400,
+                        "nowprice": 12880,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190618_53c885l56iaefea832iglb7elb9fa_640x853.jpg",
+                        "currency": "¥",
+                        "stock": 47,
+                        "style": "黑底白花",
+                        "color": "",
+                        "size": "3XL【170-190斤】",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11aefyyu",
+                        "xdSkuId": "11aefyyu",
+                        "price": 18400,
+                        "nowprice": 12880,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/190618_53c885l56iaefea832iglb7elb9fa_640x853.jpg",
+                        "currency": "¥",
+                        "stock": 47,
+                        "style": "黑底白花",
+                        "color": "",
+                        "size": "4XL【190-230斤】",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "11aefyyw",
+                        "xdSkuId": "11aefyyw",
+                        "price": 18400,
+                        "nowprice": 12880,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190618_217l23ke9khl7fjekiej3cgekah67_640x853.jpg",
+                        "currency": "¥",
+                        "stock": 47,
+                        "style": "白底黑花",
+                        "color": "",
+                        "size": "XL【120-150斤】",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "11aefyyy",
+                        "xdSkuId": "11aefyyy",
+                        "price": 18400,
+                        "nowprice": 12880,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190618_217l23ke9khl7fjekiej3cgekah67_640x853.jpg",
+                        "currency": "¥",
+                        "stock": 45,
+                        "style": "白底黑花",
+                        "color": "",
+                        "size": "2XL【150-170斤】",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "11aefyz0",
+                        "xdSkuId": "11aefyz0",
+                        "price": 18400,
+                        "nowprice": 12880,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190618_217l23ke9khl7fjekiej3cgekah67_640x853.jpg",
+                        "currency": "¥",
+                        "stock": 48,
+                        "style": "白底黑花",
+                        "color": "",
+                        "size": "3XL【170-190斤】",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "11aefyz2",
+                        "xdSkuId": "11aefyz2",
+                        "price": 18400,
+                        "nowprice": 12880,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/190618_217l23ke9khl7fjekiej3cgekah67_640x853.jpg",
+                        "currency": "¥",
+                        "stock": 46,
+                        "style": "白底黑花",
+                        "color": "",
+                        "size": "4XL【190-230斤】",
+                        "styleId": 2,
+                        "sizeId": 103
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "黑底白花",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "白底黑花",
+                                "index": 2,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "XL【120-150斤】",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "2XL【150-170斤】",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "3XL【170-190斤】",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "4XL【190-230斤】",
+                                "index": 103,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥128.80",
+                "defaultPrice": "¥128.80",
+                "totalStock": 369,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

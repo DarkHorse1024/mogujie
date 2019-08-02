@@ -1,0 +1,105 @@
+{
+    "cid": "340117",
+    "name": "文胸",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mcvge6",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/181224_53b54ieb328g24eb5836gc0iad3i1_640x960.jpg",
+            "originalPrice": 42.72,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mcvge6&acm=3.ms.1_4_1mcvge6.16.36598-68998.1vjqLrxSgw7bK.sd_117-swt_16-imt_6-t_1vjqLrxSgw7bK-lc_16-fcid_50031-pid_19-pit_1-dit_170",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mcvge6&acm=3.ms.1_4_1mcvge6.16.36598-68998.1vjqLrxSgw7bK.sd_117-swt_16-imt_6-t_1vjqLrxSgw7bK-lc_16-fcid_50031-pid_19-pit_1-dit_170",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mcvge6.16.36598-68998.1vjqLrxSgw7bK.sd_117-swt_16-imt_6-t_1vjqLrxSgw7bK-lc_16-fcid_50031-pid_19-pit_1-dit_170",
+            "price_taglist": [],
+            "title": "加厚小胸罩蕾丝内衣内裤套装少女性感聚拢款无钢圈文胸收副乳上托",
+            "orgPrice": 42.72,
+            "props": [
+                "无钢圈文胸",
+                "副乳",
+                "聚拢",
+                "性感",
+                "蕾丝",
+                "加厚"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 7946,
+            "price": 29.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.71",
+                "descDsr": "4.71",
+                "tagDescDsr": "4.77",
+                "tagQualityDsr": "4.76",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.88"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mcvge6&acm=3.ms.1_4_1mcvge6.16.36598-68998.1vjqLrxSgw7bK.sd_117-swt_16-imt_6-t_1vjqLrxSgw7bK-lc_16-fcid_50031-pid_19-pit_1-dit_170&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "衣橱D秘密"
+        },
+        {
+            "tradeItemId": "1mcc00e",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/181207_4a3c6ilia36h9d14gia3ehjl588ja_800x1200.jpg",
+            "originalPrice": 42.71,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mcc00e&acm=3.ms.1_4_1mcc00e.16.36598-68998.1vjqLrxSgw7bK.sd_117-swt_16-imt_6-t_1vjqLrxSgw7bK-lc_16-fcid_50031-pid_19-pit_1-dit_170",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mcc00e&acm=3.ms.1_4_1mcc00e.16.36598-68998.1vjqLrxSgw7bK.sd_117-swt_16-imt_6-t_1vjqLrxSgw7bK-lc_16-fcid_50031-pid_19-pit_1-dit_170",
+            "itemMarks": "188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mcc00e.16.36598-68998.1vjqLrxSgw7bK.sd_117-swt_16-imt_6-t_1vjqLrxSgw7bK-lc_16-fcid_50031-pid_19-pit_1-dit_170",
+            "price_taglist": [],
+            "title": "前系带内衣女绑带式无钢圈款聚拢上托小胸收副乳防下垂加厚款文胸罩",
+            "orgPrice": 42.71,
+            "props": [
+                "文胸罩",
+                "副乳",
+                "无钢圈",
+                "聚拢",
+                "防下垂",
+                "加厚款",
+                "绑带式"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 4761,
+            "price": 29.89,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.71",
+                "descDsr": "4.71",
+                "tagDescDsr": "4.77",
+                "tagQualityDsr": "4.76",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.88"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mcc00e&acm=3.ms.1_4_1mcc00e.16.36598-68998.1vjqLrxSgw7bK.sd_117-swt_16-imt_6-t_1vjqLrxSgw7bK-lc_16-fcid_50031-pid_19-pit_1-dit_170&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "衣橱D秘密"
+        }
+    ]
+}

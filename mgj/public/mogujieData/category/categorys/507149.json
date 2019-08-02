@@ -1,0 +1,107 @@
+{
+    "cid": "507149",
+    "name": "chic韩范",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1kehc56",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190220_6id0gcbb5545alc8kk0lh3g2k6gih_640x960.jpg",
+            "originalPrice": 42.72,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1kehc56&acm=3.ms.1_4_1kehc56.16.36598-69000.wzP0NrxS4tG7z.sd_117-swt_16-imt_6-t_wzP0NrxS4tG7z-lc_16-fcid_20004452-pid_180-pit_1-dit_152",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1kehc56&acm=3.ms.1_4_1kehc56.16.36598-69000.wzP0NrxS4tG7z.sd_117-swt_16-imt_6-t_wzP0NrxS4tG7z-lc_16-fcid_20004452-pid_180-pit_1-dit_152",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1kehc56.16.36598-69000.wzP0NrxS4tG7z.sd_117-swt_16-imt_6-t_wzP0NrxS4tG7z-lc_16-fcid_20004452-pid_180-pit_1-dit_152",
+            "price_taglist": [],
+            "title": "韩版夏季新款t恤短袖女纯色V领基础款宽松白色圆领体恤女上衣",
+            "orgPrice": 42.72,
+            "props": [
+                "夏季新款t恤",
+                "短袖",
+                "基础",
+                "v领",
+                "宽松",
+                "白色",
+                "纯色",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 18104,
+            "price": 29.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.70",
+                "descDsr": "4.69",
+                "tagDescDsr": "4.75",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.87"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1kehc56&acm=3.ms.1_4_1kehc56.16.36598-69000.wzP0NrxS4tG7z.sd_117-swt_16-imt_6-t_wzP0NrxS4tG7z-lc_16-fcid_20004452-pid_180-pit_1-dit_152&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "绮叶小蘑菇"
+        },
+        {
+            "tradeItemId": "1mf12l8",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/55cf19/190328_765c2df53g656iglg2hdj4kh02did_640x960.jpg",
+            "originalPrice": 28.43,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mf12l8&acm=3.ms.1_4_1mf12l8.16.36598-69000.wzP0NrxS4tG7z.sd_117-swt_16-imt_6-t_wzP0NrxS4tG7z-lc_16-fcid_20004452-pid_180-pit_1-dit_152",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mf12l8&acm=3.ms.1_4_1mf12l8.16.36598-69000.wzP0NrxS4tG7z.sd_117-swt_16-imt_6-t_wzP0NrxS4tG7z-lc_16-fcid_20004452-pid_180-pit_1-dit_152",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mf12l8.16.36598-69000.wzP0NrxS4tG7z.sd_117-swt_16-imt_6-t_wzP0NrxS4tG7z-lc_16-fcid_20004452-pid_180-pit_1-dit_152",
+            "price_taglist": [],
+            "title": "夏季韩版宽松百搭学生字母短袖T恤ins网红款半袖慵懒风上衣潮",
+            "orgPrice": 28.43,
+            "props": [
+                "字母短袖t恤",
+                "半袖",
+                "宽松",
+                "百搭",
+                "网红款",
+                "夏季",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 7019,
+            "price": 19.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.54",
+                "descDsr": "4.54",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.82"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mf12l8&acm=3.ms.1_4_1mf12l8.16.36598-69000.wzP0NrxS4tG7z.sd_117-swt_16-imt_6-t_wzP0NrxS4tG7z-lc_16-fcid_20004452-pid_180-pit_1-dit_152&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "伊诗衣柜"
+        }
+    ]
+}

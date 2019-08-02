@@ -1,0 +1,1156 @@
+{
+    "api": "http.detail.api",
+    "v": "1",
+    "ret": "SUCCESS",
+    "data": {
+        "status": {
+            "code": 1001,
+            "msg": ""
+        },
+        "result": {
+            "userInfo": {
+                "userId": "12vzolo",
+                "isLogin": false,
+                "isSelf": false,
+                "admin": false,
+                "shopId": "1p03kg",
+                "sellerId": "12vzolo"
+            },
+            "rateInfo": {
+                "list": [
+                    {
+                        "user": {
+                            "uname": "w***n",
+                            "avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrtgyjxmjrwgntfguzdambqhayde_160x160.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190723_28aig144lla4id9hi61fb63767de5_480x640.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190723_0g792ah93l5i9g28b90hf1jakge8g_640x480.jpg"
+                        ],
+                        "rateId": "118mbrr8",
+                        "content": "跟想象的一样好看今天到了明天穿原谅我不会拍照",
+                        "created": 1563892257,
+                        "isAnonymous": 1,
+                        "style": "颜色:黑色 尺码:37 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "extraInfo": [
+                            "是否合脚: 合脚"
+                        ],
+                        "isBuyerShow": false,
+                        "sizeInfo": {
+                            "desc": "合脚"
+                        }
+                    },
+                    {
+                        "user": {
+                            "uname": "Y丫丫678",
+                            "avatar": "https://s11.mogucdn.com/new1/v1/bdefaultavatar/06.jpg",
+                            "profileUrl": ""
+                        },
+                        "images": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/190722_4heeiaaejklkh51cf4d937fb16lia_3000x4000.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190722_00h25j29d367k1da0127dc87cfjld_3000x4000.jpg"
+                        ],
+                        "rateId": "118ltp1s",
+                        "content": "收到货真的失望鞋的版型不好看显脚宽做工还不行，穿出去几个小时脚后跟疼死了，和客服说了，说赔十块钱就算了结果差不多两个星期了还没收到\uD83D\uDE21大家还是引以为戒！磨脚",
+                        "created": 1563788127,
+                        "isAnonymous": 0,
+                        "style": "颜色:黑色 尺码:35 ",
+                        "isEmpty": 1,
+                        "level": "",
+                        "canExplain": false,
+                        "isBuyerShow": false
+                    }
+                ],
+                "cRate": 663,
+                "imgTotal": 289,
+                "rateTags": [
+                    {
+                        "emotion": "positive",
+                        "property": "图片",
+                        "value": "有图片",
+                        "num": 289,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "款式",
+                        "value": "款式好",
+                        "num": 96,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "材质",
+                        "value": "料子很不错",
+                        "num": 93,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "质量",
+                        "value": "质量很好",
+                        "num": 93,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "性价比",
+                        "value": "性价比高",
+                        "num": 42,
+                        "labelId": 0
+                    },
+                    {
+                        "emotion": "positive",
+                        "property": "物流",
+                        "value": "物流快",
+                        "num": 38,
+                        "labelId": 0
+                    }
+                ],
+                "sales": 2367
+            },
+            "itemInfo": {
+                "desc": "7天无理由退换，售后无忧！（赠送运费险=免费试穿） 亲们可放心选购 宝贝为实物拍摄 ~~",
+                "title": "网红帆布鞋女2019春季新款学生板鞋女街拍韩版百搭夏小黑布鞋",
+                "itemId": "1m6r0e2",
+                "isFaved": false,
+                "isShareIntegral": false,
+                "cFav": 12626,
+                "state": 0,
+                "saleStartTime": 0,
+                "saleType": 0,
+                "seo": {
+                    "keywords": "网红帆布鞋女2019春季新款学生板鞋女街拍韩版百搭夏小黑布鞋",
+                    "wap_url": "//m.mogujie.com/x6/detail/1m6r0e2",
+                    "description": "来自蘑菇街优店女鞋_帆布鞋_服饰鞋包家7天无理由退换，售后无忧！（赠送运费险=免费试穿） 亲们可放心选购 宝贝为实物拍摄 ~~的网红帆布鞋女2019春季新款学生板鞋女街拍韩版百搭夏小黑布鞋，发现当季女鞋和欣儿鞋铺搭配心得。",
+                    "alternate": "//m.mogujie.com/x6/detail/1m6r0e2",
+                    "links": "null",
+                    "canonical": "//shop.mogujie.com/detail/1m6r0e2",
+                    "seo_noindex": "0",
+                    "title": "【网红帆布鞋女2019春季新款学生板鞋女街拍韩版百搭夏小黑布鞋】-女鞋-女鞋_帆布鞋_服饰鞋包-欣儿鞋铺-蘑菇街优店"
+                },
+                "type": 8,
+                "video": {
+                    "cover": "https://s11.mogucdn.com/mlcdn/c45406/181013_1ia5eij1i085fb6cib0f3aah3011g_640x960.jpg",
+                    "videoId": 889172,
+                    "width": 1280,
+                    "height": 1280
+                },
+                "priceChannel": 0,
+                "virtualItemType": 0,
+                "isMedicalBeautyVirtualItem": false,
+                "isVirtualCouponItem": false,
+                "isVirtualItem": false,
+                "isJdItem": false,
+                "inSpringFestival": false,
+                "isSpringFestivalShutdownItem": false,
+                "contain30DayDeliveryService": false,
+                "canApplyInstallment": false,
+                "extra": {
+                    "sales": 2367,
+                    "isFreePost": true,
+                    "express": "全国包邮",
+                    "onSaleTime": 0
+                },
+                "officialRecommend": {},
+                "limitDiscountInfo": {},
+                "lowPrice": "138.00",
+                "highPrice": "138.00",
+                "lowNowPrice": "49.90",
+                "highNowPrice": "49.90",
+                "brandName": "QUICKYSTEP/快亿步",
+                "nowTime": 1564642332,
+                "titleTags": [],
+                "picTags": []
+            },
+            "platformCoupons": {
+                "bonusCount": 0,
+                "isBonusItem": false
+            },
+            "priceInfo": {
+                "nowPrice": "49.90",
+                "oldPrice": "138.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "优惠价",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "diamondInfo": {
+                "diamondPrice": "49.90",
+                "normalPrice": "49.90",
+                "state": 3,
+                "currency": "¥",
+                "backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+                "priceTitle": "限时优惠",
+                "arrowTitle": "豪华黄钻专享价"
+            },
+            "normalCountdown": {
+                "businessType": "",
+                "isWarmUp": false,
+                "nowTime": 1564642332,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "shopInfo": {
+                "score": [
+                    {
+                        "name": "描述相符",
+                        "score": 4.73,
+                        "isBetter": true
+                    },
+                    {
+                        "name": "质量满意",
+                        "score": 4.72,
+                        "isBetter": true
+                    }
+                ],
+                "services": [
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "延误必赔",
+                        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "退货补运费",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                        "desc": "用户发起退货且实名，可获6-18元运费补贴"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "全国包邮",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+                        "desc": ""
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "7天无理由退货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+                    },
+                    {
+                        "icon": "https://s5.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "name": "72小时发货",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                        "desc": ""
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "帆布鞋",
+                        "link": "http://shop.mogu.com/1p03kg/list/index?categoryId=20085016"
+                    },
+                    {
+                        "name": "休闲鞋",
+                        "link": "http://shop.mogu.com/1p03kg/list/index?categoryId=20085515"
+                    },
+                    {
+                        "name": "运动鞋",
+                        "link": "http://shop.mogu.com/1p03kg/list/index?categoryId=20085675"
+                    },
+                    {
+                        "name": "懒人鞋（乐福鞋）",
+                        "link": "http://shop.mogu.com/1p03kg/list/index?categoryId=20088022"
+                    },
+                    {
+                        "name": "雪地靴（棉鞋靴）",
+                        "link": "http://shop.mogu.com/1p03kg/list/index?categoryId=20090621"
+                    },
+                    {
+                        "name": "小白鞋",
+                        "link": "http://shop.mogu.com/1p03kg/list/index?categoryId=20160127"
+                    },
+                    {
+                        "name": "马丁靴（短靴）",
+                        "link": "http://shop.mogu.com/1p03kg/list/index?categoryId=20230843"
+                    }
+                ],
+                "cFans": "7502",
+                "cSells": "14.4万",
+                "isMarked": false,
+                "cGoods": 101,
+                "userId": "12vzolo",
+                "shopLogo": "https://s11.mogucdn.com/p2/160920/1fzua2_6b8aj63efg7g3ihjb42d88fcc77k4_200x200.jpg",
+                "name": "欣儿鞋铺",
+                "shopId": "1p03kg",
+                "type": 1,
+                "level": 3,
+                "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1p03kg",
+                "isLiangPin": false
+            },
+            "preSaleInfo": "",
+            "detailInfo": {
+                "splitDetailImage": true,
+                "desc": "7天无理由退换，售后无忧！（赠送运费险=免费试穿） 亲们可放心选购 宝贝为实物拍摄 ~~",
+                "detailImage": [
+                    {
+                        "desc": "",
+                        "key": "穿着效果",
+                        "anchor": "model_img",
+                        "list": [
+                            "https://s5.mogucdn.com/mlcdn/c45406/180802_75gg0lb87ji7klkfgf87g5eji2g6d_790x813.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190331_7810j0d9lh96hh97g7ki3ikh34035_790x1368.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190331_5jg1ci94c0593f428d858b8f3iicj_790x771.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190331_0b8dkie453kjd1ja9kdhi9aj0911d_790x687.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190331_1ehich4l4e3563961ea2kahkjah80_790x690.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190331_68b8la3dd08g60460c6bech4gag6h_790x687.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190331_5797hl60l1adgga171al7dflae7i8_790x695.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190331_5d9726c6ha85ah9f5l03j49ec57ke_790x731.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190331_4d8lk28695hfcl8f8le4jb9h92g75_790x872.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190331_0kaf69476ja2icicfaj259di45l0j_790x1186.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190331_844ff2f1d22g89k677i65ea8922ke_790x800.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190331_1fkg4j51k9jl1l9heieggg6ai4dj2_790x716.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c45406/190331_5ck3d1332d716kcb46c2l73lj20da_790x692.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/190331_86ka89b28fgl51gd357gl39459k2k_790x1385.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "整体款式",
+                        "anchor": "baipai_img3",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/180802_3iefj9356c39gj58b2fd1g64eb905_790x989.jpg"
+                        ]
+                    },
+                    {
+                        "desc": "",
+                        "key": "细节做工",
+                        "anchor": "detail_img",
+                        "list": [
+                            "https://s11.mogucdn.com/mlcdn/c45406/180802_246hc9lba7j0223ak7kk6hbd1cai1_790x480.jpg",
+                            "https://s11.mogucdn.com/mlcdn/c45406/180802_41dcg5i85f17jelfg4f99i8ceecji_790x618.jpg",
+                            "https://s5.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"
+                        ]
+                    }
+                ]
+            },
+            "countdownInfo": {
+                "businessType": "NORMAL",
+                "isWarmUp": false,
+                "nowTime": 1564642332,
+                "countdown": 0,
+                "image": "",
+                "titleColor": "#FFFFFF",
+                "priceColor": "#FFFFFF",
+                "activityBanner": "",
+                "titleIcon": "",
+                "text": "",
+                "isCountdomShow": true,
+                "isPriceShow": false
+            },
+            "topImages": [
+                "https://s11.mogucdn.com/mlcdn/c45406/180817_8a94jaea9jl4hg8h0k2kl98h9a2fb_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180817_6djgg5fl746d14b739d6aah6abgl9_640x961.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180817_8e613fjhgaa0ddb03jgcjcl7a2ihc_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180817_48965e830h5bl4c7g8al90j590846_640x961.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180817_5672i71l029lcklgbl4102ah8lk3l_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180802_5840a85g57i8alf54dg7l1lce5lc4_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180802_2e9ibji496hjdbk65a863e1j54046_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180802_444c1h47ieeci5fd5e7g28cl5g24g_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180802_53a5c43c8b124j59cd47g84be65k7_640x960.jpg",
+                "https://s11.mogucdn.com/mlcdn/c45406/180802_0030hgd2l4jh42k2hba4fhi1911k0_640x960.jpg",
+                "https://s5.mogucdn.com/mlcdn/c45406/180802_0aa40ia29ceh962lhk8012ie0efag_640x960.jpg"
+            ],
+            "normalShareInfo": {
+                "title": "网红帆布鞋女2019春季新款学生板鞋女街拍韩版百搭夏小黑布鞋",
+                "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+                "url": "//h5.mogu.com/detail-normal/index.html?itemId=1m6r0e2&from=share",
+                "imageUrl": "https://s11.mogucdn.com/mlcdn/c45406/180817_8a94jaea9jl4hg8h0k2kl98h9a2fb_640x960.jpg"
+            },
+            "itemParams": {
+                "info": {
+                    "set": {
+                        "图案": "条纹,字母/文字/数字",
+                        "鞋面特殊工艺效果": "光板（无工艺效果）",
+                        "颜色": "米色（加绒版）,黑色,红色（加绒版）,白色,红色,黑色（加绒版）",
+                        "帮高": "低帮",
+                        "跟高": "平跟（小于等于1CM）",
+                        "鞋跟形状": "平跟（无跟）",
+                        "尺码": "35,36,37,38,39,40",
+                        "鞋底材质": "橡胶底",
+                        "季节": "夏季",
+                        "鞋头": "圆头",
+                        "流行元素": "绑带（系带）",
+                        "风格": "百搭,运动",
+                        "闭合方式": "系带"
+                    },
+                    "key": "产品参数",
+                    "anchor": "product_info"
+                },
+                "rule": {
+                    "tables": [
+                        [
+                            [
+                                "尺码",
+                                "脚长"
+                            ],
+                            [
+                                "35",
+                                "220-225"
+                            ],
+                            [
+                                "36",
+                                "225-230"
+                            ],
+                            [
+                                "37",
+                                "230-235"
+                            ],
+                            [
+                                "38",
+                                "235-240"
+                            ],
+                            [
+                                "39",
+                                "240-245"
+                            ],
+                            [
+                                "40",
+                                "245-250"
+                            ]
+                        ]
+                    ],
+                    "key": "尺码说明",
+                    "anchor": "size_info",
+                    "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+                }
+            },
+            "normalPrice": {
+                "nowPrice": "49.90",
+                "oldPrice": "138.00",
+                "highNowPrice": "",
+                "priceSplit": "~",
+                "currency": "¥",
+                "priceColor": "#333333",
+                "priceTags": [
+                    {
+                        "text": "优惠价",
+                        "bgColor": "#FFE8EE",
+                        "textColor": "#FF2255"
+                    }
+                ],
+                "prePriceTag": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPrice": "",
+                "eventPriceDesc": {
+                    "bgColor": "#FFE8EE",
+                    "textColor": "#FF2255"
+                },
+                "eventPriceColor": "#FF2255",
+                "eventTags": [],
+                "mobilePrice": "",
+                "mobileDownloadLink": "",
+                "eventDesc": "",
+                "extraDesc": ""
+            },
+            "itemServices": {
+                "services": [
+                    {
+                        "name": "品牌认证",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "严格审核，正规品牌授权链；精挑细选，国内外知名品牌合作。引领潮流趋势，时尚品质保证。"
+                    },
+                    {
+                        "name": "72小时发货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+                    },
+                    {
+                        "name": "7天无理由退货",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+                    },
+                    {
+                        "name": "延误必赔",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+                    },
+                    {
+                        "name": "退货补运费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "用户发起退货且实名，可获6-18元运费补贴",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+                    },
+                    {
+                        "name": "白付美分期购",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+                    },
+                    {
+                        "name": "全国包邮",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                        "content": "",
+                        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+                    }
+                ],
+                "columns": [
+                    {
+                        "name": "sales",
+                        "desc": "销量 2367",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    },
+                    {
+                        "name": "express",
+                        "desc": "免邮费",
+                        "icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+                    }
+                ]
+            },
+            "skuInfo": {
+                "itemId": "1m6r0e2",
+                "img": "https://s11.mogucdn.com/mlcdn/c45406/180817_8a94jaea9jl4hg8h0k2kl98h9a2fb_640x960.jpg",
+                "isJdItem": false,
+                "title": "网红帆布鞋女2019春季新款学生板鞋女街拍韩版百搭夏小黑布鞋",
+                "skus": [
+                    {
+                        "stockId": "116a8lr2",
+                        "xdSkuId": "116a8lr2",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180802_1l7j4g018eglg109be20ge599la82_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 463,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "35",
+                        "styleId": 1,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "116a8lr4",
+                        "xdSkuId": "116a8lr4",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180802_1l7j4g018eglg109be20ge599la82_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 447,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "36",
+                        "styleId": 1,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "116a8lr6",
+                        "xdSkuId": "116a8lr6",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180802_1l7j4g018eglg109be20ge599la82_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 423,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "37",
+                        "styleId": 1,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "116a8lr8",
+                        "xdSkuId": "116a8lr8",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180802_1l7j4g018eglg109be20ge599la82_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 459,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "38",
+                        "styleId": 1,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "116a8lra",
+                        "xdSkuId": "116a8lra",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180802_1l7j4g018eglg109be20ge599la82_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 483,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "39",
+                        "styleId": 1,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "116a8lrc",
+                        "xdSkuId": "116a8lrc",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180802_1l7j4g018eglg109be20ge599la82_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 492,
+                        "style": "白色",
+                        "color": "#fffef8",
+                        "size": "40",
+                        "styleId": 1,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "116a8lre",
+                        "xdSkuId": "116a8lre",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180802_3ga7i277dg48ff0jjllfhge205cj2_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 476,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "35",
+                        "styleId": 2,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "116a8lrg",
+                        "xdSkuId": "116a8lrg",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180802_3ga7i277dg48ff0jjllfhge205cj2_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 448,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "36",
+                        "styleId": 2,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "116a8lri",
+                        "xdSkuId": "116a8lri",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180802_3ga7i277dg48ff0jjllfhge205cj2_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 449,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "37",
+                        "styleId": 2,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "116a8lrk",
+                        "xdSkuId": "116a8lrk",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180802_3ga7i277dg48ff0jjllfhge205cj2_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 454,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "38",
+                        "styleId": 2,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "116a8lrm",
+                        "xdSkuId": "116a8lrm",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180802_3ga7i277dg48ff0jjllfhge205cj2_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 386,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "39",
+                        "styleId": 2,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "116a8lro",
+                        "xdSkuId": "116a8lro",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/180802_3ga7i277dg48ff0jjllfhge205cj2_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 457,
+                        "style": "黑色",
+                        "color": "#000000",
+                        "size": "40",
+                        "styleId": 2,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "116a8lrq",
+                        "xdSkuId": "116a8lrq",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180802_14f239ikagekh59faegajed9cdck6_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 493,
+                        "style": "红色",
+                        "color": "#ff5353",
+                        "size": "35",
+                        "styleId": 3,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "116a8lrs",
+                        "xdSkuId": "116a8lrs",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180802_14f239ikagekh59faegajed9cdck6_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 466,
+                        "style": "红色",
+                        "color": "#ff5353",
+                        "size": "36",
+                        "styleId": 3,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "116a8lru",
+                        "xdSkuId": "116a8lru",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180802_14f239ikagekh59faegajed9cdck6_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 469,
+                        "style": "红色",
+                        "color": "#ff5353",
+                        "size": "37",
+                        "styleId": 3,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "116a8lrw",
+                        "xdSkuId": "116a8lrw",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180802_14f239ikagekh59faegajed9cdck6_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 475,
+                        "style": "红色",
+                        "color": "#ff5353",
+                        "size": "38",
+                        "styleId": 3,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "116a8lry",
+                        "xdSkuId": "116a8lry",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180802_14f239ikagekh59faegajed9cdck6_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 490,
+                        "style": "红色",
+                        "color": "#ff5353",
+                        "size": "39",
+                        "styleId": 3,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "116a8ls0",
+                        "xdSkuId": "116a8ls0",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/180802_14f239ikagekh59faegajed9cdck6_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 493,
+                        "style": "红色",
+                        "color": "#ff5353",
+                        "size": "40",
+                        "styleId": 3,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "1184f1l2",
+                        "xdSkuId": "1184f1l2",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181115_4458b93kgh2l24845k52hkaik1098_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色（加绒版）",
+                        "color": "",
+                        "size": "35",
+                        "styleId": 4,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1184f1l0",
+                        "xdSkuId": "1184f1l0",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181115_4458b93kgh2l24845k52hkaik1098_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色（加绒版）",
+                        "color": "",
+                        "size": "36",
+                        "styleId": 4,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1184f1l4",
+                        "xdSkuId": "1184f1l4",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181115_4458b93kgh2l24845k52hkaik1098_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色（加绒版）",
+                        "color": "",
+                        "size": "37",
+                        "styleId": 4,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1184f1l6",
+                        "xdSkuId": "1184f1l6",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181115_4458b93kgh2l24845k52hkaik1098_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色（加绒版）",
+                        "color": "",
+                        "size": "38",
+                        "styleId": 4,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1184f1l8",
+                        "xdSkuId": "1184f1l8",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181115_4458b93kgh2l24845k52hkaik1098_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色（加绒版）",
+                        "color": "",
+                        "size": "39",
+                        "styleId": 4,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "1184f1la",
+                        "xdSkuId": "1184f1la",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181115_4458b93kgh2l24845k52hkaik1098_640x960.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "黑色（加绒版）",
+                        "color": "",
+                        "size": "40",
+                        "styleId": 4,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "1184f1lc",
+                        "xdSkuId": "1184f1lc",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181115_3f86la53f003l1h4816f5791h16a8_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "红色（加绒版）",
+                        "color": "",
+                        "size": "35",
+                        "styleId": 5,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1184f1le",
+                        "xdSkuId": "1184f1le",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181115_3f86la53f003l1h4816f5791h16a8_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "红色（加绒版）",
+                        "color": "",
+                        "size": "36",
+                        "styleId": 5,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1184f1lg",
+                        "xdSkuId": "1184f1lg",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181115_3f86la53f003l1h4816f5791h16a8_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "红色（加绒版）",
+                        "color": "",
+                        "size": "37",
+                        "styleId": 5,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1184f1li",
+                        "xdSkuId": "1184f1li",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181115_3f86la53f003l1h4816f5791h16a8_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "红色（加绒版）",
+                        "color": "",
+                        "size": "38",
+                        "styleId": 5,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1184f1lk",
+                        "xdSkuId": "1184f1lk",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181115_3f86la53f003l1h4816f5791h16a8_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "红色（加绒版）",
+                        "color": "",
+                        "size": "39",
+                        "styleId": 5,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "1184f1lm",
+                        "xdSkuId": "1184f1lm",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s11.mogucdn.com/mlcdn/c45406/181115_3f86la53f003l1h4816f5791h16a8_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "红色（加绒版）",
+                        "color": "",
+                        "size": "40",
+                        "styleId": 5,
+                        "sizeId": 105
+                    },
+                    {
+                        "stockId": "1184f1lo",
+                        "xdSkuId": "1184f1lo",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181115_6ba7kg0892fl28afc83cghi0aaead_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "米色（加绒版）",
+                        "color": "",
+                        "size": "35",
+                        "styleId": 6,
+                        "sizeId": 100
+                    },
+                    {
+                        "stockId": "1184f1lq",
+                        "xdSkuId": "1184f1lq",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181115_6ba7kg0892fl28afc83cghi0aaead_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "米色（加绒版）",
+                        "color": "",
+                        "size": "36",
+                        "styleId": 6,
+                        "sizeId": 101
+                    },
+                    {
+                        "stockId": "1184f1ls",
+                        "xdSkuId": "1184f1ls",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181115_6ba7kg0892fl28afc83cghi0aaead_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "米色（加绒版）",
+                        "color": "",
+                        "size": "37",
+                        "styleId": 6,
+                        "sizeId": 102
+                    },
+                    {
+                        "stockId": "1184f1lu",
+                        "xdSkuId": "1184f1lu",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181115_6ba7kg0892fl28afc83cghi0aaead_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "米色（加绒版）",
+                        "color": "",
+                        "size": "38",
+                        "styleId": 6,
+                        "sizeId": 103
+                    },
+                    {
+                        "stockId": "1184f1lw",
+                        "xdSkuId": "1184f1lw",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181115_6ba7kg0892fl28afc83cghi0aaead_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "米色（加绒版）",
+                        "color": "",
+                        "size": "39",
+                        "styleId": 6,
+                        "sizeId": 104
+                    },
+                    {
+                        "stockId": "1184f1ly",
+                        "xdSkuId": "1184f1ly",
+                        "price": 13800,
+                        "nowprice": 4990,
+                        "img": "https://s5.mogucdn.com/mlcdn/c45406/181115_6ba7kg0892fl28afc83cghi0aaead_640x961.jpg",
+                        "currency": "¥",
+                        "stock": 0,
+                        "style": "米色（加绒版）",
+                        "color": "",
+                        "size": "40",
+                        "styleId": 6,
+                        "sizeId": 105
+                    }
+                ],
+                "props": [
+                    {
+                        "label": "颜色",
+                        "list": [
+                            {
+                                "default": false,
+                                "styleId": 1,
+                                "name": "白色",
+                                "index": 1,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 2,
+                                "name": "黑色",
+                                "index": 2,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 3,
+                                "name": "红色",
+                                "index": 3,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 4,
+                                "name": "黑色（加绒版）",
+                                "index": 4,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 5,
+                                "name": "红色（加绒版）",
+                                "index": 5,
+                                "type": "style"
+                            },
+                            {
+                                "default": false,
+                                "styleId": 6,
+                                "name": "米色（加绒版）",
+                                "index": 6,
+                                "type": "style"
+                            }
+                        ],
+                        "isDefault": false
+                    },
+                    {
+                        "label": "尺码",
+                        "list": [
+                            {
+                                "sizeId": 100,
+                                "default": false,
+                                "name": "35",
+                                "index": 100,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 101,
+                                "default": false,
+                                "name": "36",
+                                "index": 101,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 102,
+                                "default": false,
+                                "name": "37",
+                                "index": 102,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 103,
+                                "default": false,
+                                "name": "38",
+                                "index": 103,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 104,
+                                "default": false,
+                                "name": "39",
+                                "index": 104,
+                                "type": "size"
+                            },
+                            {
+                                "sizeId": 105,
+                                "default": false,
+                                "name": "40",
+                                "index": 105,
+                                "type": "size"
+                            }
+                        ],
+                        "isDefault": false
+                    }
+                ],
+                "styleKey": "颜色",
+                "sizeKey": "尺码",
+                "priceRange": "¥49.90",
+                "defaultPrice": "¥49.90",
+                "totalStock": 8323,
+                "canInstallment": false,
+                "addressInfo": {}
+            }
+        }
+    },
+    "needHeaderCookie": false
+}

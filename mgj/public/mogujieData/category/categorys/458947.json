@@ -1,0 +1,102 @@
+{
+    "cid": "458947",
+    "name": "经典条纹",
+    "sortFilter": [
+        {
+            "sortKey": "pop",
+            "title": "综合"
+        },
+        {
+            "sortKey": "sell",
+            "title": "销量"
+        },
+        {
+            "sortKey": "new",
+            "title": "新品"
+        }
+    ],
+    "docs": [
+        {
+            "tradeItemId": "1mewpvq",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/c45406/190325_5k0dl7dacl18ch2j5dkaa5f302091_640x960.jpg",
+            "originalPrice": 55.72,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mewpvq&acm=3.ms.1_4_1mewpvq.16.36598-68998.1vjqLrxS4UvDx.sd_117-swt_16-imt_6-t_1vjqLrxS4UvDx-lc_16-fcid_52174-pid_180-pit_1-dit_163",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mewpvq&acm=3.ms.1_4_1mewpvq.16.36598-68998.1vjqLrxS4UvDx.sd_117-swt_16-imt_6-t_1vjqLrxS4UvDx-lc_16-fcid_52174-pid_180-pit_1-dit_163",
+            "itemMarks": "1525 188",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mewpvq.16.36598-68998.1vjqLrxS4UvDx.sd_117-swt_16-imt_6-t_1vjqLrxS4UvDx-lc_16-fcid_52174-pid_180-pit_1-dit_163",
+            "price_taglist": [],
+            "title": "半袖上衣针织衫女T恤短款条纹t恤冰丝女短袖薄款针织衫短款上衣",
+            "orgPrice": 55.72,
+            "props": [
+                "半袖上衣",
+                "短袖",
+                "冰丝",
+                "短款"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 769,
+            "price": 39,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.64",
+                "descDsr": "4.65",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.83"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mewpvq&acm=3.ms.1_4_1mewpvq.16.36598-68998.1vjqLrxS4UvDx.sd_117-swt_16-imt_6-t_1vjqLrxS4UvDx-lc_16-fcid_52174-pid_180-pit_1-dit_163&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "新伊家"
+        },
+        {
+            "tradeItemId": "1mij64s",
+            "itemType": 6,
+            "img": "https://s11.mogucdn.com/mlcdn/55cf19/190620_2d1f2g55ie8a50b0a624f78hebhh8_640x960.jpg",
+            "originalPrice": 38.43,
+            "clientUrl": "https://h5.mogu.com/detail-normal/index.html?itemId=1mij64s&acm=3.ms.1_4_1mij64s.16.36598-68998.1vjqLrxS4UvDx.sd_117-swt_16-imt_6-t_1vjqLrxS4UvDx-lc_16-fcid_52174-pid_180-pit_1-dit_163",
+            "promotion_taglist": [],
+            "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mij64s&acm=3.ms.1_4_1mij64s.16.36598-68998.1vjqLrxS4UvDx.sd_117-swt_16-imt_6-t_1vjqLrxS4UvDx-lc_16-fcid_52174-pid_180-pit_1-dit_163",
+            "itemMarks": "188 82",
+            "discount": 10.0,
+            "acm": "3.ms.1_4_1mij64s.16.36598-68998.1vjqLrxS4UvDx.sd_117-swt_16-imt_6-t_1vjqLrxS4UvDx-lc_16-fcid_52174-pid_180-pit_1-dit_163",
+            "price_taglist": [],
+            "title": "泫雅风网红短袖t恤女宽松ins彩虹条纹露脐学生韩版短款上衣潮",
+            "orgPrice": 38.43,
+            "props": [
+                "短袖t恤",
+                "露脐",
+                "条纹",
+                "宽松",
+                "彩虹",
+                "韩版"
+            ],
+            "hasSimilarity": true,
+            "useTitle": true,
+            "lefttop_taglist": [],
+            "cfav": 3186,
+            "price": 26.9,
+            "leftbottom_taglist": [],
+            "shopDsr": {
+                "priceDsr": "5.00",
+                "tagPriceDsr": "5.00",
+                "qualityDsr": "4.52",
+                "descDsr": "4.53",
+                "tagDescDsr": "4.74",
+                "tagQualityDsr": "4.74",
+                "tagServiceDsr": "4.92",
+                "serviceDsr": "4.85"
+            },
+            "similarityUrl": "https://m.mogu.com/wall/relative?pid=8872&iid=1mij64s&acm=3.ms.1_4_1mij64s.16.36598-68998.1vjqLrxS4UvDx.sd_117-swt_16-imt_6-t_1vjqLrxS4UvDx-lc_16-fcid_52174-pid_180-pit_1-dit_163&itemType=6",
+            "officialRmdDesc": "",
+            "shopSeller": "容萌萌"
+        }
+    ]
+}
